@@ -84,14 +84,14 @@ Gebraucht werden JDK 17 und das Android SDK mit Plattform 35.
 
 ### Neues Release veröffentlichen
 
-`versionCode` und `versionName` in `app/build.gradle.kts` hochziehen, dann:
+`versionCode` und `versionName` in `app/build.gradle.kts` hochziehen und pushen
+– das reicht. `.github/workflows/release.yml` baut, testet, signiert und hängt
+die APK an ein neues GitHub-Release `v<versionName>`.
 
-```bash
-git tag v1.0.1 && git push origin v1.0.1
-```
-
-Der Workflow `.github/workflows/release.yml` baut, testet, signiert und hängt
-die APK an ein GitHub-Release. Alternativ von Hand über den Actions-Tab.
+Existiert für die Version bereits ein Release, macht ein normaler Push nichts:
+so wird nie stillschweigend eine APK ersetzt, die schon jemand installiert hat.
+Bewusst neu veröffentlichen geht über einen Tag (`git tag v1.0.1 && git push
+origin v1.0.1`) oder von Hand über den Actions-Tab.
 
 ### Signierung
 
