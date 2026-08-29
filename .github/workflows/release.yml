@@ -1,16 +1,21 @@
 name: Release APK
 
-# Push a tag to cut a release:
-#   git tag v1.0.0 && git push origin v1.0.0
-# or run this workflow by hand from the Actions tab.
+# Publishes the APK to GitHub Releases so it can be installed from a phone.
+#
+# Three ways in:
+#   - push to a branch: publishes if versionName in app/build.gradle.kts has no
+#     release yet, so bumping the version and pushing is all it takes;
+#   - push a tag (git tag v1.0.1 && git push origin v1.0.1);
+#   - run it by hand from the Actions tab.
 on:
   push:
+    branches: ['**']
     tags: ['v*']
   workflow_dispatch:
     inputs:
       tag:
         description: 'Tag to publish, e.g. v1.0.0'
-        required: true
+        required: false
 
 permissions:
   contents: write
@@ -21,34 +26,68 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Work out the tag and whether it still needs publishing
+        id: plan
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION=$(grep -oP 'versionName = "\K[^"]+' app/build.gradle.kts)
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+          INPUT_TAG='${{ github.event.inputs.tag }}'
+          if [ -n "$INPUT_TAG" ]; then
+            TAG="$INPUT_TAG"
+          elif [ "${{ github.ref_type }}" = "tag" ]; then
+            TAG="${{ github.ref_name }}"
+          else
+            TAG="v$VERSION"
+          fi
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+
+          # A tag push or a manual run always republishes. A plain branch push
+          # only publishes a version that has no release yet, so routine pushes
+          # never quietly replace a release people may already have installed.
+          if [ "${{ github.event_name }}" = "push" ] && [ "${{ github.ref_type }}" = "branch" ] \
+             && gh release view "$TAG" >/dev/null 2>&1; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "Release $TAG already exists - bump versionName to publish a new one."
+          else
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-java@v4
+        if: steps.plan.outputs.publish == 'true'
         with:
           distribution: temurin
           java-version: '17'
 
       - uses: gradle/actions/setup-gradle@v4
+        if: steps.plan.outputs.publish == 'true'
 
       - name: Unit tests
+        if: steps.plan.outputs.publish == 'true'
         run: ./gradlew testDebugUnitTest
 
       - name: Build signed release APK
+        if: steps.plan.outputs.publish == 'true'
         run: ./gradlew assembleRelease
 
-      - name: Name the artefact after its version
-        id: apk
-        run: |
-          VERSION=$(grep -oP 'versionName = "\K[^"]+' app/build.gradle.kts)
-          cp app/build/outputs/apk/release/app-release.apk "DayDrop-$VERSION.apk"
-          echo "path=DayDrop-$VERSION.apk" >> "$GITHUB_OUTPUT"
-          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
-
       - name: Publish the release
+        if: steps.plan.outputs.publish == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.event.inputs.tag || github.ref_name }}
+          TAG: ${{ steps.plan.outputs.tag }}
+          VERSION: ${{ steps.plan.outputs.version }}
         run: |
-          gh release create "$TAG" "${{ steps.apk.outputs.path }}" \
-            --title "DayDrop ${{ steps.apk.outputs.version }}" \
-            --generate-notes \
-            --latest || \
-          gh release upload "$TAG" "${{ steps.apk.outputs.path }}" --clobber
+          APK="DayDrop-$VERSION.apk"
+          cp app/build/outputs/apk/release/app-release.apk "$APK"
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$APK" --clobber
+          else
+            gh release create "$TAG" "$APK" \
+              --target "${{ github.sha }}" \
+              --title "DayDrop $VERSION" \
+              --generate-notes \
+              --latest
+          fi
