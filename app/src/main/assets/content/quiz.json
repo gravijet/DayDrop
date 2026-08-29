@@ -1,0 +1,899 @@
+{
+ "quizzes": [
+  {
+   "id": "q001",
+   "question": "Wie viele Herzen hat ein Oktopus?",
+   "options": [
+    "Eins",
+    "Drei",
+    "Acht"
+   ],
+   "answerIndex": 1,
+   "explanation": "Zwei Kiemenherzen pumpen das Blut durch die Kiemen, ein drittes versorgt den restlichen Körper. Beim Schwimmen setzt das Hauptherz zeitweise aus, weshalb Kraken lieber laufen als schwimmen.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "q002",
+   "question": "Welcher Planet hat den längsten Tag?",
+   "options": [
+    "Merkur",
+    "Venus",
+    "Jupiter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Venus braucht 243 Erdtage für eine Umdrehung, mehr als für einen Umlauf um die Sonne. Sie dreht sich außerdem rückwärts.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q003",
+   "question": "Wie viele Knochen hat ein erwachsener Mensch?",
+   "options": [
+    "186",
+    "206",
+    "246"
+   ],
+   "answerIndex": 1,
+   "explanation": "Babys starten mit rund 270, viele davon wachsen später zusammen. Über die Hälfte aller Knochen sitzt in Händen und Füßen.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q004",
+   "question": "Welches Land hat die längste Küstenlinie der Welt?",
+   "options": [
+    "Russland",
+    "Indonesien",
+    "Kanada"
+   ],
+   "answerIndex": 2,
+   "explanation": "Kanada kommt mit seinen unzähligen arktischen Inseln auf über 200.000 Kilometer, mehr als jedes andere Land.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q005",
+   "question": "Was war die erste Nachricht, die über das ARPANET gesendet wurde?",
+   "options": [
+    "hello",
+    "LO",
+    "test"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das Team wollte login tippen. Nach LO stürzte das Zielsystem ab, und die ersten zwei Buchstaben des Internets waren versehentlich poetisch.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "q006",
+   "question": "Wie lange dauerte der kürzeste Krieg der Geschichte?",
+   "options": [
+    "Unter einer Stunde",
+    "Drei Tage",
+    "Zwei Wochen"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der Britisch-Sansibarische Krieg am 27. August 1896 war nach etwa 38 Minuten entschieden.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q007",
+   "question": "Welches Tier hat den größten Augapfel?",
+   "options": [
+    "Blauwal",
+    "Riesenkalmar",
+    "Elefant"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Augen des Riesenkalmars erreichen bis zu 27 Zentimeter Durchmesser. Er braucht sie, um in der Tiefsee anfliegende Pottwale zu erkennen.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "q008",
+   "question": "Woraus besteht der Großteil der Masse eines Baumes?",
+   "options": [
+    "Aus dem Boden",
+    "Aus der Luft",
+    "Aus Wasser"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Kohlenstoff stammt aus dem CO2 der Luft. Ein Baum baut sich buchstäblich aus Luft und Sonnenlicht auf.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q009",
+   "question": "Wie viele Zeitzonen hat Frankreich?",
+   "options": [
+    "1",
+    "5",
+    "12"
+   ],
+   "answerIndex": 2,
+   "explanation": "Wegen seiner Überseegebiete von der Karibik bis Polynesien deckt Frankreich zwölf Zeitzonen ab, mehr als jedes andere Land.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q010",
+   "question": "Welche Farbe hat der Sonnenuntergang auf dem Mars?",
+   "options": [
+    "Rot",
+    "Blau",
+    "Grün"
+   ],
+   "answerIndex": 1,
+   "explanation": "Feiner Staub streut rotes Licht stark, wodurch die Sonnenumgebung bläulich erscheint. Auf dem Mars ist der Himmel tagsüber rötlich und der Sonnenuntergang blau.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q011",
+   "question": "Was war das erste Produkt mit Barcode an einer Supermarktkasse?",
+   "options": [
+    "Eine Packung Kaugummi",
+    "Eine Dose Suppe",
+    "Ein Laib Brot"
+   ],
+   "answerIndex": 0,
+   "explanation": "Am 26. Juni 1974 wurde in Ohio eine Zehnerpackung Wrigley's Kaugummi gescannt. Sie liegt heute im Smithsonian.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "q012",
+   "question": "Wie viele Muskeln braucht ein Elefantenrüssel?",
+   "options": [
+    "Rund 200",
+    "Rund 4.000",
+    "Rund 40.000"
+   ],
+   "answerIndex": 2,
+   "explanation": "Der Rüssel enthält etwa 40.000 Muskelbündel und keinen einzigen Knochen. Damit hebt ein Elefant Baumstämme und pflückt einzelne Grashalme.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q013",
+   "question": "Welcher Stoff ist bei Zimmertemperatur flüssig und zugleich ein Metall?",
+   "options": [
+    "Quecksilber",
+    "Blei",
+    "Zinn"
+   ],
+   "answerIndex": 0,
+   "explanation": "Quecksilber ist das einzige Metall, das bei Raumtemperatur flüssig ist. Gallium kommt knapp daneben und schmilzt bereits in der Hand.",
+   "topics": [
+    "science"
+   ]
+  },
+  {
+   "id": "q014",
+   "question": "Wie viele Sprachen werden weltweit gesprochen?",
+   "options": [
+    "Rund 700",
+    "Rund 7.000",
+    "Rund 70.000"
+   ],
+   "answerIndex": 1,
+   "explanation": "Etwa 7.000 lebende Sprachen sind dokumentiert. Fast die Hälfte davon hat weniger als 10.000 Sprecher.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "q015",
+   "question": "Was ist der häufigste Buchstabe in deutschen Texten?",
+   "options": [
+    "N",
+    "E",
+    "S"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das E macht rund 17 Prozent aller Buchstaben aus. Deshalb ist es beim Galgenmännchen und in der Kryptografie der erste Ansatzpunkt.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "q016",
+   "question": "Wie schnell wächst ein Bambus im Rekordfall?",
+   "options": [
+    "3 Zentimeter pro Tag",
+    "30 Zentimeter pro Tag",
+    "90 Zentimeter pro Tag"
+   ],
+   "answerIndex": 2,
+   "explanation": "Manche Arten schaffen bis zu 91 Zentimeter an einem Tag. Bambus ist ein Gras, kein Baum.",
+   "topics": [
+    "nature"
+   ]
+  },
+  {
+   "id": "q017",
+   "question": "Welches war die erste Konsole mit einer CD?",
+   "options": [
+    "PlayStation",
+    "PC Engine CD-ROM²",
+    "Sega Mega-CD"
+   ],
+   "answerIndex": 1,
+   "explanation": "NECs CD-ROM²-Aufsatz erschien 1988 in Japan, Jahre vor Mega-CD und PlayStation.",
+   "topics": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "id": "q018",
+   "question": "Wie viel Prozent des Gehirns nutzt der Mensch?",
+   "options": [
+    "10 Prozent",
+    "50 Prozent",
+    "Praktisch alles"
+   ],
+   "answerIndex": 2,
+   "explanation": "Der Zehn-Prozent-Mythos ist widerlegt. Bildgebende Verfahren zeigen Aktivität in praktisch allen Regionen, wenn auch nicht gleichzeitig.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q019",
+   "question": "Wie viele Streifen hat die Flagge der USA?",
+   "options": [
+    "13",
+    "20",
+    "50"
+   ],
+   "answerIndex": 0,
+   "explanation": "Dreizehn Streifen stehen für die Gründungskolonien, die 50 Sterne für die heutigen Bundesstaaten.",
+   "topics": [
+    "geography",
+    "history"
+   ]
+  },
+  {
+   "id": "q020",
+   "question": "Was passiert mit einem Ei, das man in Salzwasser legt?",
+   "options": [
+    "Es schwimmt oben, wenn es alt ist",
+    "Es platzt",
+    "Es färbt sich"
+   ],
+   "answerIndex": 0,
+   "explanation": "Mit dem Alter dringt Luft durch die Schale und die Luftkammer wächst. Ein aufschwimmendes Ei ist deshalb ein Warnsignal.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q021",
+   "question": "Welches Instrument spielte Albert Einstein?",
+   "options": [
+    "Klavier",
+    "Geige",
+    "Beides"
+   ],
+   "answerIndex": 2,
+   "explanation": "Einstein spielte beides, die Geige besonders leidenschaftlich. Er sagte, er denke oft in Musik.",
+   "topics": [
+    "music",
+    "science",
+    "history"
+   ]
+  },
+  {
+   "id": "q022",
+   "question": "Wie tief ist die tiefste Stelle des Ozeans?",
+   "options": [
+    "Rund 4 Kilometer",
+    "Rund 11 Kilometer",
+    "Rund 25 Kilometer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das Witjastief im Marianengraben liegt bei etwa 10.900 Metern. Der Mount Everest hätte darin Platz mit über zwei Kilometern Luft nach oben.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q023",
+   "question": "Was war der erste Film mit Ton, der große Wirkung entfaltete?",
+   "options": [
+    "Der Jazzsänger",
+    "Metropolis",
+    "Nosferatu"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der Jazzsänger von 1927 enthielt gesprochene Passagen und Gesang. Innerhalb weniger Jahre war der Stummfilm Geschichte.",
+   "topics": [
+    "movies",
+    "history"
+   ]
+  },
+  {
+   "id": "q024",
+   "question": "Wie viele Kammern hat ein Kuhmagen?",
+   "options": [
+    "Eine mit vier Abschnitten",
+    "Vier eigenständige Mägen",
+    "Zwei"
+   ],
+   "answerIndex": 0,
+   "explanation": "Es ist ein Magen mit vier Abteilungen: Pansen, Netzmagen, Blättermagen und Labmagen. Nur der letzte entspricht dem menschlichen Magen.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q025",
+   "question": "Welche Stadt hat die meisten Brücken?",
+   "options": [
+    "Venedig",
+    "Amsterdam",
+    "Hamburg"
+   ],
+   "answerIndex": 2,
+   "explanation": "Hamburg kommt je nach Zählweise auf über 2.500 Brücken, mehr als Venedig und Amsterdam zusammen.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q026",
+   "question": "Wie viele Farben braucht man mindestens für jede Landkarte?",
+   "options": [
+    "Drei",
+    "Vier",
+    "Sechs"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Vierfarbensatz wurde 1976 als erster großer Satz mit Computerhilfe bewiesen, was in der Mathematik heftig diskutiert wurde.",
+   "topics": [
+    "science",
+    "geography"
+   ]
+  },
+  {
+   "id": "q027",
+   "question": "Was ist ein Murmeltier zoologisch?",
+   "options": [
+    "Ein Nagetier",
+    "Ein Marder",
+    "Ein Hasenartiger"
+   ],
+   "answerIndex": 0,
+   "explanation": "Murmeltiere gehören zu den Hörnchen und damit zu den Nagetieren. Im Winterschlaf sinkt ihr Herzschlag auf wenige Schläge pro Minute.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q028",
+   "question": "Wie viele Sekunden dauert ein Blitz typischerweise?",
+   "options": [
+    "Etwa 0,2 Sekunden",
+    "Etwa 2 Sekunden",
+    "Etwa 5 Sekunden"
+   ],
+   "answerIndex": 0,
+   "explanation": "Ein Blitz besteht aus mehreren Teilentladungen von jeweils Bruchteilen einer Millisekunde. Das Flackern entsteht durch die Wiederholungen.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q029",
+   "question": "Welche Sportart wurde als erste im All ausgeübt?",
+   "options": [
+    "Golf",
+    "Tischtennis",
+    "Boxen"
+   ],
+   "answerIndex": 0,
+   "explanation": "Alan Shepard schlug 1971 bei Apollo 14 zwei Golfbälle auf dem Mond. Wegen des steifen Anzugs nur einarmig.",
+   "topics": [
+    "sports",
+    "space"
+   ]
+  },
+  {
+   "id": "q030",
+   "question": "Wie viele Menschen waren bisher auf dem Mond?",
+   "options": [
+    "Sechs",
+    "Zwölf",
+    "Vierundzwanzig"
+   ],
+   "answerIndex": 1,
+   "explanation": "Zwölf Menschen betraten zwischen 1969 und 1972 die Mondoberfläche. 24 flogen zum Mond, aber nicht alle landeten.",
+   "topics": [
+    "space",
+    "history"
+   ]
+  },
+  {
+   "id": "q031",
+   "question": "Was ist der Hauptbestandteil von Glas?",
+   "options": [
+    "Kalk",
+    "Quarzsand",
+    "Ton"
+   ],
+   "answerIndex": 1,
+   "explanation": "Quarzsand liefert das Siliziumdioxid. Soda senkt den Schmelzpunkt, Kalk macht das Ergebnis wasserfest.",
+   "topics": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "id": "q032",
+   "question": "Welches Tier schläft am wenigsten?",
+   "options": [
+    "Giraffe",
+    "Delfin",
+    "Elefant"
+   ],
+   "answerIndex": 0,
+   "explanation": "Giraffen kommen in freier Wildbahn mit etwa 30 Minuten Tiefschlaf pro Tag aus, verteilt auf kurze Phasen im Stehen.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q033",
+   "question": "Woher kommt der Name Deutschland im Englischen, Germany?",
+   "options": [
+    "Von einem Stamm",
+    "Von einer Stadt",
+    "Von einem König"
+   ],
+   "answerIndex": 0,
+   "explanation": "Die Römer nannten das Gebiet Germania nach den dort lebenden Stämmen. Im Französischen setzte sich Allemagne nach den Alemannen durch.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "q034",
+   "question": "Was ist die häufigste Blutgruppe in Deutschland?",
+   "options": [
+    "0 positiv",
+    "A positiv",
+    "AB negativ"
+   ],
+   "answerIndex": 1,
+   "explanation": "A positiv liegt bei rund 37 Prozent, dicht gefolgt von 0 positiv. AB negativ ist mit unter einem Prozent die seltenste.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q035",
+   "question": "Wie heißt die Angst vor langen Wörtern?",
+   "options": [
+    "Logophobie",
+    "Hippopotomonstrosesquippedaliophobie",
+    "Lexikophobie"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Begriff ist ein Insiderwitz der Sprachwissenschaft: Er ist absichtlich unaussprechlich lang.",
+   "topics": [
+    "language",
+    "weird"
+   ]
+  },
+  {
+   "id": "q036",
+   "question": "Was verbrauchte mehr Rechenleistung: der Apollo-Bordcomputer oder ein heutiges Ladekabel-Netzteil?",
+   "options": [
+    "Der Apollo-Computer",
+    "Manche modernen Netzteile",
+    "Sie sind gleich"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Apollo Guidance Computer hatte rund 4 KB Arbeitsspeicher. Manche USB-C-Netzteile enthalten heute leistungsfähigere Mikrocontroller.",
+   "topics": [
+    "tech",
+    "space"
+   ]
+  },
+  {
+   "id": "q037",
+   "question": "Welches Getränk war zuerst da: Cola oder Pepsi?",
+   "options": [
+    "Coca-Cola",
+    "Pepsi",
+    "Beide im selben Jahr"
+   ],
+   "answerIndex": 0,
+   "explanation": "Coca-Cola kam 1886 auf den Markt, Pepsi 1893 zunächst unter dem Namen Brad's Drink.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "q038",
+   "question": "Wie viele Tasten hat ein klassisches Klavier?",
+   "options": [
+    "76",
+    "88",
+    "96"
+   ],
+   "answerIndex": 1,
+   "explanation": "88 Tasten, davon 52 weiße und 36 schwarze. Der Umfang setzte sich Ende des 19. Jahrhunderts durch.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "q039",
+   "question": "Welcher Ozean ist der kleinste?",
+   "options": [
+    "Arktischer Ozean",
+    "Indischer Ozean",
+    "Atlantik"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der Arktische Ozean ist der kleinste und flachste. Er ist etwa so groß wie Russland.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q040",
+   "question": "Wie viele Spieler stehen bei einem Basketballteam auf dem Feld?",
+   "options": [
+    "Fünf",
+    "Sechs",
+    "Sieben"
+   ],
+   "answerIndex": 0,
+   "explanation": "Fünf pro Team. James Naismith erfand das Spiel 1891 mit Pfirsichkörben, aus denen der Ball zunächst per Leiter geholt werden musste.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "q041",
+   "question": "Was ist Bernstein?",
+   "options": [
+    "Ein Mineral",
+    "Versteinertes Harz",
+    "Vulkanglas"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bernstein ist fossiles Baumharz, oft Millionen Jahre alt. Eingeschlossene Insekten liefern der Forschung Momentaufnahmen ganzer Ökosysteme.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q042",
+   "question": "Wie viele Ringe hat das olympische Symbol?",
+   "options": [
+    "Vier",
+    "Fünf",
+    "Sechs"
+   ],
+   "answerIndex": 1,
+   "explanation": "Fünf Ringe für fünf Kontinente. Die sechs Farben inklusive Weiß wurden so gewählt, dass jede Nationalflagge damals mindestens eine enthielt.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "q043",
+   "question": "Was bewegt sich schneller: die Erdrotation am Äquator oder ein Verkehrsflugzeug?",
+   "options": [
+    "Die Erdrotation",
+    "Das Flugzeug",
+    "Sie sind gleich schnell"
+   ],
+   "answerIndex": 0,
+   "explanation": "Am Äquator dreht sich die Erdoberfläche mit rund 1.670 km/h. Ein Verkehrsflugzeug schafft etwa 900 km/h.",
+   "topics": [
+    "science",
+    "space"
+   ]
+  },
+  {
+   "id": "q044",
+   "question": "Welche Frucht enthält mehr Vitamin C als eine Zitrone?",
+   "options": [
+    "Paprika",
+    "Apfel",
+    "Banane"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rote Paprika enthält etwa dreimal so viel Vitamin C wie eine Zitrone. Botanisch ist Paprika eine Beere.",
+   "topics": [
+    "food",
+    "body"
+   ]
+  },
+  {
+   "id": "q045",
+   "question": "Wie lange braucht Sonnenlicht bis zur Erde?",
+   "options": [
+    "8 Sekunden",
+    "8 Minuten",
+    "8 Stunden"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund acht Minuten und 20 Sekunden. Bis ein Photon aus dem Sonnenkern an die Oberfläche gelangt, vergehen dagegen zehntausende Jahre.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q046",
+   "question": "Was war Nintendo, bevor es Videospiele machte?",
+   "options": [
+    "Ein Spielkartenhersteller",
+    "Ein Taxiunternehmen",
+    "Beides"
+   ],
+   "answerIndex": 2,
+   "explanation": "Nintendo wurde 1889 als Hersteller von Hanafuda-Karten gegründet und probierte später unter anderem Taxis, Instantreis und Liebeshotels aus.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "q047",
+   "question": "Welches Land verbraucht pro Kopf am meisten Kaffee?",
+   "options": [
+    "Italien",
+    "Finnland",
+    "Brasilien"
+   ],
+   "answerIndex": 1,
+   "explanation": "Finnland liegt seit Jahren an der Spitze mit rund zehn Kilo Rohkaffee pro Kopf und Jahr.",
+   "topics": [
+    "food",
+    "geography"
+   ]
+  },
+  {
+   "id": "q048",
+   "question": "Wie viele Herzschläge hat ein Kolibri in Ruhe pro Minute?",
+   "options": [
+    "Rund 100",
+    "Rund 500",
+    "Über 1.000"
+   ],
+   "answerIndex": 1,
+   "explanation": "In Ruhe rund 500, im Flug über 1.200. Nachts fahren Kolibris ihren Stoffwechsel in eine Art Kältestarre herunter.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q049",
+   "question": "Welche Farbe hat der Weltraum offiziell im Mittel?",
+   "options": [
+    "Schwarz",
+    "Beige",
+    "Blau"
+   ],
+   "answerIndex": 1,
+   "explanation": "Eine Auswertung von über 200.000 Galaxien ergab 2002 einen Mittelwert nahe Beige. Die beteiligten Astronomen tauften ihn Cosmic Latte.",
+   "topics": [
+    "space",
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "q050",
+   "question": "Wie viele Bundesländer hat Deutschland?",
+   "options": [
+    "14",
+    "16",
+    "18"
+   ],
+   "answerIndex": 1,
+   "explanation": "16 seit 1990. Baden-Württemberg entstand 1952 als einziges Land per Volksabstimmung aus drei Vorgängerländern.",
+   "topics": [
+    "geography",
+    "history"
+   ]
+  },
+  {
+   "id": "q051",
+   "question": "Was macht Chili scharf?",
+   "options": [
+    "Säure",
+    "Capsaicin",
+    "Zucker"
+   ],
+   "answerIndex": 1,
+   "explanation": "Capsaicin reizt die Rezeptoren, die sonst auf Hitze reagieren. Der Körper meldet also Verbrennung, obwohl nichts heiß ist.",
+   "topics": [
+    "food",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q052",
+   "question": "Welcher Vogel kann rückwärts fliegen?",
+   "options": [
+    "Der Kolibri",
+    "Die Schwalbe",
+    "Der Specht"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kolibris drehen ihre Flügel in einer Achterbewegung und erzeugen dabei in beide Richtungen Auftrieb. Sie sind die einzigen Vögel, die das dauerhaft können.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "q053",
+   "question": "Wie alt ist die Erde ungefähr?",
+   "options": [
+    "4,5 Milliarden Jahre",
+    "450 Millionen Jahre",
+    "45 Milliarden Jahre"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rund 4,54 Milliarden Jahre, ermittelt über die radiometrische Datierung von Meteoriten und alten Gesteinen.",
+   "topics": [
+    "science",
+    "space",
+    "nature"
+   ]
+  },
+  {
+   "id": "q054",
+   "question": "Was war der erste Gegenstand, der im Internet verkauft wurde?",
+   "options": [
+    "Ein Buch",
+    "Eine CD",
+    "Ein Laserpointer"
+   ],
+   "answerIndex": 1,
+   "explanation": "1994 wurde über einen frühen Onlineshop eine Sting-CD verkauft, gesichert per Verschlüsselung. Es gilt als erste kommerzielle Transaktion im Web.",
+   "topics": [
+    "tech",
+    "music",
+    "history"
+   ]
+  },
+  {
+   "id": "q055",
+   "question": "Wie viele Beine hat ein Tausendfüßer maximal?",
+   "options": [
+    "Etwa 100",
+    "Über 1.300",
+    "Genau 1.000"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die meisten Arten haben deutlich unter 200 Beine. Der Rekordhalter Eumillipes persephone wurde 2021 mit 1.306 Beinen beschrieben.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "q056",
+   "question": "Welches Metall leitet Strom am besten?",
+   "options": [
+    "Kupfer",
+    "Silber",
+    "Gold"
+   ],
+   "answerIndex": 1,
+   "explanation": "Silber leitet am besten, ist aber zu teuer für Kabel. Kupfer liegt knapp dahinter und gewinnt deshalb in der Praxis.",
+   "topics": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "id": "q057",
+   "question": "Wie heißt der längste Fluss der Welt?",
+   "options": [
+    "Nil",
+    "Amazonas",
+    "Umstritten"
+   ],
+   "answerIndex": 2,
+   "explanation": "Je nachdem, wo man die Quelle des Amazonas ansetzt, liegt mal er, mal der Nil vorne. Beide kommen auf rund 6.700 Kilometer.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q058",
+   "question": "Was ist ein Byte?",
+   "options": [
+    "4 Bit",
+    "8 Bit",
+    "16 Bit"
+   ],
+   "answerIndex": 1,
+   "explanation": "Acht Bit, also 256 mögliche Werte. Deshalb fällt der Tag des Programmierers auf den 256. Tag des Jahres.",
+   "topics": [
+    "tech"
+   ]
+  },
+  {
+   "id": "q059",
+   "question": "Welches Tier hat blaues Blut?",
+   "options": [
+    "Der Pfeilschwanzkrebs",
+    "Der Frosch",
+    "Die Fledermaus"
+   ],
+   "answerIndex": 0,
+   "explanation": "Sein Blut transportiert Sauerstoff mit kupferhaltigem Hämocyanin. Es wird in der Medizin genutzt, um Verunreinigungen in Impfstoffen nachzuweisen.",
+   "topics": [
+    "animals",
+    "science",
+    "body"
+   ]
+  },
+  {
+   "id": "q060",
+   "question": "Wie viele Weltmeere gibt es offiziell?",
+   "options": [
+    "Drei",
+    "Fünf",
+    "Sieben"
+   ],
+   "answerIndex": 1,
+   "explanation": "Seit 2000 wird auch der Südliche Ozean rund um die Antarktis offiziell geführt, zusätzlich zu Pazifik, Atlantik, Indischem und Arktischem Ozean.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  }
+ ]
+}
