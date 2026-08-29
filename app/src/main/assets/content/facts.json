@@ -1,0 +1,2551 @@
+{
+ "facts": [
+  {
+   "id": "f001",
+   "kind": "fact",
+   "title": "Honig verdirbt praktisch nie",
+   "text": "In ägyptischen Gräbern wurde über 3000 Jahre alter Honig gefunden, der noch essbar war. Sein niedriger Wassergehalt und der saure pH-Wert lassen Bakterien schlicht keine Chance.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Honig"
+  },
+  {
+   "id": "f002",
+   "kind": "fact",
+   "title": "Die Cheopspyramide ist älter als Mammuts ausgestorben sind",
+   "text": "Die letzten Mammuts starben vor rund 4000 Jahren auf der Wrangelinsel aus. Da stand die Cheopspyramide schon etwa 600 Jahre.",
+   "topics": [
+    "history",
+    "animals"
+   ],
+   "wiki": "Wrangelinsel"
+  },
+  {
+   "id": "f003",
+   "kind": "fact",
+   "title": "Kleopatra lebte näher an der Mondlandung als am Bau der Pyramiden",
+   "text": "Die Cheopspyramide entstand um 2560 v. Chr., Kleopatra wurde 69 v. Chr. geboren, die Mondlandung war 1969. Zwischen ihr und den Pyramiden liegen rund 2500 Jahre, zwischen ihr und Apollo 11 nur gut 2000.",
+   "topics": [
+    "history",
+    "space"
+   ],
+   "wiki": "Kleopatra VII."
+  },
+  {
+   "id": "f004",
+   "kind": "fact",
+   "title": "Oxford ist älter als das Aztekenreich",
+   "text": "An der Universität Oxford wurde bereits 1096 unterrichtet. Tenochtitlán, die Hauptstadt der Azteken, wurde erst 1325 gegründet.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "University of Oxford"
+  },
+  {
+   "id": "f005",
+   "kind": "fact",
+   "title": "Ein Tag auf der Venus dauert länger als ihr Jahr",
+   "text": "Die Venus dreht sich so langsam, dass eine Eigendrehung 243 Erdtage braucht. Für einen Umlauf um die Sonne benötigt sie nur 225.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Venus (Planet)"
+  },
+  {
+   "id": "f006",
+   "kind": "fact",
+   "title": "Bananen sind radioaktiv",
+   "text": "Bananen enthalten viel Kalium, und ein winziger Anteil davon ist das natürliche Isotop Kalium-40. Die Dosis ist so klein, dass Fachleute sie halb im Scherz als Maßeinheit benutzen: die Banana Equivalent Dose.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Bananenäquivalentdosis"
+  },
+  {
+   "id": "f007",
+   "kind": "fact",
+   "title": "Der Eiffelturm wird im Sommer größer",
+   "text": "Bei Hitze dehnt sich der Stahl aus. Der Turm kann dadurch bis zu 15 Zentimeter höher werden und sich leicht von der Sonne wegneigen.",
+   "topics": [
+    "tech",
+    "geography"
+   ],
+   "wiki": "Eiffelturm"
+  },
+  {
+   "id": "f008",
+   "kind": "fact",
+   "title": "Es gab nie eine Wikinger-Hörnerhelm-Mode",
+   "text": "Kein einziger archäologischer Fund belegt Hörner an Wikingerhelmen. Das Bild stammt aus dem 19. Jahrhundert, populär gemacht durch die Kostüme einer Wagner-Inszenierung von 1876.",
+   "topics": [
+    "history",
+    "weird"
+   ],
+   "wiki": "Wikingerhelm"
+  },
+  {
+   "id": "f009",
+   "kind": "fact",
+   "title": "Die Erde hat mehr Bäume als die Milchstraße Sterne",
+   "text": "Schätzungen kommen auf rund drei Billionen Bäume weltweit. Die Milchstraße enthält je nach Schätzung 100 bis 400 Milliarden Sterne.",
+   "topics": [
+    "nature",
+    "space"
+   ]
+  },
+  {
+   "id": "f010",
+   "kind": "fact",
+   "title": "Die Nordsee war einmal begehbar",
+   "text": "Bis vor rund 8000 Jahren verband Doggerland Großbritannien mit dem Festland. Fischer holen dort bis heute Werkzeuge und Knochen aus der Steinzeit aus dem Netz.",
+   "topics": [
+    "history",
+    "geography",
+    "nature"
+   ],
+   "wiki": "Doggerland"
+  },
+  {
+   "id": "f011",
+   "kind": "fact",
+   "title": "Wombats produzieren würfelförmigen Kot",
+   "text": "Der letzte Darmabschnitt hat unterschiedlich elastische Wände, die den Kot in Kanten formen. Die Würfel rollen nicht weg, was beim Markieren von Revieren hilft.",
+   "topics": [
+    "animals",
+    "weird"
+   ],
+   "wiki": "Wombats"
+  },
+  {
+   "id": "f012",
+   "kind": "fact",
+   "title": "Ein Löffel Neutronenstern wöge Milliarden Tonnen",
+   "text": "Neutronensterne pressen mehr Masse als die Sonne in eine Kugel von etwa 20 Kilometern Durchmesser. Ein Teelöffel dieser Materie käme auf rund eine Milliarde Tonnen.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Neutronenstern"
+  },
+  {
+   "id": "f013",
+   "kind": "fact",
+   "title": "Frankreichs letzte Guillotine-Hinrichtung fiel ins Star-Wars-Jahr",
+   "text": "1977 kam Krieg der Sterne ins Kino, und im selben Jahr wurde in Marseille zum letzten Mal die Guillotine eingesetzt. Abgeschafft wurde die Todesstrafe in Frankreich erst 1981.",
+   "topics": [
+    "history",
+    "movies"
+   ],
+   "wiki": "Guillotine"
+  },
+  {
+   "id": "f014",
+   "kind": "fact",
+   "title": "Der Mount Everest ist nicht der höchste Berg der Erde",
+   "text": "Gemessen vom Erdmittelpunkt liegt der Chimborazo in Ecuador weiter außen, weil die Erde am Äquator ausgebeult ist. Vom Fuß bis zum Gipfel gemessen gewinnt der Mauna Kea auf Hawaii.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Chimborazo"
+  },
+  {
+   "id": "f015",
+   "kind": "fact",
+   "title": "Die Erdatmosphäre reicht weiter als der Mond",
+   "text": "Die äußerste Wasserstoffhülle der Erde, die Geokorona, erstreckt sich nach SOHO-Messungen über 600.000 Kilometer ins All. Der Mond umkreist uns in rund 384.000 Kilometern Abstand.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Geokorona"
+  },
+  {
+   "id": "f016",
+   "kind": "fact",
+   "title": "Schmetterlinge schmecken mit den Füßen",
+   "text": "Auf den Tarsen sitzen Chemorezeptoren. Ein Weibchen tritt auf ein Blatt und weiß sofort, ob die Pflanze für die Raupen taugt.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "f017",
+   "kind": "fact",
+   "title": "Es regnet auf dem Titan, nur nicht Wasser",
+   "text": "Auf dem Saturnmond Titan fällt flüssiges Methan als Regen, sammelt sich in Seen und formt Flusstäler. Bei minus 179 Grad Celsius ist Wassereis dort hart wie Gestein.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Titan (Mond)"
+  },
+  {
+   "id": "f018",
+   "kind": "fact",
+   "title": "Der kürzeste Krieg der Geschichte dauerte unter 45 Minuten",
+   "text": "Am 27. August 1896 beschoss die britische Marine den Palast von Sansibar. Nach etwa 38 Minuten war der Krieg vorbei.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Britisch-Sansibarischer Krieg"
+  },
+  {
+   "id": "f019",
+   "kind": "fact",
+   "title": "Ein Blitz ist fünfmal heißer als die Sonnenoberfläche",
+   "text": "Der Kanal eines Blitzes erreicht kurzzeitig etwa 30.000 Grad Celsius. Die Sonnenoberfläche kommt auf rund 5500 Grad.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Blitz"
+  },
+  {
+   "id": "f020",
+   "kind": "fact",
+   "title": "Es gibt mehr mögliche Schachpartien als Atome im beobachtbaren Universum",
+   "text": "Die Shannon-Zahl schätzt die Zahl sinnvoller Schachpartien auf etwa 10 hoch 120. Für die Atome im sichtbaren Universum werden rund 10 hoch 80 angenommen.",
+   "topics": [
+    "gaming",
+    "science"
+   ],
+   "wiki": "Shannon-Zahl"
+  },
+  {
+   "id": "f021",
+   "kind": "fact",
+   "title": "Seesterne haben kein Gehirn und kein Blut",
+   "text": "Statt Blut pumpen sie gefiltertes Meerwasser durch ein Wassergefäßsystem. Statt eines Gehirns koordiniert ein Nervenring die Arme.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "f022",
+   "kind": "fact",
+   "title": "Der längste Ortsname Europas hat 58 Buchstaben",
+   "text": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch in Wales wurde im 19. Jahrhundert bewusst verlängert, um Touristen anzulocken. Es hat funktioniert.",
+   "topics": [
+    "geography",
+    "language"
+   ],
+   "wiki": "Llanfairpwllgwyngyll"
+  },
+  {
+   "id": "f023",
+   "kind": "fact",
+   "title": "Die ISS umrundet die Erde 16 Mal am Tag",
+   "text": "Sie fliegt mit rund 28.000 km/h und braucht etwa 90 Minuten pro Umlauf. Die Besatzung erlebt also sechzehn Sonnenaufgänge pro Tag.",
+   "topics": [
+    "space",
+    "tech"
+   ],
+   "wiki": "Internationale Raumstation"
+  },
+  {
+   "id": "f024",
+   "kind": "fact",
+   "title": "Nordkorea und Kuba haben kein Coca-Cola",
+   "text": "Coca-Cola wird offiziell in fast jedem Land der Welt verkauft. Handelsembargos machten diese beiden über Jahrzehnte zur Ausnahme.",
+   "topics": [
+    "food",
+    "geography"
+   ],
+   "wiki": "Coca-Cola"
+  },
+  {
+   "id": "f025",
+   "kind": "fact",
+   "title": "Ein Wolkenkratzer aus Wolken wiegt Hunderte Tonnen",
+   "text": "Eine mittelgroße Cumuluswolke enthält etwa eine halbe Million Kilogramm Wasser. Sie schwebt trotzdem, weil die Tröpfchen winzig sind und die warme Luft darunter sie trägt.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "f026",
+   "kind": "fact",
+   "title": "Menschen teilen rund 60 Prozent ihrer Gene mit einer Banane",
+   "text": "Der Vergleich klingt spektakulärer als er ist: Es geht um grundlegende Bausteine des Zellstoffwechsels, die fast alles Lebendige braucht.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "f027",
+   "kind": "fact",
+   "title": "Die Titanic hatte ein Schwesterschiff, das den Krieg überlebte",
+   "text": "Die Olympic fuhr 24 Jahre lang, rammte im Ersten Weltkrieg ein deutsches U-Boot und wurde erst 1935 abgewrackt. Das dritte Schwesterschiff, die Britannic, sank 1916.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Olympic (Schiff)"
+  },
+  {
+   "id": "f028",
+   "kind": "fact",
+   "title": "Sauerstoff macht die Hälfte der Erdkruste aus",
+   "text": "Nach Masse ist Sauerstoff mit rund 47 Prozent das häufigste Element der Erdkruste, gebunden in Silikaten und Oxiden. Silizium folgt mit etwa 28 Prozent.",
+   "topics": [
+    "science",
+    "nature"
+   ]
+  },
+  {
+   "id": "f029",
+   "kind": "fact",
+   "title": "Australien ist breiter als der Mond",
+   "text": "Von West nach Ost misst Australien rund 4000 Kilometer. Der Monddurchmesser liegt bei etwa 3475 Kilometern.",
+   "topics": [
+    "geography",
+    "space"
+   ]
+  },
+  {
+   "id": "f030",
+   "kind": "fact",
+   "title": "Die Bezeichnung Computer meinte früher Menschen",
+   "text": "Bis weit ins 20. Jahrhundert waren Computer Angestellte, die den ganzen Tag Berechnungen ausführten. Die NASA beschäftigte ganze Abteilungen davon.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Computer (Beruf)"
+  },
+  {
+   "id": "f031",
+   "kind": "fact",
+   "title": "Ein Tintenfisch hat drei Herzen",
+   "text": "Zwei Kiemenherzen pumpen Blut durch die Kiemen, ein Hauptherz versorgt den restlichen Körper. Das Blut ist blau, weil es Kupfer statt Eisen transportiert.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Kraken"
+  },
+  {
+   "id": "f032",
+   "kind": "fact",
+   "title": "Es gibt einen Ort, an dem der Kompass nach Süden zeigt",
+   "text": "Am magnetischen Nordpol steht die Kompassnadel senkrecht. Fliegt man darüber hinaus, zeigt sie zurück nach Süden, weil der magnetische Pol wandert, aktuell mit rund 50 Kilometern pro Jahr.",
+   "topics": [
+    "geography",
+    "science"
+   ]
+  },
+  {
+   "id": "f033",
+   "kind": "fact",
+   "title": "Der Buchstabe E fehlt in einem ganzen Roman",
+   "text": "Georges Perec schrieb 1969 den französischen Roman La Disparition ohne ein einziges E. Die deutsche Übersetzung Anton Voyls Fortgang schafft dasselbe Kunststück.",
+   "topics": [
+    "language",
+    "weird"
+   ],
+   "wiki": "Anton Voyls Fortgang"
+  },
+  {
+   "id": "f034",
+   "kind": "fact",
+   "title": "Pluto hat noch keine Runde um die Sonne geschafft, seit er entdeckt wurde",
+   "text": "Entdeckt 1930, braucht Pluto 248 Jahre für einen Umlauf. Seinen ersten vollständigen Jahresring seit der Entdeckung schließt er erst 2178.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Pluto"
+  },
+  {
+   "id": "f035",
+   "kind": "fact",
+   "title": "Die Kanarischen Inseln sind nicht nach Vögeln benannt",
+   "text": "Der Name geht auf lateinisch canis für Hund zurück, überliefert von römischen Berichten über große Hunde auf den Inseln. Der Kanarienvogel wurde später nach den Inseln benannt.",
+   "topics": [
+    "geography",
+    "language"
+   ],
+   "wiki": "Kanarische Inseln"
+  },
+  {
+   "id": "f036",
+   "kind": "fact",
+   "title": "Ein Jahr auf dem Merkur hat nur 88 Tage",
+   "text": "Merkur rast in 88 Erdtagen um die Sonne. Wegen einer 3:2-Kopplung von Rotation und Umlauf dauert ein Sonnentag dort aber 176 Erdtage, also zwei Merkurjahre.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Merkur (Planet)"
+  },
+  {
+   "id": "f037",
+   "kind": "fact",
+   "title": "Der Große Rote Fleck des Jupiter schrumpft",
+   "text": "Der Sturm tobt seit mindestens 150 Jahren und war früher so breit, dass drei Erden hineingepasst hätten. Heute ist es nur noch gut eine.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Großer Roter Fleck"
+  },
+  {
+   "id": "f038",
+   "kind": "fact",
+   "title": "Wale hörten früher zu Landsäugern",
+   "text": "Die nächsten lebenden Verwandten der Wale sind Flusspferde. Ihre Vorfahren gingen vor rund 50 Millionen Jahren zurück ins Wasser, Reste des Beckens tragen Wale bis heute im Körper.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Wale"
+  },
+  {
+   "id": "f039",
+   "kind": "fact",
+   "title": "Das erste Handy-Gespräch war ein Anruf bei der Konkurrenz",
+   "text": "Martin Cooper von Motorola rief 1973 auf offener Straße in New York seinen Rivalen bei Bell Labs an, um ihm mitzuteilen, dass er gerade von einem Mobiltelefon spricht.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Martin Cooper"
+  },
+  {
+   "id": "f040",
+   "kind": "fact",
+   "title": "Grönlandhaie werden mehrere Jahrhunderte alt",
+   "text": "Radiokarbondatierungen an Augenlinsen legen Lebensalter von rund 270 Jahren nahe, für einzelne Tiere sogar deutlich mehr. Geschlechtsreif werden sie erst mit etwa 150.",
+   "topics": [
+    "animals",
+    "nature"
+   ],
+   "wiki": "Grönlandhai"
+  },
+  {
+   "id": "f041",
+   "kind": "fact",
+   "title": "Die Sahara war vor 6000 Jahren grün",
+   "text": "Pollenfunde und Felsmalereien zeigen Seen, Gräser und Flusspferde. Eine Verschiebung der Erdachse veränderte den Monsun und ließ die Region austrocknen.",
+   "topics": [
+    "nature",
+    "geography",
+    "history"
+   ],
+   "wiki": "Sahara"
+  },
+  {
+   "id": "f042",
+   "kind": "fact",
+   "title": "Bienen erkennen menschliche Gesichter",
+   "text": "In Versuchen lernten Honigbienen, Fotos einzelner Gesichter zuverlässig zu unterscheiden. Sie setzen dabei Merkmale zu einem Muster zusammen, ähnlich wie wir.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "f043",
+   "kind": "fact",
+   "title": "Es gibt eine Insel, die halb Frankreich und halb Niederlande ist",
+   "text": "Saint-Martin im Karibischen Meer ist seit 1648 geteilt. Die Grenze ist offen, es gibt keine Kontrollen, aber zwei Währungen und zwei Rechtssysteme.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "St. Martin (Insel)"
+  },
+  {
+   "id": "f044",
+   "kind": "fact",
+   "title": "Diamanten regnen womöglich auf Neptun",
+   "text": "Unter dem enormen Druck im Inneren von Neptun und Uranus kann Methan zerfallen, wobei der Kohlenstoff zu Diamant kristallisiert. Laborexperimente mit Röntgenlasern konnten den Vorgang nachstellen.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Neptun (Planet)"
+  },
+  {
+   "id": "f045",
+   "kind": "fact",
+   "title": "Der Mensch leuchtet, nur zu schwach zum Sehen",
+   "text": "Der Körper gibt beim Stoffwechsel extrem schwaches sichtbares Licht ab. Japanische Forschende machten es 2009 mit hochempfindlichen Kameras sichtbar, tausendfach schwächer als unsere Sehschwelle.",
+   "topics": [
+    "body",
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "k001",
+   "kind": "know",
+   "title": "Russland grenzt an 14 Länder",
+   "text": "Nur China kommt auf dieselbe Zahl. Von Norwegen bis Nordkorea zieht sich die russische Landgrenze über mehr als 20.000 Kilometer.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Russland"
+  },
+  {
+   "id": "k002",
+   "kind": "know",
+   "title": "Es gibt ein Land ohne Mücken",
+   "text": "Island hat keine dauerhaft etablierte Stechmückenpopulation. Die Frost-Tau-Zyklen des Winters passen nicht zum Entwicklungszyklus der Larven.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Island"
+  },
+  {
+   "id": "k003",
+   "kind": "know",
+   "title": "Die Niederlande haben mehr Fahrräder als Einwohner",
+   "text": "Auf rund 18 Millionen Menschen kommen über 23 Millionen Fahrräder. Utrecht betreibt das größte Fahrradparkhaus der Welt mit über 12.000 Stellplätzen.",
+   "topics": [
+    "geography",
+    "sports"
+   ],
+   "wiki": "Radverkehr in den Niederlanden"
+  },
+  {
+   "id": "k004",
+   "kind": "know",
+   "title": "Vatikanstadt hat die höchste Kriminalitätsrate der Welt, statistisch",
+   "text": "Bei rund 800 Einwohnern und Millionen Tagesbesuchern ergeben Taschendiebstähle pro Kopf absurde Werte. Die Statistik sagt mehr über den Nenner als über den Ort.",
+   "topics": [
+    "geography",
+    "weird"
+   ],
+   "wiki": "Vatikanstadt"
+  },
+  {
+   "id": "k005",
+   "kind": "know",
+   "title": "Kanada hat mehr Seen als der Rest der Welt zusammen",
+   "text": "Über zwei Millionen Seen liegen auf kanadischem Gebiet, rund 60 Prozent aller Seen der Erde. Der Grund ist die letzte Eiszeit, die den Schild abschmirgelte.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Kanada"
+  },
+  {
+   "id": "k006",
+   "kind": "know",
+   "title": "Der Titel Kaiser stammt von Caesar ab",
+   "text": "Aus dem Familiennamen Caesar wurde ein Titel, aus dem Titel im Deutschen Kaiser und im Russischen Zar. Ein einzelner Nachname hat zwei Sprachen mit einem Herrschertitel versorgt.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Kaiser"
+  },
+  {
+   "id": "k007",
+   "kind": "know",
+   "title": "In Japan war eine Katze Bahnhofsvorsteherin",
+   "text": "Am Bahnhof Kishi in der Präfektur Wakayama trat 2007 die Katze Tama den Posten an. Die Besucherzahlen stiegen so stark, dass die stillzulegende Strecke gerettet wurde.",
+   "topics": [
+    "animals",
+    "geography"
+   ],
+   "wiki": "Tama (Katze)"
+  },
+  {
+   "id": "k008",
+   "kind": "know",
+   "title": "Die Antarktis ist die größte Wüste der Erde",
+   "text": "Wüste wird über Niederschlag definiert, nicht über Hitze. Im Inneren der Antarktis fallen jährlich unter 50 Millimeter, weniger als in der Sahara.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Antarktis"
+  },
+  {
+   "id": "k009",
+   "kind": "know",
+   "title": "Bolivien und Paraguay sind die einzigen Binnenstaaten Südamerikas",
+   "text": "Bolivien verlor seinen Küstenzugang 1884 im Salpeterkrieg an Chile. Bis heute unterhält das Land eine Marine, die auf dem Titicacasee und Flüssen operiert.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Bolivien"
+  },
+  {
+   "id": "k010",
+   "kind": "know",
+   "title": "Das längste Wort im Duden hat 44 Buchstaben",
+   "text": "Aufmerksamkeitsdefizit-Hyperaktivitätsstörung gilt als längster Eintrag. Deutsche Komposita lassen sich theoretisch beliebig verlängern, deshalb setzt jedes Wörterbuch irgendwo eine Grenze.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "k011",
+   "kind": "know",
+   "title": "Es gibt eine Sprache, die nur gepfiffen wird",
+   "text": "Silbo Gomero auf La Gomera überträgt Spanisch in Pfiffe, die kilometerweit über Schluchten tragen. Seit 1999 wird es an den Schulen der Insel unterrichtet.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Silbo Gomero"
+  },
+  {
+   "id": "k012",
+   "kind": "know",
+   "title": "Nur zwei Länder haben keine rechteckige Flagge",
+   "text": "Nepal führt einen doppelten Wimpel, die Schweiz ein Quadrat. Auf See nutzt die Schweiz allerdings eine rechteckige Version.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Flagge Nepals"
+  },
+  {
+   "id": "k013",
+   "kind": "know",
+   "title": "Kaffee ist eine Frucht",
+   "text": "Die Bohne ist der Samen einer roten Steinfrucht, der Kaffeekirsche. Das Fruchtfleisch wird in manchen Anbauländern als Cascara zu Tee aufgegossen.",
+   "topics": [
+    "food",
+    "nature"
+   ],
+   "wiki": "Kaffee"
+  },
+  {
+   "id": "k014",
+   "kind": "know",
+   "title": "Erdnüsse sind keine Nüsse",
+   "text": "Botanisch sind sie Hülsenfrüchte und näher mit Erbsen verwandt als mit Walnüssen. Ihre Früchte reifen unter der Erde, daher der Name.",
+   "topics": [
+    "food",
+    "nature"
+   ],
+   "wiki": "Erdnuss"
+  },
+  {
+   "id": "k015",
+   "kind": "know",
+   "title": "Die Buchstaben auf der Tastatur stehen nicht zufällig so ungünstig",
+   "text": "Das QWERTY-Layout entstand 1870er Jahre für mechanische Schreibmaschinen. Häufige Buchstabenpaare wurden getrennt, damit sich die Typenhebel nicht verhaken.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "QWERTY"
+  },
+  {
+   "id": "k016",
+   "kind": "know",
+   "title": "Der Schwarzwald heißt so wegen der Römer",
+   "text": "Römische Berichte beschrieben den dichten, dunklen Nadelwald als silva nigra. Aus der Beschreibung wurde ein Name, der bis heute hält.",
+   "topics": [
+    "geography",
+    "language",
+    "history"
+   ],
+   "wiki": "Schwarzwald"
+  },
+  {
+   "id": "k017",
+   "kind": "know",
+   "title": "Grönland gehört geografisch zu Nordamerika",
+   "text": "Die Insel liegt auf der nordamerikanischen Platte, politisch gehört sie als autonomes Gebiet zum Königreich Dänemark. Sie ist die größte Insel der Welt, die kein Kontinent ist.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Grönland"
+  },
+  {
+   "id": "k018",
+   "kind": "know",
+   "title": "Die meisten Sprachen der Welt werden in Papua-Neuguinea gesprochen",
+   "text": "Über 800 lebende Sprachen zählt das Land bei rund 10 Millionen Einwohnern. Bergketten trennten Gemeinschaften über Jahrtausende voneinander.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Papua-Neuguinea"
+  },
+  {
+   "id": "k019",
+   "kind": "know",
+   "title": "Zwiebeln bringen dich zum Weinen, weil sie sich wehren",
+   "text": "Beim Schneiden entsteht aus Schwefelverbindungen ein flüchtiges Gas, das auf der Augenoberfläche zu schwacher Schwefelsäure reagiert. Die Tränendrüsen spülen sie weg.",
+   "topics": [
+    "food",
+    "science",
+    "body"
+   ],
+   "wiki": "Küchenzwiebel"
+  },
+  {
+   "id": "k020",
+   "kind": "know",
+   "title": "Der Ärmelkanaltunnel ist unter Wasser länger als jeder andere",
+   "text": "Von 50 Kilometern Gesamtlänge liegen 38 unter dem Meeresboden. Er wurde 1994 eröffnet, nachdem beide Seiten sich 1990 unter der Nordsee trafen.",
+   "topics": [
+    "tech",
+    "geography"
+   ],
+   "wiki": "Eurotunnel"
+  },
+  {
+   "id": "k021",
+   "kind": "know",
+   "title": "Der Amazonas hat keine einzige Brücke über den Hauptstrom",
+   "text": "Über den gesamten Verlauf des Amazonas gibt es keine Brücke. Der Fluss ist zu breit, die Ufer zu weich, und Fähren reichen für den Verkehr.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Amazonas"
+  },
+  {
+   "id": "k022",
+   "kind": "know",
+   "title": "Ein Dorf in Norwegen bekam Spiegel gegen die Dunkelheit",
+   "text": "Rjukan liegt so tief im Tal, dass die Sonne im Winter nie den Marktplatz erreicht. Seit 2013 lenken drei computergesteuerte Bergspiegel Licht hinunter.",
+   "topics": [
+    "geography",
+    "tech"
+   ],
+   "wiki": "Rjukan"
+  },
+  {
+   "id": "k023",
+   "kind": "know",
+   "title": "Die Zeitzone Nepals ist um 45 Minuten versetzt",
+   "text": "Nepal liegt bei UTC+5:45, ausgerichtet an der lokalen Sonnenzeit über Kathmandu. Es ist eine der wenigen Viertelstundenzonen der Welt.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Nepal"
+  },
+  {
+   "id": "k024",
+   "kind": "know",
+   "title": "Deutschland kennt über 3000 registrierte Brotsorten",
+   "text": "Das Deutsche Brotinstitut führt mehr als 3200 Brotspezialitäten in seinem Register. 2014 wurde die deutsche Brotkultur ins bundesweite Verzeichnis des immateriellen Kulturerbes aufgenommen.",
+   "topics": [
+    "food",
+    "geography"
+   ],
+   "wiki": "Deutsche Brotkultur"
+  },
+  {
+   "id": "k025",
+   "kind": "know",
+   "title": "Das älteste noch arbeitende Unternehmen ist über 1400 Jahre alt",
+   "text": "Die japanische Baufirma Kongō Gumi wurde 578 gegründet und baute Tempel. Seit 2006 ist sie Tochter eines größeren Konzerns, arbeitet aber weiter.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Kongō Gumi"
+  },
+  {
+   "id": "k026",
+   "kind": "know",
+   "title": "In Schweden gibt es ein Recht, überall zu übernachten",
+   "text": "Das Allemansrätten erlaubt es, in der Natur zu wandern, zu zelten und Beeren zu sammeln, auch auf privatem Grund. Im Gegenzug gilt eine strenge Rücksichtspflicht.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Jedermannsrecht"
+  },
+  {
+   "id": "k027",
+   "kind": "know",
+   "title": "Das Wort Roboter kommt aus einem Theaterstück",
+   "text": "Karel Čapek führte es 1920 in seinem Stück R.U.R. ein, abgeleitet vom tschechischen robota für Fronarbeit. Vorgeschlagen hatte das Wort sein Bruder Josef.",
+   "topics": [
+    "language",
+    "tech",
+    "history"
+   ],
+   "wiki": "R.U.R."
+  },
+  {
+   "id": "k028",
+   "kind": "know",
+   "title": "Es gibt einen Ort namens Nirgendwo",
+   "text": "In Oklahoma liegt die Siedlung Nowhere, in Arizona ebenso. Deutschland kontert mit Elend im Harz und Nirgendwo bei Osterholz-Scharmbeck.",
+   "topics": [
+    "geography",
+    "weird",
+    "language"
+   ]
+  },
+  {
+   "id": "k029",
+   "kind": "know",
+   "title": "Der Buchstabe W heißt im Englischen double u, weil er das war",
+   "text": "Im Altenglischen wurde der Laut zunächst mit einer Rune geschrieben, später mit zwei aneinandergesetzten u. Die Form blieb, der Name auch.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "k030",
+   "kind": "know",
+   "title": "Der Panamakanal führt an einer Stelle nach Osten in den Pazifik",
+   "text": "Wegen der S-Form der Landenge liegt der pazifische Ausgang bei Panama-Stadt östlicher als der atlantische bei Colón. Wer Richtung Pazifik fährt, fährt also nach Südosten.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Panamakanal"
+  },
+  {
+   "id": "k031",
+   "kind": "know",
+   "title": "Die Mona Lisa hat keine Augenbrauen",
+   "text": "Ob Leonardo sie nie malte oder spätere Reinigungen sie entfernten, ist umstritten. Hochauflösende Scans deuten auf Spuren feiner Härchen hin, die verblasst sind.",
+   "topics": [
+    "history",
+    "movies"
+   ],
+   "wiki": "Mona Lisa"
+  },
+  {
+   "id": "k032",
+   "kind": "know",
+   "title": "Es gibt eine Bibliothek für Bücher, die niemand lesen darf",
+   "text": "Die Future Library bei Oslo sammelt seit 2014 jedes Jahr ein ungelesenes Manuskript. Gedruckt werden sie 2114, auf Papier aus eigens gepflanzten Bäumen.",
+   "topics": [
+    "language",
+    "nature"
+   ],
+   "wiki": "Future Library"
+  },
+  {
+   "id": "k033",
+   "kind": "know",
+   "title": "Der Ursprung des Wortes Salär ist Salz",
+   "text": "Römische Soldaten erhielten ein salarium, ursprünglich Geld für Salz. Aus salarium wurde salaire und salary.",
+   "topics": [
+    "language",
+    "history",
+    "food"
+   ]
+  },
+  {
+   "id": "k034",
+   "kind": "know",
+   "title": "Istanbul ist die einzige Millionenstadt auf zwei Kontinenten",
+   "text": "Der Bosporus trennt den europäischen vom asiatischen Stadtteil. Auch die Türkei, Russland, Kasachstan, Ägypten und Georgien verteilen sich auf zwei Erdteile.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Istanbul"
+  },
+  {
+   "id": "k035",
+   "kind": "know",
+   "title": "Der Buchstabe J ist jünger als das Wort Jesus",
+   "text": "J entstand erst im 16. Jahrhundert als eigenständiger Buchstabe, vorher war es eine Schreibvariante des I. Alte lateinische Texte kennen ihn nicht.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "k036",
+   "kind": "know",
+   "title": "In Bhutan zählt Bruttonationalglück offiziell mehr als das Bruttoinlandsprodukt",
+   "text": "Seit 2008 steht der Grundsatz in der Verfassung. Eine eigene Kommission prüft Gesetze darauf, ob sie das Glück der Bevölkerung fördern.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Bruttonationalglück"
+  },
+  {
+   "id": "k037",
+   "kind": "know",
+   "title": "Es gab einmal eine 20-jährige Rechtschreibreform-Debatte um drei Buchstaben",
+   "text": "Die Reform von 1996 machte aus daß ein dass und blieb bis 2006 umstritten. Manche Zeitungen kehrten zwischenzeitlich zur alten Schreibung zurück.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Reform der deutschen Rechtschreibung von 1996"
+  },
+  {
+   "id": "k038",
+   "kind": "know",
+   "title": "Der Buckingham Palace hat eine eigene Postleitzahl",
+   "text": "SW1A 1AA gehört allein dem Palast. Auch die Downing Street 10 und das Parlament haben jeweils eigene Codes.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Buckingham Palace"
+  },
+  {
+   "id": "k039",
+   "kind": "know",
+   "title": "Der teuerste Kaffee der Welt geht durch ein Tier",
+   "text": "Kopi Luwak wird aus Kaffeekirschen gewonnen, die Fleckenmusangs gefressen und ausgeschieden haben. Tierschutzorganisationen kritisieren die Haltung in Käfigen scharf.",
+   "topics": [
+    "food",
+    "animals"
+   ],
+   "wiki": "Kopi Luwak"
+  },
+  {
+   "id": "k040",
+   "kind": "know",
+   "title": "Die Sahara ist größer als die gesamte EU",
+   "text": "Rund 9 Millionen Quadratkilometer stehen etwa 4,2 Millionen Quadratkilometern der Europäischen Union gegenüber. Sie ist damit fast so groß wie die USA.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Sahara"
+  },
+  {
+   "id": "s001",
+   "kind": "science",
+   "title": "Dein Magen bekommt alle paar Tage eine neue Innenhaut",
+   "text": "Die Magenschleimhaut erneuert sich ständig, weil die eigene Salzsäure sie sonst angreifen würde. Die Zellen der Oberfläche werden binnen Tagen ersetzt.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "s002",
+   "kind": "science",
+   "title": "Das menschliche Auge sieht rückwärts verkabelt",
+   "text": "Bei Wirbeltieren liegen die Nervenfasern vor den Lichtsinneszellen, das Licht muss also erst durch Nervengewebe. Kraken haben es andersherum und deshalb keinen blinden Fleck.",
+   "topics": [
+    "body",
+    "animals",
+    "science"
+   ],
+   "wiki": "Blinder Fleck"
+  },
+  {
+   "id": "s003",
+   "kind": "science",
+   "title": "Ein Bärtierchen überlebt das Vakuum des Weltraums",
+   "text": "2007 überstanden Tardigraden in einem ESA-Experiment zehn Tage im offenen All. Sie fahren ihren Stoffwechsel im Tönnchenzustand fast auf null herunter.",
+   "topics": [
+    "animals",
+    "space",
+    "science"
+   ],
+   "wiki": "Bärtierchen"
+  },
+  {
+   "id": "s004",
+   "kind": "science",
+   "title": "Glas ist keine langsam fließende Flüssigkeit",
+   "text": "Die Geschichte von den unten dickeren Kirchenfenstern hält sich hartnäckig. Tatsächlich ist Glas ein amorpher Festkörper, und alte Scheiben waren beim Herstellen einfach ungleichmäßig.",
+   "topics": [
+    "science",
+    "tech"
+   ],
+   "wiki": "Glas"
+  },
+  {
+   "id": "s005",
+   "kind": "science",
+   "title": "Es gibt Metall, das bei Handwärme schmilzt",
+   "text": "Gallium schmilzt bei etwa 29,8 Grad Celsius. Ein Löffel daraus verschwindet im heißen Tee, was Chemiker gerne als Partytrick nutzen.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Gallium"
+  },
+  {
+   "id": "s006",
+   "kind": "science",
+   "title": "Heißes Wasser kann schneller gefrieren als kaltes",
+   "text": "Der Mpemba-Effekt ist seit der Antike beschrieben und experimentell schwer zu fassen. Verdunstung, gelöste Gase und Konvektion gelten als beteiligte Faktoren.",
+   "topics": [
+    "science",
+    "weird"
+   ],
+   "wiki": "Mpemba-Effekt"
+  },
+  {
+   "id": "s007",
+   "kind": "science",
+   "title": "Dein Körper tauscht die meisten Atome regelmäßig aus",
+   "text": "Über Nahrung, Atmung und Ausscheidung wird ein großer Teil des Körpermaterials laufend ersetzt. Zahnschmelz und ein Teil der Neuronen bleiben allerdings ein Leben lang.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "s008",
+   "kind": "science",
+   "title": "Der Klang trägt unter Wasser viermal schneller",
+   "text": "In Wasser breitet sich Schall mit rund 1480 Metern pro Sekunde aus, in Luft mit etwa 343. Deshalb hören Wale einander über Hunderte Kilometer.",
+   "topics": [
+    "science",
+    "animals"
+   ]
+  },
+  {
+   "id": "s009",
+   "kind": "science",
+   "title": "Der Mond entfernt sich jedes Jahr von uns",
+   "text": "Laserreflektoren der Apollo-Missionen zeigen rund 3,8 Zentimeter pro Jahr. Die Gezeitenreibung bremst dabei zugleich die Erdrotation.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Mond"
+  },
+  {
+   "id": "s010",
+   "kind": "science",
+   "title": "Ein Nacktmull spürt bestimmte Schmerzen nicht und altert kaum",
+   "text": "Den Tieren fehlt in der Haut ein Botenstoff für Säureschmerz. Ihre Sterberate steigt zudem nicht mit dem Alter, was sie zum Forschungsobjekt der Alternsforschung macht.",
+   "topics": [
+    "animals",
+    "body",
+    "science"
+   ],
+   "wiki": "Nacktmull"
+  },
+  {
+   "id": "s011",
+   "kind": "science",
+   "title": "Sterne sehen wir nie so, wie sie jetzt sind",
+   "text": "Das Licht von Proxima Centauri braucht gut vier Jahre zu uns, das der Andromedagalaxie 2,5 Millionen. Der Nachthimmel ist ein Bild aus lauter verschiedenen Vergangenheiten.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Proxima Centauri"
+  },
+  {
+   "id": "s012",
+   "kind": "science",
+   "title": "Es gibt eine Qualle, die theoretisch nicht sterben muss",
+   "text": "Turritopsis dohrnii kann sich unter Stress zurück in ein Polypenstadium verwandeln und den Zyklus neu beginnen. Fressfeinde und Krankheiten holen sie trotzdem ein.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Turritopsis dohrnii"
+  },
+  {
+   "id": "s013",
+   "kind": "science",
+   "title": "Der Geruchssinn ist der einzige, der nicht erst umgeleitet wird",
+   "text": "Alle anderen Sinne laufen über den Thalamus, Gerüche erreichen Riechkolben und limbisches System direkter. Deshalb wirken Gerüche so unmittelbar auf Erinnerung und Gefühl.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "s014",
+   "kind": "science",
+   "title": "Pflanzen warnen einander über Duftstoffe",
+   "text": "Angefressene Blätter geben flüchtige Verbindungen ab, worauf Nachbarpflanzen ihre Abwehrstoffe hochfahren. Manche Arten locken damit gezielt Feinde ihrer Fressfeinde an.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "s015",
+   "kind": "science",
+   "title": "Ein Gramm DNA könnte Hunderte Petabyte speichern",
+   "text": "Forschungsgruppen haben Texte, Bilder und ganze Filme in synthetischer DNA abgelegt und fehlerfrei ausgelesen. Das Auslesen ist bislang zu langsam und zu teuer für den Alltag.",
+   "topics": [
+    "tech",
+    "science"
+   ],
+   "wiki": "DNA-Datenspeicher"
+  },
+  {
+   "id": "s016",
+   "kind": "science",
+   "title": "Das schnellste Tier der Welt fliegt, aber nicht geradeaus",
+   "text": "Der Wanderfalke erreicht im Sturzflug über 320 km/h. Im Horizontalflug ist er deutlich langsamer als der Mauersegler.",
+   "topics": [
+    "animals",
+    "nature"
+   ],
+   "wiki": "Wanderfalke"
+  },
+  {
+   "id": "s017",
+   "kind": "science",
+   "title": "Gold entsteht bei der Kollision von Neutronensternen",
+   "text": "2017 beobachteten Gravitationswellen- und Teleskopdaten erstmals eine solche Verschmelzung. Die Lichtkurve passte zur Entstehung schwerer Elemente wie Gold und Platin.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "GW170817"
+  },
+  {
+   "id": "s018",
+   "kind": "science",
+   "title": "Beton der Römer wird im Meerwasser härter",
+   "text": "Vulkanasche im römischen Mörtel reagiert mit Meerwasser zu stabilen Kristallen. Hafenanlagen aus der Antike stehen deshalb heute noch, während moderner Beton dort zerfällt.",
+   "topics": [
+    "tech",
+    "history",
+    "science"
+   ],
+   "wiki": "Opus caementitium"
+  },
+  {
+   "id": "s019",
+   "kind": "science",
+   "title": "Wir haben mehr Bakterienzellen als Körperzellen, aber knapp",
+   "text": "Frühere Schätzungen sprachen von zehn zu eins. Genauere Rechnungen von 2016 kommen auf etwa 1,3 Bakterien pro Körperzelle.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Mikrobiom"
+  },
+  {
+   "id": "s020",
+   "kind": "science",
+   "title": "Ein Kubikzentimeter Nebel enthält Millionen Tröpfchen",
+   "text": "Nebel besteht aus winzigen Wassertropfen von wenigen Mikrometern. Weil sie das Licht in alle Richtungen streuen, wirkt er weiß, obwohl Wasser durchsichtig ist.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "s021",
+   "kind": "science",
+   "title": "Der Blitzeinschlag hinterlässt manchmal Glasröhren im Sand",
+   "text": "Bei einem Einschlag schmilzt der Sand entlang des Blitzkanals zu Fulguriten. Sie sehen aus wie verzweigte Wurzeln aus Glas.",
+   "topics": [
+    "nature",
+    "science",
+    "weird"
+   ],
+   "wiki": "Fulgurit"
+  },
+  {
+   "id": "s022",
+   "kind": "science",
+   "title": "Delfine schlafen mit einer Gehirnhälfte",
+   "text": "Sie schalten abwechselnd eine Hemisphäre ab und halten ein Auge offen. Nur so können sie regelmäßig zum Atmen auftauchen.",
+   "topics": [
+    "animals",
+    "body"
+   ],
+   "wiki": "Delfine"
+  },
+  {
+   "id": "s023",
+   "kind": "science",
+   "title": "Der Ton eines Gewitters verrät die Entfernung",
+   "text": "Schall legt rund 340 Meter pro Sekunde zurück, Licht ist praktisch sofort da. Drei Sekunden zwischen Blitz und Donner bedeuten etwa einen Kilometer.",
+   "topics": [
+    "science",
+    "nature"
+   ]
+  },
+  {
+   "id": "s024",
+   "kind": "science",
+   "title": "Eisen im Blut stammt aus explodierten Sternen",
+   "text": "Elemente bis Eisen entstehen in Sternen, schwerere bei Supernovae und Sternkollisionen. Praktisch jedes Atom im Körper außer Wasserstoff war einmal Teil eines Sterns.",
+   "topics": [
+    "space",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "s025",
+   "kind": "science",
+   "title": "Ameisen kennen keine Verkehrsstaus",
+   "text": "Studien an Blattschneiderameisen zeigen: Selbst bei hoher Dichte bleibt der Durchsatz auf ihren Straßen stabil. Sie überholen kaum und halten den Abstand konstant.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Blattschneiderameisen"
+  },
+  {
+   "id": "s026",
+   "kind": "science",
+   "title": "Kalte Hände sind ein Feature, kein Fehler",
+   "text": "Bei Kälte verengt der Körper die Blutgefäße in den Extremitäten, um den Rumpf warm zu halten. Die Finger werden geopfert, damit die Organe stabil bleiben.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "s027",
+   "kind": "science",
+   "title": "Das Universum hat eine Temperatur, und sie ist bekannt",
+   "text": "Die kosmische Hintergrundstrahlung misst 2,725 Kelvin, also gut minus 270 Grad Celsius. Sie ist das abgekühlte Nachglühen des frühen Universums.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Kosmische Hintergrundstrahlung"
+  },
+  {
+   "id": "s028",
+   "kind": "science",
+   "title": "Papier lässt sich nicht beliebig oft falten",
+   "text": "Bei jeder Faltung verdoppelt sich die Dicke und die nutzbare Länge halbiert sich. Rekorde mit sehr langen Papierbahnen kommen auf zwölf Faltungen.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "s029",
+   "kind": "science",
+   "title": "Ein Baum ist mehr Luft als Boden",
+   "text": "Der größte Teil der Biomasse eines Baumes stammt aus Kohlendioxid der Luft, nicht aus dem Erdreich. Van Helmont zeigte das schon im 17. Jahrhundert mit einem gewogenen Topf.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "s030",
+   "kind": "science",
+   "title": "Krähen erkennen einzelne Menschen und erzählen es weiter",
+   "text": "In Experimenten in Seattle merkten sich Krähen Gesichter von Personen, die sie gefangen hatten. Auch Artgenossen, die nie beteiligt waren, reagierten später aggressiv auf dieselben Gesichter.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Rabenvögel"
+  },
+  {
+   "id": "p001",
+   "kind": "pop",
+   "title": "Star Wars startete gegen alle Erwartungen",
+   "text": "Am 25. Mai 1977 lief Krieg der Sterne in nur 32 US-Kinos an. Das Studio rechnete mit einem Flop, am Ende war es der erfolgreichste Film seiner Zeit.",
+   "topics": [
+    "movies"
+   ],
+   "date": "05-25",
+   "wiki": "Krieg der Sterne"
+  },
+  {
+   "id": "p002",
+   "kind": "pop",
+   "title": "Super Mario Bros. erschien heute vor Jahrzehnten",
+   "text": "Am 13. September 1985 kam Super Mario Bros. in Japan für das Famicom heraus. Es verkaufte sich über 40 Millionen Mal und definierte, wie sich ein Jump-and-Run anfühlen muss.",
+   "topics": [
+    "gaming"
+   ],
+   "date": "09-13",
+   "wiki": "Super Mario Bros."
+  },
+  {
+   "id": "p003",
+   "kind": "pop",
+   "title": "Das erste YouTube-Video zeigt Elefanten",
+   "text": "Am 23. April 2005 lud Jawed Karim Me at the zoo hoch, 19 Sekunden vor einem Elefantengehege in San Diego. Es ist bis heute online.",
+   "topics": [
+    "tech",
+    "movies"
+   ],
+   "date": "04-23",
+   "wiki": "Me at the zoo"
+  },
+  {
+   "id": "p004",
+   "kind": "pop",
+   "title": "Der erste Tweet war unspektakulär",
+   "text": "Am 21. März 2006 schrieb Jack Dorsey just setting up my twttr. Der Dienst hieß damals noch twttr, weil die Domain mit Vokalen zu teuer war.",
+   "topics": [
+    "tech"
+   ],
+   "date": "03-21",
+   "wiki": "Twitter"
+  },
+  {
+   "id": "p005",
+   "kind": "pop",
+   "title": "Der Smiley wurde in einer Uni-Mail erfunden",
+   "text": "Am 19. September 1982 schlug Scott Fahlman an der Carnegie Mellon vor, Scherze im Schwarzen Brett mit :-) zu markieren. Das Original wurde 2002 in alten Backups wiedergefunden.",
+   "topics": [
+    "tech",
+    "language"
+   ],
+   "date": "09-19",
+   "wiki": "Emoticon"
+  },
+  {
+   "id": "p006",
+   "kind": "pop",
+   "title": "MTV startete mit einer Ansage",
+   "text": "Am 1. August 1981 lief als erstes Video Video Killed the Radio Star von den Buggles. Der Sender war anfangs nur in Teilen von New Jersey zu empfangen.",
+   "topics": [
+    "music"
+   ],
+   "date": "08-01",
+   "wiki": "MTV"
+  },
+  {
+   "id": "p007",
+   "kind": "pop",
+   "title": "Nevermind veränderte, was im Radio lief",
+   "text": "Am 24. September 1991 erschien Nirvanas Nevermind. Innerhalb weniger Monate verdrängte es Michael Jacksons Dangerous von der Spitze der US-Charts.",
+   "topics": [
+    "music"
+   ],
+   "date": "09-24",
+   "wiki": "Nevermind"
+  },
+  {
+   "id": "p008",
+   "kind": "pop",
+   "title": "Thriller hält bis heute Rekorde",
+   "text": "Am 30. November 1982 erschien Michael Jacksons Thriller. Das dazugehörige Video war mit rund 500.000 Dollar Budget teurer als mancher Kinofilm.",
+   "topics": [
+    "music"
+   ],
+   "date": "11-30",
+   "wiki": "Thriller (Album)"
+  },
+  {
+   "id": "p009",
+   "kind": "pop",
+   "title": "Toy Story war der erste vollständig am Computer erzeugte Kinofilm",
+   "text": "Am 22. November 1995 kam er in die US-Kinos. Für ein einziges Bild rechneten die Pixar-Rechner damals bis zu 30 Stunden.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "date": "11-22",
+   "wiki": "Toy Story"
+  },
+  {
+   "id": "p010",
+   "kind": "pop",
+   "title": "Matrix startete an einem Karfreitag",
+   "text": "Der Film kam am 31. März 1999 in die US-Kinos. Die Bullet-Time-Aufnahmen entstanden mit über 100 gleichzeitig ausgelösten Fotokameras.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "date": "03-31",
+   "wiki": "Matrix (Film)"
+  },
+  {
+   "id": "p011",
+   "kind": "pop",
+   "title": "Der weiße Hai erfand das Sommer-Blockbuster-Kino",
+   "text": "Am 20. Juni 1975 startete Jaws in über 400 US-Kinos gleichzeitig, damals ein Novum. Der mechanische Hai fiel ständig aus, weshalb Spielberg ihn kaum zeigte.",
+   "topics": [
+    "movies"
+   ],
+   "date": "06-20",
+   "wiki": "Der weiße Hai"
+  },
+  {
+   "id": "p012",
+   "kind": "pop",
+   "title": "Sesamstraße ging heute vor Jahrzehnten auf Sendung",
+   "text": "Am 10. November 1969 lief die erste Folge der Sesame Street. Die Sendung war als Bildungsexperiment für Kinder aus benachteiligten Familien gedacht.",
+   "topics": [
+    "movies"
+   ],
+   "date": "11-10",
+   "wiki": "Sesamstraße"
+  },
+  {
+   "id": "p013",
+   "kind": "pop",
+   "title": "Schneewittchen war das Risiko, das Disney rettete",
+   "text": "Die Premiere am 21. Dezember 1937 galt in Hollywood als Disneys Wahnsinn: ein abendfüllender Zeichentrickfilm. Er wurde der erfolgreichste Film des Folgejahres.",
+   "topics": [
+    "movies"
+   ],
+   "date": "12-21",
+   "wiki": "Schneewittchen und die sieben Zwerge (1937)"
+  },
+  {
+   "id": "p014",
+   "kind": "pop",
+   "title": "Der iPod wurde als tausend Songs in der Hosentasche vorgestellt",
+   "text": "Am 23. Oktober 2001 zeigte Apple das erste Modell mit 5 GB Festplatte. Die Presse reagierte skeptisch auf den Preis von 399 Dollar.",
+   "topics": [
+    "tech",
+    "music"
+   ],
+   "date": "10-23",
+   "wiki": "IPod"
+  },
+  {
+   "id": "p015",
+   "kind": "pop",
+   "title": "Wikipedia startete als Nebenprojekt",
+   "text": "Am 15. Januar 2001 ging Wikipedia online, eigentlich nur als Zulieferer für das redaktionell geprüfte Nupedia. Nach einem Monat hatte sie mehr Artikel als das Hauptprojekt je bekam.",
+   "topics": [
+    "tech",
+    "language"
+   ],
+   "date": "01-15",
+   "wiki": "Wikipedia"
+  },
+  {
+   "id": "p016",
+   "kind": "pop",
+   "title": "Das World Wide Web wurde per Forenbeitrag angekündigt",
+   "text": "Am 6. August 1991 stellte Tim Berners-Lee sein WWW-Projekt in der Newsgroup alt.hypertext vor. Der Beitrag ist bis heute archiviert.",
+   "topics": [
+    "tech"
+   ],
+   "date": "08-06",
+   "wiki": "World Wide Web"
+  },
+  {
+   "id": "p017",
+   "kind": "pop",
+   "title": "CERN schenkte der Welt das Web",
+   "text": "Am 30. April 1993 gab CERN die Web-Software gemeinfrei frei, ohne Lizenzgebühren. Diese Entscheidung gilt als Grund, warum sich das Web gegen konkurrierende Systeme durchsetzte.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "date": "04-30",
+   "wiki": "World Wide Web"
+  },
+  {
+   "id": "p018",
+   "kind": "pop",
+   "title": "Die erste Nachricht im Internet war ein Absturz",
+   "text": "Am 29. Oktober 1969 tippten Forschende in Los Angeles login an ein Rechenzentrum in Stanford. Nach LO stürzte das System ab, und die ersten zwei Buchstaben des Internets waren gesendet.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "date": "10-29",
+   "wiki": "ARPANET"
+  },
+  {
+   "id": "p019",
+   "kind": "pop",
+   "title": "Google begann in einer Garage",
+   "text": "Am 4. September 1998 wurde Google Inc. eingetragen. Die erste Büroadresse war eine angemietete Garage in Menlo Park.",
+   "topics": [
+    "tech"
+   ],
+   "date": "09-04",
+   "wiki": "Google"
+  },
+  {
+   "id": "p020",
+   "kind": "pop",
+   "title": "Apple wurde an einem 1. April gegründet",
+   "text": "Am 1. April 1976 gründeten Steve Jobs, Steve Wozniak und Ronald Wayne das Unternehmen. Wayne verkaufte seinen Anteil von 10 Prozent nach zwölf Tagen für 800 Dollar.",
+   "topics": [
+    "tech"
+   ],
+   "date": "04-01",
+   "wiki": "Apple"
+  },
+  {
+   "id": "p021",
+   "kind": "pop",
+   "title": "Das iPhone wurde heute vorgestellt, nicht verkauft",
+   "text": "Am 9. Januar 2007 präsentierte Steve Jobs das erste iPhone als drei Geräte in einem. In den Verkauf kam es erst fast ein halbes Jahr später.",
+   "topics": [
+    "tech"
+   ],
+   "date": "01-09",
+   "wiki": "IPhone"
+  },
+  {
+   "id": "p022",
+   "kind": "pop",
+   "title": "Sonic sollte Mario schlagen",
+   "text": "Am 23. Juni 1991 erschien Sonic the Hedgehog für das Mega Drive. Sega baute die Figur bewusst schnell und frech, als Gegenentwurf zu Nintendos Maskottchen.",
+   "topics": [
+    "gaming"
+   ],
+   "date": "06-23",
+   "wiki": "Sonic the Hedgehog"
+  },
+  {
+   "id": "p023",
+   "kind": "pop",
+   "title": "Die PlayStation entstand aus einem geplatzten Deal",
+   "text": "Am 3. Dezember 1994 kam die erste PlayStation in Japan heraus. Sony hatte ursprünglich ein CD-Laufwerk für Nintendo entwickelt, bis Nintendo den Vertrag platzen ließ.",
+   "topics": [
+    "gaming"
+   ],
+   "date": "12-03",
+   "wiki": "PlayStation"
+  },
+  {
+   "id": "p024",
+   "kind": "pop",
+   "title": "Das Famicom wurde zum NES",
+   "text": "Am 15. Juli 1983 erschien Nintendos Family Computer in Japan. Zwei Jahre später kam er als Nintendo Entertainment System in den Westen, bewusst wie ein Videorekorder gestaltet.",
+   "topics": [
+    "gaming"
+   ],
+   "date": "07-15",
+   "wiki": "Nintendo Entertainment System"
+  },
+  {
+   "id": "p025",
+   "kind": "pop",
+   "title": "Bitcoin startete mit einer Zeitungsschlagzeile",
+   "text": "Im ersten Block vom 3. Januar 2009 steckt der Satz The Times 03/Jan/2009 Chancellor on brink of second bailout for banks. Er dient als Zeitstempel und als Kommentar.",
+   "topics": [
+    "tech"
+   ],
+   "date": "01-03",
+   "wiki": "Bitcoin"
+  },
+  {
+   "id": "p026",
+   "kind": "pop",
+   "title": "Coca-Cola wurde als Medizin verkauft",
+   "text": "Am 8. Mai 1886 verkaufte eine Apotheke in Atlanta das erste Glas. Es galt als Kopfschmerzmittel und kostete fünf Cent.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "date": "05-08",
+   "wiki": "Coca-Cola"
+  },
+  {
+   "id": "p027",
+   "kind": "pop",
+   "title": "Die Beatles spielten vor 73 Millionen Menschen",
+   "text": "Am 9. Februar 1964 traten sie in der Ed Sullivan Show auf. Rund 40 Prozent aller US-Amerikaner sahen zu, es blieb jahrzehntelang ein Fernsehrekord.",
+   "topics": [
+    "music"
+   ],
+   "date": "02-09",
+   "wiki": "The Beatles"
+  },
+  {
+   "id": "p028",
+   "kind": "pop",
+   "title": "James Bond kam heute zum ersten Mal ins Kino",
+   "text": "Am 5. Oktober 1962 lief James Bond jagt Dr. No in London an. Am selben Tag erschien die erste Beatles-Single Love Me Do.",
+   "topics": [
+    "movies",
+    "music"
+   ],
+   "date": "10-05",
+   "wiki": "James Bond jagt Dr. No"
+  },
+  {
+   "id": "p029",
+   "kind": "pop",
+   "title": "Auf dem Mond wurde Golf gespielt",
+   "text": "Am 6. Februar 1971 schlug Alan Shepard bei Apollo 14 zwei Golfbälle. In seinem Raumanzug konnte er nur einarmig schwingen.",
+   "topics": [
+    "space",
+    "sports"
+   ],
+   "date": "02-06",
+   "wiki": "Apollo 14"
+  },
+  {
+   "id": "p030",
+   "kind": "pop",
+   "title": "Der erste Kinobesuch der Geschichte kostete einen Franc",
+   "text": "Am 28. Dezember 1895 zeigten die Brüder Lumière in Paris zehn kurze Filme vor zahlendem Publikum. Rund 35 Menschen kamen.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "date": "12-28",
+   "wiki": "Auguste und Louis Lumière"
+  },
+  {
+   "id": "p031",
+   "kind": "pop",
+   "title": "Die Xbox war Microsofts teurer Einstieg",
+   "text": "Am 15. November 2001 erschien die erste Xbox in den USA. Sie war im Kern ein PC in einer Konsole, inklusive Festplatte, was damals ungewöhnlich war.",
+   "topics": [
+    "gaming"
+   ],
+   "date": "11-15",
+   "wiki": "Xbox"
+  },
+  {
+   "id": "p032",
+   "kind": "pop",
+   "title": "Minecraft begann als Ein-Personen-Projekt",
+   "text": "Markus Persson veröffentlichte 2009 eine erste spielbare Version, gebaut in wenigen Tagen. 2014 kaufte Microsoft das Spiel für 2,5 Milliarden Dollar.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Minecraft"
+  },
+  {
+   "id": "p033",
+   "kind": "pop",
+   "title": "Tetris kam aus einem sowjetischen Forschungsinstitut",
+   "text": "Alexei Paschitnow programmierte es 1984 an der Akademie der Wissenschaften. Jahrelang stritten Firmen um die Rechte, während er selbst zunächst nichts daran verdiente.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Tetris"
+  },
+  {
+   "id": "p034",
+   "kind": "pop",
+   "title": "Der Konami-Code entstand aus Bequemlichkeit",
+   "text": "Ein Entwickler baute die Tastenfolge 1986 ein, weil er sein eigenes Spiel zum Testen zu schwer fand. Sie überlebte in Dutzenden Spielen und sogar auf Webseiten.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Konami-Code"
+  },
+  {
+   "id": "p035",
+   "kind": "pop",
+   "title": "Die Wilhelmsschrei ist in Hunderten Filmen zu hören",
+   "text": "Der Schrei wurde 1951 für einen Western aufgenommen und seither als Insiderwitz immer wieder eingesetzt, von Star Wars bis Toy Story.",
+   "topics": [
+    "movies"
+   ],
+   "wiki": "Wilhelmsschrei"
+  },
+  {
+   "id": "p036",
+   "kind": "pop",
+   "title": "Der Pixar-Lampen-Kurzfilm war eine Bewerbung",
+   "text": "Luxo Jr. entstand 1986, um zu zeigen, was Computeranimation kann. Die Lampe hüpft bis heute in jedes Pixar-Logo.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Luxo Jr."
+  },
+  {
+   "id": "p037",
+   "kind": "pop",
+   "title": "Freddie Mercury schrieb Bohemian Rhapsody auf Telefonbücher",
+   "text": "Skizzen der Textzeilen entstanden auf allem, was greifbar war. Die Aufnahme brauchte 1975 rund drei Wochen und über 180 Overdubs im Chorteil.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Bohemian Rhapsody"
+  },
+  {
+   "id": "p039",
+   "kind": "pop",
+   "title": "Der erste Werbespot im Fernsehen dauerte zehn Sekunden",
+   "text": "Am 1. Juli 1941 lief in New York ein Spot für Bulova-Uhren vor einem Baseballspiel. Er kostete rund neun Dollar.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "date": "07-01",
+   "wiki": "Fernsehwerbung"
+  },
+  {
+   "id": "p040",
+   "kind": "pop",
+   "title": "Das erste Emoji-Set hatte 176 Zeichen",
+   "text": "Shigetaka Kurita entwarf es 1999 für einen japanischen Mobilfunkanbieter, jedes Symbol 12 mal 12 Pixel. Das Set steht heute im Museum of Modern Art in New York.",
+   "topics": [
+    "tech",
+    "language"
+   ],
+   "wiki": "Emoji"
+  },
+  {
+   "id": "r001",
+   "kind": "random",
+   "title": "Es gibt ein Wort für den Geruch nach Regen",
+   "text": "Petrichor beschreibt den Duft, wenn Regen auf trockenen Boden trifft. Zwei australische Forschende prägten den Begriff 1964 aus griechisch Stein und Götterblut.",
+   "topics": [
+    "language",
+    "nature"
+   ],
+   "wiki": "Petrichor"
+  },
+  {
+   "id": "r002",
+   "kind": "random",
+   "title": "Die Punkte auf einem Würfel ergeben immer sieben",
+   "text": "Gegenüberliegende Seiten eines Standardwürfels addieren sich zu sieben. Diese Konvention hält sich seit der Antike.",
+   "topics": [
+    "gaming",
+    "weird"
+   ]
+  },
+  {
+   "id": "r003",
+   "kind": "random",
+   "title": "Ein Tag ist nicht exakt 24 Stunden lang",
+   "text": "Die Erdrotation schwankt leicht, deshalb werden gelegentlich Schaltsekunden eingefügt. 2022 wurde beschlossen, sie bis 2035 abzuschaffen.",
+   "topics": [
+    "science",
+    "tech"
+   ],
+   "wiki": "Schaltsekunde"
+  },
+  {
+   "id": "r004",
+   "kind": "random",
+   "title": "Der Reißverschluss hieß zuerst ganz anders",
+   "text": "Die frühe Version von 1893 wurde als Clasp Locker vermarktet und floppte. Den Namen Zipper prägte 1923 eine Gummistiefelfirma, weil er beim Schließen so klang.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Reißverschluss"
+  },
+  {
+   "id": "r005",
+   "kind": "random",
+   "title": "Die Bezeichnung Bug kommt von einem echten Insekt",
+   "text": "1947 klebte ein Team in Harvard eine Motte ins Logbuch eines Rechners, die einen Fehler ausgelöst hatte. Das Wort für technische Fehler war allerdings schon vorher im Umlauf.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Programmfehler"
+  },
+  {
+   "id": "r006",
+   "kind": "random",
+   "title": "Ketchup wurde als Medizin verkauft",
+   "text": "In den 1830er Jahren pries ein US-Arzt Tomatenketchup in Pillenform gegen Verdauungsbeschwerden an. Der Markt brach zusammen, als Konkurrenten wirkungslose Kopien verkauften.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "r007",
+   "kind": "random",
+   "title": "Ein Fußballfeld hat keine feste Größe",
+   "text": "Die Regeln erlauben 90 bis 120 Meter Länge und 45 bis 90 Meter Breite. Nur für internationale Spiele ist der Rahmen enger gefasst.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Fußballregeln"
+  },
+  {
+   "id": "r008",
+   "kind": "random",
+   "title": "Der Sekundenzeiger ist eine junge Erfindung",
+   "text": "Erst im 17. Jahrhundert wurden Uhren mit Pendel genau genug, um Sekunden sinnvoll anzuzeigen. Davor reichte vielen Turmuhren ein einziger Zeiger.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "r009",
+   "kind": "random",
+   "title": "Rechtshänder überwiegen seit der Steinzeit",
+   "text": "Abnutzungsspuren an Zähnen und Werkzeugen zeigen dasselbe Verhältnis wie heute, rund neun zu eins. Die Ursache ist bis heute nicht abschließend geklärt.",
+   "topics": [
+    "body",
+    "history"
+   ]
+  },
+  {
+   "id": "r010",
+   "kind": "random",
+   "title": "Die Tasten F und J haben Rillen aus gutem Grund",
+   "text": "Sie markieren die Grundstellung für den Zehnfingerschreiber, ohne dass man hinsehen muss. Auf der 5 des Nummernblocks sitzt aus demselben Grund ein Punkt.",
+   "topics": [
+    "tech"
+   ]
+  },
+  {
+   "id": "r011",
+   "kind": "random",
+   "title": "Es gibt ein Land ohne Fluss",
+   "text": "Saudi-Arabien hat keinen dauerhaft wasserführenden Fluss. Ein großer Teil des Trinkwassers stammt aus Meerwasserentsalzung.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Saudi-Arabien"
+  },
+  {
+   "id": "r012",
+   "kind": "random",
+   "title": "Kühe haben beste Freundinnen",
+   "text": "Studien zeigen: Sind Kühe mit einer vertrauten Partnerin zusammen, sinkt ihr Herzschlag und der Stresshormonspiegel. Trennt man sie, steigt beides messbar.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "r013",
+   "kind": "random",
+   "title": "Der Trick mit der Zeitumstellung stammt aus dem Krieg",
+   "text": "Deutschland führte die Sommerzeit 1916 ein, um Kohle zu sparen. Andere Länder zogen binnen Wochen nach.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Sommerzeit"
+  },
+  {
+   "id": "r014",
+   "kind": "random",
+   "title": "Ein Blatt Papier ist nie ganz weiß",
+   "text": "Damit Papier weiß wirkt, werden optische Aufheller zugesetzt, die UV-Licht in blaues Licht umwandeln. Unter Schwarzlicht leuchtet frisches Druckerpapier deshalb bläulich.",
+   "topics": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "id": "r015",
+   "kind": "random",
+   "title": "Wolkenkratzer schwanken absichtlich",
+   "text": "Hohe Türme sind so konstruiert, dass sie bei Wind nachgeben statt zu brechen. In Taipeh hängt dafür eine 660 Tonnen schwere Stahlkugel als Schwingungsdämpfer im Gebäude.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Taipei 101"
+  },
+  {
+   "id": "r016",
+   "kind": "random",
+   "title": "Die Zahl Null kam spät nach Europa",
+   "text": "Indische Mathematiker rechneten schon im 7. Jahrhundert mit der Null. In Europa setzte sie sich erst ab dem 13. Jahrhundert durch, gegen erheblichen Widerstand.",
+   "topics": [
+    "history",
+    "science"
+   ],
+   "wiki": "Null"
+  },
+  {
+   "id": "r017",
+   "kind": "random",
+   "title": "Popcorn platzt bei genau der richtigen Feuchtigkeit",
+   "text": "Im Korn stecken etwa 14 Prozent Wasser. Beim Erhitzen wird daraus Dampf, bis die harte Schale bei rund 180 Grad und neun Bar nachgibt.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "r018",
+   "kind": "random",
+   "title": "Der Regenbogen ist eigentlich ein Kreis",
+   "text": "Vom Boden aus schneidet der Horizont ihn ab. Aus dem Flugzeug lässt sich der vollständige Kreis beobachten.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Regenbogen"
+  },
+  {
+   "id": "r019",
+   "kind": "random",
+   "title": "Es gibt eine offizielle Einheit für Schärfe",
+   "text": "Die Scoville-Skala misst, wie stark Chiliextrakt verdünnt werden muss, bis die Schärfe verschwindet. Reines Capsaicin liegt bei 16 Millionen Einheiten.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Scoville-Skala"
+  },
+  {
+   "id": "r020",
+   "kind": "random",
+   "title": "Ein Jahr auf der Erde verliert Sekunden an den Mond",
+   "text": "Gezeitenkräfte bremsen die Erdrotation um wenige Millisekunden pro Jahrhundert. Vor 600 Millionen Jahren hatte ein Tag nur rund 21 Stunden.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "r021",
+   "kind": "random",
+   "title": "Der Klettverschluss stammt von Kletten",
+   "text": "Der Schweizer Ingenieur George de Mestral untersuchte 1941 die Kletten im Fell seines Hundes unter dem Mikroskop. Aus den Häkchen wurde ein Patent.",
+   "topics": [
+    "tech",
+    "nature"
+   ],
+   "wiki": "Klettverschluss"
+  },
+  {
+   "id": "r022",
+   "kind": "random",
+   "title": "Die Farbe Orange ist nach der Frucht benannt",
+   "text": "Im Englischen gab es das Farbwort orange erst, nachdem die Frucht im 16. Jahrhundert bekannt wurde. Vorher hieß die Farbe geolurad, also gelbrot.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "r023",
+   "kind": "random",
+   "title": "Ein Marathon ist so lang wegen eines Königshauses",
+   "text": "Bei den Spielen 1908 in London wurde die Strecke verlängert, damit der Start am Schloss Windsor und das Ziel vor der königlichen Loge lag. Die 42,195 Kilometer blieben.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Marathonlauf"
+  },
+  {
+   "id": "r024",
+   "kind": "random",
+   "title": "Das @-Zeichen hat in jeder Sprache einen anderen Namen",
+   "text": "Auf Niederländisch heißt es Affenschwanz, auf Italienisch Schnecke, auf Dänisch Elefantenrüssel. Im Deutschen setzte sich schlicht Klammeraffe durch.",
+   "topics": [
+    "language",
+    "tech"
+   ],
+   "wiki": "At-Zeichen"
+  },
+  {
+   "id": "r025",
+   "kind": "random",
+   "title": "Wer schneller läuft, altert minimal langsamer",
+   "text": "Nach der Relativitätstheorie vergeht Zeit für bewegte Objekte langsamer. Bei Astronauten der ISS summiert sich der Effekt auf Bruchteile einer Sekunde pro Jahr.",
+   "topics": [
+    "science",
+    "space"
+   ],
+   "wiki": "Zeitdilatation"
+  },
+  {
+   "id": "r026",
+   "kind": "random",
+   "title": "Es gibt eine Bibliothek ohne ein einziges Buch",
+   "text": "Manche Universitäten führen inzwischen rein digitale Bibliotheken. Die erste rein bookless public library der USA eröffnete 2013 in Bexar County, Texas.",
+   "topics": [
+    "tech",
+    "language"
+   ]
+  },
+  {
+   "id": "r027",
+   "kind": "random",
+   "title": "Der Notruf hat in Europa eine gemeinsame Nummer",
+   "text": "Die 112 funktioniert in allen EU-Staaten, oft auch ohne SIM-Karte und ohne Guthaben. Sie wurde 1991 beschlossen.",
+   "topics": [
+    "tech",
+    "geography"
+   ],
+   "wiki": "Euronotruf 112"
+  },
+  {
+   "id": "r028",
+   "kind": "random",
+   "title": "Zebrastreifen heißen fast überall nach Tieren",
+   "text": "Im Englischen zebra crossing, im Französischen passage clouté nach den früheren Metallnägeln. Der erste Zebrastreifen in Deutschland wurde 1952 markiert.",
+   "topics": [
+    "language",
+    "geography"
+   ]
+  },
+  {
+   "id": "r029",
+   "kind": "random",
+   "title": "Ein Fingerabdruck bleibt ein Leben lang gleich",
+   "text": "Die Muster bilden sich vor der Geburt in der Fruchtblase aus und verändern sich nicht mehr. Selbst Koalas haben Fingerabdrücke, die menschlichen verblüffend ähneln.",
+   "topics": [
+    "body",
+    "animals"
+   ],
+   "wiki": "Fingerabdruck"
+  },
+  {
+   "id": "r030",
+   "kind": "random",
+   "title": "Der Buchstabe im Autokennzeichen sagt etwas über 1956",
+   "text": "Das deutsche System stammt von 1956 und vergibt kurze Kürzel an große Städte. Deshalb hat München nur ein M und Recklinghausen drei Buchstaben.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Kfz-Kennzeichen (Deutschland)"
+  },
+  {
+   "id": "h001",
+   "kind": "history",
+   "title": "Die Mauer fiel",
+   "text": "Am 9. November 1989 öffnete die DDR nach einer missverständlichen Pressekonferenz ihre Grenzübergänge. Noch in derselben Nacht standen Zehntausende auf der Mauer.",
+   "topics": [
+    "history"
+   ],
+   "date": "11-09",
+   "wiki": "Mauerfall"
+  },
+  {
+   "id": "h002",
+   "kind": "history",
+   "title": "Menschen betraten den Mond",
+   "text": "Am 20. Juli 1969 landete die Apollo-11-Fähre im Mare Tranquillitatis. Der Bordcomputer hatte während des Anflugs mehrfach Überlastungsalarme ausgegeben.",
+   "topics": [
+    "history",
+    "space"
+   ],
+   "date": "07-20",
+   "wiki": "Apollo 11"
+  },
+  {
+   "id": "h003",
+   "kind": "history",
+   "title": "Der erste Mensch flog ins All",
+   "text": "Am 12. April 1961 umrundete Juri Gagarin in 108 Minuten die Erde. Er sprang vor der Landung mit dem Fallschirm aus der Kapsel, was jahrelang verschwiegen wurde.",
+   "topics": [
+    "history",
+    "space"
+   ],
+   "date": "04-12",
+   "wiki": "Juri Gagarin"
+  },
+  {
+   "id": "h004",
+   "kind": "history",
+   "title": "Die Titanic sank",
+   "text": "In der Nacht zum 15. April 1912 versank das Schiff nach einer Kollision mit einem Eisberg. Für 2200 Menschen an Bord gab es Rettungsboote für rund die Hälfte.",
+   "topics": [
+    "history"
+   ],
+   "date": "04-15",
+   "wiki": "Titanic"
+  },
+  {
+   "id": "h005",
+   "kind": "history",
+   "title": "Der Erste Weltkrieg endete",
+   "text": "Am 11. November 1918 um 11 Uhr trat der Waffenstillstand von Compiègne in Kraft. Unterschrieben worden war er in einem Eisenbahnwaggon fünf Stunden zuvor.",
+   "topics": [
+    "history"
+   ],
+   "date": "11-11",
+   "wiki": "Waffenstillstand von Compiègne (1918)"
+  },
+  {
+   "id": "h006",
+   "kind": "history",
+   "title": "Tschernobyl explodierte",
+   "text": "Am 26. April 1986 kam es bei einem Sicherheitstest zur Explosion von Reaktor 4. Schweden meldete die erhöhte Radioaktivität, bevor die Sowjetunion den Unfall bestätigte.",
+   "topics": [
+    "history",
+    "science"
+   ],
+   "date": "04-26",
+   "wiki": "Nuklearkatastrophe von Tschernobyl"
+  },
+  {
+   "id": "h007",
+   "kind": "history",
+   "title": "Die Französische Revolution begann",
+   "text": "Am 14. Juli 1789 stürmten Pariser die Bastille. Im Gefängnis saßen zu diesem Zeitpunkt nur sieben Gefangene.",
+   "topics": [
+    "history"
+   ],
+   "date": "07-14",
+   "wiki": "Sturm auf die Bastille"
+  },
+  {
+   "id": "h008",
+   "kind": "history",
+   "title": "Amerika erklärte seine Unabhängigkeit",
+   "text": "Am 4. Juli 1776 verabschiedete der Kontinentalkongress die Unabhängigkeitserklärung. Die meisten Delegierten unterschrieben sie erst Wochen später.",
+   "topics": [
+    "history"
+   ],
+   "date": "07-04",
+   "wiki": "Unabhängigkeitserklärung der Vereinigten Staaten"
+  },
+  {
+   "id": "h009",
+   "kind": "history",
+   "title": "Der Zweite Weltkrieg begann",
+   "text": "Am 1. September 1939 überfiel die Wehrmacht Polen. Zwei Tage später erklärten Großbritannien und Frankreich dem Deutschen Reich den Krieg.",
+   "topics": [
+    "history"
+   ],
+   "date": "09-01",
+   "wiki": "Überfall auf Polen"
+  },
+  {
+   "id": "h010",
+   "kind": "history",
+   "title": "Die Bundesrepublik bekam ihr Grundgesetz",
+   "text": "Am 23. Mai 1949 wurde es verkündet. Gedacht war es als Provisorium bis zur Wiedervereinigung, deshalb hieß es nicht Verfassung.",
+   "topics": [
+    "history"
+   ],
+   "date": "05-23",
+   "wiki": "Grundgesetz für die Bundesrepublik Deutschland"
+  },
+  {
+   "id": "h011",
+   "kind": "history",
+   "title": "Deutschland wurde wiedervereinigt",
+   "text": "Am 3. Oktober 1990 traten die fünf neuen Länder der Bundesrepublik bei. Zwischen Mauerfall und Einheit lagen weniger als elf Monate.",
+   "topics": [
+    "history"
+   ],
+   "date": "10-03",
+   "wiki": "Deutsche Wiedervereinigung"
+  },
+  {
+   "id": "h012",
+   "kind": "history",
+   "title": "Das Penicillin wurde entdeckt",
+   "text": "Alexander Fleming bemerkte 1928 nach dem Urlaub, dass ein Schimmelpilz seine Bakterienkulturen abgetötet hatte. Bis zum einsetzbaren Medikament dauerte es weitere zwölf Jahre.",
+   "topics": [
+    "history",
+    "science"
+   ],
+   "date": "09-28",
+   "wiki": "Penicilline"
+  },
+  {
+   "id": "h013",
+   "kind": "history",
+   "title": "Röntgen entdeckte eine neue Art Strahlen",
+   "text": "Am 8. November 1895 bemerkte Wilhelm Conrad Röntgen ein Leuchten, das durch schwarzen Karton drang. Wochen später fotografierte er die Hand seiner Frau.",
+   "topics": [
+    "history",
+    "science",
+    "body"
+   ],
+   "date": "11-08",
+   "wiki": "Wilhelm Conrad Röntgen"
+  },
+  {
+   "id": "h014",
+   "kind": "history",
+   "title": "Der Buchdruck veränderte Europa",
+   "text": "Um 1450 begann Johannes Gutenberg in Mainz mit beweglichen Lettern zu drucken. Innerhalb von 50 Jahren entstanden in Europa Millionen gedruckter Bücher.",
+   "topics": [
+    "history",
+    "tech",
+    "language"
+   ],
+   "wiki": "Johannes Gutenberg"
+  },
+  {
+   "id": "h015",
+   "kind": "history",
+   "title": "Die Sklaverei wurde in den USA abgeschafft",
+   "text": "Am 6. Dezember 1865 trat der 13. Verfassungszusatz in Kraft. Der Bürgerkrieg war zu diesem Zeitpunkt seit acht Monaten vorbei.",
+   "topics": [
+    "history"
+   ],
+   "date": "12-06",
+   "wiki": "13. Zusatzartikel zur Verfassung der Vereinigten Staaten"
+  },
+  {
+   "id": "h016",
+   "kind": "history",
+   "title": "Die Vereinten Nationen entstanden",
+   "text": "Am 24. Oktober 1945 trat die UN-Charta in Kraft. 51 Staaten waren Gründungsmitglieder, heute sind es 193.",
+   "topics": [
+    "history"
+   ],
+   "date": "10-24",
+   "wiki": "Vereinte Nationen"
+  },
+  {
+   "id": "h017",
+   "kind": "history",
+   "title": "Der Eiffelturm wurde eröffnet",
+   "text": "Am 31. März 1889 wurde der Turm zur Weltausstellung fertiggestellt. Er sollte nach 20 Jahren abgerissen werden und blieb nur, weil er als Funkantenne nützlich war.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "date": "03-31",
+   "wiki": "Eiffelturm"
+  },
+  {
+   "id": "h018",
+   "kind": "history",
+   "title": "Das erste Auto fuhr über Land",
+   "text": "1888 fuhr Bertha Benz mit ihren Söhnen 106 Kilometer von Mannheim nach Pforzheim, ohne ihren Mann zu fragen. Unterwegs erfand sie den Bremsbelag.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Bertha Benz"
+  },
+  {
+   "id": "h019",
+   "kind": "history",
+   "title": "Die Brüder Wright hoben ab",
+   "text": "Am 17. Dezember 1903 flog ihre Maschine zwölf Sekunden weit. Der vierte Versuch desselben Tages schaffte bereits 260 Meter.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "date": "12-17",
+   "wiki": "Gebrüder Wright"
+  },
+  {
+   "id": "h020",
+   "kind": "history",
+   "title": "Die Pest erreichte Europa",
+   "text": "Ab 1347 breitete sich der Schwarze Tod über Handelswege aus. Innerhalb weniger Jahre starb schätzungsweise ein Drittel der europäischen Bevölkerung.",
+   "topics": [
+    "history",
+    "science"
+   ],
+   "wiki": "Schwarzer Tod"
+  },
+  {
+   "id": "sp01",
+   "kind": "know",
+   "title": "Der Fußball war früher braun und saugte sich voll",
+   "text": "Lederbälle nahmen bei Regen Wasser auf und wurden im Spielverlauf deutlich schwerer. Kopfbälle waren dadurch riskant, heutige Bälle sind beschichtet und gewichtsstabil.",
+   "topics": [
+    "sports",
+    "tech"
+   ],
+   "wiki": "Fußball (Sportgerät)"
+  },
+  {
+   "id": "sp02",
+   "kind": "fact",
+   "title": "Ein Tennisball fliegt schneller als ein Formel-1-Auto",
+   "text": "Die schnellsten Aufschläge liegen bei rund 260 km/h. Ein Formel-1-Wagen erreicht auf den meisten Strecken ähnliche Spitzenwerte, beschleunigt aber langsamer.",
+   "topics": [
+    "sports"
+   ]
+  },
+  {
+   "id": "sp03",
+   "kind": "know",
+   "title": "Beim Marathon läuft niemand die Originaldistanz",
+   "text": "Der Legende nach lief ein Bote von Marathon nach Athen, rund 40 Kilometer. Die heutigen 42,195 Kilometer stammen von den Olympischen Spielen 1908 in London.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Marathonlauf"
+  },
+  {
+   "id": "sp04",
+   "kind": "random",
+   "title": "Golfbälle haben Dellen aus Physikgründen",
+   "text": "Die Dimples erzeugen eine turbulente Grenzschicht, die den Luftwiderstand senkt. Ein glatter Ball fliegt nur etwa halb so weit.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Golfball"
+  },
+  {
+   "id": "sp05",
+   "kind": "know",
+   "title": "Basketball wurde mit Pfirsichkörben erfunden",
+   "text": "James Naismith hängte 1891 zwei Körbe an eine Empore. Weil sie unten geschlossen waren, musste nach jedem Treffer jemand auf eine Leiter steigen.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "James Naismith"
+  },
+  {
+   "id": "sp06",
+   "kind": "fact",
+   "title": "Schwimmen im Wettkampf ist langsamer geworden, absichtlich",
+   "text": "2010 verbot der Weltverband die Ganzkörperanzüge aus Polyurethan. Viele Weltrekorde aus 2008 und 2009 hielten danach jahrelang stand.",
+   "topics": [
+    "sports",
+    "tech"
+   ]
+  },
+  {
+   "id": "sp07",
+   "kind": "random",
+   "title": "Der höchste Berg mit Skilift steht nicht in den Alpen",
+   "text": "Die höchste Seilbahnstation der Welt liegt in den Anden bei Mérida in Venezuela, auf rund 4765 Metern.",
+   "topics": [
+    "sports",
+    "geography"
+   ]
+  },
+  {
+   "id": "sp08",
+   "kind": "know",
+   "title": "Ein Boxring ist quadratisch",
+   "text": "Der Name stammt aus der Zeit, als Zuschauer einen Kreis um die Kämpfer bildeten. Erst 1838 legten die London Prize Ring Rules ein Quadrat fest.",
+   "topics": [
+    "sports",
+    "history",
+    "language"
+   ]
+  },
+  {
+   "id": "sp09",
+   "kind": "fact",
+   "title": "Schach war olympisch, aber nur einmal fast",
+   "text": "Schach ist vom IOC als Sport anerkannt, war aber nie Teil der Olympischen Spiele. Eine eigene Schacholympiade gibt es dagegen seit 1927.",
+   "topics": [
+    "sports",
+    "gaming"
+   ],
+   "wiki": "Schacholympiade"
+  },
+  {
+   "id": "sp10",
+   "kind": "know",
+   "title": "Der Torwart durfte den Ball einmal überall aufnehmen",
+   "text": "Bis 1912 konnte ein Torhüter den Ball auf dem gesamten Spielfeld in die Hand nehmen. Die Rückpassregel kam erst 1992, nach einer als zäh empfundenen WM.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Fußballregeln"
+  },
+  {
+   "id": "sp11",
+   "kind": "random",
+   "title": "Bei der Tour de France fahren die Profis mit halber Herzleistung bergauf",
+   "text": "Spitzenfahrer bringen am Berg über 6 Watt pro Kilogramm Körpergewicht über 20 Minuten. Ein trainierter Freizeitfahrer schafft etwa die Hälfte.",
+   "topics": [
+    "sports",
+    "body"
+   ]
+  },
+  {
+   "id": "sp12",
+   "kind": "fact",
+   "title": "Der Weitsprung-Weltrekord der Männer hält seit 1991",
+   "text": "Mike Powell sprang 8,95 Meter in Tokio und beendete damit eine 23 Jahre alte Bestmarke. Sein Rekord steht seit über drei Jahrzehnten.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Mike Powell"
+  },
+  {
+   "id": "mu01",
+   "kind": "know",
+   "title": "Der Kammerton A war nicht immer 440 Hertz",
+   "text": "Historische Orchester stimmten teils deutlich tiefer. Erst 1939 einigte sich eine internationale Konferenz auf 440 Hertz, und selbst heute spielen manche Orchester höher.",
+   "topics": [
+    "music",
+    "science"
+   ],
+   "wiki": "Kammerton"
+  },
+  {
+   "id": "mu02",
+   "kind": "fact",
+   "title": "Das meistgesungene Lied der Welt war jahrzehntelang urheberrechtlich geschützt",
+   "text": "Happy Birthday brachte bis 2016 Millionen an Lizenzgebühren ein. Ein US-Gericht erklärte den Anspruch dann für ungültig.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Happy Birthday to You"
+  },
+  {
+   "id": "mu03",
+   "kind": "random",
+   "title": "Es gibt ein Musikstück, das 639 Jahre dauert",
+   "text": "In Halberstadt läuft seit 2001 eine Aufführung von John Cages Orgelstück ASLSP. Der nächste Akkordwechsel steht Jahre später an, jeder ist ein kleines Ereignis.",
+   "topics": [
+    "music",
+    "weird"
+   ],
+   "wiki": "As Slow as Possible"
+  },
+  {
+   "id": "mu04",
+   "kind": "know",
+   "title": "Die Beatles konnten keine Noten lesen",
+   "text": "Alle vier arbeiteten nach Gehör. Produzent George Martin übersetzte ihre Ideen in Partituren für Streicher und Bläser.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "The Beatles"
+  },
+  {
+   "id": "mu05",
+   "kind": "fact",
+   "title": "Der tiefste Ton, den ein Mensch je gesungen hat, ist nicht hörbar",
+   "text": "Rekordhalter erreichen Frequenzen unter 10 Hertz. Das menschliche Ohr nimmt erst ab etwa 20 Hertz einen Ton wahr, darunter spürt man ihn nur.",
+   "topics": [
+    "music",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "mu06",
+   "kind": "random",
+   "title": "Ohrwürmer folgen einem Muster",
+   "text": "Untersuchungen zeigen: Eingängige Melodien haben oft einen einfachen Aufwärtsbogen und ein ungewöhnliches Intervall. Das Gehirn will die unerwartete Stelle wiederholen.",
+   "topics": [
+    "music",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "mu07",
+   "kind": "know",
+   "title": "Ein Klavier hat mehr als 200 Saiten",
+   "text": "Für 88 Tasten werden rund 230 Saiten gespannt, weil höhere Töne zwei oder drei Saiten pro Ton nutzen. Die Gesamtspannung erreicht etwa 20 Tonnen.",
+   "topics": [
+    "music",
+    "tech"
+   ],
+   "wiki": "Klavier"
+  },
+  {
+   "id": "mu08",
+   "kind": "fact",
+   "title": "Die Stradivari-Frage ist wissenschaftlich offen",
+   "text": "In Blindtests konnten selbst Profis alte Meistergeigen nicht zuverlässig von modernen unterscheiden. Manche Studien fanden sogar eine leichte Vorliebe für neue Instrumente.",
+   "topics": [
+    "music",
+    "science"
+   ],
+   "wiki": "Stradivari"
+  },
+  {
+   "id": "mu09",
+   "kind": "know",
+   "title": "Der Synthesizer wurde für Filmmusik populär, bevor Pop ihn entdeckte",
+   "text": "Wendy Carlos' Album Switched-On Bach machte 1968 den Moog bekannt. Kurz darauf war der Klang aus Kino und Charts nicht mehr wegzudenken.",
+   "topics": [
+    "music",
+    "tech",
+    "movies"
+   ],
+   "wiki": "Moog-Synthesizer"
+  },
+  {
+   "id": "mu10",
+   "kind": "random",
+   "title": "Vinyl klingt auf der Innenseite technisch schlechter",
+   "text": "Weiter innen wird pro Umdrehung weniger Rillenlänge abgetastet. Deshalb platzieren Mastering-Studios lautere und höhenreiche Stücke gern am Anfang einer Plattenseite.",
+   "topics": [
+    "music",
+    "tech"
+   ]
+  },
+  {
+   "id": "gm01",
+   "kind": "know",
+   "title": "Der Pac-Man-Rekord endet in einem kaputten Level",
+   "text": "Wegen eines Überlaufs im Speicher ist Level 256 nur zur Hälfte darstellbar. Es gilt als Ende des Spiels, das die Entwickler nie vorgesehen hatten.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Pac-Man"
+  },
+  {
+   "id": "gm02",
+   "kind": "fact",
+   "title": "Die Wolken in Super Mario Bros. sind Büsche",
+   "text": "Um Speicher zu sparen, nutzten die Entwickler dieselbe Grafik zweimal, nur anders eingefärbt. Dieselbe Sparsamkeit steckt hinter Marios Mütze und seinem Schnurrbart.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Super Mario Bros."
+  },
+  {
+   "id": "gm03",
+   "kind": "random",
+   "title": "Das erste Videospiel lief auf einem Oszilloskop",
+   "text": "Tennis for Two entstand 1958 an einem US-Forschungslabor als Attraktion für den Tag der offenen Tür. Gespielt wurde auf einem runden Bildschirm von wenigen Zentimetern.",
+   "topics": [
+    "gaming",
+    "history",
+    "tech"
+   ],
+   "wiki": "Tennis for Two"
+  },
+  {
+   "id": "gm04",
+   "kind": "know",
+   "title": "Die Geräusche in Spielen stammen oft aus dem Alltag",
+   "text": "Für Soundeffekte greifen Studios auf Gemüse, Regenschirme und Türscharniere zurück. Das Handwerk heißt Foley, benannt nach dem Tontechniker Jack Foley.",
+   "topics": [
+    "gaming",
+    "movies",
+    "tech"
+   ],
+   "wiki": "Geräuschemacher"
+  },
+  {
+   "id": "mo01",
+   "kind": "know",
+   "title": "Der Regen in alten Filmen war oft Milch",
+   "text": "Weil Wasser auf Schwarzweißfilm kaum zu sehen war, mischten Teams Milch ins Wasser. Ähnlich behalf man sich bei Rauch, Blut und Schnee.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Filmtrick"
+  },
+  {
+   "id": "mo02",
+   "kind": "fact",
+   "title": "Der Abspann wurde erst durch Star Wars zur Pflicht",
+   "text": "Lange liefen Namen am Anfang. Als George Lucas 1977 alles ans Ende schob, brachte ihm das Ärger mit der Regie-Gewerkschaft und ein Bußgeld ein.",
+   "topics": [
+    "movies",
+    "history"
+   ]
+  },
+  {
+   "id": "mo03",
+   "kind": "random",
+   "title": "Filme laufen mit 24 Bildern pro Sekunde aus Kostengründen",
+   "text": "Die Zahl war der Kompromiss zwischen flüssiger Bewegung und Filmmaterialverbrauch, als der Tonfilm kam. Sie hat sich als Kinoästhetik gehalten, obwohl Technik längst mehr könnte.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Bildfrequenz"
+  },
+  {
+   "id": "mo04",
+   "kind": "know",
+   "title": "Hollywood liegt dort, weil die Sonne verlässlich scheint",
+   "text": "Die frühen Studios zogen aus New York an die Westküste, für Licht und Außendrehs das ganze Jahr. Praktischerweise war man dort auch weiter weg von Edisons Patentanwälten.",
+   "topics": [
+    "movies",
+    "history",
+    "geography"
+   ],
+   "wiki": "Hollywood"
+  }
+ ]
+}

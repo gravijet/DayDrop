@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DayDrop</string>
+    <string name="channel_daily">Täglicher Drop</string>
+    <string name="channel_daily_desc">Eine Erinnerung pro Tag, wenn ein neuer Drop bereit ist.</string>
+</resources>
