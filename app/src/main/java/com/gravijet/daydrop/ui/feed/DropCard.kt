@@ -71,27 +71,38 @@ fun DropCard(
     Box(
         modifier = modifier
             .clip(RoundedCornerShape(32.dp))
-            .background(palette.brush)
+            .background(if (drop.imageUrl != null) Color.Black else palette.brush)
     ) {
         drop.imageUrl?.let { url ->
+            // The photo itself carries the card - full strength, no colour
+            // wash on top of it. Only a near-black gradient sits over the
+            // lower third so the text stays readable, and it leaves the
+            // upper two thirds of the picture completely untouched.
             AsyncImage(
                 model = url,
                 contentDescription = null,
                 contentScale = ContentScale.Crop,
-                modifier = Modifier
-                    .fillMaxSize()
-                    .alpha(0.62f)
+                modifier = Modifier.fillMaxSize()
             )
             Box(
                 Modifier
                     .fillMaxSize()
                     .background(
                         Brush.verticalGradient(
-                            0f to palette.bottom.copy(alpha = 0.15f),
-                            0.35f to palette.bottom.copy(alpha = 0.55f),
-                            1f to palette.bottom.copy(alpha = 0.97f)
+                            0f to Color.Transparent,
+                            0.45f to Color.Transparent,
+                            0.62f to Color.Black.copy(alpha = 0.35f),
+                            0.8f to Color.Black.copy(alpha = 0.78f),
+                            1f to Color.Black.copy(alpha = 0.94f)
                         )
                     )
+            )
+            // A thin tint in the card's own colour, low enough not to dull the
+            // photo, so a fact card still reads differently from a quiz card.
+            Box(
+                Modifier
+                    .fillMaxSize()
+                    .background(palette.bottom.copy(alpha = 0.16f))
             )
         } ?: Text(
             text = drop.type.emoji,

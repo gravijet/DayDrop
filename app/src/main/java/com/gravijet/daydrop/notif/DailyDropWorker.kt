@@ -45,7 +45,7 @@ class DailyDropWorker(
      * Builds the day's drop and then nudges.
      *
      * Building it here rather than on first open is the reason the app has
-     * nothing to load: by the time the notification is tapped, the five cards -
+     * nothing to load: by the time the notification is tapped, the seven cards -
      * Wikipedia and all - are already sitting in the cache.
      */
     override suspend fun doWork(): Result {
@@ -87,7 +87,7 @@ class DailyDropWorker(
         drops.firstOrNull { it.type == DropType.QUIZ }?.let {
             parts += "Und eine Frage wartet, bei der die meisten falsch liegen."
         }
-        return parts.firstOrNull() ?: "Fünf Karten, eine Minute."
+        return parts.firstOrNull() ?: "Sieben Karten, ein paar Minuten."
     }
 
     private fun notify(title: String, body: String) {

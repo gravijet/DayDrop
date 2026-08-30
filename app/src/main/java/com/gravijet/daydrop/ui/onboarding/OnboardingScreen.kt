@@ -138,7 +138,7 @@ private fun WelcomeStep(modifier: Modifier = Modifier) {
         )
         Spacer(Modifier.height(18.dp))
         Text(
-            text = "Fünf Karten, eine Minute: kuriose Tage, " +
+            text = "Sieben Karten, ein paar Minuten: kuriose Tage, " +
                 "Ereignisse von heute vor X Jahren, Fakten, die hängen bleiben, " +
                 "und eine Frage, bei der du erst raten musst.",
             style = MaterialTheme.typography.bodyLarge,
@@ -178,7 +178,7 @@ private fun InterestStep(
         )
         Spacer(Modifier.height(10.dp))
         Text(
-            text = "Eine der fünf Karten pro Tag richtet sich nach deiner Auswahl. " +
+            text = "Eine der sieben Karten pro Tag richtet sich nach deiner Auswahl. " +
                 "Du kannst das jederzeit ändern.",
             style = MaterialTheme.typography.bodyMedium,
             color = ChalkDim

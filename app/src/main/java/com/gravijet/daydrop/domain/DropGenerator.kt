@@ -16,10 +16,12 @@ import java.time.LocalDate
 import kotlin.random.Random
 
 /**
- * Five cards. Short enough to get through in under a minute, which is the whole
- * point of a daily drop - the old ten-card day needed nine swipes to finish.
+ * Seven cards. Still short enough to get through in a couple of minutes - the
+ * old ten-card day needed nine swipes to finish - but with the much larger
+ * curated pool behind it now, five felt thin before the network ever had to
+ * step in.
  */
-const val CARDS_PER_DAY = 5
+const val CARDS_PER_DAY = 7
 
 /**
  * Ceiling on how long the network may hold up an enrichment pass. The feed is
