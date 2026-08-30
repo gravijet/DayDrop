@@ -1,8 +1,8 @@
 # DayDrop
 
-Jeden Morgen fünf Karten: ein kurioser Tag, ein Ereignis von heute vor X Jahren,
-ein Artikel des Tages, ein Fakt zu deinen Themen und eine Frage, bei der man
-erst raten muss. In einer Minute durchgeswipet.
+Jeden Morgen sieben Karten: ein kurioser Tag, ein Ereignis von heute vor X
+Jahren, ein Artikel des Tages, mehrere Fakten zu deinen Themen und eine
+Frage, bei der man erst raten muss. In ein paar Minuten durchgeswipet.
 
 Android-App, privat gebaut. Fertige APK: **[Releases](../../releases)**.
 
@@ -17,7 +17,7 @@ Android-App, privat gebaut. Fertige APK: **[Releases](../../releases)**.
 Alle Releases sind mit demselben Schlüssel signiert, spätere Versionen
 installieren sich also als Update über die vorherige.
 
-## Der Tag in fünf Karten
+## Der Tag in sieben Karten
 
 | # | Karte | Woher |
 | --- | --- | --- |
@@ -25,7 +25,8 @@ installieren sich also als Update über die vorherige.
 | 2 | ⏳ **Heute vor X Jahren** | Wikipedia, das Ereignis des Tages |
 | 3 | 📖 **Artikel des Tages** | Wikipedia; ohne Netz springt ein kuratierter Fakt ein |
 | 4 | ✨ **Für dich** | Kuratierter Fakt aus deinen Themen |
-| 5 | 🧠 **Mini-Frage** | Erst tippen, dann Auflösung mit Erklärung |
+| 5–6 | 💡 **Weitere Fakten** | Kuratiert, aus dem restlichen Themen-Vorrat |
+| 7 | 🧠 **Mini-Frage** | Erst tippen, dann Auflösung mit Erklärung |
 
 Dazu: **Streak** (🔥 Tage in Folge), **Speichern** in eine eigene Liste,
 **Teilen** als 1080×1920-Story-Karte, und eine **Push-Nachricht** pro Tag, die
@@ -52,7 +53,7 @@ Beim Öffnen wird nichts geladen. Die App
    aus, sobald die Antwort da ist.
 
 Es gibt deshalb keinen Ladebildschirm mehr. Ohne Netz merkt man außer den
-beiden Karten nichts.
+beiden dafür vorgesehenen Karten nichts.
 
 ## Keine Wiederholungen – dauerhaft
 
@@ -73,19 +74,24 @@ zweimal ausgeliefert wird.
 
 ### Wie lange reicht der handgeschriebene Vorrat?
 
-Mit Netz verbraucht ein Tag **eine** kuratierte Karte (Slot 4), weil Slot 3 der
-Artikel des Tages ist. Der Fakten-Vorrat reicht damit rechnerisch über drei
-Jahre, die Fragen rund acht Monate, danach übernimmt Wikipedia diese Slots –
-ohne Wiederholung. Ohne Netz sind es zwei kuratierte Karten pro Tag.
+Mit Netz verbraucht ein Tag im Schnitt **drei** kuratierte Fakten-Karten
+(„Für dich" plus zwei der weiteren Fakten), weil die Slots „Heute vor X
+Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 1.700 nicht
+datumsgebundene Fakten stecken im Vorrat – rechnerisch reicht das über
+anderthalb Jahre, die Fragen (240 Stück) rund acht Monate. Danach übernimmt
+Wikipedia diese Slots, ohne Wiederholung. Ohne Netz kommen mehr Karten aus
+dem kuratierten Vorrat, weil dann auch der Artikel-Slot lokal gefüllt wird.
 
 Nachlegen geht jederzeit: eine Zeile mehr in `facts.json`, fertig.
 
 ## Bilder
 
-Hinter jeder Karte steht ein Foto aus einem **kuratierten Katalog** von 216
-Wikimedia-Commons-*Featured Pictures*: Landschaften, Tiere, Nachthimmel,
-Mineralien, Bibliotheken – nach Thema sortiert und alle beim Bauen des Katalogs
-auf Erreichbarkeit geprüft.
+Hinter jeder Karte steht ein Foto aus einem **kuratierten Katalog** von rund
+1.300 Wikimedia-Commons-*Featured Pictures*: Landschaften, Tiere, Nachthimmel,
+Mineralien, Bibliotheken – nach Thema sortiert und jede URL beim Aufbau des
+Katalogs direkt über die Wikimedia-API verifiziert. Das Bild sitzt in voller
+Stärke hinter der Karte, nur der untere Rand verdunkelt sich sanft für den
+Text – keine Karte zeigt bloß eine Farbfläche.
 
 Was bewusst **nicht** drin ist: Reproduktionen von Drucken, Plakaten und
 Gemälden sowie historische Aufnahmen. Genau die tragen ein Datum im Bild und
@@ -109,7 +115,7 @@ Backend, kein Tracking.
 Die Netzaufrufe gehen ausschließlich an die offene Wikimedia-REST-API
 (`onthisday` für Ereignisse und Feiertage, `feed/featured` für den Artikel des
 Tages) und an `upload.wikimedia.org` für die Fotos. Ohne Netz funktioniert die
-App weiter: 1255 Fakten, 266 Aktionstage und 240 Fragen liegen in der APK.
+App weiter: 1822 Fakten, 266 Aktionstage und 240 Fragen liegen in der APK.
 
 ## Selbst bauen
 
