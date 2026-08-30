@@ -3568,6 +3568,724 @@
     "weird",
     "geography"
    ]
+  },
+  {
+   "id": "xq001",
+   "question": "Wie viele Herzen hat ein Regenwurm ungefähr?",
+   "options": [
+    "Eins",
+    "Fünf",
+    "Keins"
+   ],
+   "answerIndex": 1,
+   "explanation": "Regenwürmer haben fünf paarige Blutgefäßschleifen, die wie Herzen das Blut durch den Körper pumpen. Ein echtes zentrales Herz besitzen sie nicht.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "xq002",
+   "question": "Woraus besteht der Großteil des Saturnrings?",
+   "options": [
+    "Gestein",
+    "Eis",
+    "Gas"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Ringe bestehen überwiegend aus Wasser-Eis-Partikeln, von Staubkorngröße bis zu Brocken mehrerer Meter. Kleinere Mengen Gestein und Staub sind ebenfalls beigemischt.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "xq003",
+   "question": "Welches Element macht Blut rot?",
+   "options": [
+    "Kupfer",
+    "Eisen",
+    "Zink"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der rote Blutfarbstoff Hämoglobin bindet Eisen, das dem Blut die charakteristische Farbe gibt. Tintenfische nutzen dagegen Kupfer und haben blaues Blut.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "xq004",
+   "question": "Wie viele Zeitzonen umspannt Russland?",
+   "options": [
+    "Fünf",
+    "Acht",
+    "Elf"
+   ],
+   "answerIndex": 2,
+   "explanation": "Kein anderes Land der Welt erstreckt sich über so viele Zeitzonen wie Russland, von Kaliningrad bis zur Beringstraße.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "xq005",
+   "question": "Was ist botanisch gesehen eine Erdbeere?",
+   "options": [
+    "Eine Beere",
+    "Eine Sammelnussfrucht",
+    "Eine Steinfrucht"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die roten 'Samen' auf der Oberfläche sind eigentlich winzige Einzelfrüchte. Botanisch zählt die Erdbeere deshalb nicht als echte Beere.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "xq006",
+   "question": "Wonach ist Bluetooth benannt?",
+   "options": [
+    "Einem Erfinder",
+    "Einem Wikingerkönig",
+    "Einer Farbe"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der dänische König Harald Blauzahn einte im 10. Jahrhundert verfeindete Stämme, ähnlich wie die Technik Geräte verbindet.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "xq007",
+   "question": "Wie oft umrundet die ISS die Erde an einem Tag ungefähr?",
+   "options": [
+    "Einmal",
+    "Sechzehnmal",
+    "Hundertmal"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bei rund 28.000 Kilometern pro Stunde umkreist die Raumstation die Erde etwa alle 90 Minuten einmal, das macht rund 16 Umrundungen täglich.",
+   "topics": [
+    "space",
+    "tech"
+   ]
+  },
+  {
+   "id": "xq008",
+   "question": "Was passiert mit Trockeneis bei Zimmertemperatur?",
+   "options": [
+    "Es schmilzt zu Wasser",
+    "Es sublimiert zu Gas",
+    "Es bleibt fest"
+   ],
+   "answerIndex": 1,
+   "explanation": "Gefrorenes Kohlendioxid geht bei normalem Luftdruck direkt vom festen in den gasförmigen Zustand über, ohne flüssige Phase.",
+   "topics": [
+    "science"
+   ]
+  },
+  {
+   "id": "xq009",
+   "question": "Welches Tier gilt als schnellstes der Welt im Sturzflug?",
+   "options": [
+    "Gepard",
+    "Wanderfalke",
+    "Schwertfisch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Wanderfalke erreicht im Sturzflug auf Beute über 320 Kilometer pro Stunde, schneller als jedes andere bekannte Tier.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "xq010",
+   "question": "Wie hieß das erste kommerzielle Videospiel, das 1958 auf einem Oszilloskop lief?",
+   "options": [
+    "Pong",
+    "Tennis for Two",
+    "Spacewar!"
+   ],
+   "answerIndex": 1,
+   "explanation": "'Tennis for Two' simulierte ein einfaches Tennismatch, Jahre vor dem bekannteren 'Pong'.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "xq011",
+   "question": "Woher stammt vermutlich die Erfindung der Pommes frites?",
+   "options": [
+    "Frankreich",
+    "Belgien",
+    "Deutschland"
+   ],
+   "answerIndex": 1,
+   "explanation": "Historiker vermuten den Ursprung eher in Belgien, wo im 17. Jahrhundert Fisch in Kartoffelform frittiert worden sein soll.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "xq012",
+   "question": "Was unterscheidet eine Erdnuss botanisch von einer Haselnuss?",
+   "options": [
+    "Nichts, beide sind Nüsse",
+    "Die Erdnuss ist eine Hülsenfrucht",
+    "Die Erdnuss ist eine Wurzel"
+   ],
+   "answerIndex": 1,
+   "explanation": "Erdnüsse wachsen unterirdisch als Schoten, ähnlich wie Bohnen oder Linsen, und zählen botanisch zu den Hülsenfrüchten.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "xq013",
+   "question": "Wie viele Buchstaben hat das isländische Alphabet ungefähr im Vergleich zum deutschen?",
+   "options": [
+    "Deutlich weniger",
+    "Etwa gleich viele",
+    "Deutlich mehr"
+   ],
+   "answerIndex": 1,
+   "explanation": "Isländisch hat mit rund 32 Buchstaben eine ähnliche Größenordnung, unterscheidet sich aber durch einige Sonderzeichen wie Þ und Ð.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "xq014",
+   "question": "Wie tief ist der tiefste bekannte See der Welt ungefähr?",
+   "options": [
+    "Rund 600 Meter",
+    "Rund 1600 Meter",
+    "Rund 3600 Meter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Baikalsee in Sibirien erreicht Tiefen von über 1600 Metern und enthält etwa ein Fünftel des flüssigen Süßwassers der Erde.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "xq015",
+   "question": "Was macht der große Rote Fleck auf dem Jupiter seit Jahrhunderten?",
+   "options": [
+    "Er wandert um den Planeten",
+    "Er stürmt ununterbrochen",
+    "Er verändert seine Farbe täglich"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Große Rote Fleck ist ein gewaltiger, seit mindestens 190 Jahren beobachteter Wirbelsturm, größer als die Erde.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "xq016",
+   "question": "Wie viel Prozent seines Körpergewichts kann ein Astronaut im All größer werden?",
+   "options": [
+    "Er wird nicht größer",
+    "Er wächst um wenige Zentimeter",
+    "Er wächst um über einen Meter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ohne den Druck der Schwerkraft quellen die Bandscheiben etwas auf, Astronauten werden im All bis zu fünf Zentimeter größer.",
+   "topics": [
+    "space",
+    "body"
+   ]
+  },
+  {
+   "id": "xq017",
+   "question": "Woraus bestehen die Dellen auf einem Golfball?",
+   "options": [
+    "Reiner Zierrat",
+    "Sie verringern den Luftwiderstand",
+    "Sie sparen Material"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Vertiefungen erzeugen einen stabilisierenden Luftwirbel, der den Ball weiter und präziser fliegen lässt als eine glatte Kugel.",
+   "topics": [
+    "sports",
+    "science"
+   ]
+  },
+  {
+   "id": "xq018",
+   "question": "Wie lange kann ein Krokodil nach einer großen Mahlzeit ohne weitere Nahrung auskommen?",
+   "options": [
+    "Wenige Tage",
+    "Mehrere Wochen",
+    "Über ein Jahr"
+   ],
+   "answerIndex": 2,
+   "explanation": "Der extrem langsame Stoffwechsel mancher Krokodilarten erlaubt es ihnen, nach einer großen Mahlzeit über ein Jahr ohne weitere Nahrung auszukommen.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "xq019",
+   "question": "Wie nennt man das Netzwerk, über das sich Bäume im Wald unterirdisch austauschen?",
+   "options": [
+    "Wurzelgeflecht",
+    "Mykorrhiza-Netzwerk",
+    "Kapillarsystem"
+   ],
+   "answerIndex": 1,
+   "explanation": "Feine Pilzfäden verbinden die Wurzeln benachbarter Bäume und leiten Nährstoffe sowie Warnsignale weiter. Forscher nennen es wegen seiner Bedeutung manchmal 'Wood Wide Web'.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "xq020",
+   "question": "Welches Tier kann komplette Gliedmaßen und sogar Teile des Gehirns nachwachsen lassen?",
+   "options": [
+    "Axolotl",
+    "Gecko",
+    "Seestern"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der mexikanische Schwanzlurch Axolotl kann Gliedmaßen, Rückenmark, Herzteile und sogar Teile des Gehirns ohne Narbenbildung regenerieren.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "xq021",
+   "question": "Wie hoch ist der Olympus Mons auf dem Mars im Vergleich zum Mount Everest?",
+   "options": [
+    "Etwa gleich hoch",
+    "Rund doppelt so hoch",
+    "Fast dreimal so hoch"
+   ],
+   "answerIndex": 2,
+   "explanation": "Mit rund 22 Kilometern Höhe ist der Olympus Mons fast dreimal so hoch wie der Mount Everest und der höchste bekannte Vulkan des Sonnensystems.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "xq022",
+   "question": "Was war die Grundlage für das Design fast aller modernen U-Bahn-Karten?",
+   "options": [
+    "Ein Satellitenbild",
+    "Beck's Londoner Schemaplan von 1931",
+    "Ein Computeralgorithmus"
+   ],
+   "answerIndex": 1,
+   "explanation": "Harry Beck entwarf 1931 eine schematische Karte, die geografische Genauigkeit zugunsten klarer Linien und rechter Winkel aufgab, ein Vorbild für Nahverkehrspläne weltweit.",
+   "topics": [
+    "history",
+    "tech"
+   ]
+  },
+  {
+   "id": "xq023",
+   "question": "Wie hoch ist der Wasseranteil in menschlichen Muskeln ungefähr?",
+   "options": [
+    "Rund 30 Prozent",
+    "Rund 50 Prozent",
+    "Rund 75 Prozent"
+   ],
+   "answerIndex": 2,
+   "explanation": "Muskeln bestehen zu rund 75 Prozent aus Wasser, deutlich mehr als etwa Knochen mit rund 30 Prozent.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "xq024",
+   "question": "Welches Gewürz wird komplett von Hand aus Krokusblüten geerntet?",
+   "options": [
+    "Vanille",
+    "Safran",
+    "Kardamom"
+   ],
+   "answerIndex": 1,
+   "explanation": "Für ein Kilogramm Safran werden je nach Sorte bis zu 200.000 Blütennarben von Krokussen benötigt, weshalb das Gewürz extrem teuer ist.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "xq025",
+   "question": "Wie viele Blüten braucht man ungefähr, um ein Kilogramm Safran zu ernten?",
+   "options": [
+    "Etwa 2.000",
+    "Etwa 20.000",
+    "Etwa 200.000"
+   ],
+   "answerIndex": 2,
+   "explanation": "Je nach Sorte werden bis zu 200.000 Krokusblüten benötigt, komplett von Hand gepflückt, was den enormen Preis erklärt.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "xq026",
+   "question": "Was zeigte der Choleraforscher John Snow 1854 mit einer einfachen Straßenkarte?",
+   "options": [
+    "Die Ausbreitung über die Luft",
+    "Den Ursprung an einer Wasserpumpe",
+    "Die Wirkung von Antibiotika"
+   ],
+   "answerIndex": 1,
+   "explanation": "Snow markierte jeden Krankheitsfall auf einer Karte und fand das Muster um eine einzige verseuchte Wasserpumpe in London.",
+   "topics": [
+    "history",
+    "science"
+   ]
+  },
+  {
+   "id": "xq027",
+   "question": "Wie viele Herzen hat ein Tintenfisch?",
+   "options": [
+    "Eins",
+    "Zwei",
+    "Drei"
+   ],
+   "answerIndex": 2,
+   "explanation": "Zwei Kiemenherzen pumpen Blut durch die Kiemen, ein drittes versorgt den restlichen Körper des Tintenfisches.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "xq028",
+   "question": "Welche Farbe hatten griechische Tempel ursprünglich?",
+   "options": [
+    "Reines Weiß",
+    "Kräftig bemalt",
+    "Naturfarben aus Marmor"
+   ],
+   "answerIndex": 1,
+   "explanation": "Antike Tempel trugen ursprünglich kräftige Farben in Rot, Blau und Gold, die über die Jahrtausende komplett verwitterten.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "xq029",
+   "question": "Wie viele Kilometer misst die chinesische Mauer, wenn man alle Abschnitte zusammenrechnet?",
+   "options": [
+    "Rund 2.100 Kilometer",
+    "Rund 8.800 Kilometer",
+    "Über 21.000 Kilometer"
+   ],
+   "answerIndex": 2,
+   "explanation": "Zusammengerechnet ergeben alle Bauabschnitte verschiedener Dynastien über 21.000 Kilometer Länge.",
+   "topics": [
+    "history",
+    "geography"
+   ]
+  },
+  {
+   "id": "xq030",
+   "question": "Wonach schmeckt echter Wasabi im Vergleich zum üblichen Restaurant-Ersatz?",
+   "options": [
+    "Milder und komplexer",
+    "Gleich scharf, anderer Geschmack",
+    "Süßer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Echter Wasabi hat ein komplexeres, weniger stechendes Aroma als der übliche grün gefärbte Meerrettich-Ersatz, verliert es aber binnen Minuten nach dem Reiben.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "xq031",
+   "question": "Wie nennt man den Fachbegriff für das 'Wood Wide Web' der Bäume?",
+   "options": [
+    "Mykorrhiza",
+    "Xylemnetz",
+    "Phloemgeflecht"
+   ],
+   "answerIndex": 0,
+   "explanation": "Mykorrhiza bezeichnet die Symbiose zwischen Pilzfäden und Baumwurzeln, über die Nährstoffe und Signale ausgetauscht werden.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "xq032",
+   "question": "In welchem Jahrzehnt wurde die erste SMS verschickt?",
+   "options": [
+    "1980er",
+    "1990er",
+    "2000er"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die erste SMS wurde 1992 von einem Ingenieur über einen Computer an ein Mobiltelefon in London gesendet.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "xq033",
+   "question": "Wie lange braucht Merkur für eine volle Drehung um die eigene Achse im Vergleich zu seinem Jahr?",
+   "options": [
+    "Kürzer als sein Jahr",
+    "Genauso lang",
+    "Länger als sein Jahr"
+   ],
+   "answerIndex": 2,
+   "explanation": "Merkur braucht rund 176 Erdtage für eine Achsendrehung, aber nur 88 Erdtage für eine Sonnenumrundung - ein Merkurtag dauert also länger als ein Merkurjahr.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "xq034",
+   "question": "Welches Element sorgt bei Gallium für einen ungewöhnlichen Effekt?",
+   "options": [
+    "Es ist bei Handwärme bereits flüssig",
+    "Es leuchtet im Dunkeln",
+    "Es ist magnetisch"
+   ],
+   "answerIndex": 0,
+   "explanation": "Gallium wird schon bei knapp unter 30 Grad Celsius flüssig, ein Löffel davon schmilzt bereits in der Hand.",
+   "topics": [
+    "science"
+   ]
+  },
+  {
+   "id": "xq035",
+   "question": "Wodurch entstehen Kondensstreifen am Himmel hauptsächlich?",
+   "options": [
+    "Rauch aus den Triebwerken",
+    "Gefrierendes Wasser aus dem Abgas",
+    "Kerosinreste"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der heiße, feuchte Abgasstrahl gefriert in großer Höhe an extrem kalter Luft zu winzigen Eiskristallen.",
+   "topics": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "id": "xq036",
+   "question": "Wie viele Menschen leben ungefähr auf der Fläche Singapurs?",
+   "options": [
+    "Rund 500.000",
+    "Über 5,5 Millionen",
+    "Rund 50 Millionen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Auf einer Fläche kleiner als Hamburg leben in Singapur über fünfeinhalb Millionen Menschen.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "xq037",
+   "question": "Wodurch wurde die Bibliothek von Alexandria laut heutiger Forschung vermutlich zerstört?",
+   "options": [
+    "Ein einziges großes Feuer",
+    "Mehrere Ereignisse über Jahrhunderte",
+    "Ein Erdbeben"
+   ],
+   "answerIndex": 1,
+   "explanation": "Historiker vermuten heute mehrere Ereignisse über Jahrhunderte, darunter Bürgerkriege und schleichenden Verfall, statt eines einzigen Brands.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "xq038",
+   "question": "Wodurch wird die charakteristische Farbe von Karamell erzeugt?",
+   "options": [
+    "Zugesetzte Farbstoffe",
+    "Eine chemische Reaktion beim Erhitzen",
+    "Reine Verbrennung"
+   ],
+   "answerIndex": 1,
+   "explanation": "Beim Erhitzen über etwa 160 Grad brechen Zuckermoleküle auf und bilden hunderte neue Verbindungen, die Farbe und Aroma erzeugen.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "xq039",
+   "question": "Was verbindet der Panamakanal?",
+   "options": [
+    "Zwei Ozeane über einen See",
+    "Zwei Flüsse direkt",
+    "Zwei Meere ohne Schleusen"
+   ],
+   "answerIndex": 0,
+   "explanation": "Schiffe werden über Schleusen auf den Gatunsee gehoben und wieder abgesenkt, statt auf einer durchgehenden Wasserstraße zu fahren.",
+   "topics": [
+    "geography",
+    "history"
+   ]
+  },
+  {
+   "id": "xq040",
+   "question": "Welches Tier kann seine beiden Augen unabhängig voneinander bewegen?",
+   "options": [
+    "Chamäleon",
+    "Uhu",
+    "Wels"
+   ],
+   "answerIndex": 0,
+   "explanation": "Ein Chamäleon kann jedes Auge getrennt in eine andere Richtung drehen und so zwei Blickfelder gleichzeitig überwachen.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "xq041",
+   "question": "Wie hieß der erste abendfüllende Animationsfilm der Kinogeschichte?",
+   "options": [
+    "Fantasia",
+    "Schneewittchen und die sieben Zwerge",
+    "Pinocchio"
+   ],
+   "answerIndex": 1,
+   "explanation": "'Schneewittchen und die sieben Zwerge' kam 1937 in die Kinos und galt zuvor vielen als finanzielles Wagnis.",
+   "topics": [
+    "movies",
+    "history"
+   ]
+  },
+  {
+   "id": "xq042",
+   "question": "Wodurch unterscheidet sich ein Regentropfen im freien Fall von der klassischen Tropfenform?",
+   "options": [
+    "Er ist rund wie eine Kugel",
+    "Er sieht aus wie ein kleines Brötchen",
+    "Er ist spitz wie eine Träne"
+   ],
+   "answerIndex": 1,
+   "explanation": "Im freien Fall wird ein Regentropfen durch den Luftwiderstand unten abgeflacht und oben rund, ähnlich einem Hamburgerbrötchen.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "xq043",
+   "question": "Wie viel Prozent der täglichen Energie verbraucht das menschliche Gehirn ungefähr?",
+   "options": [
+    "Rund 5 Prozent",
+    "Rund 20 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "answerIndex": 1,
+   "explanation": "Obwohl es nur etwa zwei Prozent des Körpergewichts ausmacht, verbraucht das Gehirn rund 20 Prozent der täglich aufgenommenen Energie.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "xq044",
+   "question": "Was zeigte ein Test der ESA mit Flechten außerhalb der Raumstation?",
+   "options": [
+    "Sie starben sofort ab",
+    "Sie überlebten Vakuum und Strahlung",
+    "Sie wuchsen doppelt so schnell"
+   ],
+   "answerIndex": 1,
+   "explanation": "Flechten überstanden mehrere Tage ungeschützt im offenen Weltraum und nahmen danach ihre Photosynthese fast unverändert wieder auf.",
+   "topics": [
+    "nature",
+    "space"
+   ]
+  },
+  {
+   "id": "xq045",
+   "question": "Was war 'Symbolics.com'?",
+   "options": [
+    "Die erste registrierte Internet-Domain",
+    "Der erste Webbrowser",
+    "Die erste Suchmaschine"
+   ],
+   "answerIndex": 0,
+   "explanation": "Die Domain wurde am 15. März 1985 für einen inzwischen untergegangenen Computerhersteller registriert und existiert bis heute.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "xq046",
+   "question": "Wie stark schrumpft ein Mensch ungefähr im Laufe eines Tages durch die Schwerkraft?",
+   "options": [
+    "Kaum messbar",
+    "Um bis zu zwei Zentimeter",
+    "Um über zehn Zentimeter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Bandscheiben werden im Laufe des Tages durch Körpergewicht leicht zusammengedrückt, wodurch Menschen abends etwas kleiner sind als morgens.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "xq047",
+   "question": "Welche Insel bewohnen hunderte zahme Wildkaninchen, die heute Touristen anziehen?",
+   "options": [
+    "Ōkunoshima in Japan",
+    "Rabbit Island in Australien",
+    "Cottontail Island in den USA"
+   ],
+   "answerIndex": 0,
+   "explanation": "Auf Ōkunoshima tummeln sich hunderte verwilderte, zahme Kaninchen, die Besucher füttern dürfen.",
+   "topics": [
+    "weird",
+    "animals"
+   ]
+  },
+  {
+   "id": "xq048",
+   "question": "Was zeigte die Entdeckung der Terrakotta-Armee 1974?",
+   "options": [
+    "Einen antiken Handelsweg",
+    "Das Grab eines chinesischen Kaisers",
+    "Eine versunkene Stadt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bauern stießen beim Brunnengraben zufällig auf tausende Tonkrieger, die das Grab des ersten chinesischen Kaisers bewachen.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "xq049",
+   "question": "Wodurch verändern sich Golfbälle im Vergleich zu ihren frühen, glatten Vorgängern?",
+   "options": [
+    "Sie sind heute glatter",
+    "Sie haben Dellen für weniger Luftwiderstand",
+    "Sie sind heute schwerer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Dellen erzeugen einen stabilisierenden Luftwirbel und lassen den Ball deutlich weiter fliegen als eine glatte Kugel.",
+   "topics": [
+    "sports",
+    "science"
+   ]
   }
  ]
 }
