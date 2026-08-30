@@ -41,15 +41,30 @@ class DailyDropWorker(
     params: WorkerParameters
 ) : CoroutineWorker(context, params) {
 
+    /**
+     * Builds the day's drop and then nudges.
+     *
+     * Building it here rather than on first open is the reason the app has
+     * nothing to load: by the time the notification is tapped, the seven cards -
+     * Wikipedia and all - are already sitting in the cache.
+     */
     override suspend fun doWork(): Result {
         val prefs = UserPrefs(applicationContext)
-        if (!prefs.notifyEnabled.first()) return Result.success()
+        val today = LocalDate.now()
 
         val drops = runCatching {
-            DropGenerator(ContentRepository(applicationContext))
-                .buildFeed(LocalDate.now(), prefs.currentInterests())
+            val generator = DropGenerator(ContentRepository.get(applicationContext))
+            val snapshot = prefs.feedSnapshot(today)
+            snapshot.cachedFeed ?: run {
+                val offline = generator.buildOffline(today, snapshot.interests, snapshot.seen)
+                val enriched = generator.enrich(today, offline, snapshot.seen).ifEmpty { offline }
+                prefs.markSeen(enriched.map { it.id })
+                prefs.cacheFeed(today, enriched)
+                enriched
+            }
         }.getOrDefault(emptyList())
 
+        if (!prefs.notifyEnabled.first()) return Result.success()
         notify(teaserTitle(drops), teaserBody(drops))
         return Result.success()
     }
@@ -66,13 +81,13 @@ class DailyDropWorker(
         val parts = mutableListOf<String>()
         drops.firstOrNull { it.type == DropType.HISTORY }?.let { history ->
             val years = LocalDate.now().year - (history.title.toIntOrNull() ?: return@let)
-            if (years > 0) parts += "Und was ist heute vor $years Jahren passiert? " +
+            if (years > 0) parts += "Was ist heute vor $years Jahren passiert? " +
                 "Steht auf Karte zwei."
         }
         drops.firstOrNull { it.type == DropType.QUIZ }?.let {
             parts += "Und eine Frage wartet, bei der die meisten falsch liegen."
         }
-        return parts.firstOrNull() ?: "Acht Karten, ein bis zwei Minuten."
+        return parts.firstOrNull() ?: "Sieben Karten, ein paar Minuten."
     }
 
     private fun notify(title: String, body: String) {

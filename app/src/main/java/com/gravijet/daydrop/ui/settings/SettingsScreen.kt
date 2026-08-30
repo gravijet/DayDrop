@@ -150,7 +150,7 @@ fun SettingsScreen(onBack: () -> Unit, viewModel: SettingsViewModel = viewModel(
 
             SectionTitle("Deine Themen")
             Text(
-                "Drei Karten pro Tag richten sich danach.",
+                "Die Karte \"Für dich\" richtet sich danach.",
                 style = MaterialTheme.typography.bodyMedium,
                 color = ChalkDim
             )

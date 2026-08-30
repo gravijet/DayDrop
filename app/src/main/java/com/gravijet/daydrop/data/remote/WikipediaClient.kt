@@ -9,20 +9,25 @@ import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import java.net.HttpURLConnection
 import java.net.URL
-import java.net.URLEncoder
 
 /** What the generator needs from the outside world - swappable in tests. */
 interface HistorySource {
     suspend fun onThisDay(month: Int, day: Int): List<HistoryEvent>
     suspend fun holidays(month: Int, day: Int): List<String>
-    suspend fun thumbnailFor(title: String): String?
+
+    /**
+     * The German Wikipedia "Artikel des Tages" for a date. One human-written
+     * teaser per day that is never reused, which is what lets the feed keep
+     * going long after the bundled pools have been walked through once.
+     */
+    suspend fun articleOfTheDay(year: Int, month: Int, day: Int): WikiArticle?
 }
 
 /** Offline stand-in: the app falls back to bundled content with this. */
 object NoRemote : HistorySource {
     override suspend fun onThisDay(month: Int, day: Int) = emptyList<HistoryEvent>()
     override suspend fun holidays(month: Int, day: Int) = emptyList<String>()
-    override suspend fun thumbnailFor(title: String): String? = null
+    override suspend fun articleOfTheDay(year: Int, month: Int, day: Int): WikiArticle? = null
 }
 
 data class HistoryEvent(
@@ -33,13 +38,19 @@ data class HistoryEvent(
     val articleTitle: String?
 )
 
+data class WikiArticle(
+    val title: String,
+    val extract: String,
+    val articleUrl: String?
+)
+
 /**
- * Thin client for the public Wikimedia REST endpoints. No key, no SDK - the two
+ * Thin client for the public Wikimedia REST endpoints. No key, no SDK - the
  * calls we need are plain GETs, so a hand-rolled client keeps the APK small.
  */
 object WikipediaClient : HistorySource {
 
-    private const val UA = "DayDrop/1.0 (personal Android app; contact: via GitHub gravijet/daydrop)"
+    private const val UA = "DayDrop/1.1 (personal Android app; contact: via GitHub gravijet/daydrop)"
     private val json = Json { ignoreUnknownKeys = true }
 
     /** Real events that happened on this calendar day, newest first. */
@@ -82,12 +93,40 @@ object WikipediaClient : HistorySource {
         }.getOrDefault(emptyList())
     }
 
-    /** Header image for an article, used to illustrate a bundled fact. */
-    override suspend fun thumbnailFor(title: String): String? = withContext(Dispatchers.IO) {
-        val encoded = URLEncoder.encode(title.replace(' ', '_'), "UTF-8").replace("+", "_")
-        val body = get("https://de.wikipedia.org/api/rest_v1/page/summary/$encoded")
-            ?: return@withContext null
-        runCatching { json.parseToJsonElement(body).jsonObject.thumbnail() }.getOrNull()
+    override suspend fun articleOfTheDay(year: Int, month: Int, day: Int): WikiArticle? =
+        withContext(Dispatchers.IO) {
+            val url = "https://de.wikipedia.org/api/rest_v1/feed/featured/" +
+                "%04d/%02d/%02d".format(year, month, day)
+            val body = get(url) ?: return@withContext null
+            runCatching {
+                val tfa = json.parseToJsonElement(body).jsonObject["tfa"]?.jsonObject
+                    ?: return@runCatching null
+                val title = tfa["titles"]?.jsonObject?.get("normalized")?.jsonPrimitive?.content
+                    ?: tfa["title"]?.jsonPrimitive?.content
+                    ?: return@runCatching null
+                val extract = tfa["extract"]?.jsonPrimitive?.content?.trim()
+                    ?.takeIf { it.length > 60 }
+                    ?: return@runCatching null
+                WikiArticle(
+                    title = title.replace('_', ' '),
+                    // Two sentences are a card; the whole lead section is an essay.
+                    extract = extract.shortenToSentences(2, 420),
+                    articleUrl = tfa.articleUrl()
+                )
+            }.getOrNull()
+        }
+
+    /** Cuts after at most [sentences] full sentences, or [limit] characters. */
+    private fun String.shortenToSentences(sentences: Int, limit: Int): String {
+        var cut = 0
+        var found = 0
+        while (found < sentences) {
+            val next = indexOf(". ", cut).takeIf { it >= 0 } ?: break
+            cut = next + 1
+            found++
+        }
+        val text = if (cut in 80..limit) substring(0, cut).trim() else take(limit).trim()
+        return if (text.length < length && !text.endsWith(".")) "$text …" else text
     }
 
     private fun JsonObject.thumbnail(): String? =
