@@ -19304,6 +19304,2260 @@
     "history"
    ],
    "wiki": "Vasco da Gama"
+  },
+  {
+   "id": "x001",
+   "kind": "fact",
+   "title": "Die Berliner Mauer fiel aus einem Missverständnis",
+   "text": "Am 9. November 1989 verlas SED-Sprecher Günter Schabowski ein Reisegesetz und sagte auf Nachfrage, es gelte 'sofort, unverzüglich'. Gemeint war eigentlich der nächste Tag, doch Zehntausende strömten noch in der Nacht an die Grenzübergänge.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Mauerfall"
+  },
+  {
+   "id": "x002",
+   "kind": "fact",
+   "title": "Napoleon war nicht besonders klein",
+   "text": "Mit rund 1,68 Metern lag er nahe am Durchschnitt seiner Zeit. Der Mythos entstand teils durch britische Karikaturen und eine Verwechslung französischer mit englischen Maßeinheiten.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Napoleon Bonaparte"
+  },
+  {
+   "id": "x003",
+   "kind": "fact",
+   "title": "Rom wurde nicht an einem Tag erbaut, aber an einem Tag gegründet",
+   "text": "Der Legende nach rief Romulus die Stadt am 21. April 753 v. Chr. aus. Historisch belegbar ist das Datum nicht, doch Rom feiert bis heute an diesem Tag seinen 'Geburtstag'.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Gründung Roms"
+  },
+  {
+   "id": "x004",
+   "kind": "fact",
+   "title": "Die Wikinger nannten Grönland absichtlich schön",
+   "text": "Erik der Rote gab der eisigen Insel um 985 einen einladenden Namen, um Siedler anzulocken. Island dagegen, deutlich grüner, bekam den abschreckenden Namen fast aus Versehen von früheren Entdeckern.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Grönland"
+  },
+  {
+   "id": "x005",
+   "kind": "fact",
+   "title": "Der Buchdruck verbreitete sich schneller als das Internet in seinen Anfängen",
+   "text": "Innerhalb von 50 Jahren nach Gutenbergs Erfindung um 1450 standen in über 250 europäischen Städten Druckerpressen. Millionen Bücher zirkulierten, bevor irgendjemand von 'Medienrevolution' sprach.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Buchdruck"
+  },
+  {
+   "id": "x006",
+   "kind": "fact",
+   "title": "Die Choleraepidemie in London wurde per Straßenkarte gelöst",
+   "text": "Der Arzt John Snow markierte 1854 jeden Krankheitsfall auf einer Karte und fand das Muster um eine einzige Wasserpumpe. Er ließ den Schwengel entfernen, noch bevor jemand Bakterien unter dem Mikroskop gesehen hatte.",
+   "topics": [
+    "history",
+    "science"
+   ],
+   "wiki": "John Snow (Epidemiologe)"
+  },
+  {
+   "id": "x007",
+   "kind": "fact",
+   "title": "Kaugummi ist älter als das Rad in mancher Region",
+   "text": "Archäologen fanden in Finnland gekautes Birkenpech aus der Steinzeit mit Zahnabdrücken, rund 5000 Jahre alt. Vermutlich diente es als Klebstoff, Zahnpflege oder einfach zum Kauen.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Kaugummi"
+  },
+  {
+   "id": "x008",
+   "kind": "fact",
+   "title": "Die längste Mauer der Welt wurde über Jahrhunderte gebaut",
+   "text": "An der chinesischen Mauer arbeiteten Dynastien vom 7. Jahrhundert v. Chr. bis ins 17. Jahrhundert n. Chr. Zusammengerechnet ergeben alle Abschnitte über 21.000 Kilometer Länge.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Chinesische Mauer"
+  },
+  {
+   "id": "x009",
+   "kind": "fact",
+   "title": "Der Suezkanal spart Schiffen einen ganzen Kontinent",
+   "text": "Ohne ihn müsste ein Frachter von Rotterdam nach Singapur um ganz Afrika herumfahren, ein Umweg von über 6000 Kilometern. Eröffnet wurde die Verbindung zwischen Mittelmeer und Rotem Meer 1869.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Sueskanal"
+  },
+  {
+   "id": "x010",
+   "kind": "fact",
+   "title": "Die erste E-Mail-Adresse enthielt schon das @-Zeichen",
+   "text": "Ray Tomlinson wählte es 1971, weil es in Texten praktisch nie vorkam und klar zwischen Name und Rechner trennte. Er erinnerte sich später nicht mehr an den genauen Wortlaut seiner allerersten Testnachricht.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Ray Tomlinson"
+  },
+  {
+   "id": "x011",
+   "kind": "fact",
+   "title": "Kolumbus glaubte bis zu seinem Tod, Asien erreicht zu haben",
+   "text": "Auch nach vier Reisen hielt er die Karibikinseln für Vorposten Ostasiens. Den Namen 'Amerika' erhielt der Kontinent erst später, nach dem Seefahrer Amerigo Vespucci.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Christoph Kolumbus"
+  },
+  {
+   "id": "x012",
+   "kind": "fact",
+   "title": "Die Pest veränderte die Löhne in ganz Europa",
+   "text": "Nach dem Schwarzen Tod ab 1347 starb rund ein Drittel der Bevölkerung, Arbeitskräfte wurden knapp und teuer. Historiker sehen darin einen Grund, warum Leibeigenschaft in Westeuropa danach schneller verschwand.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Schwarzer Tod"
+  },
+  {
+   "id": "x013",
+   "kind": "fact",
+   "title": "Ein Fehler im Kalender ließ zehn Tage im Jahr 1582 verschwinden",
+   "text": "Papst Gregor XIII. führte den neuen Kalender ein, um den Julianischen Fehler auszugleichen, und ließ dafür auf den 4. Oktober direkt den 15. Oktober folgen. Nicht alle Länder übernahmen die Reform sofort, manche erst über 300 Jahre später.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Gregorianischer Kalender"
+  },
+  {
+   "id": "x014",
+   "kind": "fact",
+   "title": "Die Bibliothek von Alexandria brannte vermutlich nicht auf einen Schlag",
+   "text": "Historiker vermuten mehrere Ereignisse über Jahrhunderte, darunter Bürgerkriege und schleichenden Verfall, statt eines einzigen großen Feuers. Wie viele Schriftrollen genau verloren gingen, lässt sich bis heute nicht sicher beziffern.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Bibliothek von Alexandria"
+  },
+  {
+   "id": "x015",
+   "kind": "fact",
+   "title": "Die Concorde flog schneller als die Erdrotation an manchen Tagen",
+   "text": "Bei Überschallgeschwindigkeit von Paris nach New York kam sie zeitweise vor ihrer eigenen Startzeit an, gemessen an der Ortszeit. Der reguläre Linienbetrieb endete 2003 nach 27 Jahren.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "Concorde"
+  },
+  {
+   "id": "x016",
+   "kind": "fact",
+   "title": "Der Marshallplan finanzierte auch den einstigen Kriegsgegner",
+   "text": "Nach 1948 flossen US-Hilfsgelder ausdrücklich auch nach Westdeutschland, um den Wiederaufbau zu beschleunigen. Die Idee dahinter: Ein stabiles, prosperierendes Europa senkt das Risiko neuer Konflikte.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Marshallplan"
+  },
+  {
+   "id": "x017",
+   "kind": "fact",
+   "title": "Die Titanic hatte an Bord zu wenige Ferngläser für den Ausguck",
+   "text": "Der zuständige Schlüssel für den Schrank mit den Ferngläsern blieb an Land, weil ein Offizier kurz vor der Abfahrt ausgetauscht wurde. Die Männer im Krähennest hielten deshalb nur mit bloßem Auge Ausschau.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Titanic"
+  },
+  {
+   "id": "x018",
+   "kind": "fact",
+   "title": "Der Panamakanal verbindet zwei Ozeane über einen See",
+   "text": "Schiffe fahren nicht auf einer durchgehenden Wasserstraße, sondern werden über Schleusen auf den Gatunsee gehoben und wieder abgesenkt. Das spart gegenüber der Umrundung Südamerikas rund 15.000 Kilometer.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Panamakanal"
+  },
+  {
+   "id": "x019",
+   "kind": "fact",
+   "title": "Der Ötztaler Gletschermann trug Kleidung aus fünf Tierarten",
+   "text": "Seine Ausrüstung bestand unter anderem aus Ziegen-, Schaf-, Hirsch- und Rinderleder sowie Bärenfell. Ötzi starb vor rund 5300 Jahren und wurde erst 1991 im Eis gefunden.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Ötzi"
+  },
+  {
+   "id": "x020",
+   "kind": "science",
+   "title": "Ein Blitz ist heißer als die Sonnenoberfläche",
+   "text": "Ein Blitzkanal erreicht rund 30.000 Grad Celsius, etwa fünfmal so heiß wie die Sonnenoberfläche mit ihren 5500 Grad. Die enorme Hitze dehnt die Luft explosionsartig aus – das erzeugt den Donner.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Blitz"
+  },
+  {
+   "id": "x021",
+   "kind": "science",
+   "title": "Diamanten und Bleistiftminen bestehen aus demselben Element",
+   "text": "Beide sind reiner Kohlenstoff, nur die Anordnung der Atome unterscheidet sich. Im Diamant bilden sie ein starres Gitter, im Grafit lose Schichten, die leicht übereinander abgleiten.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Kohlenstoff"
+  },
+  {
+   "id": "x022",
+   "kind": "science",
+   "title": "Der Regenbogen ist eigentlich ein voller Kreis",
+   "text": "Vom Boden aus sieht man nur den oberen Bogen, weil der Horizont den Rest verdeckt. Aus einem Flugzeug oder von einem hohen Turm lässt sich manchmal der komplette Ring beobachten.",
+   "topics": [
+    "science",
+    "nature"
+   ],
+   "wiki": "Regenbogen"
+  },
+  {
+   "id": "x023",
+   "kind": "science",
+   "title": "Metall fühlt sich kälter an als Holz, obwohl beides gleich temperiert ist",
+   "text": "Metall leitet Wärme viel schneller aus der Hand ab als Holz, das isoliert. Das Gefühl von 'kalt' misst also nicht die Temperatur selbst, sondern wie schnell Wärme entzogen wird.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Wärmeleitfähigkeit"
+  },
+  {
+   "id": "x024",
+   "kind": "science",
+   "title": "Ein Vakuum ist nicht völlig leer",
+   "text": "Selbst im tiefsten Weltraum tummeln sich noch einzelne Atome pro Kubikzentimeter, und quantenphysikalisch entstehen dort ständig kurzlebige Teilchenpaare. Ein perfektes Nichts existiert nach heutigem Wissen nicht.",
+   "topics": [
+    "science",
+    "space"
+   ],
+   "wiki": "Vakuum"
+  },
+  {
+   "id": "x025",
+   "kind": "science",
+   "title": "Seifenblasen sind fast perfekt kugelförmig, weil das Energie spart",
+   "text": "Eine Kugel hat bei gegebenem Volumen die kleinstmögliche Oberfläche. Die Oberflächenspannung zieht die Seifenhaut so weit zusammen, bis sie diese energetisch günstigste Form erreicht.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Oberflächenspannung"
+  },
+  {
+   "id": "x026",
+   "kind": "science",
+   "title": "Ein Fieberthermometer misst nie die wahre Körpertemperatur",
+   "text": "Je nach Messstelle – Achsel, Mund, Ohr, After – schwanken die Werte um bis zu einem Grad. Die Körperkerntemperatur selbst schwankt zudem im Tagesverlauf, morgens ist sie meist niedriger als abends.",
+   "topics": [
+    "science",
+    "body"
+   ],
+   "wiki": "Körpertemperatur"
+  },
+  {
+   "id": "x027",
+   "kind": "science",
+   "title": "Chamäleons wechseln die Farbe nicht primär zur Tarnung",
+   "text": "Die auffälligen Farbwechsel dienen vor allem der Kommunikation: Stimmung, Revieranspruch oder Balz. Möglich wird das durch winzige Kristalle in der Haut, die je nach Abstand unterschiedliches Licht reflektieren.",
+   "topics": [
+    "science",
+    "animals"
+   ],
+   "wiki": "Chamäleons"
+  },
+  {
+   "id": "x028",
+   "kind": "science",
+   "title": "Zucker karamellisiert nicht wegen Hitze allein, sondern wegen einer echten chemischen Reaktion",
+   "text": "Beim Erhitzen über etwa 160 Grad brechen die Zuckermoleküle auf und bilden hunderte neue Verbindungen, die Farbe und Aroma erzeugen. Genau dieselbe Grundreaktion steckt auch hinter der Kruste von gebratenem Fleisch, dort heißt sie Maillard-Reaktion.",
+   "topics": [
+    "science",
+    "food"
+   ],
+   "wiki": "Karamellisierung"
+  },
+  {
+   "id": "x029",
+   "kind": "science",
+   "title": "Magnetismus und Elektrizität sind eigentlich dieselbe Kraft",
+   "text": "James Clerk Maxwell zeigte im 19. Jahrhundert, dass beide Phänomene durch dieselben Gleichungen beschrieben werden. Ein bewegter elektrischer Strom erzeugt immer ein Magnetfeld, und umgekehrt erzeugt ein sich änderndes Magnetfeld Strom.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Elektromagnetismus"
+  },
+  {
+   "id": "x030",
+   "kind": "science",
+   "title": "Die Farbe des Himmels ändert sich, weil blaues Licht stärker gestreut wird",
+   "text": "Kurzwelliges blaues Licht wird in der Atmosphäre viel stärker in alle Richtungen gestreut als langwelliges rotes. Bei Sonnenuntergang legt das Licht einen längeren Weg durch die Luft zurück, wodurch fast nur noch Rot- und Orangetöne übrig bleiben.",
+   "topics": [
+    "science",
+    "nature"
+   ],
+   "wiki": "Rayleigh-Streuung"
+  },
+  {
+   "id": "x031",
+   "kind": "science",
+   "title": "Wasser dehnt sich beim Gefrieren aus, fast alle anderen Stoffe ziehen sich zusammen",
+   "text": "Im Eiskristall ordnen sich die Moleküle in einem lockeren, sechseckigen Gitter an, das mehr Platz braucht als flüssiges Wasser. Deshalb schwimmt Eis auf Wasser, statt abzusinken, was Seen im Winter vor dem Durchfrieren schützt.",
+   "topics": [
+    "science",
+    "nature"
+   ],
+   "wiki": "Anomalie des Wassers"
+  },
+  {
+   "id": "x032",
+   "kind": "science",
+   "title": "Ein Kompass zeigt nicht exakt zum geografischen Nordpol",
+   "text": "Er richtet sich nach dem magnetischen Nordpol, der sich ständig verschiebt und derzeit Richtung Sibirien wandert. Der Unterschied zum geografischen Pol heißt Missweisung und muss in der Navigation berücksichtigt werden.",
+   "topics": [
+    "science",
+    "geography"
+   ],
+   "wiki": "Magnetischer Nordpol"
+  },
+  {
+   "id": "x033",
+   "kind": "science",
+   "title": "Muskeln können sich nur ziehen, nie drücken",
+   "text": "Jede Bewegung braucht deshalb Gegenspielerpaare: Beugt der Bizeps den Arm, streckt ihn der Trizeps wieder. Ohne diese Paarung gäbe es keine kontrollierte Rückwärtsbewegung.",
+   "topics": [
+    "science",
+    "body"
+   ],
+   "wiki": "Skelettmuskulatur"
+  },
+  {
+   "id": "x034",
+   "kind": "science",
+   "title": "Ein Schwarzes Loch saugt nicht wie ein Staubsauger alles in der Umgebung ein",
+   "text": "Aus sicherer Entfernung wirkt seine Schwerkraft genauso wie die jedes anderen Objekts gleicher Masse. Gefährlich wird es erst innerhalb des sogenannten Ereignishorizonts, ab dem selbst Licht nicht mehr entkommt.",
+   "topics": [
+    "science",
+    "space"
+   ],
+   "wiki": "Schwarzes Loch"
+  },
+  {
+   "id": "x035",
+   "kind": "science",
+   "title": "Salz senkt den Gefrierpunkt von Wasser, deshalb wird im Winter gestreut",
+   "text": "Gelöste Salzionen stören die Bildung des Eiskristallgitters, sodass Wasser erst bei tieferen Temperaturen fest wird. Bei sehr strengem Frost, unter etwa minus 15 Grad, verliert Streusalz allerdings seine Wirkung.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Gefrierpunktserniedrigung"
+  },
+  {
+   "id": "x036",
+   "kind": "science",
+   "title": "Ein Prisma zerlegt weißes Licht, weil jede Farbe unterschiedlich stark gebrochen wird",
+   "text": "Blaues Licht hat eine kürzere Wellenlänge und wird beim Durchgang durch Glas stärker abgelenkt als rotes. Genau dieses Prinzip erforschte Isaac Newton im 17. Jahrhundert und widerlegte damit die Annahme, Glas 'färbe' das Licht.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Dispersion (Physik)"
+  },
+  {
+   "id": "x037",
+   "kind": "fact",
+   "title": "Der erste Computerfehler war ein echter Fehler",
+   "text": "1947 fanden Techniker eine Motte in einem Relais des Mark-II-Rechners der US-Marine und klebten sie ins Logbuch. Der Begriff 'Bug' existierte zwar schon vorher, dieses Ereignis machte ihn aber besonders bekannt.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Softwarefehler"
+  },
+  {
+   "id": "x038",
+   "kind": "fact",
+   "title": "Der USB-Stecker passt absichtlich nie beim ersten Versuch",
+   "text": "Frühe USB-A-Stecker sind zwar symmetrisch geformt, innen aber asymmetrisch verdrahtet. Die Fehlerquote beim ersten Versuch liegt Nutzerstudien zufolge bei knapp 50 Prozent – Zufall trifft es also fast genau.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "USB"
+  },
+  {
+   "id": "x039",
+   "kind": "fact",
+   "title": "Die erste SMS wurde 1992 verschickt und enthielt zwei Wörter",
+   "text": "'Merry Christmas' schrieb der Ingenieur Neil Papworth über einen Computer an ein Mobiltelefon in London. Antworten konnte der Empfänger damals noch nicht, sein Gerät hatte keine Tastatur für Text.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "SMS"
+  },
+  {
+   "id": "x040",
+   "kind": "fact",
+   "title": "WLAN-Router funken auf derselben Frequenz wie Mikrowellen",
+   "text": "Das 2,4-Gigahertz-Band nutzen beide Geräte, weshalb eine laufende Mikrowelle das Heimnetzwerk spürbar stören kann. Das 5-Gigahertz-Band moderner Router umgeht dieses Problem meist.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "WLAN"
+  },
+  {
+   "id": "x041",
+   "kind": "fact",
+   "title": "Die Curiosity-Software auf dem Mars läuft auf einem vergleichsweise schwachen Chip",
+   "text": "Der Marsrover nutzt einen strahlungsgehärteten Prozessor mit gerade einmal 200 Megahertz, deutlich langsamer als ein Smartphone von vor 15 Jahren. Robustheit gegen kosmische Strahlung zählt im All mehr als reine Rechenleistung.",
+   "topics": [
+    "tech",
+    "space"
+   ],
+   "wiki": "Curiosity (Marsrover)"
+  },
+  {
+   "id": "x042",
+   "kind": "fact",
+   "title": "Ein Passwort mit Sonderzeichen ist nicht automatisch sicher, aber Länge fast immer",
+   "text": "Sicherheitsforscher zeigen regelmäßig, dass ein langer, zufälliger Satz aus mehreren Wörtern schwerer zu knacken ist als 'P@ssw0rt!' mit acht Zeichen. Jedes zusätzliche Zeichen vervielfacht die Zahl möglicher Kombinationen.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Passwort"
+  },
+  {
+   "id": "x043",
+   "kind": "fact",
+   "title": "QR-Codes können noch funktionieren, wenn ein Drittel davon fehlt",
+   "text": "Eine eingebaute Fehlerkorrektur erlaubt es, bis zu rund 30 Prozent der Fläche zu verdecken oder zu beschädigen, ohne dass der Code unlesbar wird. Genau diese Reserve nutzen Designer, um Logos in die Mitte zu setzen.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "QR-Code"
+  },
+  {
+   "id": "x044",
+   "kind": "fact",
+   "title": "Die erste Domain der Welt ist bis heute registriert",
+   "text": "symbolics.com wurde am 15. März 1985 registriert, für einen inzwischen längst untergegangenen Computerhersteller. Die Adresse existiert weiterhin, heute als eine Art digitales Museum.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Domain-Name-System"
+  },
+  {
+   "id": "x045",
+   "kind": "fact",
+   "title": "Autokorrektur basiert meist auf Wahrscheinlichkeit, nicht auf echtem Sprachverständnis",
+   "text": "Das System schlägt vor, was andere Nutzer an dieser Stelle am häufigsten getippt haben, nicht was inhaltlich am meisten Sinn ergibt. Genau deshalb entstehen die berühmt-berüchtigten Verschreiber, die niemand so gemeint hat.",
+   "topics": [
+    "tech",
+    "language"
+   ],
+   "wiki": "Autokorrektur"
+  },
+  {
+   "id": "x046",
+   "kind": "fact",
+   "title": "Bluetooth ist nach einem dänischen Wikingerkönig benannt",
+   "text": "Harald Blauzahn einte im 10. Jahrhundert dänische und norwegische Stämme, ähnlich wie die Funktechnik verschiedene Geräte verbindet. Das Bluetooth-Symbol kombiniert die Runen für seine Initialen H und B.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Bluetooth"
+  },
+  {
+   "id": "x047",
+   "kind": "fact",
+   "title": "Ein einzelner Tastendruck kann Millionen Rechenschritte auslösen",
+   "text": "Moderne Prozessoren führen mehrere Milliarden Operationen pro Sekunde aus. Schon das simple Aufleuchten eines Buchstabens am Bildschirm durchläuft Dutzende Software- und Hardwareschichten, bevor es sichtbar wird.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Prozessor"
+  },
+  {
+   "id": "x048",
+   "kind": "fact",
+   "title": "Die ersten Digitalkameras hatten eine Auflösung von 0,01 Megapixel",
+   "text": "Der Prototyp von Kodak-Ingenieur Steven Sasson wog 1975 rund 3,6 Kilogramm und speicherte ein Schwarz-Weiß-Bild auf Kassette. Bis das Bild angezeigt werden konnte, vergingen etwa 23 Sekunden.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Digitalkamera"
+  },
+  {
+   "id": "x049",
+   "kind": "fact",
+   "title": "CAPTCHA-Abfragen halfen jahrelang beim Digitalisieren alter Bücher",
+   "text": "Das reCAPTCHA-System zeigte Wörter aus eingescannten Texten, die Texterkennungssoftware nicht entziffern konnte. Millionen Nutzer lösten sie beim Anmelden mit und halfen so unbewusst, Bibliotheksbestände digital lesbar zu machen.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "reCAPTCHA"
+  },
+  {
+   "id": "x050",
+   "kind": "fact",
+   "title": "Glasfaserkabel übertragen Licht, keine elektrischen Signale",
+   "text": "Daten reisen als Lichtimpulse durch hauchdünne Glasfäden und werden durch Totalreflexion im Inneren des Kabels gehalten. Dadurch sind Übertragungen kaum störanfällig für elektromagnetische Einflüsse von außen.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Lichtwellenleiter"
+  },
+  {
+   "id": "x051",
+   "kind": "fact",
+   "title": "Der Begriff 'Spam' stammt von einem Monty-Python-Sketch",
+   "text": "In dem Sketch wird das Dosenfleisch 'Spam' so oft wiederholt, dass jedes andere Gespräch untergeht. Frühe Internetnutzer übertrugen das Bild auf unerwünschte, massenhaft wiederholte Nachrichten.",
+   "topics": [
+    "tech",
+    "movies"
+   ],
+   "wiki": "Spam"
+  },
+  {
+   "id": "x052",
+   "kind": "fact",
+   "title": "Ein einzelnes Google-Suchanfrage durchsucht keine Webseiten in Echtzeit",
+   "text": "Die Suchmaschine durchforstet stattdessen einen riesigen, vorab erstellten Index, der ständig im Hintergrund aktualisiert wird. Live jede Website der Welt zu durchsuchen würde Minuten statt Millisekunden dauern.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Websuche"
+  },
+  {
+   "id": "x053",
+   "kind": "fact",
+   "title": "Die ersten Emojis entstanden 1999 in Japan",
+   "text": "Der Designer Shigetaka Kurita entwarf 176 Symbole mit gerade einmal 12 mal 12 Pixeln für einen japanischen Mobilfunkanbieter. Heute verwaltet ein internationales Konsortium über 3700 offizielle Emojis.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Emoji"
+  },
+  {
+   "id": "x054",
+   "kind": "fact",
+   "title": "Solarzellen verlieren bei großer Hitze an Leistung",
+   "text": "Kontraintuitiv arbeiten Photovoltaikmodule bei kühlem, klarem Wetter oft effizienter als in praller Mittagshitze. Zu hohe Zellentemperaturen erhöhen den elektrischen Widerstand im Halbleitermaterial.",
+   "topics": [
+    "tech",
+    "science"
+   ],
+   "wiki": "Photovoltaik"
+  },
+  {
+   "id": "x055",
+   "kind": "fact",
+   "title": "Die längste Kabelverbindung der Welt liegt am Meeresgrund",
+   "text": "Unterseekabel transportieren über 95 Prozent des internationalen Internetverkehrs, nicht Satelliten. Ein einzelnes modernes Glasfaserkabel unter dem Atlantik kann mehrere Terabit pro Sekunde übertragen.",
+   "topics": [
+    "tech",
+    "geography"
+   ],
+   "wiki": "Seekabel"
+  },
+  {
+   "id": "x056",
+   "kind": "fact",
+   "title": "Ein Smartphone-Akku altert schneller bei ständiger Volladung",
+   "text": "Lithium-Ionen-Zellen verschleißen chemisch am wenigsten im Bereich zwischen etwa 20 und 80 Prozent Ladung. Viele Hersteller begrenzen deshalb inzwischen die maximale Ladung automatisch, wenn das Gerät oft am Netz hängt.",
+   "topics": [
+    "tech"
+   ],
+   "wiki": "Lithium-Ionen-Akkumulator"
+  },
+  {
+   "id": "x057",
+   "kind": "fact",
+   "title": "Der Nil fließt von Süden nach Norden",
+   "text": "Das überrascht viele, weil man Flüsse oft mit einer Nord-Süd-Richtung assoziiert. Ägypten sprach deshalb historisch von 'Oberägypten' im Süden und 'Unterägypten' im Norden, entlang der Fließrichtung.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Nil"
+  },
+  {
+   "id": "x058",
+   "kind": "fact",
+   "title": "Die Sahara war einst grün und feucht",
+   "text": "Vor rund 6000 bis 11.000 Jahren durchzogen Flüsse und Seen die Region, Felsmalereien zeigen Giraffen und Flusspferde. Ein Wandel der Erdachsenneigung verschob die Monsunregen nach Süden und ließ die Wüste entstehen.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Sahara"
+  },
+  {
+   "id": "x059",
+   "kind": "fact",
+   "title": "Der Titicacasee ist der höchstgelegene schiffbare See der Welt",
+   "text": "Er liegt auf rund 3800 Metern Höhe an der Grenze zwischen Peru und Bolivien. Auf ihm verkehren bis heute traditionelle Boote, die komplett aus dem Schilf Totora gebaut sind.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Titicacasee"
+  },
+  {
+   "id": "x060",
+   "kind": "fact",
+   "title": "Australien ist gleichzeitig der kleinste Kontinent und die größte Insel",
+   "text": "Was ihn von Grönland unterscheidet, ist reine Definition: Kontinente gelten als eigenständige tektonische Landmassen, Grönland dagegen als Teil Nordamerikas. Der Titel 'größte Insel der Welt' bleibt deshalb Grönland vorbehalten.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Australien (Kontinent)"
+  },
+  {
+   "id": "x061",
+   "kind": "fact",
+   "title": "Der tiefste Punkt der Landoberfläche liegt unter Eis, nicht unter Meer",
+   "text": "Der Grund der Byrd-Subglazialbecken in der Antarktis liegt rund 2870 Meter unter dem Meeresspiegel, verdeckt von kilometerdickem Eis. Das Tote Meer ist zwar der tiefste Punkt an Land ohne Eisbedeckung, aber deutlich weniger tief.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Antarktis"
+  },
+  {
+   "id": "x062",
+   "kind": "fact",
+   "title": "Zwischen Russland und den USA liegen an ihrer engsten Stelle nur vier Kilometer",
+   "text": "Die beiden Diomedes-Inseln in der Beringstraße gehören je einem der Länder und trennt genau diese schmale Meerenge. Wegen der Datumsgrenze liegt zwischen ihnen sogar fast ein ganzer Kalendertag.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Beringstraße"
+  },
+  {
+   "id": "x063",
+   "kind": "fact",
+   "title": "Der Baikalsee enthält rund 20 Prozent des flüssigen Süßwassers der Erde",
+   "text": "Mit über 1600 Metern Tiefe ist er der tiefste See der Welt, sein Wasser gilt als außergewöhnlich klar. Über 80 Prozent seiner Tierarten kommen sonst nirgends auf der Welt vor.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Baikalsee"
+  },
+  {
+   "id": "x064",
+   "kind": "fact",
+   "title": "Vatikanstadt ist kleiner als viele Fußballstadien",
+   "text": "Mit rund 0,49 Quadratkilometern ist er der flächenmäßig kleinste anerkannte Staat der Welt. Dennoch besitzt er eine eigene Bahnstation, eine eigene Zeitung und eine eigene Münzprägung.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Vatikanstadt"
+  },
+  {
+   "id": "x065",
+   "kind": "fact",
+   "title": "Der Amazonas transportiert mehr Wasser als die nächsten sieben größten Flüsse zusammen",
+   "text": "An seiner Mündung strömen pro Sekunde etwa 200.000 Kubikmeter Wasser ins Meer. Sein Süßwasser lässt sich im Atlantik noch über 100 Kilometer vor der Küste nachweisen.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Amazonas"
+  },
+  {
+   "id": "x066",
+   "kind": "fact",
+   "title": "Neuseeland liegt auf zwei Hauptinseln plus rund 700 kleineren",
+   "text": "Nord- und Südinsel unterscheiden sich stark: Der Norden ist vulkanisch aktiv und wärmer, der Süden von Gletschern und Fjorden geprägt. Die nächstgelegene größere Landmasse, Australien, liegt über 1600 Kilometer entfernt.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Neuseeland"
+  },
+  {
+   "id": "x067",
+   "kind": "fact",
+   "title": "Bhutan misst seinen Wohlstand offiziell auch am Bruttonationalglück",
+   "text": "Seit den 1970er-Jahren fließt neben Wirtschaftsdaten auch das Wohlbefinden der Bevölkerung in staatliche Bewertungen ein. Das Land ist zudem eines der wenigen weltweit, das mehr Kohlendioxid bindet als es ausstößt.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Bruttonationalglück"
+  },
+  {
+   "id": "x068",
+   "kind": "fact",
+   "title": "Der Mont Blanc wächst und schrumpft je nach Schneelage",
+   "text": "Vermessungsteams messen den höchsten Berg der Alpen alle zwei Jahre neu, weil Schneedecke und tektonische Bewegungen die Höhe leicht verändern. Aktuelle Messungen schwanken meist um wenige Dezimeter um die 4805 Meter.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Mont Blanc"
+  },
+  {
+   "id": "x069",
+   "kind": "fact",
+   "title": "Singapur ist Stadt, Insel und Staat zugleich",
+   "text": "Auf einer Fläche kleiner als die Stadt Hamburg leben über fünfeinhalb Millionen Menschen. Durch Landgewinnung am Meer ist die Fläche des Stadtstaats seit der Unabhängigkeit 1965 um mehr als ein Fünftel gewachsen.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Singapur"
+  },
+  {
+   "id": "x070",
+   "kind": "fact",
+   "title": "Die Wüste Atacama ist an manchen Stellen seit Jahrhunderten ohne gemessenen Regen",
+   "text": "In Teilen Chiles fällt so selten Niederschlag, dass Forscher sie als Testgelände für Marsmissionen nutzen. Trotzdem leben dort Mikroorganismen, die extreme Trockenheit überdauern können.",
+   "topics": [
+    "geography",
+    "space"
+   ],
+   "wiki": "Atacama-Wüste"
+  },
+  {
+   "id": "x071",
+   "kind": "fact",
+   "title": "Der Ärmelkanal war einst trockenes Land",
+   "text": "Vor der letzten Eiszeit verband eine Landbrücke Britannien mit dem europäischen Festland. Ein gigantischer Dammbruch eines Eisschmelzsees ließ das Gebiet vor rund 450.000 Jahren geflutet werden.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Ärmelkanal"
+  },
+  {
+   "id": "x072",
+   "kind": "know",
+   "title": "Bäume kommunizieren über ein unterirdisches Pilznetzwerk",
+   "text": "Feine Pilzfäden verbinden die Wurzeln benachbarter Bäume und leiten Nährstoffe sowie Warnsignale vor Schädlingen weiter. Forscher nennen dieses Geflecht wegen seiner Bedeutung fürs Ökosystem manchmal 'Wood Wide Web'.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Mykorrhiza"
+  },
+  {
+   "id": "x073",
+   "kind": "know",
+   "title": "Ein Regenwald erzeugt einen Teil seines eigenen Regens",
+   "text": "Über Verdunstung geben Bäume enorme Mengen Wasserdampf ab, der über dem Wald wieder zu Wolken und Niederschlag wird. Großflächige Abholzung kann diesen Kreislauf empfindlich stören und ganze Regionen trockener machen.",
+   "topics": [
+    "nature",
+    "geography"
+   ],
+   "wiki": "Tropischer Regenwald"
+  },
+  {
+   "id": "x074",
+   "kind": "know",
+   "title": "Manche Samen brauchen ein Feuer, um überhaupt zu keimen",
+   "text": "Die Zapfen mancher Kiefernarten öffnen sich erst bei großer Hitze und setzen ihre Samen frei, wenn die Konkurrenz durch den Brand gerade beseitigt wurde. Ökologen zählen solche Waldbrände deshalb zu natürlichen, notwendigen Prozessen.",
+   "topics": [
+    "nature"
+   ],
+   "wiki": "Pyrophyt"
+  },
+  {
+   "id": "x075",
+   "kind": "know",
+   "title": "Ein einzelner Pilz kann der flächenmäßig größte Organismus der Erde sein",
+   "text": "Ein Hallimasch in Oregon erstreckt sich unterirdisch über fast neun Quadratkilometer und wird auf mehrere tausend Jahre geschätzt. Sichtbar sind nur die Fruchtkörper, das eigentliche Geflecht bleibt unter der Erde verborgen.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Dunkler Hallimasch"
+  },
+  {
+   "id": "x076",
+   "kind": "know",
+   "title": "Der Bambus ist eines der am schnellsten wachsenden Gewächse der Welt",
+   "text": "Manche Arten legen unter guten Bedingungen bis zu einem Meter pro Tag zu, messbar von Stunde zu Stunde. Trotzdem ist Bambus botanisch ein Gras, kein Baum.",
+   "topics": [
+    "nature"
+   ],
+   "wiki": "Bambus"
+  },
+  {
+   "id": "x077",
+   "kind": "know",
+   "title": "Blitze erzeugen bei Gewittern messbaren Dünger für den Boden",
+   "text": "Die enorme Hitze eines Blitzes spaltet Stickstoffmoleküle in der Luft, die sich dann mit Sauerstoff zu pflanzenverwertbaren Verbindungen binden und mit dem Regen zu Boden gelangen. Weltweit erzeugen Blitze so jedes Jahr Millionen Tonnen natürlichen Stickstoffdünger.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Stickstofffixierung"
+  },
+  {
+   "id": "x078",
+   "kind": "know",
+   "title": "Wüsten sind nicht zwingend heiß",
+   "text": "Definiert wird eine Wüste über extreme Trockenheit, nicht über Temperatur. Die Antarktis gilt mit ihrem verschwindend geringen Niederschlag als die größte Wüste der Erde.",
+   "topics": [
+    "nature",
+    "geography"
+   ],
+   "wiki": "Wüste"
+  },
+  {
+   "id": "x079",
+   "kind": "know",
+   "title": "Ein Korallenriff ist eigentlich ein Tier, das eine Stadt für sich selbst baut",
+   "text": "Korallenpolypen scheiden Kalk aus und bauen so über Jahrtausende gewaltige Riffstrukturen. Das Great Barrier Reef vor Australien ist mit über 2300 Kilometern Länge das größte lebende Bauwerk der Erde.",
+   "topics": [
+    "nature",
+    "animals"
+   ],
+   "wiki": "Korallenriff"
+  },
+  {
+   "id": "x080",
+   "kind": "know",
+   "title": "Manche Wüstenpflanzen überleben, indem sie fast nur nachts atmen",
+   "text": "Kakteen und andere Sukkulenten öffnen ihre Poren erst nach Sonnenuntergang, um Wasserverlust durch Verdunstung in der Hitze zu vermeiden. Dieser Stoffwechselweg heißt CAM-Photosynthese.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Crassulacean-Säurestoffwechsel"
+  },
+  {
+   "id": "x081",
+   "kind": "know",
+   "title": "Ein einziger Blitz kann die Luft auf seinem Weg heller machen als ein Kamerablitz",
+   "text": "Der sichtbare Kanal eines Blitzes ist im Schnitt nur wenige Zentimeter breit, erhitzt sich aber so extrem, dass er kurzzeitig heller leuchtet als die Sonne. Das begleitende Donnergrollen entsteht durch die ruckartig expandierende Luft.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Blitz"
+  },
+  {
+   "id": "x082",
+   "kind": "know",
+   "title": "Der Jetstream bestimmt, warum Flüge nach Osten oft kürzer dauern",
+   "text": "Starke Höhenwinde in mehreren Kilometern Höhe wehen meist von West nach Ost und können Flugzeuge auf dieser Route deutlich beschleunigen. Ein Flug von New York nach London ist deshalb oft eine Stunde kürzer als der Rückflug.",
+   "topics": [
+    "nature",
+    "tech"
+   ],
+   "wiki": "Jetstream"
+  },
+  {
+   "id": "x083",
+   "kind": "know",
+   "title": "Moose gehören zu den ältesten Landpflanzen der Erde",
+   "text": "Sie besiedelten das Land schon vor über 400 Millionen Jahren, lange bevor es Bäume gab. Weil ihnen echte Wurzeln fehlen, nehmen sie Wasser und Nährstoffe direkt über die gesamte Oberfläche auf.",
+   "topics": [
+    "nature",
+    "history"
+   ],
+   "wiki": "Moose"
+  },
+  {
+   "id": "x084",
+   "kind": "know",
+   "title": "Vulkanasche macht Böden oft besonders fruchtbar",
+   "text": "Mineralreiche Ablagerungen aus Ausbrüchen verwittern über Jahre zu nährstoffreichem Boden. Deshalb siedeln Menschen seit Jahrtausenden trotz der Gefahr in der Nähe aktiver Vulkane, etwa am Vesuv oder Ätna.",
+   "topics": [
+    "nature",
+    "geography"
+   ],
+   "wiki": "Vulkanboden"
+  },
+  {
+   "id": "x085",
+   "kind": "know",
+   "title": "Ein Regentropfen ist nicht tropfenförmig",
+   "text": "Im freien Fall sieht ein Regentropfen eher aus wie ein kleines Hamburgerbrötchen: oben abgerundet, unten abgeflacht durch den Luftwiderstand. Die klassische Tropfenform mit spitzem Ende entsteht nur beim Abtropfen, etwa von einem Wasserhahn.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Regentropfen"
+  },
+  {
+   "id": "x086",
+   "kind": "know",
+   "title": "Manche Flechten überstanden Experimente im offenen Weltraum",
+   "text": "Bei einem Test der ESA wurden Flechten mehrere Tage ungeschützt außerhalb der Internationalen Raumstation Vakuum, UV-Strahlung und extremer Kälte ausgesetzt. Nach der Rückkehr zur Erde nahmen sie ihre Photosynthese fast unverändert wieder auf.",
+   "topics": [
+    "nature",
+    "space"
+   ],
+   "wiki": "Flechten"
+  },
+  {
+   "id": "x087",
+   "kind": "random",
+   "title": "In Belgien ist es üblich, zum Geburtstag Erdnüsse zu werfen",
+   "text": "Bei manchen Feiern in belgischen Familien wirft man dem Geburtstagskind scherzhaft Erdnüsse zu, statt nur zu gratulieren. Der genaue Ursprung des Brauchs ist nicht eindeutig geklärt.",
+   "topics": [
+    "weird"
+   ],
+   "wiki": "Geburtstag"
+  },
+  {
+   "id": "x088",
+   "kind": "random",
+   "title": "Es gibt einen offiziellen Weltmeistertitel im Zehenringen",
+   "text": "Beim 'World Toe Wrestling Championship' in England treten Teilnehmende seit den 1970er-Jahren mit verschränkten großen Zehen gegeneinander an. Ziel ist es, den Fuß des Gegners auf ein seitliches Podest zu drücken.",
+   "topics": [
+    "weird",
+    "sports"
+   ],
+   "wiki": "Zehenringen"
+  },
+  {
+   "id": "x089",
+   "kind": "random",
+   "title": "Manche Länder verbieten das Sterben in bestimmten Gebäuden per Gesetz",
+   "text": "In der norwegischen Stadt Longyearbyen ist es untersagt zu sterben, weil Leichen im Permafrostboden nicht verwesen und dort seit Jahrzehnten Viren konserviert bleiben können. Schwerkranke werden deshalb aufs Festland gebracht.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "Longyearbyen"
+  },
+  {
+   "id": "x090",
+   "kind": "random",
+   "title": "Ein Pfund Feder wiegt mehr als ein Pfund Gold",
+   "text": "Gold wird in Feinunzen nach dem Trojgewicht gehandelt, das leichter ist als das gewöhnliche Avoirdupois-Pfund für Alltagsgegenstände wie Federn. Bei gleicher Angabe 'ein Pfund' bringt Gold deshalb rechnerisch weniger Gramm auf die Waage.",
+   "topics": [
+    "weird"
+   ],
+   "wiki": "Feinunze"
+  },
+  {
+   "id": "x091",
+   "kind": "random",
+   "title": "In Japan gibt es Restaurants, in denen Roboter servieren und tanzen",
+   "text": "Im inzwischen geschlossenen 'Robot Restaurant' in Tokio traten meterhohe, glitzernde Roboter neben Tänzerinnen und Trommlern auf. Die Show galt lange als eine der schrillsten Touristenattraktionen der Stadt.",
+   "topics": [
+    "weird",
+    "tech"
+   ],
+   "wiki": "Robot Restaurant"
+  },
+  {
+   "id": "x092",
+   "kind": "random",
+   "title": "Der kürzeste Krieg der Geschichte dauerte weniger als eine Stunde",
+   "text": "Der Krieg zwischen Großbritannien und Sansibar am 27. August 1896 endete nach offiziellen Angaben nach nur 38 Minuten. Auslöser war ein Streit um die Thronfolge nach dem Tod des Sultans.",
+   "topics": [
+    "weird",
+    "history"
+   ],
+   "wiki": "Britisch-Sansibarischer Krieg"
+  },
+  {
+   "id": "x093",
+   "kind": "random",
+   "title": "In Schweden gibt es einen eigenen Feiertag nur fürs Zimtschneckenessen",
+   "text": "Der 'Kanelbullens dag' am 4. Oktober wurde 1999 von einem schwedischen Bäckerverband eingeführt, um den Konsum der Backware zu fördern. Mittlerweile ist der Tag fest im Kalender vieler Schweden verankert.",
+   "topics": [
+    "weird",
+    "food"
+   ],
+   "wiki": "Zimtschnecke"
+  },
+  {
+   "id": "x094",
+   "kind": "random",
+   "title": "Es gibt eine Insel, auf der ausschließlich verwilderte Kaninchen leben und Touristen anziehen",
+   "text": "Auf Ōkunoshima in Japan tummeln sich hunderte zahme Wildkaninchen, die sich von Besuchern füttern lassen. Während des Zweiten Weltkriegs stand auf der Insel eine geheime Giftgasfabrik, deren Spuren heute nur noch ein kleines Museum zeigt.",
+   "topics": [
+    "weird",
+    "animals"
+   ],
+   "wiki": "Ōkunoshima"
+  },
+  {
+   "id": "x095",
+   "kind": "random",
+   "title": "In manchen Kulturen gilt das Niesen als schlechtes Omen für Reisende",
+   "text": "In Teilen Südostasiens und Afrikas brechen manche Menschen eine gerade begonnene Reise ab, wenn direkt beim Aufbruch jemand niest. In anderen Kulturen wiederum gilt genau das Gegenteil als Glückszeichen.",
+   "topics": [
+    "weird"
+   ],
+   "wiki": "Niesen"
+  },
+  {
+   "id": "x096",
+   "kind": "random",
+   "title": "Der am häufigsten falsch zitierte Satz der Filmgeschichte lautet in Wahrheit anders",
+   "text": "In 'Casablanca' sagt niemand tatsächlich 'Spiel es nochmal, Sam', sondern nur die abgekürzte Bitte 'Spiel es'. Der vermeintlich berühmte vollständige Satz existiert im Film schlicht nicht.",
+   "topics": [
+    "weird",
+    "movies"
+   ],
+   "wiki": "Casablanca (Film)"
+  },
+  {
+   "id": "x097",
+   "kind": "random",
+   "title": "Es gibt einen Wettbewerb, bei dem Menschen um die Wette Marmelade auf Toast werfen",
+   "text": "Beim jährlichen 'World Marmalade Awards' in England wird nicht nur die beste Marmelade gekürt, sondern in Nebenwettbewerben auch kreatives Drumherum gefeiert. Die Auszeichnung gilt unter Hobbyköchen als ernstzunehmende Ehre.",
+   "topics": [
+    "weird",
+    "food"
+   ],
+   "wiki": "Marmelade"
+  },
+  {
+   "id": "x098",
+   "kind": "random",
+   "title": "In Finnland gibt es eine Weltmeisterschaft im Handy-Weitwurf",
+   "text": "Beim 'Mobile Phone Throwing World Championship' zählt allein die Wurfweite, in einer Kategorie sogar die kreativste Wurftechnik. Der Wettbewerb entstand als ironische Reaktion auf den Frust über kaputte oder nervige Mobiltelefone.",
+   "topics": [
+    "weird",
+    "sports"
+   ],
+   "wiki": "Mobiltelefon"
+  },
+  {
+   "id": "x099",
+   "kind": "random",
+   "title": "Manche Bibliotheken verleihen keine Bücher, sondern Menschen",
+   "text": "Bei sogenannten 'Living Libraries' können Besucher für ein Gespräch reale Personen mit besonderen Lebensgeschichten 'ausleihen', statt ein Buch. Das Konzept entstand 2000 in Dänemark und verbreitete sich seither in vielen Ländern.",
+   "topics": [
+    "weird"
+   ],
+   "wiki": "Living Library"
+  },
+  {
+   "id": "x100",
+   "kind": "random",
+   "title": "In Neuseeland ist es Gesetz, dass jeder Vulkan technisch als Landbesitzer gilt",
+   "text": "Der Vulkan Taranaki erhielt 2017 offiziell den rechtlichen Status einer Person, mit eigenen Rechten, vertreten durch Maori-Stämme und den Staat. Ähnliche Regelungen gibt es in Neuseeland auch für einen Fluss und einen Wald.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "Taranaki"
+  },
+  {
+   "id": "x101",
+   "kind": "know",
+   "title": "Dein Herz schlägt in einem Leben rund drei Milliarden Mal",
+   "text": "Bei etwa 70 Schlägen pro Minute kommen über ein Menschenleben gerechnet grob 2,5 bis 3 Milliarden Herzschläge zusammen. Zum Vergleich: Ein Elefantenherz schlägt viel langsamer, ein Kolibriherz dagegen bis zu 1200 Mal pro Minute.",
+   "topics": [
+    "body",
+    "animals"
+   ],
+   "wiki": "Herz"
+  },
+  {
+   "id": "x102",
+   "kind": "know",
+   "title": "Fingernägel wachsen schneller als Zehennägel",
+   "text": "Fingernägel legen im Schnitt rund 3 Millimeter pro Monat zu, Zehennägel nur etwa ein Drittel davon. Grund ist die bessere Durchblutung der Hände und die ständige mechanische Reizung beim Greifen.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Nagel (Anatomie)"
+  },
+  {
+   "id": "x103",
+   "kind": "know",
+   "title": "Der menschliche Körper besteht zu einem großen Teil aus Wasser, aber nicht gleichmäßig verteilt",
+   "text": "Muskeln bestehen zu rund 75 Prozent aus Wasser, Knochen dagegen nur zu etwa 30 Prozent. Insgesamt macht Wasser bei einem Erwachsenen etwa 55 bis 60 Prozent des Körpergewichts aus.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Körperwasser"
+  },
+  {
+   "id": "x104",
+   "kind": "know",
+   "title": "Ohne Schwerkraft würdest du im Schlaf mehrere Zentimeter größer",
+   "text": "Astronauten wachsen im All um bis zu fünf Zentimeter, weil die Bandscheiben ohne Druck von oben etwas aufquellen. Zurück auf der Erde schrumpft der Körper innerhalb weniger Wochen wieder auf die alte Größe.",
+   "topics": [
+    "body",
+    "space"
+   ],
+   "wiki": "Bandscheibe"
+  },
+  {
+   "id": "x105",
+   "kind": "know",
+   "title": "Die Nase kann sich an tausende Gerüche gleichzeitig erinnern",
+   "text": "Studien zufolge kann der Mensch mehr als eine Billion verschiedene Geruchsmuster unterscheiden, deutlich mehr als lange angenommen. Gerüche sind zudem eng mit dem limbischen System verknüpft, weshalb sie oft besonders starke Erinnerungen auslösen.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Geruchssinn"
+  },
+  {
+   "id": "x106",
+   "kind": "know",
+   "title": "Zähne sind der härteste Stoff im menschlichen Körper",
+   "text": "Der Zahnschmelz besteht fast vollständig aus Mineralien und ist härter als Knochen. Trotzdem kann er durch Säuren aus Zucker und Bakterien angegriffen werden, weil er sich im Gegensatz zu Knochen nicht selbst erneuert.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Zahnschmelz"
+  },
+  {
+   "id": "x107",
+   "kind": "know",
+   "title": "Ein Niesen kann mit bis zu 150 Kilometern pro Stunde aus der Nase schießen",
+   "text": "Frühere Schätzungen von über 300 km/h gelten inzwischen als übertrieben, moderne Messungen liegen deutlich niedriger. Trotzdem verteilt ein einziges Niesen tausende winzige Tröpfchen im Raum.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Niesen"
+  },
+  {
+   "id": "x108",
+   "kind": "know",
+   "title": "Das menschliche Auge kann kein echtes Schwarz sehen, wenn genug Licht vorhanden ist",
+   "text": "Selbst tiefe Schatten reflektieren meist noch etwas Licht, weshalb absolutes Schwarz im Alltag kaum vorkommt. Nur in völliger Dunkelheit, ganz ohne Lichtquelle, nimmt das Auge echtes Schwarz wahr.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Schwarz"
+  },
+  {
+   "id": "x109",
+   "kind": "know",
+   "title": "Muskeln machen bei den meisten Menschen den größten Anteil des Körpergewichts aus",
+   "text": "Bei einem durchschnittlich trainierten Erwachsenen entfallen rund 40 Prozent des Gewichts auf Skelettmuskulatur. Selbst in Ruhe verbrauchen Muskeln kontinuierlich Energie, weshalb mehr Muskelmasse den Grundumsatz erhöht.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Skelettmuskulatur"
+  },
+  {
+   "id": "x110",
+   "kind": "know",
+   "title": "Der Blinddarm ist vermutlich kein nutzloses Überbleibsel",
+   "text": "Neuere Forschung vermutet, dass der Wurmfortsatz als Rückzugsort für nützliche Darmbakterien dient, etwa nach einem Durchfall. Früher galt er lange als reines Relikt der Evolution ohne erkennbaren Nutzen.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Blinddarm"
+  },
+  {
+   "id": "x111",
+   "kind": "know",
+   "title": "Gähnen ist ansteckender, je näher man einer Person emotional steht",
+   "text": "Studien zeigen, dass Menschen häufiger gähnen, wenn sie Familienmitglieder oder enge Freunde gähnen sehen, als bei Fremden. Manche Forscher vermuten dahinter einen Mechanismus sozialer Bindung, ganz sicher ist die Ursache aber nicht.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Gähnen"
+  },
+  {
+   "id": "x112",
+   "kind": "know",
+   "title": "Dein Skelett erneuert sich im Lauf des Lebens fast komplett",
+   "text": "Knochenzellen werden ständig ab- und wieder aufgebaut, sodass ein Erwachsenenskelett sich alle sieben bis zehn Jahre nahezu vollständig erneuert hat. Bei Kindern läuft dieser Umbau noch deutlich schneller ab.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Knochen"
+  },
+  {
+   "id": "x113",
+   "kind": "know",
+   "title": "Manche Menschen können mit den Ohren wackeln, weil ein Muskel evolutionär übrig blieb",
+   "text": "Der Musculus auricularis diente entfernten Vorfahren vermutlich dazu, die Ohrmuschel gezielt Richtung Geräuschquelle zu drehen. Beim Menschen ist er meist zurückgebildet, bei einem kleinen Teil der Bevölkerung aber noch bewusst ansteuerbar.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Ohrmuskeln"
+  },
+  {
+   "id": "x114",
+   "kind": "know",
+   "title": "Elefanten können Erdbebenwellen mit den Füßen erkennen",
+   "text": "Ihre Fußsohlen sind hochempfindlich für Vibrationen im Boden, mit denen sie auch die Rufe anderer Elefanten über mehrere Kilometer wahrnehmen können. Diese Infraschall-Kommunikation liegt größtenteils unterhalb der menschlichen Hörschwelle.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Elefanten"
+  },
+  {
+   "id": "x115",
+   "kind": "know",
+   "title": "Papageien können Wörter nicht nur nachplappern, sondern teils gezielt einsetzen",
+   "text": "Der berühmte Graupapagei Alex lernte über 100 Wörter und konnte damit einfache Fragen zu Farbe, Form und Anzahl von Gegenständen richtig beantworten. Ob er die Wörter wirklich 'verstand', wird unter Verhaltensforschern bis heute diskutiert.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Alex (Papagei)"
+  },
+  {
+   "id": "x116",
+   "kind": "know",
+   "title": "Faultiere klettern für ihr großes Geschäft einmal pro Woche extra auf den Boden",
+   "text": "Der riskante Abstieg vom Baum, bei dem sie Fressfeinden ausgesetzt sind, findet nur etwa einmal wöchentlich statt. Warum sie dieses Risiko überhaupt eingehen, statt einfach vom Ast aus fallen zu lassen, ist unter Forschern nicht abschließend geklärt.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Faultiere"
+  },
+  {
+   "id": "x117",
+   "kind": "know",
+   "title": "Ratten lachen, wenn man sie kitzelt",
+   "text": "Bei sanftem Kitzeln geben Ratten hochfrequente Laute von sich, die außerhalb des menschlichen Hörbereichs liegen und Forscher als eine Art Lachen deuten. Die Tiere suchen danach oft aktiv die Hand, die sie gekitzelt hat.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Ratten"
+  },
+  {
+   "id": "x118",
+   "kind": "know",
+   "title": "Ein Krokodil kann seinen Stoffwechsel monatelang auf Sparflamme fahren",
+   "text": "Nach einer großen Mahlzeit können manche Krokodilarten über ein Jahr ohne weitere Nahrung auskommen. Ihr extrem langsamer Stoffwechsel erlaubt es, Energie außergewöhnlich effizient zu speichern.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Krokodile"
+  },
+  {
+   "id": "x119",
+   "kind": "know",
+   "title": "Der Axolotl kann verlorene Gliedmaßen komplett nachwachsen lassen",
+   "text": "Selbst Teile des Rückenmarks, des Herzens oder des Gehirns kann dieser mexikanische Schwanzlurch regenerieren, ohne sichtbare Narben zu bilden. Genau dieser Mechanismus macht ihn zu einem der meistuntersuchten Tiere der Regenerationsforschung.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Axolotl"
+  },
+  {
+   "id": "x120",
+   "kind": "know",
+   "title": "Manche Fische können sich ihr Geschlecht während des Lebens ändern",
+   "text": "Bei Clownfischen übernimmt nach dem Tod des dominanten Weibchens automatisch das größte Männchen der Gruppe dessen Rolle und wechselt biologisch das Geschlecht. Dieser Wechsel ist dauerhaft und nicht umkehrbar.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Clownfische"
+  },
+  {
+   "id": "x121",
+   "kind": "know",
+   "title": "Der Wanderfalke ist das schnellste Tier der Erde",
+   "text": "Im Sturzflug auf Beute erreicht er Geschwindigkeiten von über 320 Kilometern pro Stunde, schneller als jedes andere bekannte Lebewesen. In der Ebene fliegt er dagegen deutlich gemächlicher als etwa manche Zugvögel.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Wanderfalke"
+  },
+  {
+   "id": "x122",
+   "kind": "know",
+   "title": "Bienen können einfache Mathematik erkennen",
+   "text": "In Experimenten lernten Honigbienen, Mengen von null bis vier korrekt zu unterscheiden und sogar simple Additions- und Subtraktionsaufgaben symbolisch zu lösen. Ihr Gehirn ist dabei kleiner als ein Sandkorn.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Honigbienen"
+  },
+  {
+   "id": "x123",
+   "kind": "know",
+   "title": "Das Alphabet, das wir nutzen, geht auf phönizische Händler zurück",
+   "text": "Vor rund 3000 Jahren entwickelten die Phönizier ein Konsonantenschriftsystem, das Griechen später um Vokale erweiterten. Aus dieser griechischen Weiterentwicklung entstand über Umwege das lateinische Alphabet, das heute Milliarden Menschen benutzen.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Phönizisches Alphabet"
+  },
+  {
+   "id": "x124",
+   "kind": "know",
+   "title": "Isländisch hat sich seit dem Mittelalter kaum verändert",
+   "text": "Dank der isolierten Lage der Insel können heutige Isländer mittelalterliche Sagas noch relativ mühelos im Original lesen. Deutsch oder Englisch aus derselben Zeit sind für moderne Sprecher dagegen kaum verständlich.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Isländische Sprache"
+  },
+  {
+   "id": "x125",
+   "kind": "know",
+   "title": "Das längste offizielle Wort im Duden hat über 30 Buchstaben",
+   "text": "'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' war ein reales Gesetz in Mecklenburg-Vorpommern und galt lange als längstes deutsches Wort, bis es 2013 wieder abgeschafft wurde. Deutsch erlaubt solche Wortungetüme, weil Substantive fast beliebig zusammengesetzt werden können.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Komposition (Grammatik)"
+  },
+  {
+   "id": "x126",
+   "kind": "know",
+   "title": "Es gibt Sprachen ganz ohne Zahlwörter",
+   "text": "Die Pirahã im Amazonasgebiet verwenden keine festen Zahlwörter, sondern nur ungefähre Mengenangaben wie 'wenig' oder 'viel'. Sprachforscher diskutieren seit Jahren, was das über den Zusammenhang von Sprache und Denken verrät.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Pirahã (Sprache)"
+  },
+  {
+   "id": "x127",
+   "kind": "know",
+   "title": "Emoji ist im Kern kein englisches, sondern ein japanisches Wort",
+   "text": "Es setzt sich aus 'e' für Bild und 'moji' für Zeichen zusammen, die zufällige Ähnlichkeit zum englischen 'emotion' ist reiner Zufall. Trotzdem verband die Popularität der Bildchen das Wort weltweit fest mit Gefühlsausdrücken.",
+   "topics": [
+    "language",
+    "tech"
+   ],
+   "wiki": "Emoji"
+  },
+  {
+   "id": "x128",
+   "kind": "know",
+   "title": "Baskisch ist mit keiner anderen lebenden Sprache Europas verwandt",
+   "text": "Während fast alle europäischen Sprachen zur indogermanischen Familie gehören, bildet Baskisch eine völlig eigenständige Sprachinsel. Ihre genaue Herkunft gilt trotz jahrzehntelanger Forschung weiterhin als ungeklärt.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Baskische Sprache"
+  },
+  {
+   "id": "x129",
+   "kind": "know",
+   "title": "Chinesisch schreibt man ohne ein klassisches Alphabet",
+   "text": "Statt Buchstaben, die Laute abbilden, nutzt die Schrift tausende Schriftzeichen, die meist ganze Wörter oder Silben darstellen. Um eine Zeitung flüssig lesen zu können, braucht es Schätzungen zufolge Kenntnis von rund 3000 bis 4000 gängigen Zeichen.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Chinesische Schrift"
+  },
+  {
+   "id": "x130",
+   "kind": "know",
+   "title": "Manche Wörter wandern über Jahrhunderte quer durch mehrere Sprachen",
+   "text": "Das deutsche Wort 'Zucker' stammt letztlich aus dem Sanskrit, gelangte über Persisch und Arabisch nach Italien und von dort ins Deutsche. Solche Wanderwörter zeigen alte Handelswege oft deutlicher als manche historische Karte.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Wanderwort"
+  },
+  {
+   "id": "x131",
+   "kind": "know",
+   "title": "Gebärdensprachen sind eigenständige Sprachen mit eigener Grammatik",
+   "text": "Deutsche Gebärdensprache folgt nicht der Wortstellung des gesprochenen Deutsch, sondern hat eine völlig eigene Satzstruktur. Weltweit gibt es hunderte unterschiedliche Gebärdensprachen, keine internationale Einheitssprache.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Deutsche Gebärdensprache"
+  },
+  {
+   "id": "x132",
+   "kind": "know",
+   "title": "Das Wort 'OK' ist wohl der am weitesten verbreitete Ausdruck der Welt",
+   "text": "Sprachforscher vermuten, dass 'OK' in praktisch jeder Sprache der Welt verstanden wird, oft ohne Übersetzung übernommen. Seine genaue Herkunft im amerikanischen Englisch der 1830er-Jahre ist bis heute umstritten.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "OK"
+  },
+  {
+   "id": "x133",
+   "kind": "know",
+   "title": "Manche Sprachen unterscheiden viel mehr Grüntöne als das Deutsche",
+   "text": "Russisch etwa trennt Hell- und Dunkelblau als zwei völlig eigene Grundfarben mit eigenen Wörtern, während Deutsch beide als Varianten von 'Blau' behandelt. Sprecher solcher Sprachen unterscheiden diese Farbtöne in Tests messbar schneller.",
+   "topics": [
+    "language",
+    "science"
+   ],
+   "wiki": "Farbwahrnehmung"
+  },
+  {
+   "id": "x134",
+   "kind": "know",
+   "title": "Latein ist offiziell eine tote Sprache, aber nicht ausgestorben",
+   "text": "Als 'tot' gilt eine Sprache, wenn sie niemand mehr als Muttersprache spricht, auch wenn sie weiter genutzt wird. Latein lebt in der Kirche, der Wissenschaft und unzähligen Fremdwörtern fort, ganz ohne native Sprecher.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Latein"
+  },
+  {
+   "id": "x135",
+   "kind": "science",
+   "title": "Auf dem Mars gibt es den größten bekannten Vulkan des Sonnensystems",
+   "text": "Der Olympus Mons ist mit rund 22 Kilometern Höhe fast dreimal so hoch wie der Mount Everest. Seine Basis ist so breit, dass er von der Marsoberfläche aus kaum als einzelner Berg erkennbar wäre.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Olympus Mons"
+  },
+  {
+   "id": "x136",
+   "kind": "science",
+   "title": "Saturn würde in einem gigantischen Ozean schwimmen",
+   "text": "Seine mittlere Dichte liegt unter der von Wasser, sodass er theoretisch auf einer ausreichend großen Wasserfläche treiben würde. Praktisch existiert eine solche Badewanne natürlich nirgendwo im Universum.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Saturn (Planet)"
+  },
+  {
+   "id": "x137",
+   "kind": "science",
+   "title": "Ein Tag auf der Venus dauert länger als ein Venusjahr",
+   "text": "Sie braucht 243 Erdtage für eine einzige Umdrehung um die eigene Achse, aber nur 225 Erdtage für eine Runde um die Sonne. Zusätzlich dreht sie sich rückwärts, entgegen der Richtung der meisten anderen Planeten.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Venus (Planet)"
+  },
+  {
+   "id": "x138",
+   "kind": "science",
+   "title": "Das Licht der Sonne braucht acht Minuten bis zur Erde",
+   "text": "Würde die Sonne plötzlich verlöschen, sähen wir ihr Licht noch etwa achteinhalb Minuten lang weiterscheinen. Erst danach würde am Himmel merklich Dunkelheit einkehren.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Sonne"
+  },
+  {
+   "id": "x139",
+   "kind": "science",
+   "title": "Es gibt mehr Sterne im Universum als Sandkörner auf allen Stränden der Erde",
+   "text": "Astronomen schätzen die Zahl der Sterne allein in beobachtbaren Galaxien auf mehrere Trilliarden. Diese Zahl übersteigt selbst grobe Schätzungen der gesamten irdischen Sandkörner um ein Vielfaches.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Stern"
+  },
+  {
+   "id": "x140",
+   "kind": "science",
+   "title": "Die Internationale Raumstation umrundet die Erde etwa 16-mal am Tag",
+   "text": "Bei einer Geschwindigkeit von rund 28.000 Kilometern pro Stunde erleben die Astronauten an Bord dadurch alle 90 Minuten einen Sonnenauf- und -untergang. Rechnerisch sehen sie so über 5000 Sonnenaufgänge pro Jahr.",
+   "topics": [
+    "space",
+    "tech"
+   ],
+   "wiki": "Internationale Raumstation"
+  },
+  {
+   "id": "x141",
+   "kind": "science",
+   "title": "Ein Jahr auf dem Merkur ist kürzer als zwei Merkur-Tage",
+   "text": "Merkur braucht nur 88 Erdtage für eine Sonnenumrundung, aber rund 176 Erdtage für eine volle Drehung um die eigene Achse. Ein Bewohner würde also in einem Merkurjahr keinen vollständigen Sonnentag erleben.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Merkur (Planet)"
+  },
+  {
+   "id": "x142",
+   "kind": "science",
+   "title": "Die Voyager-Sonden tragen goldene Schallplatten mit Grüßen der Menschheit ins All",
+   "text": "An Bord befinden sich Geräusche, Musik und Bildinformationen aus verschiedensten Kulturen der Erde, gedacht als Botschaft an mögliche außerirdische Finder. Beide Sonden haben inzwischen den interstellaren Raum jenseits des Sonnensystems erreicht.",
+   "topics": [
+    "space",
+    "history"
+   ],
+   "wiki": "Voyager-Goldene Schallplatte"
+  },
+  {
+   "id": "x143",
+   "kind": "science",
+   "title": "Der Mond entfernt sich jedes Jahr ein kleines Stück von der Erde",
+   "text": "Durch Gezeitenkräfte driftet er im Schnitt rund 3,8 Zentimeter pro Jahr weiter weg, etwa so schnell wie Fingernägel wachsen. Über Milliarden Jahre summiert sich das zu einer messbar veränderten Erdumlaufbahn.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Mond"
+  },
+  {
+   "id": "x144",
+   "kind": "science",
+   "title": "Auf dem Jupiter tobt seit mindestens 190 Jahren ein Sturm",
+   "text": "Der Große Rote Fleck ist ein gewaltiger Wirbelsturm, größer als die Erde, dessen Beobachtung bis ins 19. Jahrhundert zurückreicht. In den letzten Jahrzehnten schrumpft er messbar, verschwinden dürfte er trotzdem so bald nicht.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Großer Roter Fleck"
+  },
+  {
+   "id": "x145",
+   "kind": "know",
+   "title": "Ketchup wurde ursprünglich als Medizin verkauft",
+   "text": "In den 1830er-Jahren pries ein US-Arzt tomatenbasierte Pillen als Heilmittel gegen Verdauungsbeschwerden an. Erst Jahrzehnte später entwickelte sich daraus die süße Würzsauce, die wir heute kennen.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Ketchup"
+  },
+  {
+   "id": "x146",
+   "kind": "know",
+   "title": "Bananen sind botanisch gesehen Beeren, Erdbeeren dagegen nicht",
+   "text": "Eine Beere entsteht botanisch aus einem einzigen Fruchtknoten mit Fleisch und Samen im Inneren, was auf Bananen zutrifft. Erdbeeren dagegen zählen als sogenannte Sammelnussfrüchte, ihre 'Samen' auf der Oberfläche sind eigentlich winzige Einzelfrüchte.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Beere (Botanik)"
+  },
+  {
+   "id": "x147",
+   "kind": "know",
+   "title": "Schokolade war ursprünglich ein bitteres Getränk, kein süßes Stück",
+   "text": "Die Maya und Azteken tranken Kakao meist ungesüßt, gewürzt mit Chili und Gewürzen, als Statussymbol und Zeremonie-Getränk. Erst europäische Händler fügten ab dem 16. Jahrhundert Zucker hinzu und machten daraus eine Süßigkeit.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Kakao"
+  },
+  {
+   "id": "x148",
+   "kind": "know",
+   "title": "Honig ist die einzige Nahrung, die theoretisch nie schlecht wird",
+   "text": "Sein extrem niedriger Wassergehalt und die hohe Säurekonzentration verhindern das Wachstum von Bakterien fast vollständig. Voraussetzung ist allerdings, dass keine Feuchtigkeit von außen eindringt.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Honig"
+  },
+  {
+   "id": "x149",
+   "kind": "know",
+   "title": "Der teuerste Gewürz der Welt wird per Hand aus Blüten gepflückt",
+   "text": "Für ein Kilogramm Safran werden je nach Sorte bis zu 200.000 Blütennarben von Krokussen benötigt, komplett von Hand geerntet. Deshalb kostet das Gewürz teils mehr als Gold pro Gramm.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Safran"
+  },
+  {
+   "id": "x150",
+   "kind": "know",
+   "title": "Pommes frites stammen vermutlich nicht aus Frankreich",
+   "text": "Historiker vermuten den Ursprung eher in Belgien, wo im 17. Jahrhundert Fisch in Kartoffelform frittiert worden sein soll, als Flüsse zufroren und kein Fisch verfügbar war. Der englische Name 'French Fries' entstand vermutlich durch eine Verwechslung amerikanischer Soldaten im Ersten Weltkrieg.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Pommes frites"
+  },
+  {
+   "id": "x151",
+   "kind": "know",
+   "title": "Eine Ananas braucht bis zu drei Jahre, um überhaupt zu reifen",
+   "text": "Vom Anpflanzen bis zur ersten erntereifen Frucht vergehen je nach Sorte 18 bis 36 Monate. Danach wächst zwar oft eine zweite, kleinere Frucht am selben Stängel, aber ebenfalls erst mit deutlicher Verzögerung.",
+   "topics": [
+    "food",
+    "nature"
+   ],
+   "wiki": "Ananas"
+  },
+  {
+   "id": "x152",
+   "kind": "know",
+   "title": "Erdnüsse sind botanisch keine Nüsse, sondern Hülsenfrüchte",
+   "text": "Sie wachsen unterirdisch als Schoten am Wurzelstock, ähnlich wie Bohnen oder Linsen. Echte Nüsse wie Haselnüsse entwickeln sich dagegen oberirdisch aus einer verholzten Fruchtwand.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Erdnuss"
+  },
+  {
+   "id": "x153",
+   "kind": "know",
+   "title": "Rotwein wird nicht aus roten, sondern meist aus dunkelblauen Trauben gemacht",
+   "text": "Die rote Farbe entsteht erst dadurch, dass beim Gären die Schalen der blauen Trauben im Most verbleiben und Farbstoffe abgeben. Weißwein dagegen wird ohne Schalenkontakt gekeltert, auch aus roten Traubensorten.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Rotwein"
+  },
+  {
+   "id": "x154",
+   "kind": "know",
+   "title": "Der Big Mac dient Ökonomen als weltweiter Preisvergleich",
+   "text": "Der 'Big-Mac-Index' des Magazins 'The Economist' vergleicht seit 1986 die Kaufkraft verschiedener Länder anhand des Burgerpreises. Die Idee dahinter: Ein Big Mac besteht überall aus fast identischen Zutaten und lässt sich so gut vergleichen.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Big-Mac-Index"
+  },
+  {
+   "id": "x155",
+   "kind": "know",
+   "title": "Wasabi im Supermarkt ist meist gar kein echter Wasabi",
+   "text": "Wegen der aufwendigen Kultivierung und hoher Kosten besteht fertige Wasabipaste oft überwiegend aus Meerrettich, eingefärbt mit grünem Farbstoff. Echte Wasabipflanzen wachsen langsam in kühlem, fließendem Wasser und sind entsprechend teuer.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Wasabi"
+  },
+  {
+   "id": "x156",
+   "kind": "pop",
+   "title": "Der Soundtrack von 'Star Wars' wurde live von einem echten Orchester eingespielt",
+   "text": "John Williams komponierte die Musik in traditioneller sinfonischer Tradition, aufgenommen mit dem London Symphony Orchestra. Zur Zeit der Filmveröffentlichung 1977 galten elektronische Filmmusiken bereits als moderner Trend, den Williams bewusst umging.",
+   "topics": [
+    "movies",
+    "music"
+   ],
+   "wiki": "Star Wars (Filmmusik)"
+  },
+  {
+   "id": "x157",
+   "kind": "pop",
+   "title": "'Der Zauberer von Oz' und 'Der König der Löwen' wurden auf ungewöhnliche Weise miteinander verglichen",
+   "text": "Manche Fans behaupten, beide Filme liefen synchron zu bestimmten Musikalben perfekt zusammen. Wissenschaftlich belegt ist keine dieser bekannten Internet-Verschwörungstheorien rund um Filmsynchronität.",
+   "topics": [
+    "movies",
+    "weird"
+   ],
+   "wiki": "Der Zauberer von Oz (1939)"
+  },
+  {
+   "id": "x158",
+   "kind": "pop",
+   "title": "Ein Filmstudio erschuf für einen Dreh eine komplett funktionierende Kleinstadt",
+   "text": "Für mehrere Westernfilme baute Hollywood ganze begehbare Städte mit funktionierenden Fassaden auf firmeneigenem Gelände. Manche dieser Kulissen werden bis heute für neue Produktionen wiederverwendet.",
+   "topics": [
+    "movies"
+   ],
+   "wiki": "Filmkulisse"
+  },
+  {
+   "id": "x159",
+   "kind": "pop",
+   "title": "Die Filmreihe 'James Bond' begann als Romanserie in den 1950er-Jahren",
+   "text": "Autor Ian Fleming veröffentlichte 1953 mit 'Casino Royale' den ersten Bond-Roman, lange bevor an Kinofilme gedacht wurde. Erst 1962 kam mit 'James Bond jagt Dr. No' die erste Verfilmung ins Kino.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "James Bond"
+  },
+  {
+   "id": "x160",
+   "kind": "pop",
+   "title": "Manche Filmklassiker floppten bei ihrem Kinostart zunächst komplett",
+   "text": "'Der Zauberer von Oz' spielte 1939 an den Kinokassen kaum seine Produktionskosten ein und wurde erst durch spätere Fernsehausstrahlungen zum Klassiker. Ähnlich erging es 'Es ist ein wundervolles Leben' von 1946.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Es ist ein wundervolles Leben"
+  },
+  {
+   "id": "x161",
+   "kind": "pop",
+   "title": "Der erste abendfüllende Animationsfilm der Filmgeschichte kam 1937 in die Kinos",
+   "text": "Walt Disneys 'Schneewittchen und die sieben Zwerge' galt vielen Branchenkennern zuvor als finanzielles Wagnis, das Publikum nie über eine ganze Spielfilmlänge fesseln könne. Der Erfolg widerlegte diese Skepsis deutlich und begründete das moderne Animationsstudio.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Schneewittchen und die sieben Zwerge (1937)"
+  },
+  {
+   "id": "x162",
+   "kind": "pop",
+   "title": "Für Filmexplosionen wird oft echtes Feuer mit computeranimierten Elementen kombiniert",
+   "text": "Praktische Effekte am Set wirken oft realistischer als reine Computeranimation, werden aber im Nachhinein digital verstärkt oder erweitert. Diese Mischtechnik gilt in der Branche vielen als Königsweg zwischen Realismus und Kontrolle.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Spezialeffekt"
+  },
+  {
+   "id": "x163",
+   "kind": "know",
+   "title": "Der Marathon ist nach einer Legende benannt, die vermutlich nicht ganz stimmt",
+   "text": "Der Überlieferung nach lief ein Bote 490 v. Chr. von Marathon nach Athen, um den Sieg über die Perser zu verkünden, und starb danach erschöpft zusammen. Historiker halten die genaue Geschichte für stark ausgeschmückt, die olympische Distanz von 42,195 Kilometern wurde erst 1908 offiziell festgelegt.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Marathon (Sportart)"
+  },
+  {
+   "id": "x164",
+   "kind": "know",
+   "title": "Beim Tischtennis fliegt der Ball schneller als beim Tennis",
+   "text": "Profispieler erreichen beim Schlag Ballgeschwindigkeiten von über 110 Kilometern pro Stunde, auf einer viel kleineren Fläche als beim Tennis. Die extrem kurze Reaktionszeit macht Tischtennis zu einem der schnellsten Rückschlagsportarten überhaupt.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Tischtennis"
+  },
+  {
+   "id": "x165",
+   "kind": "know",
+   "title": "Die Olympischen Spiele wurden im Altertum über tausend Jahre lang ausgetragen",
+   "text": "Von 776 v. Chr. bis zum Verbot durch den römischen Kaiser Theodosius I. im Jahr 393 n. Chr. fanden die antiken Spiele alle vier Jahre in Olympia statt. Erst 1896 wurden sie in Athen als moderne Olympiade wiederbelebt.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Olympische Spiele der Antike"
+  },
+  {
+   "id": "x166",
+   "kind": "know",
+   "title": "Beim Fußball war der Elfmeterpunkt nicht von Anfang an Teil der Regeln",
+   "text": "Der Strafstoß wurde erst 1891 eingeführt, nachdem grobe Fouls im eigenen Strafraum zuvor kaum sanktioniert werden konnten. Die genaue Entfernung von elf Metern zum Tor wurde dabei bewusst als praktikabler Kompromiss gewählt.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Elfmeter"
+  },
+  {
+   "id": "x167",
+   "kind": "know",
+   "title": "Golfbälle haben Dellen, damit sie weiter fliegen",
+   "text": "Die kleinen Vertiefungen auf der Oberfläche reduzieren den Luftwiderstand und erzeugen einen dünnen Luftwirbel, der den Ball stabiler und weiter fliegen lässt als eine glatte Kugel. Frühe Golfbälle waren tatsächlich glatt und flogen dadurch deutlich kürzer.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Golfball"
+  },
+  {
+   "id": "x168",
+   "kind": "pop",
+   "title": "Das erste kommerzielle Videospiel überhaupt lief auf einem Oszilloskop",
+   "text": "'Tennis for Two' aus dem Jahr 1958 simulierte ein einfaches Tennismatch auf einem Analogrechner mit Röhrenbildschirm, Jahre vor 'Pong'. Entwickler William Higinbotham baute es ursprünglich nur als Attraktion für einen Tag der offenen Tür.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Tennis for Two"
+  },
+  {
+   "id": "x169",
+   "kind": "pop",
+   "title": "'Tetris' entstand hinter dem Eisernen Vorhang",
+   "text": "Der sowjetische Programmierer Alexei Paschitnow entwickelte das Spiel 1984 auf einem Elektronika-60-Rechner in Moskau. Die Rechte gelangten über verworrene Lizenzverhandlungen erst Jahre später legal in den Westen.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Tetris"
+  },
+  {
+   "id": "x170",
+   "kind": "pop",
+   "title": "Das meistverkaufte Videospiel der Welt lässt sich fast beliebig verändern",
+   "text": "'Minecraft' verkaufte sich seit 2011 über 300 Millionen Mal, unter anderem weil Spieler die Welt fast komplett selbst gestalten können. Ursprünglich entwickelte es der schwedische Programmierer Markus Persson allein in seiner Freizeit.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Minecraft"
+  },
+  {
+   "id": "x171",
+   "kind": "pop",
+   "title": "In frühen Videospielen sparte man Speicherplatz mit cleveren Tricks statt mehr Hardware",
+   "text": "Weil Konsolenspeicher in den 1980ern extrem knapp war, programmierten Entwickler etwa Level, die sich beim Erreichen des Bildschirmrands nahtlos wiederholten. 'Super Mario Bros.' passte komplett auf ein Modul mit gerade einmal 40 Kilobyte.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Super Mario Bros."
+  },
+  {
+   "id": "x172",
+   "kind": "pop",
+   "title": "Beethoven komponierte einige seiner bekanntesten Werke, als er bereits fast taub war",
+   "text": "Ab etwa 1800 verschlechterte sich sein Gehör zunehmend, dennoch entstanden danach Sinfonien wie die Neunte. Manche Berichte erzählen, er habe bei der Uraufführung den tosenden Applaus erst bemerkt, als man ihn zum Publikum umdrehte.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Ludwig van Beethoven"
+  },
+  {
+   "id": "x173",
+   "kind": "pop",
+   "title": "Die Melodie von 'Happy Birthday' war jahrzehntelang urheberrechtlich geschützt",
+   "text": "Ein Musikverlag beanspruchte bis 2016 Lizenzgebühren für die öffentliche Aufführung des Liedes, etwa in Filmen. Ein US-Gericht erklärte den Schutz schließlich für ungültig, seither ist das Lied wieder gemeinfrei nutzbar.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Happy Birthday to You"
+  },
+  {
+   "id": "x174",
+   "kind": "pop",
+   "title": "Die erste kommerziell erfolgreiche CD-Aufnahme bestimmte die maximale Länge des Formats",
+   "text": "Der Überlieferung nach sollte eine komplette Aufführung von Beethovens Neunter Sinfonie auf eine CD passen, was die Speicherzeit von 74 Minuten mitbestimmt haben soll. Diese Anekdote wird bis heute unter Musik- und Technikhistorikern diskutiert.",
+   "topics": [
+    "music",
+    "tech"
+   ],
+   "wiki": "Compact Disc"
+  },
+  {
+   "id": "x175",
+   "kind": "fact",
+   "title": "Die Hagia Sophia war über tausend Jahre das größte Bauwerk der Welt",
+   "text": "Fertiggestellt 537 in Konstantinopel, hielt ihre Kuppel den Rekord als größte überdachte Innenfläche bis zur Kathedrale von Sevilla im Jahr 1520. Sie diente nacheinander als Kirche, Moschee, Museum und ist heute wieder Moschee.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Hagia Sophia"
+  },
+  {
+   "id": "x176",
+   "kind": "fact",
+   "title": "Der Zweite Weltkrieg endete auf zwei verschiedenen Kontinenten an zwei verschiedenen Tagen",
+   "text": "In Europa kapitulierte Deutschland am 8. Mai 1945, der Krieg gegen Japan im Pazifik endete erst am 2. September desselben Jahres. Zwischen beiden Terminen lagen fast vier Monate weiterer Kämpfe.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Zweiter Weltkrieg"
+  },
+  {
+   "id": "x177",
+   "kind": "fact",
+   "title": "Die Wall Street trägt ihren Namen nach einer echten Mauer",
+   "text": "Niederländische Siedler errichteten im 17. Jahrhundert am Rand von Neu-Amsterdam, dem heutigen New York, einen Schutzwall gegen Angriffe. Die Straße entlang dieser Befestigung heißt bis heute Wall Street.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Wall Street"
+  },
+  {
+   "id": "x178",
+   "kind": "fact",
+   "title": "Der Kalte Krieg wurde nie mit einer offiziellen Kriegserklärung begonnen oder beendet",
+   "text": "Der jahrzehntelange Konflikt zwischen den USA und der Sowjetunion verlief über Stellvertreterkriege, Wettrüsten und Propaganda, nie über direkte Gefechte beider Großmächte. Als symbolisches Ende gilt meist der Zusammenbruch der Sowjetunion 1991.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Kalter Krieg"
+  },
+  {
+   "id": "x179",
+   "kind": "fact",
+   "title": "Griechische Tempel waren ursprünglich bunt bemalt",
+   "text": "Die heute strahlend weißen Marmorruinen trugen einst kräftige Farben in Rot, Blau und Gold. Die Farbschichten verwitterten über die Jahrtausende vollständig, weshalb das Bild der 'reinen weißen Antike' erst in der Neuzeit entstand.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Polychromie"
+  },
+  {
+   "id": "x180",
+   "kind": "science",
+   "title": "Ein Regenbogen entsteht nur, wenn Sonne und Regen gleichzeitig auftreten",
+   "text": "Licht muss in Wassertropfen gebrochen, reflektiert und erneut gebrochen werden, um das charakteristische Farbspektrum zu erzeugen. Deshalb steht die Sonne bei einem Regenbogen immer im Rücken der Betrachtenden.",
+   "topics": [
+    "science",
+    "nature"
+   ],
+   "wiki": "Regenbogen"
+  },
+  {
+   "id": "x181",
+   "kind": "science",
+   "title": "Ein menschliches Gehirn verbraucht rund 20 Prozent der täglichen Energie",
+   "text": "Obwohl es nur etwa zwei Prozent des Körpergewichts ausmacht, benötigt das Gehirn einen unverhältnismäßig großen Anteil der aufgenommenen Kalorien. Ein Großteil davon fließt in die ständige elektrische Signalübertragung zwischen Nervenzellen.",
+   "topics": [
+    "science",
+    "body"
+   ],
+   "wiki": "Gehirn"
+  },
+  {
+   "id": "x182",
+   "kind": "science",
+   "title": "Trockeneis geht direkt von fest zu gasförmig über, ohne zu schmelzen",
+   "text": "Bei normalem Luftdruck existiert gefrorenes Kohlendioxid nie als Flüssigkeit, sondern sublimiert bei minus 78,5 Grad Celsius direkt zu Gas. Genau dieser Effekt erzeugt den charakteristischen Nebel bei Bühnenshows.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Trockeneis"
+  },
+  {
+   "id": "x183",
+   "kind": "science",
+   "title": "Ein Kristall wächst, indem sich Atome in einem geordneten Muster wiederholen",
+   "text": "Egal ob Schneeflocke, Salzkorn oder Diamant, die Grundstruktur entsteht durch immer gleiche, sich wiederholende Anordnung der Bausteine. Winzige Störungen beim Wachstum sorgen dafür, dass fast jeder Kristall trotzdem einzigartig aussieht.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Kristall"
+  },
+  {
+   "id": "x184",
+   "kind": "science",
+   "title": "Der menschliche Körper produziert täglich mehrere Liter Verdauungssäfte",
+   "text": "Speichel, Magensaft, Galle und weitere Sekrete summieren sich auf schätzungsweise sechs bis acht Liter am Tag. Der allergrößte Teil davon wird im Darm wieder rückresorbiert, statt verloren zu gehen.",
+   "topics": [
+    "science",
+    "body"
+   ],
+   "wiki": "Verdauung"
+  },
+  {
+   "id": "x185",
+   "kind": "fact",
+   "title": "Die erste funktionierende Impfung richtete sich gegen Pocken",
+   "text": "Edward Jenner infizierte 1796 einen Jungen gezielt mit Kuhpocken und zeigte, dass dieser danach gegen die gefährlicheren Menschenpocken immun war. Das Wort 'Vakzine' leitet sich vom lateinischen Wort für Kuh ab.",
+   "topics": [
+    "history",
+    "body"
+   ],
+   "wiki": "Edward Jenner"
+  },
+  {
+   "id": "x186",
+   "kind": "know",
+   "title": "Ein Vulkanausbruch kann das Klima der ganzen Erde für Jahre verändern",
+   "text": "Der Ausbruch des Tambora 1815 schleuderte so viel Asche und Schwefel in die Atmosphäre, dass es weltweit zu einem 'Jahr ohne Sommer' kam, mit Missernten bis nach Europa und Nordamerika. Die eigentliche Explosion war zehnmal stärker als jene des berühmteren Krakatau 1883.",
+   "topics": [
+    "nature",
+    "history"
+   ],
+   "wiki": "Jahr ohne Sommer"
+  },
+  {
+   "id": "x187",
+   "kind": "know",
+   "title": "Es gibt Pflanzen, die andere Insekten fressen, statt von ihnen gefressen zu werden",
+   "text": "Der Sonnentau fängt Insekten mit klebrigen Tröpfchen auf seinen Blättern, um an zusätzliche Nährstoffe zu gelangen, meist in nährstoffarmen Mooren. Weltweit gibt es mehrere hundert bekannte Arten fleischfressender Pflanzen.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Fleischfressende Pflanzen"
+  },
+  {
+   "id": "x188",
+   "kind": "know",
+   "title": "Ein Tornado kann Strohhalme in Baumstämme treiben",
+   "text": "Bei extremen Windgeschwindigkeiten wirken selbst leichte, schnelle Objekte wie Geschosse und können sich tief in weicheres Material bohren. Solche Effekte dienen Meteorologen manchmal sogar als grober Hinweis auf die Windstärke eines Sturms.",
+   "topics": [
+    "nature",
+    "weird"
+   ],
+   "wiki": "Tornado"
+  },
+  {
+   "id": "x189",
+   "kind": "know",
+   "title": "Manche Wüsten bekommen ihr Wasser hauptsächlich aus Nebel, nicht aus Regen",
+   "text": "In der Atacama-Wüste in Chile fangen spezielle Netze feinen Küstennebel auf und gewinnen daraus Trinkwasser für ganze Dörfer. Manche einheimischen Pflanzen und Tiere haben sich evolutionär direkt auf diese Nebelfeuchtigkeit spezialisiert.",
+   "topics": [
+    "nature",
+    "geography"
+   ],
+   "wiki": "Nebelkollektor"
+  },
+  {
+   "id": "x190",
+   "kind": "random",
+   "title": "In Dänemark ist unverheiratet zu bleiben mit einer Zimtdusche verbunden",
+   "text": "Wer bis zum 25. Geburtstag noch nicht verheiratet ist, wird der Tradition nach von Freunden mit gemahlenem Zimt überschüttet. Der Brauch geht angeblich auf reisende Gewürzhändler zurück, die selten Zeit fürs Heiraten hatten.",
+   "topics": [
+    "weird"
+   ],
+   "wiki": "Hochzeitsbräuche"
+  },
+  {
+   "id": "x191",
+   "kind": "random",
+   "title": "Es gibt ein Museum, das ausschließlich gescheiterten Produkten gewidmet ist",
+   "text": "Im schwedischen 'Museum of Failure' stehen echte Flops großer Firmen, von Parfüm mit Fast-Food-Geruch bis zu gescheiterten Handy-Prototypen. Ziel ist es, zu zeigen, dass Innovation ohne Fehlschläge kaum möglich ist.",
+   "topics": [
+    "weird",
+    "tech"
+   ],
+   "wiki": "Scheitern"
+  },
+  {
+   "id": "x192",
+   "kind": "random",
+   "title": "Manche Straßen tragen offiziell Nummern statt Namen",
+   "text": "In Teilen Japans haben viele Straßen gar keine eigenen Namen, stattdessen sind Häuserblöcke nummeriert. Orientierung erfolgt dort eher über Blocknummern und Landmarken als über klassische Adressen.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "Adresse"
+  },
+  {
+   "id": "x193",
+   "kind": "know",
+   "title": "Kondensstreifen bestehen hauptsächlich aus Wasser, nicht aus Abgasrauch",
+   "text": "Der heiße, feuchte Abgasstrahl eines Triebwerks trifft in großer Höhe auf extrem kalte Luft und gefriert dabei zu winzigen Eiskristallen. Wie lange ein Streifen sichtbar bleibt, hängt stark von der Feuchtigkeit der umgebenden Luft ab.",
+   "topics": [
+    "science",
+    "tech"
+   ],
+   "wiki": "Kondensstreifen"
+  },
+  {
+   "id": "x194",
+   "kind": "know",
+   "title": "Manche Metalle sind bei Raumtemperatur flüssig",
+   "text": "Quecksilber ist das bekannteste Beispiel, aber auch Gallium wird schon bei knapp unter 30 Grad Celsius flüssig, allein durch Handwärme. Wegen seiner Ungiftigkeit im Vergleich zu Quecksilber wird Gallium heute unter anderem in manchen Thermometern verwendet.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Gallium"
+  },
+  {
+   "id": "x195",
+   "kind": "science",
+   "title": "Auf dem Neptun wehen die stärksten bekannten Winde des Sonnensystems",
+   "text": "Sturmböen erreichen dort Geschwindigkeiten von über 2000 Kilometern pro Stunde, deutlich schneller als jeder Hurrikan auf der Erde. Warum der sonnenfernste Planet trotz geringer Energiezufuhr so stürmisch ist, ist unter Astronomen noch nicht restlos geklärt.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Neptun (Planet)"
+  },
+  {
+   "id": "x196",
+   "kind": "science",
+   "title": "Ein Astronaut kann im All nicht einfach normal weinen",
+   "text": "Ohne Schwerkraft bleiben Tränen als Kugeln am Auge haften, statt herunterzulaufen, und können sich unangenehm ansammeln. Manche Raumfahrer berichten deshalb von einem brennenden Gefühl, bis sie die Tropfen manuell wegwischen.",
+   "topics": [
+    "space",
+    "body"
+   ],
+   "wiki": "Schwerelosigkeit"
+  },
+  {
+   "id": "x197",
+   "kind": "science",
+   "title": "Die Sonne macht über 99 Prozent der Masse des gesamten Sonnensystems aus",
+   "text": "Alle Planeten, Monde, Asteroiden und Kometen zusammen bringen es nur auf einen winzigen Bruchteil der Gesamtmasse. Allein Jupiter, der schwerste Planet, wiegt weniger als ein Tausendstel der Sonne.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Sonnensystem"
+  },
+  {
+   "id": "x198",
+   "kind": "fact",
+   "title": "Machu Picchu wurde von den Spaniern bei der Eroberung nie gefunden",
+   "text": "Die Inka-Stadt in den peruanischen Anden blieb der Kolonialmacht im 16. Jahrhundert komplett verborgen und geriet danach in Vergessenheit. Erst 1911 machte der US-Forscher Hiram Bingham die Ruinen weltweit bekannt.",
+   "topics": [
+    "history",
+    "geography"
+   ],
+   "wiki": "Machu Picchu"
+  },
+  {
+   "id": "x199",
+   "kind": "fact",
+   "title": "Der Fingerabdruck eines Koalas ähnelt verblüffend dem eines Menschen",
+   "text": "Selbst unter dem Mikroskop lassen sich koalatypische Muster mitunter kaum von menschlichen Fingerabdrücken unterscheiden. Forensiker berichten, dass Koala-Abdrücke an Tatorten in Australien theoretisch Verwirrung stiften könnten.",
+   "topics": [
+    "animals",
+    "weird"
+   ],
+   "wiki": "Koalas"
+  },
+  {
+   "id": "x200",
+   "kind": "know",
+   "title": "Oktopusse können durch Öffnungen quetschen, die kleiner sind als ihr Auge",
+   "text": "Ihr Körper besitzt fast keine harten Knochen außer dem Schnabel, der einzige feste Teil bestimmt die minimal mögliche Öffnung. Dadurch entkommen sie selbst aus scheinbar dicht verschlossenen Aquarien.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Oktopusse"
+  },
+  {
+   "id": "x201",
+   "kind": "know",
+   "title": "Manche Spinnenarten können über Wasser laufen",
+   "text": "Ihre feinen, wasserabweisenden Beinhärchen verteilen das Körpergewicht so, dass die Oberflächenspannung sie trägt. Einige Arten nutzen diese Fähigkeit gezielt zur Jagd auf kleine Wasserinsekten.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Oberflächenspannung"
+  },
+  {
+   "id": "x202",
+   "kind": "know",
+   "title": "Ein Chamäleon kann seine beiden Augen unabhängig voneinander bewegen",
+   "text": "Jedes Auge kann sich getrennt in eine andere Richtung drehen und so gleichzeitig zwei Blickfelder überwachen. Erst wenn eine Beute erkannt wird, richten sich beide Augen gemeinsam auf das Ziel.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Chamäleons"
+  },
+  {
+   "id": "x203",
+   "kind": "fact",
+   "title": "Der U-Bahn-Plan von London inspirierte Design-Standards weltweit",
+   "text": "1931 entwarf der Zeichner Harry Beck eine schematische Karte, die geografische Genauigkeit zugunsten klarer Linien und rechter Winkel aufgab. Fast alle modernen Nahverkehrspläne der Welt folgen bis heute diesem Grundprinzip.",
+   "topics": [
+    "history",
+    "tech"
+   ],
+   "wiki": "London Underground"
+  },
+  {
+   "id": "x204",
+   "kind": "fact",
+   "title": "Die Steuerung von Videospiel-Controllern hat sich seit den 1980ern kaum grundlegend geändert",
+   "text": "Das klassische Layout aus Steuerkreuz und Aktionstasten, eingeführt bei Nintendos NES-Controller 1985, prägt bis heute fast jeden modernen Gamepad. Neue Funktionen kamen seitdem meist zusätzlich, nicht als Ersatz.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Gamepad"
+  },
+  {
+   "id": "x205",
+   "kind": "pop",
+   "title": "Der erste E-Sport-Wettbewerb der Geschichte fand schon 1972 statt",
+   "text": "Studenten der Stanford University traten im Spiel 'Spacewar!' gegeneinander an, Hauptpreis war ein Jahresabo eines Magazins. Von einer eigenen Branche mit Millionenpreisgeldern war damals noch keine Rede.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Spacewar!"
+  },
+  {
+   "id": "x206",
+   "kind": "pop",
+   "title": "Manche klassischen Kompositionen entstanden ursprünglich als reine Auftragsarbeiten",
+   "text": "Mozart schrieb einen Großteil seiner Werke gegen Bezahlung für Adelige, Kirchen oder konkrete Anlässe, nicht aus freier künstlerischer Eingebung allein. Zeitdruck und finanzielle Not prägten viele seiner produktivsten Schaffensphasen.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Wolfgang Amadeus Mozart"
+  },
+  {
+   "id": "x207",
+   "kind": "know",
+   "title": "Der 100-Meter-Weltrekord fiel im Lauf eines Jahrhunderts um fast eine Sekunde",
+   "text": "Um 1900 lag die Bestzeit noch bei etwa 10,8 Sekunden, heute liegt der Weltrekord bei 9,58 Sekunden. Verbesserte Trainingsmethoden, Laufbahnen und Startblöcke gelten als Hauptgründe für die kontinuierliche Steigerung.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "100-Meter-Lauf"
+  },
+  {
+   "id": "x208",
+   "kind": "know",
+   "title": "Beim Schwimmen bringt eine glattere Haut nicht automatisch mehr Tempo",
+   "text": "Ganzkörperanzüge mit strukturierter, haiähnlicher Oberfläche senkten in den 2000ern den Wasserwiderstand messbar stärker als reine Glätte. Wegen der enormen Leistungssprünge wurden solche Hightech-Anzüge im Wettkampfschwimmen 2010 wieder verboten.",
+   "topics": [
+    "sports",
+    "tech"
+   ],
+   "wiki": "Schwimmen (Sport)"
+  },
+  {
+   "id": "x209",
+   "kind": "know",
+   "title": "Kartoffeln kamen erst im 16. Jahrhundert nach Europa",
+   "text": "Spanische Seefahrer brachten die Knolle aus den südamerikanischen Anden mit, wo sie schon seit Jahrtausenden angebaut wurde. In Europa galt sie zunächst als Zierpflanze oder gar als giftig, bevor sie sich als Grundnahrungsmittel durchsetzte.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Kartoffel"
+  },
+  {
+   "id": "x210",
+   "kind": "know",
+   "title": "Manche Käsesorten reifen jahrelang in eigens angelegten unterirdischen Höhlen",
+   "text": "Der Roquefort darf laut Herkunftsbezeichnung nur in natürlichen Kalksteinhöhlen bei Roquefort-sur-Soulzon reifen, wo ein bestimmter Schimmelpilz auf natürliche Weise vorkommt. Das gleichmäßige Klima der Höhlen lässt sich künstlich kaum reproduzieren.",
+   "topics": [
+    "food",
+    "geography"
+   ],
+   "wiki": "Roquefort"
+  },
+  {
+   "id": "x211",
+   "kind": "know",
+   "title": "Deutsch ist die meistgesprochene Muttersprache in der Europäischen Union",
+   "text": "Mit über 90 Millionen Muttersprachlern liegt Deutsch vor Französisch und Italienisch an der Spitze innerhalb der EU. Weltweit gesehen liegt es allerdings deutlich hinter global verbreiteten Sprachen wie Englisch oder Spanisch zurück.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Deutsche Sprache"
+  },
+  {
+   "id": "x212",
+   "kind": "fact",
+   "title": "Die Terrakotta-Armee wurde erst 1974 durch Zufall entdeckt",
+   "text": "Bauern beim Brunnengraben in der chinesischen Provinz Shaanxi stießen auf Tonscherben und lösten damit eine der bedeutendsten archäologischen Entdeckungen des 20. Jahrhunderts aus. Geschätzte 8000 lebensgroße Kriegerfiguren bewachen bis heute das Grab des ersten chinesischen Kaisers.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Terrakotta-Armee"
   }
  ]
 }
