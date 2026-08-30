@@ -1,0 +1,900 @@
+{
+ "images": {
+  "nature": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roca_de_la_Ley%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_019.jpg/1280px-Roca_de_la_Ley%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_019.jpg",
+    "file": "Roca de la Ley, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 019.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tam_za_tumanamy_Goverla.jpg/1280px-Tam_za_tumanamy_Goverla.jpg",
+    "file": "Tam za tumanamy Goverla.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2015_Ribblehead_Viaduct_1.jpg/1280px-2015_Ribblehead_Viaduct_1.jpg",
+    "file": "2015 Ribblehead Viaduct 1.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/21-224-5054_NNP_Synevyr_RB_18.jpg/1280px-21-224-5054_NNP_Synevyr_RB_18.jpg",
+    "file": "21-224-5054 NNP Synevyr RB 18.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polar_bear_%28Ursus%29_maritimus_female_with_its_cub%2C_Svalbard_%282%29.jpg/1280px-Polar_bear_%28Ursus%29_maritimus_female_with_its_cub%2C_Svalbard_%282%29.jpg",
+    "file": "Polar bear (Ursus) maritimus female with its cub, Svalbard (2).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Li_Phi_falls_with_colorful_sky_from_elevated_zip_line_platform_at_sunset_in_Don_Khon_Si_Phan_Don_Laos.jpg/1280px-Li_Phi_falls_with_colorful_sky_from_elevated_zip_line_platform_at_sunset_in_Don_Khon_Si_Phan_Don_Laos.jpg",
+    "file": "Li Phi falls with colorful sky from elevated zip line platform at sunset in Don Khon Si Phan Don Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tours_Saint-Jacques_-_195.jpg/1280px-Tours_Saint-Jacques_-_195.jpg",
+    "file": "Tours Saint-Jacques - 195.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/From_O_Pupers_last_light-3_crop.jpg/1280px-From_O_Pupers_last_light-3_crop.jpg",
+    "file": "From O Pupers last light-3 crop.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg/1280px-Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg",
+    "file": "Spiti River Kaza Himachal Jun18 D72 7232.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Scuol-Motta_Naluns%2C_11-10-2024._%28actm.%29_21.jpg/1280px-Scuol-Motta_Naluns%2C_11-10-2024._%28actm.%29_21.jpg",
+    "file": "Scuol-Motta Naluns, 11-10-2024. (actm.) 21.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Square_plot_of_a_green_paddy_field%2C_hut_and_karst_mountains_under_colorful_clouds_at_sunset%2C_Vang_Vieng%2C_Laos.jpg/1280px-Square_plot_of_a_green_paddy_field%2C_hut_and_karst_mountains_under_colorful_clouds_at_sunset%2C_Vang_Vieng%2C_Laos.jpg",
+    "file": "Square plot of a green paddy field, hut and karst mountains under colorful clouds at sunset, Vang Vieng, Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bruderwald-Herbst-026375.jpg/1280px-Bruderwald-Herbst-026375.jpg",
+    "file": "Bruderwald-Herbst-026375.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mountains_Mekong_river_and_dwellings_seen_from_Mount_Phou_Si_at_dusk_in_Luang_Prabang_Laos.jpg/1280px-Mountains_Mekong_river_and_dwellings_seen_from_Mount_Phou_Si_at_dusk_in_Luang_Prabang_Laos.jpg",
+    "file": "Mountains Mekong river and dwellings seen from Mount Phou Si at dusk in Luang Prabang Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Water_reflection_of_a_wooden_house_surrounded_by_trees_with_farmers_walking_in_the_paddy_fields_of_Vang_Vieng_Laos.jpg/1280px-Water_reflection_of_a_wooden_house_surrounded_by_trees_with_farmers_walking_in_the_paddy_fields_of_Vang_Vieng_Laos.jpg",
+    "file": "Water reflection of a wooden house surrounded by trees with farmers walking in the paddy fields of Vang Vieng Laos.jpg"
+   }
+  ],
+  "animals": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flockenstielige_Hexen-R%C3%B6hrling_Boletus_erythropus.jpg/1280px-Flockenstielige_Hexen-R%C3%B6hrling_Boletus_erythropus.jpg",
+    "file": "Flockenstielige Hexen-Röhrling Boletus erythropus.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Xylaria_hypoxylon_%28candlestick_fungus%29_location%2C_Val_Sinestra._14-10-2024._%28actm.%29_01.jpg/1280px-Xylaria_hypoxylon_%28candlestick_fungus%29_location%2C_Val_Sinestra._14-10-2024._%28actm.%29_01.jpg",
+    "file": "Xylaria hypoxylon (candlestick fungus) location, Val Sinestra. 14-10-2024. (actm.) 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Knolparasolzwam_%28Chlorophyllum_rhacodes%29_06-11-2020_%28actm.%29_01.jpg/1280px-Knolparasolzwam_%28Chlorophyllum_rhacodes%29_06-11-2020_%28actm.%29_01.jpg",
+    "file": "Knolparasolzwam (Chlorophyllum rhacodes) 06-11-2020 (actm.) 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Deelerwoud%2C_09-05-2024_%28d.j.b.%29_02.jpg/1280px-Deelerwoud%2C_09-05-2024_%28d.j.b.%29_02.jpg",
+    "file": "Deelerwoud, 09-05-2024 (d.j.b.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Strophariaceae_13-11-2022._%28d.j.b%29.jpg/1280px-Strophariaceae_13-11-2022._%28d.j.b%29.jpg",
+    "file": "Strophariaceae 13-11-2022. (d.j.b).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Go%C3%ABngarijpsterpoelen_%28Frysk%29_Goai%C3%AFngarypster_Puollen_%28d.j.b.%29_02.jpg/1280px-Go%C3%ABngarijpsterpoelen_%28Frysk%29_Goai%C3%AFngarypster_Puollen_%28d.j.b.%29_02.jpg",
+    "file": "Goëngarijpsterpoelen (Frysk) Goaiïngarypster Puollen (d.j.b.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Deelerwoud%2C_09-05-2024_%28actm.%29_04.jpg/1280px-Deelerwoud%2C_09-05-2024_%28actm.%29_04.jpg",
+    "file": "Deelerwoud, 09-05-2024 (actm.) 04.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fluweelpootje%2C_%28Flammulina_velutipes%29%2C_%28d.j.b.%29_02.jpg/1280px-Fluweelpootje%2C_%28Flammulina_velutipes%29%2C_%28d.j.b.%29_02.jpg",
+    "file": "Fluweelpootje, (Flammulina velutipes), (d.j.b.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wyldemerk%2C_natuurgebied_in_Gaasterland._27-04-2026._%28actm.%29_16.jpg/1280px-Wyldemerk%2C_natuurgebied_in_Gaasterland._27-04-2026._%28actm.%29_16.jpg",
+    "file": "Wyldemerk, natuurgebied in Gaasterland. 27-04-2026. (actm.) 16.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ruitjesbovist_%28Calvatia_utriformis%29._18-07-2023._%28d.j.b%29_03.jpg/1280px-Ruitjesbovist_%28Calvatia_utriformis%29._18-07-2023._%28d.j.b%29_03.jpg",
+    "file": "Ruitjesbovist (Calvatia utriformis). 18-07-2023. (d.j.b) 03.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cipreskegels_van_een_Chamaecyparis_lawsoniana%29._02-09-2025._%28actm.%29_02.jpg/1280px-Cipreskegels_van_een_Chamaecyparis_lawsoniana%29._02-09-2025._%28actm.%29_02.jpg",
+    "file": "Cipreskegels van een Chamaecyparis lawsoniana). 02-09-2025. (actm.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berkenzwam_%28Piptoporus_betulinus%29_%28d.j.b.%29_08.jpg/1280px-Berkenzwam_%28Piptoporus_betulinus%29_%28d.j.b.%29_08.jpg",
+    "file": "Berkenzwam (Piptoporus betulinus) (d.j.b.) 08.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kleine_kaaszwam_%28Skeletocutis_nivea%29._07-01-2022._%28d.j.b%29.jpg/1280px-Kleine_kaaszwam_%28Skeletocutis_nivea%29._07-01-2022._%28d.j.b%29.jpg",
+    "file": "Kleine kaaszwam (Skeletocutis nivea). 07-01-2022. (d.j.b).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%C3%81rea_de_Prote%C3%A7%C3%A3o_Ambiental_Quilombos_do_M%C3%A9dio_Ribeira_Thomas-Fuhrmann_%2816%29_%28cropped%29.jpg/1280px-%C3%81rea_de_Prote%C3%A7%C3%A3o_Ambiental_Quilombos_do_M%C3%A9dio_Ribeira_Thomas-Fuhrmann_%2816%29_%28cropped%29.jpg",
+    "file": "Área de Proteção Ambiental Quilombos do Médio Ribeira Thomas-Fuhrmann (16) (cropped).jpg"
+   }
+  ],
+  "space": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tarantula_Nebula_by_JWST.jpg/1280px-Tarantula_Nebula_by_JWST.jpg",
+    "file": "Tarantula Nebula by JWST.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1280px-FullMoon2010.jpg",
+    "file": "FullMoon2010.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Comet-Hale-Bopp-29-03-1997_hires_adj.jpg/1280px-Comet-Hale-Bopp-29-03-1997_hires_adj.jpg",
+    "file": "Comet-Hale-Bopp-29-03-1997 hires adj.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rho_Ophiucus_Widefield.jpg/1280px-Rho_Ophiucus_Widefield.jpg",
+    "file": "Rho Ophiucus Widefield.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Orion_Nebula_multiband_2x2_mosaic_-_RGB.jpg/1280px-Orion_Nebula_multiband_2x2_mosaic_-_RGB.jpg",
+    "file": "Orion Nebula multiband 2x2 mosaic - RGB.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg",
+    "file": "M82 HST ACS 2006-14-a-large web.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orion_sw_clean_proc_8bit_20230925.jpg/1280px-Orion_sw_clean_proc_8bit_20230925.jpg",
+    "file": "Orion sw clean proc 8bit 20230925.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CSIRO_ScienceImage_3881_Five_Antennas_at_Narrabri.jpg/1280px-CSIRO_ScienceImage_3881_Five_Antennas_at_Narrabri.jpg",
+    "file": "CSIRO ScienceImage 3881 Five Antennas at Narrabri.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AS08-13-2329.jpg/1280px-AS08-13-2329.jpg",
+    "file": "AS08-13-2329.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NASA_Unveils_Celestial_Fireworks_as_Official_Hubble_25th_Anniversary_Image.jpg/1280px-NASA_Unveils_Celestial_Fireworks_as_Official_Hubble_25th_Anniversary_Image.jpg",
+    "file": "NASA Unveils Celestial Fireworks as Official Hubble 25th Anniversary Image.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Large_Magellanic_Cloud.jpg/1280px-Large_Magellanic_Cloud.jpg",
+    "file": "Large Magellanic Cloud.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Virmalised_18.03.15_%284%29.jpg/1280px-Virmalised_18.03.15_%284%29.jpg",
+    "file": "Virmalised 18.03.15 (4).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MarsSunset.jpg/1280px-MarsSunset.jpg",
+    "file": "MarsSunset.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emission_nebulae_behind_molecular_clouds_in_Perseus_and_Taurus.jpg/1280px-Emission_nebulae_behind_molecular_clouds_in_Perseus_and_Taurus.jpg",
+    "file": "Emission nebulae behind molecular clouds in Perseus and Taurus.jpg"
+   }
+  ],
+  "geography": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/01_Calanche_Piana.jpg/1280px-01_Calanche_Piana.jpg",
+    "file": "01 Calanche Piana.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg/1280px-ET_Afar_asv2018-01_img48_Dallol.jpg",
+    "file": "ET Afar asv2018-01 img48 Dallol.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Two_farmers_driving_a_tractor_towing_a_raft_loaded_with_green_rice_sheaves_in_a_paddy_field_of_Vang_Vieng_Laos.jpg/1280px-Two_farmers_driving_a_tractor_towing_a_raft_loaded_with_green_rice_sheaves_in_a_paddy_field_of_Vang_Vieng_Laos.jpg",
+    "file": "Two farmers driving a tractor towing a raft loaded with green rice sheaves in a paddy field of Vang Vieng Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Water_reflection_of_karst_mountains%2C_wooden_hut%2C_trees_and_colorful_clouds_at_sunset_with_green_paddy_fields%2C_Vang_Vieng%2C_Laos.jpg/1280px-Water_reflection_of_karst_mountains%2C_wooden_hut%2C_trees_and_colorful_clouds_at_sunset_with_green_paddy_fields%2C_Vang_Vieng%2C_Laos.jpg",
+    "file": "Water reflection of karst mountains, wooden hut, trees and colorful clouds at sunset with green paddy fields, Vang Vieng, Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/C%C3%B4te_d%27Alb%C3%A2tre_%C3%A0_l%C2%B4Aiguille_de_Belval.jpg/1280px-C%C3%B4te_d%27Alb%C3%A2tre_%C3%A0_l%C2%B4Aiguille_de_Belval.jpg",
+    "file": "Côte d'Albâtre à l´Aiguille de Belval.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fimmvorduhals_2010_03_27_dawn.jpg/1280px-Fimmvorduhals_2010_03_27_dawn.jpg",
+    "file": "Fimmvorduhals 2010 03 27 dawn.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%D0%90%D0%B7%D0%B0%D1%83-%D0%93%D0%B8%D1%82%D1%87%D0%B5-%D0%A7%D0%B5%D0%B3%D0%B5%D1%82-%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%88%D0%B8.jpg/1280px-%D0%90%D0%B7%D0%B0%D1%83-%D0%93%D0%B8%D1%82%D1%87%D0%B5-%D0%A7%D0%B5%D0%B3%D0%B5%D1%82-%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%88%D0%B8.jpg",
+    "file": "Азау-Гитче-Чегет-Карабаши.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Caldera_de_las_Ca%C3%B1adas_-_Los_Azulejos_01.jpg/1280px-Caldera_de_las_Ca%C3%B1adas_-_Los_Azulejos_01.jpg",
+    "file": "Caldera de las Cañadas - Los Azulejos 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dagestan-015.jpg/1280px-Dagestan-015.jpg",
+    "file": "Dagestan-015.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chimney_Rock_Trail_Point_Reyes_December_2016_009.jpg/1280px-Chimney_Rock_Trail_Point_Reyes_December_2016_009.jpg",
+    "file": "Chimney Rock Trail Point Reyes December 2016 009.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg/1280px-%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg",
+    "file": "Зимний Таганай.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng%2C_Laos.jpg/1280px-Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng%2C_Laos.jpg",
+    "file": "Sunlight and stormy sky over the mountains and paddy fields in Vang Vieng, Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Komos_site_baie_Cr%C3%A8te.jpg/1280px-Komos_site_baie_Cr%C3%A8te.jpg",
+    "file": "Komos site baie Crète.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bali_Khila_Rajgad_Maharashtra.jpg/1280px-Bali_Khila_Rajgad_Maharashtra.jpg",
+    "file": "Bali Khila Rajgad Maharashtra.jpg"
+   }
+  ],
+  "history": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Centro_hist%C3%B3rico%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_221-223_HDR.jpg/1280px-Centro_hist%C3%B3rico%2C_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_221-223_HDR.jpg",
+    "file": "Centro histórico, Baku, Azerbaiyán, 2016-09-26, DD 221-223 HDR.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regiet%C3%B3w_Wy%C5%BCny_%28%D0%A0e%D2%91%D1%94%D1%82i%D0%B2%29_-_dzwonnica_01.jpg/1280px-Regiet%C3%B3w_Wy%C5%BCny_%28%D0%A0e%D2%91%D1%94%D1%82i%D0%B2%29_-_dzwonnica_01.jpg",
+    "file": "Regietów Wyżny (Рeґєтiв) - dzwonnica 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg/1280px-L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg",
+    "file": "L'Umbracle, Valencia, Spain - Jan 2007.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arabs_Baths_of_Alhama_de_Granada_in_Andalusia%2C_Spain.jpg/1280px-Arabs_Baths_of_Alhama_de_Granada_in_Andalusia%2C_Spain.jpg",
+    "file": "Arabs Baths of Alhama de Granada in Andalusia, Spain.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bydgoszcz%2C_Przysta%C5%84_Bydgoszcz%2C_okna.jpg/1280px-Bydgoszcz%2C_Przysta%C5%84_Bydgoszcz%2C_okna.jpg",
+    "file": "Bydgoszcz, Przystań Bydgoszcz, okna.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg/1280px-Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
+    "file": "Bab Bou Jeloud Frame Minaret Fes Nov25 A7CR 09127-8 HDR3.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hrad_Pern%C5%A1tejn_%28Pernstein%29_-_br%C3%A1na_%285._n%C3%A1dvo%C5%99%C3%AD%29.JPG/1280px-Hrad_Pern%C5%A1tejn_%28Pernstein%29_-_br%C3%A1na_%285._n%C3%A1dvo%C5%99%C3%AD%29.JPG",
+    "file": "Hrad Pernštejn (Pernstein) - brána (5. nádvoří).JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Presa_de_El_Atazar_-_01.jpg/1280px-Presa_de_El_Atazar_-_01.jpg",
+    "file": "Presa de El Atazar - 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brighton_MMB_34_West_Pier.jpg/1280px-Brighton_MMB_34_West_Pier.jpg",
+    "file": "Brighton MMB 34 West Pier.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Carrelet%2C_Esnandes%2C_Charente-Maritime%2C_august_2015.jpg/1280px-Carrelet%2C_Esnandes%2C_Charente-Maritime%2C_august_2015.jpg",
+    "file": "Carrelet, Esnandes, Charente-Maritime, august 2015.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Part_of_ramp_at_Brastad_SK8%2C_the_new_skatepark_in_Lysekil_Municipality.jpg/1280px-Part_of_ramp_at_Brastad_SK8%2C_the_new_skatepark_in_Lysekil_Municipality.jpg",
+    "file": "Part of ramp at Brastad SK8, the new skatepark in Lysekil Municipality.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg/1280px-Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg",
+    "file": "Patio de los Arrayanes detail Alhambra Granada Spain.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/1280px-Dam_at_Jalpa_de_Canovas_2.jpg",
+    "file": "Dam at Jalpa de Canovas 2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Czech-2013-Prague-Astronomical_clock_face.jpg/1280px-Czech-2013-Prague-Astronomical_clock_face.jpg",
+    "file": "Czech-2013-Prague-Astronomical clock face.jpg"
+   }
+  ],
+  "science": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg/1280px-Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+    "file": "Sulfur - El Desierto mine, San Pablo de Napa, Daniel Campos Province, Potosí, Bolivia.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg/1280px-Kobalt_electrolytic_and_1cm3_cube.jpg",
+    "file": "Kobalt electrolytic and 1cm3 cube.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Acanthite_-_Imiter_mine%2C_Jbel_Saghro%2C_Tinghir%2C_Dr%C3%A2a-Tafilalet%2C_Morocco.jpg/1280px-Acanthite_-_Imiter_mine%2C_Jbel_Saghro%2C_Tinghir%2C_Dr%C3%A2a-Tafilalet%2C_Morocco.jpg",
+    "file": "Acanthite - Imiter mine, Jbel Saghro, Tinghir, Drâa-Tafilalet, Morocco.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bismuth_crystals_and_1cm3_cube.jpg/1280px-Bismuth_crystals_and_1cm3_cube.jpg",
+    "file": "Bismuth crystals and 1cm3 cube.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Macrospondylus_bollensis_Holzmaden.jpg/1280px-Macrospondylus_bollensis_Holzmaden.jpg",
+    "file": "Macrospondylus bollensis Holzmaden.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/F%C3%B3siles_de_dientes_de_tibur%C3%B3n_tigre_%28Galeocerdo_aduncus%29%2C_Zuber%2C_Florida%2C_Estados_Unidos%2C_2021-01-19%2C_DD_105-144_FS.jpg/1280px-F%C3%B3siles_de_dientes_de_tibur%C3%B3n_tigre_%28Galeocerdo_aduncus%29%2C_Zuber%2C_Florida%2C_Estados_Unidos%2C_2021-01-19%2C_DD_105-144_FS.jpg",
+    "file": "Fósiles de dientes de tiburón tigre (Galeocerdo aduncus), Zuber, Florida, Estados Unidos, 2021-01-19, DD 105-144 FS.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fossil-Mammutbaum-Mioz%C3%A4n-Naturmuseum-Dortmund.jpg/1280px-Fossil-Mammutbaum-Mioz%C3%A4n-Naturmuseum-Dortmund.jpg",
+    "file": "Fossil-Mammutbaum-Miozän-Naturmuseum-Dortmund.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zirconium_crystal_bar_and_1cm3_cube.jpg/1280px-Zirconium_crystal_bar_and_1cm3_cube.jpg",
+    "file": "Zirconium crystal bar and 1cm3 cube.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Apophyllitestilbite.jpg/1280px-Apophyllitestilbite.jpg",
+    "file": "Apophyllitestilbite.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bromine_vial_in_acrylic_cube.jpg/1280px-Bromine_vial_in_acrylic_cube.jpg",
+    "file": "Bromine vial in acrylic cube.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aragonite_-_Pantoja%2C_Toledo%2C_Castile-La_Mancha%2C_Spain.jpg/1280px-Aragonite_-_Pantoja%2C_Toledo%2C_Castile-La_Mancha%2C_Spain.jpg",
+    "file": "Aragonite - Pantoja, Toledo, Castile-La Mancha, Spain.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pyrit_01.jpg/1280px-Pyrit_01.jpg",
+    "file": "Pyrit 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vanadium_etched.jpg/1280px-Vanadium_etched.jpg",
+    "file": "Vanadium etched.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Andradite-Mali.jpg/1280px-Andradite-Mali.jpg",
+    "file": "Andradite-Mali.jpg"
+   }
+  ],
+  "tech": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wroclaw-_Most_Grunwaldzki.jpg/1280px-Wroclaw-_Most_Grunwaldzki.jpg",
+    "file": "Wroclaw- Most Grunwaldzki.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg/1280px-SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg",
+    "file": "SNCF TGV Duplex Viaduc de Cize - Bolozon.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lysets_t%C3%B8ven.jpg/1280px-Lysets_t%C3%B8ven.jpg",
+    "file": "Lysets tøven.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/OSE_220_029_Kifera.jpg/1280px-OSE_220_029_Kifera.jpg",
+    "file": "OSE 220 029 Kifera.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Megyeri_h%C3%ADd.jpg/1280px-Megyeri_h%C3%ADd.jpg",
+    "file": "Megyeri híd.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Building_demolition_jaw_MD3.jpg/1280px-Building_demolition_jaw_MD3.jpg",
+    "file": "Building demolition jaw MD3.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg/1280px-2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg",
+    "file": "2017 - Київ - Світанок над Дніпром.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Houtzagerij_Sagi_Tschiertschen_03.jpg/1280px-Houtzagerij_Sagi_Tschiertschen_03.jpg",
+    "file": "Houtzagerij Sagi Tschiertschen 03.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Feixina_Park_Torrent_de_Sa_Riera_Basti%C3%B2_de_Sant_Pere_Palma_de_Mallorca.jpg/1280px-Feixina_Park_Torrent_de_Sa_Riera_Basti%C3%B2_de_Sant_Pere_Palma_de_Mallorca.jpg",
+    "file": "Feixina Park Torrent de Sa Riera Bastiò de Sant Pere Palma de Mallorca.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Woljeonggyo_Bridge_and_stone_steps_on_the_bank_at_golden_hour_in_Gyeongju_South_Korea.jpg/1280px-Woljeonggyo_Bridge_and_stone_steps_on_the_bank_at_golden_hour_in_Gyeongju_South_Korea.jpg",
+    "file": "Woljeonggyo Bridge and stone steps on the bank at golden hour in Gyeongju South Korea.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/1280px-Raitersaich_SK_DSC_0028.jpg",
+    "file": "Raitersaich SK DSC 0028.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wooden_footbridge_in_Luang_Prabang_with_a_worker_busy_at_its_consolidation.jpg/1280px-Wooden_footbridge_in_Luang_Prabang_with_a_worker_busy_at_its_consolidation.jpg",
+    "file": "Wooden footbridge in Luang Prabang with a worker busy at its consolidation.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Temporary_wooden_footbridge_leading_to_the_city_of_Luang_Prabang.jpg/1280px-Temporary_wooden_footbridge_leading_to_the_city_of_Luang_Prabang.jpg",
+    "file": "Temporary wooden footbridge leading to the city of Luang Prabang.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D%C3%BClmen%2C_Privatr%C3%B6sterei_Schr%C3%B6er%2C_Kaffeebeh%C3%A4lter_--_2018_--_0529.jpg/1280px-D%C3%BClmen%2C_Privatr%C3%B6sterei_Schr%C3%B6er%2C_Kaffeebeh%C3%A4lter_--_2018_--_0529.jpg",
+    "file": "Dülmen, Privatrösterei Schröer, Kaffeebehälter -- 2018 -- 0529.jpg"
+   }
+  ],
+  "body": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Drie_bloemknoppen_van_een_Hertshooi_%28Hypericum%29._10-07-2025_%28d.j.b.%29.jpg/1280px-Drie_bloemknoppen_van_een_Hertshooi_%28Hypericum%29._10-07-2025_%28d.j.b.%29.jpg",
+    "file": "Drie bloemknoppen van een Hertshooi (Hypericum). 10-07-2025 (d.j.b.).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alfombra_de_algas_amarillas%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_42.jpg/1280px-Alfombra_de_algas_amarillas%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_42.jpg",
+    "file": "Alfombra de algas amarillas, parque nacional Ras Muhammad, Egipto, 2022-03-27, DD 42.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Scuol-Motta_Naluns%2C_11-10-2024._%28actm.%29_26.jpg/1280px-Scuol-Motta_Naluns%2C_11-10-2024._%28actm.%29_26.jpg",
+    "file": "Scuol-Motta Naluns, 11-10-2024. (actm.) 26.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amberboom_%28Liquidambar_styraciflua%29_14-04-2025_%28d.j.b.%29_02.jpg/1280px-Amberboom_%28Liquidambar_styraciflua%29_14-04-2025_%28d.j.b.%29_02.jpg",
+    "file": "Amberboom (Liquidambar styraciflua) 14-04-2025 (d.j.b.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bruggetje_in_fietspad_naar_Langweerderwielen._Locatie%2C_Langweerderwielen_%28Langwarder_Wielen%29_en_omgeving_02.jpg/1280px-Bruggetje_in_fietspad_naar_Langweerderwielen._Locatie%2C_Langweerderwielen_%28Langwarder_Wielen%29_en_omgeving_02.jpg",
+    "file": "Bruggetje in fietspad naar Langweerderwielen. Locatie, Langweerderwielen (Langwarder Wielen) en omgeving 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Underwater_slope_in_Gullmarn_fjord_2.jpg/1280px-Underwater_slope_in_Gullmarn_fjord_2.jpg",
+    "file": "Underwater slope in Gullmarn fjord 2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cementerio%2C_Tulc%C3%A1n%2C_Ecuador%2C_2015-07-21%2C_DD_60.JPG/1280px-Cementerio%2C_Tulc%C3%A1n%2C_Ecuador%2C_2015-07-21%2C_DD_60.JPG",
+    "file": "Cementerio, Tulcán, Ecuador, 2015-07-21, DD 60.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ademwortel_%28pneumatoforen%29_van_een_moerascipres_%28Taxodium_distichum%29_18-03-2024_%28d.j.b.%29.jpg/1280px-Ademwortel_%28pneumatoforen%29_van_een_moerascipres_%28Taxodium_distichum%29_18-03-2024_%28d.j.b.%29.jpg",
+    "file": "Ademwortel (pneumatoforen) van een moerascipres (Taxodium distichum) 18-03-2024 (d.j.b.).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yellow_leaves_floating_next_to_water_volcano%2C_Alameda_dos_Oceanos%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Yellow_leaves_floating_next_to_water_volcano%2C_Alameda_dos_Oceanos%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
+    "file": "Yellow leaves floating next to water volcano, Alameda dos Oceanos, Parque das Nações, Lisbon, Portugal julesvernex2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bloemen_van_Boerenwormkruid_%28Tanacetum_vulgare%29._17-08-2025._%28actm.%29_01.jpg/1280px-Bloemen_van_Boerenwormkruid_%28Tanacetum_vulgare%29._17-08-2025._%28actm.%29_01.jpg",
+    "file": "Bloemen van Boerenwormkruid (Tanacetum vulgare). 17-08-2025. (actm.) 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Marine_algae_in_Gullmarsfjorden_at_S%C3%A4mstad_4.jpg/1280px-Marine_algae_in_Gullmarsfjorden_at_S%C3%A4mstad_4.jpg",
+    "file": "Marine algae in Gullmarsfjorden at Sämstad 4.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cipreskegels_van_een_Chamaecyparis_lawsoniana%29._02-09-2025._%28actm.%29_02.jpg/1280px-Cipreskegels_van_een_Chamaecyparis_lawsoniana%29._02-09-2025._%28actm.%29_02.jpg",
+    "file": "Cipreskegels van een Chamaecyparis lawsoniana). 02-09-2025. (actm.) 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Go%C3%ABngarijpsterpoelen_%28Frysk%29_Goai%C3%AFngarypster_Puollen_%28d.j.b.%29_20.jpg/1280px-Go%C3%ABngarijpsterpoelen_%28Frysk%29_Goai%C3%AFngarypster_Puollen_%28d.j.b.%29_20.jpg",
+    "file": "Goëngarijpsterpoelen (Frysk) Goaiïngarypster Puollen (d.j.b.) 20.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Euphorbia_griffithii_%28wolfsmelk%29_22-03-2025_%28d.j.b.%29_01.jpg/1280px-Euphorbia_griffithii_%28wolfsmelk%29_22-03-2025_%28d.j.b.%29_01.jpg",
+    "file": "Euphorbia griffithii (wolfsmelk) 22-03-2025 (d.j.b.) 01.jpg"
+   }
+  ],
+  "food": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/140531_Forellen_auf_dem_Grill.jpg/1280px-140531_Forellen_auf_dem_Grill.jpg",
+    "file": "140531 Forellen auf dem Grill.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B2_%D0%B2%D1%8B%D1%81%D0%BE%D1%85%D1%88%D0%B5%D0%B9_%D0%BA%D0%B0%D0%BF%D0%BB%D0%B5_%D0%9A%D0%BE%D0%BA%D0%B0-%D0%9A%D0%BE%D0%BB%D1%8B.jpg/1280px-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B2_%D0%B2%D1%8B%D1%81%D0%BE%D1%85%D1%88%D0%B5%D0%B9_%D0%BA%D0%B0%D0%BF%D0%BB%D0%B5_%D0%9A%D0%BE%D0%BA%D0%B0-%D0%9A%D0%BE%D0%BB%D1%8B.jpg",
+    "file": "Кристаллы в высохшей капле Кока-Колы.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Steam-boiling_green_asparagus.jpg/1280px-Steam-boiling_green_asparagus.jpg",
+    "file": "Steam-boiling green asparagus.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/1280px-Big_Mac_hamburger.jpg",
+    "file": "Big Mac hamburger.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Egyptian_food_Koshary.jpg/1280px-Egyptian_food_Koshary.jpg",
+    "file": "Egyptian food Koshary.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Iwami_squid_drying_DSC01868.jpg/1280px-Iwami_squid_drying_DSC01868.jpg",
+    "file": "Iwami squid drying DSC01868.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/1280px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+    "file": "Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pig_heads_in_a_market.jpg/1280px-Pig_heads_in_a_market.jpg",
+    "file": "Pig heads in a market.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lob_%D0%96%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_95.jpg/1280px-Lob_%D0%96%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_95.jpg",
+    "file": "Lob Жаворонки 95.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bleu_de_Gex.jpg/1280px-Bleu_de_Gex.jpg",
+    "file": "Bleu de Gex.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Chicken_Egg_without_Eggshell_5859.jpg/1280px-Chicken_Egg_without_Eggshell_5859.jpg",
+    "file": "Chicken Egg without Eggshell 5859.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pinto_Beans_Seeds.jpg/1280px-Pinto_Beans_Seeds.jpg",
+    "file": "Pinto Beans Seeds.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dominostein_edelherb.jpg/1280px-Dominostein_edelherb.jpg",
+    "file": "Dominostein edelherb.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Senf-Variationen.jpg/1280px-Senf-Variationen.jpg",
+    "file": "Senf-Variationen.jpg"
+   }
+  ],
+  "sports": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/San_marcos_bullfight_04.jpg/1280px-San_marcos_bullfight_04.jpg",
+    "file": "San marcos bullfight 04.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra%2C_Indonesia.jpg/1280px-Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra%2C_Indonesia.jpg",
+    "file": "Mud Cow Racing - Pacu Jawi - West Sumatra, Indonesia.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Parapente_-_166.jpg/1280px-Parapente_-_166.jpg",
+    "file": "Parapente - 166.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balap_Karung.jpg/1280px-Balap_Karung.jpg",
+    "file": "Balap Karung.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_marcos_bullfight_01.jpg/1280px-San_marcos_bullfight_01.jpg",
+    "file": "San marcos bullfight 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/George_Wesley_Bellows_Stag_at_Sharkey_%28Cropped%29.jpg/1280px-George_Wesley_Bellows_Stag_at_Sharkey_%28Cropped%29.jpg",
+    "file": "George Wesley Bellows Stag at Sharkey (Cropped).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Morgan_Pressel_-_Flickr_-_Keith_Allison_%2812%29.jpg/1280px-Morgan_Pressel_-_Flickr_-_Keith_Allison_%2812%29.jpg",
+    "file": "Morgan Pressel - Flickr - Keith Allison (12).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Climbing_World_Championships_2018_Combined_Final_Klingler_%28BT0B0188%29.jpg/1280px-Climbing_World_Championships_2018_Combined_Final_Klingler_%28BT0B0188%29.jpg",
+    "file": "Climbing World Championships 2018 Combined Final Klingler (BT0B0188).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29.jpg/1280px-ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_%2828849586476%29.jpg",
+    "file": "ESTADOS UNIDOS LEVAM OURO NA GINÁSTICA FEMININA POR EQUIPES DOS JOGOS OLÍMPICOS RIO 2016 (28849586476).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Damen-9834.jpg/1280px-40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Damen-9834.jpg",
+    "file": "40. Schwimmzonen- und Mastersmeeting Enns 2017 100m Brust Damen-9834.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B1%D1%83%D1%80%D1%8F%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%C2%AB%D0%90%D0%BB%D1%82%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B0-2012%C2%BB.jpg/1280px-%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B1%D1%83%D1%80%D1%8F%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%C2%AB%D0%90%D0%BB%D1%82%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B0-2012%C2%BB.jpg",
+    "file": "Стрельба из лука на фестивале бурятской культуры «Алтаргана-2012».jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mondial_Ping_-_Men%27s_Doubles_-_Semifinals_-_34.jpg/1280px-Mondial_Ping_-_Men%27s_Doubles_-_Semifinals_-_34.jpg",
+    "file": "Mondial Ping - Men's Doubles - Semifinals - 34.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Euroleague_-_LE_Roma_vs_Toulouse_IC-27.jpg/1280px-Euroleague_-_LE_Roma_vs_Toulouse_IC-27.jpg",
+    "file": "Euroleague - LE Roma vs Toulouse IC-27.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/La_horde_-_Surfers_riding_a_wave_in_Paea%2C_Tahiti.jpg/1280px-La_horde_-_Surfers_riding_a_wave_in_Paea%2C_Tahiti.jpg",
+    "file": "La horde - Surfers riding a wave in Paea, Tahiti.jpg"
+   }
+  ],
+  "music": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%CE%A4%CF%8D%CE%BC%CF%80%CE%B1%CE%BD%CE%BF_%CE%99%CE%B4%CE%B1%CE%AF%CE%BF%CF%85_%CE%86%CE%BD%CE%B4%CF%81%CE%BF%CF%85_9098_rt.jpg/1280px-%CE%A4%CF%8D%CE%BC%CF%80%CE%B1%CE%BD%CE%BF_%CE%99%CE%B4%CE%B1%CE%AF%CE%BF%CF%85_%CE%86%CE%BD%CE%B4%CF%81%CE%BF%CF%85_9098_rt.jpg",
+    "file": "Τύμπανο Ιδαίου Άνδρου 9098 rt.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Charron_Freres_Accordion.jpg/1280px-Charron_Freres_Accordion.jpg",
+    "file": "Charron Freres Accordion.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flute_with_musicial_notes.jpg/1280px-Flute_with_musicial_notes.jpg",
+    "file": "Flute with musicial notes.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/1280px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg",
+    "file": "Man playing an acoustic brazilian guitar (Violão) on Marco Zero Square, Refice, Pernambuco, Brazil.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/DuplexScaling.jpg/1280px-DuplexScaling.jpg",
+    "file": "DuplexScaling.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Radovljica_Linhartov_trg_drei_Blechblasinstrumente_19032015_0925.jpg/1280px-Radovljica_Linhartov_trg_drei_Blechblasinstrumente_19032015_0925.jpg",
+    "file": "Radovljica Linhartov trg drei Blechblasinstrumente 19032015 0925.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Street_musician.jpg/1280px-Street_musician.jpg",
+    "file": "Street musician.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Divje_Babe_flute_%28Late_Pleistocene_flute%29.jpg/1280px-Divje_Babe_flute_%28Late_Pleistocene_flute%29.jpg",
+    "file": "Divje Babe flute (Late Pleistocene flute).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mexican_guitars_and_toys.jpg/1280px-Mexican_guitars_and_toys.jpg",
+    "file": "Mexican guitars and toys.jpg"
+   }
+  ],
+  "movies": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Boulevard_Hotel_%28Neon_sign%29%2C_Miami_Beach.jpg/1280px-Boulevard_Hotel_%28Neon_sign%29%2C_Miami_Beach.jpg",
+    "file": "Boulevard Hotel (Neon sign), Miami Beach.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Historisches_Museum%2C_Berlin-Mitte%2C_170128%2C_ako.jpg/1280px-Deutsches_Historisches_Museum%2C_Berlin-Mitte%2C_170128%2C_ako.jpg",
+    "file": "Deutsches Historisches Museum, Berlin-Mitte, 170128, ako.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/1280px-Brandenburger_Tor_nachts_2012-07.jpg",
+    "file": "Brandenburger Tor nachts 2012-07.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/M%C3%BCnster%2C_Prinzipalmarkt_--_2014_--_4516-20-2.jpg/1280px-M%C3%BCnster%2C_Prinzipalmarkt_--_2014_--_4516-20-2.jpg",
+    "file": "Münster, Prinzipalmarkt -- 2014 -- 4516-20-2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bamberg_Cafe_Rondo_am_Sch%C3%B6nleinsplatz_9201807.jpg/1280px-Bamberg_Cafe_Rondo_am_Sch%C3%B6nleinsplatz_9201807.jpg",
+    "file": "Bamberg Cafe Rondo am Schönleinsplatz 9201807.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Altenkunstadt_Mari%C3%A4_Geburt_252031.jpg/1280px-Altenkunstadt_Mari%C3%A4_Geburt_252031.jpg",
+    "file": "Altenkunstadt Mariä Geburt 252031.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Contrasts_of_Rio_de_Janeiro_-_Rocinha%2C_Ipanema%2C_and_Mountains_at_Sunrise.jpg/1280px-Contrasts_of_Rio_de_Janeiro_-_Rocinha%2C_Ipanema%2C_and_Mountains_at_Sunrise.jpg",
+    "file": "Contrasts of Rio de Janeiro - Rocinha, Ipanema, and Mountains at Sunrise.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St_Louis_night_expblend.jpg/1280px-St_Louis_night_expblend.jpg",
+    "file": "St Louis night expblend.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iglesia_de_San_Ildefonso%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_32-34_HDR.jpg/1280px-Iglesia_de_San_Ildefonso%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_32-34_HDR.jpg",
+    "file": "Iglesia de San Ildefonso, Oporto, Portugal, 2019-06-02, DD 32-34 HDR.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pr%C3%A9fecture_du_Haut-Rhin_%282%29_-_avec_lumi%C3%A8re.jpg/1280px-Pr%C3%A9fecture_du_Haut-Rhin_%282%29_-_avec_lumi%C3%A8re.jpg",
+    "file": "Préfecture du Haut-Rhin (2) - avec lumière.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1280px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg",
+    "file": "Eiffel Tower and Pont Alexandre III at night.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/D%C3%BClmen%2C_Viktorkirmes_auf_dem_Overbergplatz_--_2014_--_3738_%282%29.jpg/1280px-D%C3%BClmen%2C_Viktorkirmes_auf_dem_Overbergplatz_--_2014_--_3738_%282%29.jpg",
+    "file": "Dülmen, Viktorkirmes auf dem Overbergplatz -- 2014 -- 3738 (2).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Los_Angeles_%28California%2C_USA%29%2C_South_Olive_Street_--_2012_--_4847.jpg/1280px-Los_Angeles_%28California%2C_USA%29%2C_South_Olive_Street_--_2012_--_4847.jpg",
+    "file": "Los Angeles (California, USA), South Olive Street -- 2012 -- 4847.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/1280px-K%C3%B6lner_Dom_nachts_2013.jpg",
+    "file": "Kölner Dom nachts 2013.jpg"
+   }
+  ],
+  "gaming": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Moros%2C_Zaragoza%2C_Espa%C3%B1a%2C_2013-01-07%2C_DD_11-13_HDR.JPG/1280px-Moros%2C_Zaragoza%2C_Espa%C3%B1a%2C_2013-01-07%2C_DD_11-13_HDR.JPG",
+    "file": "Moros, Zaragoza, España, 2013-01-07, DD 11-13 HDR.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luxembourg_Pfaffenthal_Alzette_B%C3%A9inchen_01.jpg/1280px-Luxembourg_Pfaffenthal_Alzette_B%C3%A9inchen_01.jpg",
+    "file": "Luxembourg Pfaffenthal Alzette Béinchen 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Innenhafen_Duisburg_Blaue_Stunde_2014.jpg/1280px-Innenhafen_Duisburg_Blaue_Stunde_2014.jpg",
+    "file": "Innenhafen Duisburg Blaue Stunde 2014.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rue_des_Papegaults_and_Petit_Degres_Saint-Louis_in_Blois.jpg/1280px-Rue_des_Papegaults_and_Petit_Degres_Saint-Louis_in_Blois.jpg",
+    "file": "Rue des Papegaults and Petit Degres Saint-Louis in Blois.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Norrstr%C3%B6m_December_2012.jpg/1280px-Norrstr%C3%B6m_December_2012.jpg",
+    "file": "Norrström December 2012.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Canal_de_la_Peyrade_toward_S%C3%A8te.jpg/1280px-Canal_de_la_Peyrade_toward_S%C3%A8te.jpg",
+    "file": "Canal de la Peyrade toward Sète.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg/1280px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg",
+    "file": "Super moon over City of London from Tate Modern 2018-01-31 4.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Havenwelten_-_Bremerhaven_01.jpg/1280px-Havenwelten_-_Bremerhaven_01.jpg",
+    "file": "Havenwelten - Bremerhaven 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1280px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+    "file": "Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_a_sunny_morning_in_Tokyo_Japan.jpg/1280px-Kappabashi-dori_streetcorner_%28Kitchen_town_-_southern_end%29_a_sunny_morning_in_Tokyo_Japan.jpg",
+    "file": "Kappabashi-dori streetcorner (Kitchen town - southern end) a sunny morning in Tokyo Japan.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Basel_-_Roche-Turm_mit_Stadtansicht_bei_Abendd%C3%A4mmerung.jpg/1280px-Basel_-_Roche-Turm_mit_Stadtansicht_bei_Abendd%C3%A4mmerung.jpg",
+    "file": "Basel - Roche-Turm mit Stadtansicht bei Abenddämmerung.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hohenzollernbr%C3%BCcke_K%C3%B6ln.jpg/1280px-Hohenzollernbr%C3%BCcke_K%C3%B6ln.jpg",
+    "file": "Hohenzollernbrücke Köln.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prague_skyline_at_dawn.jpg/1280px-Prague_skyline_at_dawn.jpg",
+    "file": "Prague skyline at dawn.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg/1280px-La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg",
+    "file": "La Défense de nuit, Paris, France 2.jpg"
+   }
+  ],
+  "language": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Handley_Library_exterior_VA1.jpg/1280px-Handley_Library_exterior_VA1.jpg",
+    "file": "Handley Library exterior VA1.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stift_Altenburg_Bibliothek_03.JPG/1280px-Stift_Altenburg_Bibliothek_03.JPG",
+    "file": "Stift Altenburg Bibliothek 03.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Abbotsford_House_Study_Room.jpg/1280px-Abbotsford_House_Study_Room.jpg",
+    "file": "Abbotsford House Study Room.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/George-peabody-library.jpg/1280px-George-peabody-library.jpg",
+    "file": "George-peabody-library.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Clementinum_baroque_library_2.jpg/1280px-Clementinum_baroque_library_2.jpg",
+    "file": "Clementinum baroque library 2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Austria_-_G%C3%B6ttweig_Abbey_-_2015.jpg/1280px-Austria_-_G%C3%B6ttweig_Abbey_-_2015.jpg",
+    "file": "Austria - Göttweig Abbey - 2015.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Interior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Interior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "file": "Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cesena_-_Biblioteca_Malatestiana_-_2025-09-09_22-03-05_001.jpg/1280px-Cesena_-_Biblioteca_Malatestiana_-_2025-09-09_22-03-05_001.jpg",
+    "file": "Cesena - Biblioteca Malatestiana - 2025-09-09 22-03-05 001.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Biblioteca_Vasconcelos%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-20%2C_DD_16-18_HDR.JPG/1280px-Biblioteca_Vasconcelos%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-20%2C_DD_16-18_HDR.JPG",
+    "file": "Biblioteca Vasconcelos, Ciudad de México, México, 2015-07-20, DD 16-18 HDR.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moscow_RSL_main_building_asv2019-06_img1.jpg/1280px-Moscow_RSL_main_building_asv2019-06_img1.jpg",
+    "file": "Moscow RSL main building asv2019-06 img1.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg/1280px-Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg",
+    "file": "Long Room Interior, Trinity College Dublin, Ireland - Diliff.jpg"
+   }
+  ],
+  "weird": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Platinum-nugget.jpg/1280px-Platinum-nugget.jpg",
+    "file": "Platinum-nugget.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Beschimmelde_Nevelzwam_%28Clitocybe_nebularis%29_tussen_afgevallen_blad_in_verval_02.jpg/1280px-Beschimmelde_Nevelzwam_%28Clitocybe_nebularis%29_tussen_afgevallen_blad_in_verval_02.jpg",
+    "file": "Beschimmelde Nevelzwam (Clitocybe nebularis) tussen afgevallen blad in verval 02.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Knolparasolzwam_%28Chlorophyllum_rhacodes%29_26-10-2020_%28d.j.b.%29.jpg/1280px-Knolparasolzwam_%28Chlorophyllum_rhacodes%29_26-10-2020_%28d.j.b.%29.jpg",
+    "file": "Knolparasolzwam (Chlorophyllum rhacodes) 26-10-2020 (d.j.b.).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plakias_Gonates_Cave_01.JPG/1280px-Plakias_Gonates_Cave_01.JPG",
+    "file": "Plakias Gonates Cave 01.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kleine_kaaszwam_%28Skeletocutis_nivea%29._07-01-2022._%28d.j.b%29.jpg/1280px-Kleine_kaaszwam_%28Skeletocutis_nivea%29._07-01-2022._%28d.j.b%29.jpg",
+    "file": "Kleine kaaszwam (Skeletocutis nivea). 07-01-2022. (d.j.b).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Misvormde_nevelzwam_%28Clitocybe_nebularis%29_02.JPG/1280px-Misvormde_nevelzwam_%28Clitocybe_nebularis%29_02.JPG",
+    "file": "Misvormde nevelzwam (Clitocybe nebularis) 02.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%9F%D0%B5%D1%81%D1%87%D0%B8%D0%BD%D0%BA%D0%B8-1._%D0%96%D0%B5%D0%BB%D1%82%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D0%BA.jpg/1280px-%D0%9F%D0%B5%D1%81%D1%87%D0%B8%D0%BD%D0%BA%D0%B8-1._%D0%96%D0%B5%D0%BB%D1%82%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D0%BA.jpg",
+    "file": "Песчинки-1. Желтый строительный песок.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fly_Agaric_mushroom_04.jpg/1280px-Fly_Agaric_mushroom_04.jpg",
+    "file": "Fly Agaric mushroom 04.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg/1280px-Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg",
+    "file": "Azurite - New Nevada Lode, La Sal, Utah, USA.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Xylaria_hypoxylon_%28candlestick_fungus%29_location%2C_Val_Sinestra._14-10-2024._%28actm.%29_01.jpg/1280px-Xylaria_hypoxylon_%28candlestick_fungus%29_location%2C_Val_Sinestra._14-10-2024._%28actm.%29_01.jpg",
+    "file": "Xylaria hypoxylon (candlestick fungus) location, Val Sinestra. 14-10-2024. (actm.) 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%C3%81rea_de_Prote%C3%A7%C3%A3o_Ambiental_Quilombos_do_M%C3%A9dio_Ribeira_Thomas-Fuhrmann_%2816%29_%28cropped%29.jpg/1280px-%C3%81rea_de_Prote%C3%A7%C3%A3o_Ambiental_Quilombos_do_M%C3%A9dio_Ribeira_Thomas-Fuhrmann_%2816%29_%28cropped%29.jpg",
+    "file": "Área de Proteção Ambiental Quilombos do Médio Ribeira Thomas-Fuhrmann (16) (cropped).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%D0%9F%D0%BE_%D0%B3%D1%80%D0%BE%D1%82%D0%B0%D0%BC_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B_1.jpg/1280px-%D0%9F%D0%BE_%D0%B3%D1%80%D0%BE%D1%82%D0%B0%D0%BC_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B_1.jpg",
+    "file": "По гротам пещеры 1.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg/1280px-Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg",
+    "file": "Vanadinite - ACF mine, Mibladen, Morocco.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Restanten_van_een_ruitjesbovist_%28Calvatia_utriformis%29._15-02-2025._%28d.j.b%29._01.jpg/1280px-Restanten_van_een_ruitjesbovist_%28Calvatia_utriformis%29._15-02-2025._%28d.j.b%29._01.jpg",
+    "file": "Restanten van een ruitjesbovist (Calvatia utriformis). 15-02-2025. (d.j.b). 01.jpg"
+   }
+  ],
+  "_default": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yellow_clouds_and_chicken_in_freedom_reflecting_in_the_water_of_a_paddy_field_at_sunrise_in_Don_Det_Laos.jpg/1280px-Yellow_clouds_and_chicken_in_freedom_reflecting_in_the_water_of_a_paddy_field_at_sunrise_in_Don_Det_Laos.jpg",
+    "file": "Yellow clouds and chicken in freedom reflecting in the water of a paddy field at sunrise in Don Det Laos.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Klagenfurt_Annabichl_Waltendorfer_Strasse_Hochsitz_im_Morgendunst_04022016_2686.jpg/1280px-Klagenfurt_Annabichl_Waltendorfer_Strasse_Hochsitz_im_Morgendunst_04022016_2686.jpg",
+    "file": "Klagenfurt Annabichl Waltendorfer Strasse Hochsitz im Morgendunst 04022016 2686.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schlern_aus_Tisens_Kastelruth.jpg/1280px-Schlern_aus_Tisens_Kastelruth.jpg",
+    "file": "Schlern aus Tisens Kastelruth.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%D0%A1%D0%BE%D1%80%D1%83%D1%81_%D0%BF%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_Polypodium_aureum_2.jpg/1280px-%D0%A1%D0%BE%D1%80%D1%83%D1%81_%D0%BF%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_Polypodium_aureum_2.jpg",
+    "file": "Сорус папоротника Polypodium aureum 2.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Preveli_Palm_Beach_Panorama_02.JPG/1280px-Preveli_Palm_Beach_Panorama_02.JPG",
+    "file": "Preveli Palm Beach Panorama 02.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ca%C3%B1%C3%B3n_Silfra%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_055.JPG/1280px-Ca%C3%B1%C3%B3n_Silfra%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_055.JPG",
+    "file": "Cañón Silfra, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 055.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg/1280px-Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg",
+    "file": "Serranía de Hornocal up close near Humahuaca.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nr_Vorupoer_2013-12-29_1_cropped.jpg/1280px-Nr_Vorupoer_2013-12-29_1_cropped.jpg",
+    "file": "Nr Vorupoer 2013-12-29 1 cropped.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/ARG-2016-Aerial-Tierra_del_Fuego_%28Ushuaia%29%E2%80%93Valle_Carbajal_01.jpg/1280px-ARG-2016-Aerial-Tierra_del_Fuego_%28Ushuaia%29%E2%80%93Valle_Carbajal_01.jpg",
+    "file": "ARG-2016-Aerial-Tierra del Fuego (Ushuaia)–Valle Carbajal 01.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Working_at_the_consolidation_of_a_wooden_footbridge_in_Luang_Prabang_-_1_%28Side_view%29.jpg/1280px-Working_at_the_consolidation_of_a_wooden_footbridge_in_Luang_Prabang_-_1_%28Side_view%29.jpg",
+    "file": "Working at the consolidation of a wooden footbridge in Luang Prabang - 1 (Side view).jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ponta_de_S%C3%A3o_Louren%C3%A7o%2C_Madeira%2C_Portugal%2C_2019-05-28%2C_DD_31.jpg/1280px-Ponta_de_S%C3%A3o_Louren%C3%A7o%2C_Madeira%2C_Portugal%2C_2019-05-28%2C_DD_31.jpg",
+    "file": "Ponta de São Lourenço, Madeira, Portugal, 2019-05-28, DD 31.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Saslonch_Pizes_de_Cir_Chedul_Gherdeina.jpg/1280px-Saslonch_Pizes_de_Cir_Chedul_Gherdeina.jpg",
+    "file": "Saslonch Pizes de Cir Chedul Gherdeina.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sunny_green_paddy_fields_with_water_reflection.jpg/1280px-Sunny_green_paddy_fields_with_water_reflection.jpg",
+    "file": "Sunny green paddy fields with water reflection.jpg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Playa_de_Ojos_-_Fuerteventura.JPG/1280px-Playa_de_Ojos_-_Fuerteventura.JPG",
+    "file": "Playa de Ojos - Fuerteventura.JPG"
+   }
+  ]
+ }
+}

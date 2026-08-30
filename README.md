@@ -1,8 +1,8 @@
 # DayDrop
 
-Jeden Morgen ein neuer Drop: kuriose Tage, Ereignisse von heute vor X Jahren,
-Fakten, die hängen bleiben, und eine Frage, bei der man erst raten muss. In ein
-bis zwei Minuten durchgeswipet.
+Jeden Morgen fünf Karten: ein kurioser Tag, ein Ereignis von heute vor X Jahren,
+ein Artikel des Tages, ein Fakt zu deinen Themen und eine Frage, bei der man
+erst raten muss. In einer Minute durchgeswipet.
 
 Android-App, privat gebaut. Fertige APK: **[Releases](../../releases)**.
 
@@ -17,18 +17,15 @@ Android-App, privat gebaut. Fertige APK: **[Releases](../../releases)**.
 Alle Releases sind mit demselben Schlüssel signiert, spätere Versionen
 installieren sich also als Update über die vorherige.
 
-## Was drin ist
+## Der Tag in fünf Karten
 
-| Karte | Inhalt |
-| --- | --- |
-| 📅 Heute ist … | Kuriose und offizielle Aktionstage, 157 Tage kuratiert, der Rest live von Wikipedia |
-| ⏳ Heute vor X Jahren | Zwei Ereignisse aus verschiedenen Epochen, live von Wikipedia inkl. Bild |
-| 🤯 Fact of the Day | Überraschende Fakten |
-| 🌍 Wusstest du? | Länder, Menschen, Natur, Kultur |
-| 🔬 Science Drop | Weltraum, Tiere, Körper, Technik |
-| 🎬 Pop Culture | Filme, Games, Musik, Internet – bevorzugt mit Bezug zum Datum |
-| 🧠 Mini-Frage | Erst tippen, dann Auflösung mit Erklärung |
-| 🎲 Random Drop | Komplett zufällig |
+| # | Karte | Woher |
+| --- | --- | --- |
+| 1 | 📅 **Heute ist …** | 266 von 366 Tagen kuratiert, der Rest live von Wikipedia |
+| 2 | ⏳ **Heute vor X Jahren** | Wikipedia, das Ereignis des Tages |
+| 3 | 📖 **Artikel des Tages** | Wikipedia; ohne Netz springt ein kuratierter Fakt ein |
+| 4 | ✨ **Für dich** | Kuratierter Fakt aus deinen Themen |
+| 5 | 🧠 **Mini-Frage** | Erst tippen, dann Auflösung mit Erklärung |
 
 Dazu: **Streak** (🔥 Tage in Folge), **Speichern** in eine eigene Liste,
 **Teilen** als 1080×1920-Story-Karte, und eine **Push-Nachricht** pro Tag, die
@@ -38,36 +35,81 @@ neugierig macht, ohne die Karte zu verraten.
 
 Beim ersten Start wählt man mindestens drei Themen aus fünfzehn (Geschichte,
 Wissenschaft, Weltraum, Tiere, Natur, Körper, Technik, Geografie, Sport,
-Gaming, Musik, Filme, Essen, Sprache, Weird Facts). Drei der Karten pro Tag
-kommen dann aus diesen Themen und sind mit **FÜR DICH** markiert. Änderbar
-jederzeit in den Einstellungen.
+Gaming, Musik, Filme, Essen, Sprache, Weird Facts). Karte 4 kommt aus diesen
+Themen und ist mit **FÜR DICH** markiert. Änderbar jederzeit in den
+Einstellungen.
 
-## Wie der Feed gebaut wird
+## Sofort da
 
-- **Deterministisch pro Tag.** Dasselbe Datum ergibt immer denselben Feed – die
-  App mischt die Karten nicht neu, wenn man sie zwischendurch schließt.
-- **Keine Wiederholungen.** Jeder Pool wird als feste, einmal gemischte
-  Permutation durchlaufen, pro Tag um genau so viele Karten weiter, wie der Slot
-  verbraucht. Zwischen zwei Auftritten derselben Karte liegen damit exakt
-  `Poolgröße / Karten pro Tag` Tage – bei breit gewählten Themen über vier
-  Wochen. Das ist in `DropGeneratorTest` festgenagelt.
-- **Getrennte Pools.** Personalisierte und allgemeine Karten ziehen aus
-  disjunkten Mengen, eine Karte kann also nie in beiden Rollen auftauchen.
-- **Datumsgebundenes bleibt beim Datum.** Einträge mit `date` (z. B. der
-  Kinostart von Star Wars) erscheinen nur an ihrem Tag, nie zufällig dazwischen.
+Beim Öffnen wird nichts geladen. Die App
+
+1. zeigt den Feed, den sie schon hat – vom letzten Besuch oder von der
+   Morgen-Erinnerung, die ihn im Hintergrund fertig baut;
+2. baut ihn sonst in einem Rutsch aus den mitgelieferten JSON-Dateien, die beim
+   App-Start im Hintergrund geparst wurden. Das sind ein paar Listenoperationen
+   im Arbeitsspeicher, kein Netz, keine Datei;
+3. fragt erst danach Wikipedia und tauscht die beiden dafür vorgesehenen Karten
+   aus, sobald die Antwort da ist.
+
+Es gibt deshalb keinen Ladebildschirm mehr. Ohne Netz merkt man außer den
+beiden Karten nichts.
+
+## Keine Wiederholungen – dauerhaft
+
+Die App merkt sich **jede ausgelieferte Karte** dauerhaft per ID und zieht nur
+noch aus dem, was übrig ist. Die Zusage hängt damit nicht an Poolgrößen oder
+daran, wie oft man die App öffnet:
+
+- Ist ein kuratierter Vorrat aufgebraucht, fängt er **nicht von vorn an** –
+  der Slot wechselt auf Wikipedia (Artikel des Tages, weitere Ereignisse des
+  Tages), und die Quelle geht nicht aus.
+- Nur die Karte **„Heute ist …“** darf wiederkommen: Ein Gedenktag gehört zu
+  seinem Datum. Gibt es für ein Datum mehrere Einträge, rotieren sie jährlich.
+- Karten mit Datum (etwa der Kinostart von Star Wars) erscheinen **nur an ihrem
+  Tag**, nie zufällig dazwischen.
+
+`DropGeneratorTest` fährt fünf Jahre am Stück durch und prüft, dass keine ID
+zweimal ausgeliefert wird.
+
+### Wie lange reicht der handgeschriebene Vorrat?
+
+Mit Netz verbraucht ein Tag **eine** kuratierte Karte (Slot 4), weil Slot 3 der
+Artikel des Tages ist. Der Fakten-Vorrat reicht damit rechnerisch über drei
+Jahre, die Fragen rund acht Monate, danach übernimmt Wikipedia diese Slots –
+ohne Wiederholung. Ohne Netz sind es zwei kuratierte Karten pro Tag.
+
+Nachlegen geht jederzeit: eine Zeile mehr in `facts.json`, fertig.
+
+## Bilder
+
+Hinter jeder Karte steht ein Foto aus einem **kuratierten Katalog** von 216
+Wikimedia-Commons-*Featured Pictures*: Landschaften, Tiere, Nachthimmel,
+Mineralien, Bibliotheken – nach Thema sortiert und alle beim Bauen des Katalogs
+auf Erreichbarkeit geprüft.
+
+Was bewusst **nicht** drin ist: Reproduktionen von Drucken, Plakaten und
+Gemälden sowie historische Aufnahmen. Genau die tragen ein Datum im Bild und
+sahen auf einer Karte über Honig falsch aus. Der Katalog wird beim Bauen über
+Dateinamen gefiltert (Jahreszahlen vor 1990, Wörter wie *poster*, *painting*,
+*print*).
+
+Ein datumsgebundenes Bild gibt es nur an genau einer Stelle: auf der Karte
+„Heute vor X Jahren“ hängt das Bild, das Wikipedia dem Ereignis mitgibt – und
+die Karte erscheint ausschließlich an diesem Datum.
+
+Welches Foto eine Karte bekommt, entscheidet ein FNV-Hash über ihre ID. Gleiche
+Karte, gleiches Bild – unabhängig von Gerät und Tag.
 
 ## Daten und Netz
 
-Alles Persönliche – Themen, Streak, Favoriten, Uhrzeit der Erinnerung – bleibt
-per DataStore auf dem Gerät. Es gibt kein Konto, kein Backend, kein Tracking.
+Alles Persönliche – Themen, Streak, Favoriten, gesehene Karten, Uhrzeit der
+Erinnerung – bleibt per DataStore auf dem Gerät. Es gibt kein Konto, kein
+Backend, kein Tracking.
 
-Die einzigen Netzaufrufe gehen an die offene Wikimedia-REST-API (`onthisday` für
-historische Ereignisse und Feiertage, `page/summary` für Bilder). Ohne Netz
-funktioniert die App weiter: die 234 Fakten, 157 Aktionstage und 60 Fragen
-liegen in der APK, und für Geschichte gibt es hinterlegte Fallbacks.
-
-Bilder stammen damit aus Wikipedia/Wikimedia Commons und werden zur Laufzeit
-geladen, nicht mitgeliefert.
+Die Netzaufrufe gehen ausschließlich an die offene Wikimedia-REST-API
+(`onthisday` für Ereignisse und Feiertage, `feed/featured` für den Artikel des
+Tages) und an `upload.wikimedia.org` für die Fotos. Ohne Netz funktioniert die
+App weiter: 1255 Fakten, 266 Aktionstage und 240 Fragen liegen in der APK.
 
 ## Selbst bauen
 
@@ -76,7 +118,7 @@ git clone https://github.com/gravijet/daydrop.git
 cd daydrop
 echo "sdk.dir=/pfad/zum/android-sdk" > local.properties
 
-./gradlew testDebugUnitTest    # 24 Tests, kein Netz nötig
+./gradlew testDebugUnitTest    # kein Netz nötig
 ./gradlew assembleRelease      # -> app/build/outputs/apk/release/app-release.apk
 ```
 
@@ -90,8 +132,8 @@ die APK an ein neues GitHub-Release `v<versionName>`.
 
 Existiert für die Version bereits ein Release, macht ein normaler Push nichts:
 so wird nie stillschweigend eine APK ersetzt, die schon jemand installiert hat.
-Bewusst neu veröffentlichen geht über einen Tag (`git tag v1.0.1 && git push
-origin v1.0.1`) oder von Hand über den Actions-Tab.
+Bewusst neu veröffentlichen geht über einen Tag (`git tag v1.1.1 && git push
+origin v1.1.1`) oder von Hand über den Actions-Tab.
 
 ### Signierung
 
@@ -108,16 +150,18 @@ Die Inhalte liegen als JSON in `app/src/main/assets/content/`:
 
 - `facts.json` – `kind` ist eines von `fact`, `know`, `science`, `pop`,
   `random`, `history`. Optional: `date` (`MM-TT`, bindet den Eintrag an einen
-  Tag) und `wiki` (Artikelname, aus dem das Titelbild geladen wird).
+  Tag) und `wiki` (Artikelname für den Quellen-Link unter der Karte).
 - `days.json` – nach `MM-TT` geschlüsselte Aktionstage.
 - `quiz.json` – Frage, Antwortoptionen, `answerIndex`, Erklärung.
+- `images.json` – Foto-URLs pro Thema, plus `_default`.
 
-`ContentTest` prüft beim Testlauf Struktur, Themen-IDs, Antwortindizes und ob
-jedes Thema genug Material für die Personalisierung hat – ein Tippfehler fällt
-also im Build auf, nicht erst auf dem Handy.
+`ContentTest` prüft beim Testlauf Struktur, Themen-IDs, Antwortindizes,
+Längen, doppelte Titel und Texte, ob jeder Text mindestens zwei Sätze hat und
+ob jedes Thema genug Material trägt – ein Tippfehler fällt also im Build auf,
+nicht erst auf dem Handy.
 
 ## Technik
 
 Kotlin · Jetpack Compose (Material 3) · Navigation Compose · DataStore ·
 WorkManager · Coil · kotlinx.serialization · minSdk 26 · targetSdk 35 ·
-R8 aktiv, APK ~1,7 MB.
+R8 aktiv.

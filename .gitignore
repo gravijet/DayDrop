@@ -9,3 +9,6 @@ captures/
 .cxx/
 *.apk
 *.aab
+
+# Kotlin incremental-build scratch
+.kotlin/

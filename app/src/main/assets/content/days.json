@@ -1,161 +1,2797 @@
 {
-  "days": {
-    "01-01": [{ "title": "Neujahr", "text": "Der 1. Januar ist erst seit der gregorianischen Reform überall Jahresbeginn. Im Mittelalter startete das Jahr vielerorts an Weihnachten oder zu Ostern.", "topics": ["history"], "wiki": "Neujahr" }],
-    "01-04": [{ "title": "Welt-Brailletag", "text": "Der Tag erinnert an den Geburtstag von Louis Braille, der 1809 geboren wurde. Seine Blindenschrift entwickelte er als Teenager aus einem militärischen Nachtschriftsystem.", "topics": ["language", "history"], "wiki": "Louis Braille" }],
-    "01-15": [{ "title": "Wikipedia-Tag", "text": "Am 15. Januar 2001 ging Wikipedia online. Heute existieren Ausgaben in über 300 Sprachen, geschrieben von Freiwilligen.", "topics": ["tech", "language"], "wiki": "Wikipedia" }],
-    "01-18": [{ "title": "Welt-Schneemann-Tag", "text": "Das Datum wurde gewählt, weil die 18 wie ein Schneemann mit Besen aussieht und der Januar in vielen Ländern verlässlich Schnee liefert.", "topics": ["weird", "nature"] }],
-    "01-20": [{ "title": "Tag des Pinguins", "text": "Rund um dieses Datum ziehen viele Pinguinarten in der Antarktis Richtung Brutkolonie. Von den 18 Arten lebt nur eine nördlich des Äquators.", "topics": ["animals", "nature"], "wiki": "Pinguine" }],
-    "01-21": [{ "title": "Tag der Umarmung", "text": "Erfunden 1986 von einem US-Pfarrer, der die Zeit zwischen Neujahr und Valentinstag für die trübste des Jahres hielt.", "topics": ["weird", "body"] }],
-    "01-23": [{ "title": "Tag der Handschrift", "text": "Das Datum ist der Geburtstag von John Hancock, dessen ausladende Unterschrift auf der US-Unabhängigkeitserklärung im Englischen zum Synonym für Signatur wurde.", "topics": ["language", "history"] }],
-    "01-24": [{ "title": "Internationaler Tag der Bildung", "text": "Die UN-Vollversammlung erklärte den Tag 2018. Weltweit gehen weiterhin über 250 Millionen Kinder und Jugendliche nicht zur Schule.", "topics": ["history"] }],
-    "01-25": [{ "title": "Tag des Gegenteils", "text": "Der Opposite Day ist ein Kinderspiel-Feiertag: Alles Gesagte bedeutet das Gegenteil. Logisch ist er ein Paradoxon, denn die Ankündigung hebt sich selbst auf.", "topics": ["weird", "language"] }],
-    "01-27": [{ "title": "Tag des Gedenkens an die Opfer des Nationalsozialismus", "text": "Am 27. Januar 1945 befreite die Rote Armee das Konzentrationslager Auschwitz. Seit 1996 ist der Tag in Deutschland offizieller Gedenktag.", "topics": ["history"], "wiki": "Internationaler Tag des Gedenkens an die Opfer des Holocaust" }],
-    "01-28": [{ "title": "Europäischer Datenschutztag", "text": "Er erinnert an die Datenschutzkonvention des Europarats von 1981, den ersten völkerrechtlich bindenden Datenschutzvertrag der Welt.", "topics": ["tech"] }],
-    "01-29": [{ "title": "Internationaler Puzzle-Tag", "text": "Das erste Puzzle war eine Landkarte: Der Londoner Kartograf John Spilsbury zersägte um 1760 Karten, um Kindern Geografie beizubringen.", "topics": ["gaming", "history"], "wiki": "Puzzle" }],
-    "02-02": [{ "title": "Murmeltiertag", "text": "In Pennsylvania sagt seit 1887 ein Murmeltier das Ende des Winters voraus. Seine Trefferquote liegt laut Auswertungen etwa auf dem Niveau des Zufalls.", "topics": ["animals", "weird"], "wiki": "Murmeltiertag" }],
-    "02-04": [{ "title": "Weltkrebstag", "text": "Ausgerufen im Jahr 2000 bei einem Gipfel in Paris. Die WHO schätzt, dass sich rund ein Drittel aller Krebserkrankungen durch Prävention vermeiden ließe.", "topics": ["body", "science"] }],
-    "02-05": [{ "title": "Weltnutellatag", "text": "Erfunden 2007 von einer US-Bloggerin, später von Ferrero offiziell übernommen. Nutella entstand, weil in der Nachkriegszeit Kakao knapp und Haselnüsse in Piemont reichlich vorhanden waren.", "topics": ["food"], "wiki": "Nutella" }],
-    "02-09": [{ "title": "Tag der Pizza", "text": "Die Margherita soll 1889 für Königin Margherita von Savoyen belegt worden sein: Basilikum, Mozzarella und Tomate für Grün, Weiß und Rot.", "topics": ["food", "history"], "wiki": "Pizza" }],
-    "02-11": [{ "title": "Internationaler Tag der Frauen und Mädchen in der Wissenschaft", "text": "Von der UN 2015 beschlossen. Weltweit liegt der Frauenanteil in der Forschung weiterhin bei rund einem Drittel.", "topics": ["science"] }],
-    "02-13": [{ "title": "Weltradiotag", "text": "Die UNESCO wählte das Datum nach der Gründung des UN-Radios 1946. Radio erreicht bis heute mehr Menschen weltweit als jedes andere Medium.", "topics": ["tech", "music"] }],
-    "02-14": [{ "title": "Valentinstag", "text": "Der Brauch, an diesem Tag Karten zu verschicken, wurde im viktorianischen England zum Massengeschäft. In Japan schenken traditionell Frauen den Männern Schokolade, einen Monat später umgekehrt.", "topics": ["history", "food"], "wiki": "Valentinstag" }],
-    "02-17": [{ "title": "Tag der spontanen Freundlichkeit", "text": "Der Random Acts of Kindness Day geht auf eine US-Initiative der 1990er zurück. Studien zeigen, dass beschenkte und schenkende Person messbar profitieren.", "topics": ["body"] }],
-    "02-21": [{ "title": "Internationaler Tag der Muttersprache", "text": "Die UNESCO erinnert an Studentenproteste 1952 in Dhaka für die bengalische Sprache. Etwa alle zwei Wochen stirbt weltweit eine Sprache aus.", "topics": ["language"], "wiki": "Internationaler Tag der Muttersprache" }],
-    "02-22": [{ "title": "Thinking Day der Pfadfinder", "text": "Das Datum ist der gemeinsame Geburtstag von Robert Baden-Powell und seiner Frau Olave. Weltweit gibt es rund 50 Millionen Pfadfinderinnen und Pfadfinder.", "topics": ["history"] }],
-    "02-27": [{ "title": "Internationaler Tag des Eisbären", "text": "Eisbärenfell ist nicht weiß, sondern durchscheinend, und die Haut darunter ist schwarz. Das hilft, Wärme zu speichern.", "topics": ["animals", "nature"], "wiki": "Eisbär" }],
-    "02-29": [{ "title": "Schalttag", "text": "Es gibt ihn, weil ein Erdumlauf knapp 365,2422 Tage dauert. Die Feinkorrektur: Jahre durch 100 teilbar sind keine Schaltjahre, außer sie sind auch durch 400 teilbar.", "topics": ["science", "history"], "wiki": "Schaltjahr" }],
-    "03-03": [{ "title": "Welttag des Artenschutzes", "text": "Am 3. März 1973 wurde das Washingtoner Artenschutzübereinkommen unterzeichnet. Es regelt heute den Handel mit über 40.000 Arten.", "topics": ["animals", "nature"] }],
-    "03-08": [{ "title": "Internationaler Frauentag", "text": "Zurück geht er auf sozialistische Frauenbewegungen ab 1911. In Berlin ist er seit 2019 gesetzlicher Feiertag.", "topics": ["history"], "wiki": "Internationaler Frauentag" }],
-    "03-10": [{ "title": "MAR10 Day", "text": "Geschrieben sieht das Datum aus wie MARIO. Nintendo begeht den Tag seit 2016 offiziell.", "topics": ["gaming"], "wiki": "Mario" }],
-    "03-14": [{ "title": "Pi-Tag", "text": "In amerikanischer Schreibweise ist heute 3/14. Passenderweise wurde Albert Einstein an diesem Tag 1879 geboren.", "topics": ["science"], "wiki": "Kreiszahl" }],
-    "03-15": [{ "title": "Weltverbrauchertag", "text": "Er erinnert an eine Rede von John F. Kennedy 1962, in der er vier Grundrechte für Verbraucher formulierte, darunter das Recht auf Information.", "topics": ["history"] }],
-    "03-17": [{ "title": "St. Patrick's Day", "text": "Die Farbe des Heiligen war ursprünglich Blau. Grün setzte sich erst im 18. Jahrhundert durch, zusammen mit dem Kleeblatt als Symbol.", "topics": ["history", "geography"], "wiki": "St. Patrick’s Day" }],
-    "03-18": [{ "title": "Global Recycling Day", "text": "Aluminium lässt sich praktisch unbegrenzt recyceln und spart dabei rund 95 Prozent der Energie gegenüber der Neuproduktion.", "topics": ["nature", "tech"] }],
-    "03-20": [{ "title": "Internationaler Tag des Glücks", "text": "Die UN riefen ihn 2012 aus, angestoßen von Bhutan. Meist fällt der Tag mit dem astronomischen Frühlingsanfang zusammen.", "topics": ["body", "geography"] }],
-    "03-21": [{ "title": "Welttag der Poesie", "text": "Die UNESCO beschloss ihn 1999. Das älteste bekannte namentlich zugeschriebene Gedicht stammt von Enheduanna, einer Priesterin im Sumer des 23. Jahrhunderts v. Chr.", "topics": ["language", "history"], "wiki": "Enheduanna" }],
-    "03-22": [{ "title": "Weltwassertag", "text": "Weniger als ein Prozent des Wassers der Erde ist als flüssiges Süßwasser direkt zugänglich. Der Rest ist Salzwasser, Eis oder tiefes Grundwasser.", "topics": ["nature", "science"] }],
-    "03-25": [{ "title": "Tolkien Reading Day", "text": "Am 25. März fällt in Der Herr der Ringe der Ring in den Schicksalsberg. Die Tolkien Society rief den Tag 2003 aus.", "topics": ["movies", "language"], "wiki": "J. R. R. Tolkien" }],
-    "04-01": [{ "title": "Aprilscherz", "text": "Der Brauch ist seit dem 16. Jahrhundert belegt. Der berühmteste Fernsehstreich lief 1957 bei der BBC: ein Bericht über die Spaghetti-Ernte in der Schweiz.", "topics": ["weird", "history"], "wiki": "Aprilscherz" }],
-    "04-02": [{ "title": "Welt-Autismus-Tag", "text": "Von der UN 2007 beschlossen. Das Datum ist zugleich der Geburtstag von Hans Christian Andersen.", "topics": ["body"] }],
-    "04-07": [{ "title": "Weltgesundheitstag", "text": "Am 7. April 1948 trat die Verfassung der Weltgesundheitsorganisation in Kraft. Sie definiert Gesundheit ausdrücklich als mehr als die Abwesenheit von Krankheit.", "topics": ["body", "science"] }],
-    "04-11": [{ "title": "Welt-Parkinson-Tag", "text": "Das Datum ist der Geburtstag von James Parkinson, der die Krankheit 1817 erstmals beschrieb. Er war zugleich Arzt, Paläontologe und politischer Aktivist.", "topics": ["body", "science"] }],
-    "04-12": [{ "title": "Internationaler Tag der bemannten Raumfahrt", "text": "Am 12. April 1961 flog Juri Gagarin als erster Mensch ins All. Exakt 20 Jahre später startete der erste Space Shuttle.", "topics": ["space", "history"], "wiki": "Juri Gagarin" }],
-    "04-15": [{ "title": "Weltkunsttag", "text": "Das Datum ist Leonardo da Vincis Geburtstag. Er hinterließ mehr als 6000 Seiten Notizen, aber weniger als 20 gesicherte Gemälde.", "topics": ["history"], "wiki": "Leonardo da Vinci" }],
-    "04-17": [{ "title": "Welt-Hämophilie-Tag", "text": "Er erinnert an den Geburtstag von Frank Schnabel, dem Gründer der Welt-Hämophilie-Föderation. Die Bluterkrankheit prägte die Geschichte mehrerer europäischer Königshäuser.", "topics": ["body", "history"] }],
-    "04-22": [{ "title": "Tag der Erde", "text": "Der erste Earth Day 1970 in den USA brachte rund 20 Millionen Menschen auf die Straße und gilt als Startpunkt der modernen Umweltbewegung.", "topics": ["nature", "history"], "wiki": "Tag der Erde" }],
-    "04-23": [{ "title": "Welttag des Buches", "text": "Am 23. April 1616 starben Cervantes und Shakespeare, allerdings nach unterschiedlichen Kalendern und damit nicht am selben Tag.", "topics": ["language", "history"] }],
-    "04-25": [{ "title": "Welt-Pinguin-Tag", "text": "Ein Kaiserpinguin kann über 500 Meter tief tauchen und mehr als 20 Minuten unter Wasser bleiben.", "topics": ["animals", "nature"], "wiki": "Kaiserpinguin" }],
-    "04-26": [{ "title": "Welttag des geistigen Eigentums", "text": "Am 26. April 1970 trat das Übereinkommen zur Gründung der Weltorganisation für geistiges Eigentum in Kraft.", "topics": ["tech"] }],
-    "04-29": [{ "title": "Internationaler Tag des Tanzes", "text": "Das Datum ist der Geburtstag von Jean-Georges Noverre, der im 18. Jahrhundert das Handlungsballett prägte.", "topics": ["music", "history"] }],
-    "04-30": [{ "title": "Internationaler Jazztag", "text": "Die UNESCO rief ihn 2011 aus. Das Wort Jazz taucht gedruckt zuerst im Sportteil kalifornischer Zeitungen auf, nicht im Musikteil.", "topics": ["music", "history"], "wiki": "Jazz" }],
-    "05-01": [{ "title": "Tag der Arbeit", "text": "Er geht auf die Proteste für den Achtstundentag in Chicago 1886 zurück. In Deutschland ist er seit 1933 gesetzlicher Feiertag.", "topics": ["history"], "wiki": "Erster Mai" }],
-    "05-03": [{ "title": "Internationaler Tag der Pressefreiheit", "text": "Er erinnert an die Deklaration von Windhoek 1991. Reporter ohne Grenzen zählt jedes Jahr Dutzende getöteter Journalistinnen und Journalisten.", "topics": ["history"] }],
-    "05-04": [{ "title": "Star Wars Day", "text": "May the Fourth be with you. Der Wortwitz tauchte erstmals 1979 in einer britischen Zeitungsanzeige an Margaret Thatcher auf.", "topics": ["movies"], "wiki": "Star Wars" }],
-    "05-08": [{ "title": "Weltrotkreuztag", "text": "Das Datum ist der Geburtstag von Henry Dunant, der nach der Schlacht von Solferino 1859 die Idee zum Roten Kreuz entwickelte.", "topics": ["history"], "wiki": "Henry Dunant" }],
-    "05-12": [{ "title": "Internationaler Tag der Pflege", "text": "Das Datum ist der Geburtstag von Florence Nightingale. Sie war nicht nur Krankenschwester, sondern auch Statistikerin und erfand ein eigenes Diagramm zur Darstellung von Sterbeursachen.", "topics": ["body", "history"], "wiki": "Florence Nightingale" }],
-    "05-15": [{ "title": "Internationaler Tag der Familie", "text": "Die UN riefen ihn 1993 aus. Wie eine Familie definiert wird, überlässt die Resolution ausdrücklich den einzelnen Kulturen.", "topics": ["history"] }],
-    "05-18": [{ "title": "Internationaler Museumstag", "text": "Weltweit gibt es über 100.000 Museen. Der Louvre allein zeigt dauerhaft rund 35.000 Objekte, besitzt aber über 500.000.", "topics": ["history"] }],
-    "05-20": [{ "title": "Weltbienentag", "text": "Das Datum ist der Geburtstag von Anton Janša, einem slowenischen Imker des 18. Jahrhunderts. Für ein Kilo Honig fliegen Bienen etwa dreimal um die Erde.", "topics": ["animals", "nature", "food"], "wiki": "Honigbienen" }],
-    "05-22": [{ "title": "Internationaler Tag der biologischen Vielfalt", "text": "Bis heute sind rund zwei Millionen Arten wissenschaftlich beschrieben. Schätzungen zur tatsächlichen Zahl reichen von acht bis über zwanzig Millionen.", "topics": ["nature", "animals"] }],
-    "05-23": [{ "title": "Welt-Schildkröten-Tag", "text": "Schildkröten gibt es seit über 200 Millionen Jahren, länger als Schlangen oder Krokodile. Ihr Panzer ist mit dem Skelett verwachsen.", "topics": ["animals", "nature"], "wiki": "Schildkröten" }],
-    "05-25": [{ "title": "Handtuchtag", "text": "Zu Ehren von Douglas Adams, der zwei Wochen zuvor 2001 gestorben war. In Per Anhalter durch die Galaxis ist das Handtuch der nützlichste Gegenstand im Universum.", "topics": ["movies", "language"], "wiki": "Handtuchtag" }],
-    "05-31": [{ "title": "Weltnichtrauchertag", "text": "Die WHO rief ihn 1987 aus. Der Blutkreislauf beginnt sich messbar schon in den ersten Wochen nach dem Rauchstopp zu erholen.", "topics": ["body", "science"] }],
-    "06-01": [{ "title": "Internationaler Kindertag", "text": "Er wurde 1925 auf einer Konferenz in Genf angeregt. In Deutschland gibt es bis heute zwei Termine: den 1. Juni im Osten und den 20. September im Westen.", "topics": ["history"] }],
-    "06-03": [{ "title": "Weltfahrradtag", "text": "Das Fahrrad ist das energieeffizienteste Fortbewegungsmittel, das der Mensch kennt, gemessen an Energie pro Kilometer und Kilogramm.", "topics": ["sports", "tech"], "wiki": "Fahrrad" }],
-    "06-05": [{ "title": "Weltumwelttag", "text": "Er erinnert an die erste UN-Umweltkonferenz 1972 in Stockholm, die den Umweltschutz erstmals auf die internationale Agenda setzte.", "topics": ["nature"] }],
-    "06-08": [{ "title": "Welttag der Ozeane", "text": "Der Ozean produziert mehr als die Hälfte des Sauerstoffs der Erde, vor allem durch Phytoplankton. Kartiert ist bislang nur ein Bruchteil des Meeresbodens in hoher Auflösung.", "topics": ["nature", "science"] }],
-    "06-14": [{ "title": "Weltblutspendetag", "text": "Das Datum ist der Geburtstag von Karl Landsteiner, der 1901 die Blutgruppen entdeckte und dafür den Nobelpreis erhielt.", "topics": ["body", "science"], "wiki": "Karl Landsteiner" }],
-    "06-16": [{ "title": "Bloomsday", "text": "An diesem Tag im Jahr 1904 spielt James Joyces Ulysses. In Dublin laufen Fans die Route der Romanfiguren ab, in historischer Kleidung.", "topics": ["language", "history"], "wiki": "Bloomsday" }],
-    "06-20": [{ "title": "Weltflüchtlingstag", "text": "Die UN riefen ihn 2001 aus, 50 Jahre nach der Genfer Flüchtlingskonvention.", "topics": ["history"] }],
-    "06-21": [{ "title": "Fête de la Musique", "text": "1982 in Frankreich gestartet, spielen an diesem Tag Laien und Profis kostenlos auf Straßen und Plätzen. Heute machen über 100 Länder mit.", "topics": ["music"], "wiki": "Fête de la Musique" }],
-    "06-23": [{ "title": "Olympischer Tag", "text": "Am 23. Juni 1894 wurde in Paris das Internationale Olympische Komitee gegründet. Zwei Jahre später fanden die ersten neuzeitlichen Spiele in Athen statt.", "topics": ["sports", "history"], "wiki": "Internationales Olympisches Komitee" }],
-    "06-30": [{ "title": "Internationaler Asteroidentag", "text": "Am 30. Juni 1908 zerstörte das Tunguska-Ereignis in Sibirien rund 2000 Quadratkilometer Wald. Einen Einschlagkrater fand man nie.", "topics": ["space", "science"], "wiki": "Tunguska-Ereignis" }],
-    "07-02": [{ "title": "Welt-UFO-Tag", "text": "Das Datum verweist auf den angeblichen Absturz bei Roswell 1947. Die US-Luftwaffe erklärte den Fund Jahrzehnte später mit einem geheimen Ballonprojekt zur Atomtestüberwachung.", "topics": ["space", "weird"], "wiki": "Roswell-Zwischenfall" }],
-    "07-06": [{ "title": "Internationaler Tag des Kusses", "text": "Beim Küssen sind bis zu 34 Gesichtsmuskeln beteiligt. Die Forschungsrichtung dazu heißt tatsächlich Philematologie.", "topics": ["body", "weird"] }],
-    "07-07": [{ "title": "Weltschokoladentag", "text": "Kakao war bei den Maya und Azteken Getränk und Zahlungsmittel zugleich. Für eine Tafel Schokolade braucht es rund 400 Kakaobohnen.", "topics": ["food", "history"], "wiki": "Schokolade" }],
-    "07-10": [{ "title": "Nikola-Tesla-Tag", "text": "Tesla wurde 1856 in der Nacht zum 10. Juli geboren. Er hielt rund 300 Patente und starb weitgehend mittellos in einem New Yorker Hotel.", "topics": ["tech", "science", "history"], "wiki": "Nikola Tesla" }],
-    "07-14": [{ "title": "Welt-Schimpansen-Tag", "text": "Am 14. Juli 1960 begann Jane Goodall ihre Feldforschung in Gombe. Sie beobachtete als Erste, dass Schimpansen Werkzeuge herstellen.", "topics": ["animals", "science"], "wiki": "Jane Goodall" }],
-    "07-17": [{ "title": "Welt-Emoji-Tag", "text": "Das Datum steht auf dem Kalender-Emoji von Apple. Das meistgenutzte Emoji weltweit ist seit Jahren das Tränen lachende Gesicht.", "topics": ["tech", "language"], "wiki": "Emoji" }],
-    "07-18": [{ "title": "Nelson-Mandela-Tag", "text": "An seinem Geburtstag ruft die UN dazu auf, 67 Minuten Gutes zu tun, ein Jahr für jedes Jahr seines öffentlichen Wirkens.", "topics": ["history"], "wiki": "Nelson Mandela" }],
-    "07-20": [{ "title": "Internationaler Tag des Mondes", "text": "Am 20. Juli 1969 landete Apollo 11. Die Fußabdrücke im Mondstaub werden dort ohne Wind und Wasser Millionen Jahre überdauern.", "topics": ["space", "history"], "wiki": "Apollo 11" }],
-    "07-29": [{ "title": "Internationaler Tag des Tigers", "text": "Ausgerufen 2010, als der Bestand auf rund 3200 Tiere gefallen war. Jedes Streifenmuster ist einzigartig, vergleichbar mit einem Fingerabdruck.", "topics": ["animals", "nature"], "wiki": "Tiger" }],
-    "07-30": [{ "title": "Internationaler Tag der Freundschaft", "text": "Die UN riefen ihn 2011 aus. Die sogenannte Dunbar-Zahl schätzt, dass Menschen etwa 150 stabile soziale Beziehungen halten können.", "topics": ["body", "science"] }],
-    "08-01": [{ "title": "Schweizer Nationalfeiertag", "text": "Er erinnert an den Bundesbrief von 1291. Gesetzlicher Feiertag ist er allerdings erst seit einer Volksabstimmung 1993.", "topics": ["history", "geography"], "wiki": "Bundesfeiertag" }],
-    "08-08": [{ "title": "Weltkatzentag", "text": "Katzen können rund 100 verschiedene Laute erzeugen, Hunde etwa zehn. Miauen setzen erwachsene Katzen fast ausschließlich gegenüber Menschen ein.", "topics": ["animals"], "wiki": "Hauskatze" }],
-    "08-09": [{ "title": "Internationaler Tag der indigenen Völker", "text": "Weltweit leben rund 476 Millionen indigene Menschen. Sie stellen etwa 6 Prozent der Bevölkerung, hüten aber einen großen Teil der verbliebenen Biodiversität.", "topics": ["geography", "nature"] }],
-    "08-10": [{ "title": "Weltlöwentag", "text": "Löwen sind die einzigen Katzen, die dauerhaft in Gruppen leben. Ihr Brüllen ist über acht Kilometer weit zu hören.", "topics": ["animals", "nature"], "wiki": "Löwe" }],
-    "08-12": [{ "title": "Welt-Elefanten-Tag", "text": "Elefanten begrüßen sich mit dem Rüssel, trösten gestresste Artgenossen und erkennen sich im Spiegel. Ihr Rüssel enthält rund 40.000 Muskelbündel.", "topics": ["animals", "nature"], "wiki": "Elefanten" }],
-    "08-13": [{ "title": "Internationaler Tag der Linkshänder", "text": "Etwa 10 Prozent der Menschen sind Linkshänder. Bis in die 1970er Jahre wurden Kinder in deutschen Schulen noch systematisch umgeschult.", "topics": ["body", "history"], "wiki": "Linkshänder" }],
-    "08-15": [{ "title": "Tag der Entspannung", "text": "Erfunden 1985 von einem Viertklässler aus Michigan, der fand, dass Erwachsene zu wenig faulenzen.", "topics": ["body", "weird"] }],
-    "08-16": [{ "title": "Tag des Witzes", "text": "Der älteste überlieferte Witz stammt aus Sumer, ist rund 4000 Jahre alt und dreht sich um Blähungen.", "topics": ["language", "weird", "history"] }],
-    "08-19": [{ "title": "Welt-Foto-Tag", "text": "Am 19. August 1839 stellte Frankreich das Daguerreotypie-Verfahren der Öffentlichkeit vor und schenkte es der Welt.", "topics": ["tech", "history"], "wiki": "Daguerreotypie" }],
-    "08-26": [{ "title": "Internationaler Hundetag", "text": "Der Geruchssinn eines Hundes ist je nach Rasse zehntausend- bis hunderttausendfach empfindlicher als der menschliche.", "topics": ["animals"], "wiki": "Haushund" }],
-    "08-29": [{ "title": "Internationaler Tag gegen Atomtests", "text": "Am 29. August 1991 wurde das Testgelände Semipalatinsk in Kasachstan geschlossen. Dort waren über 450 Kernwaffentests durchgeführt worden.", "topics": ["history", "science"] }],
-    "08-31": [{ "title": "Blog Day", "text": "Das Datum wurde gewählt, weil 3108 wie das Wort Blog aussieht. Der Begriff Weblog entstand 1997, die Kurzform Blog zwei Jahre später aus einem Wortspiel.", "topics": ["tech", "language"] }],
-    "09-01": [{ "title": "Antikriegstag", "text": "Am 1. September 1939 begann der Zweite Weltkrieg mit dem Überfall auf Polen. Der Gewerkschaftsbund begeht den Tag in Deutschland seit 1957.", "topics": ["history"] }],
-    "09-05": [{ "title": "Internationaler Tag der Wohltätigkeit", "text": "Das Datum ist der Todestag von Mutter Teresa. Die UN beschloss den Tag 2012.", "topics": ["history"] }],
-    "09-08": [{ "title": "Weltalphabetisierungstag", "text": "Die UNESCO rief ihn 1966 aus. Weltweit können etwa 750 Millionen Erwachsene nicht ausreichend lesen und schreiben, zwei Drittel davon sind Frauen.", "topics": ["language"] }],
-    "09-10": [{ "title": "Welttag der Suizidprävention", "text": "Er wurde 2003 von der Weltgesundheitsorganisation und der IASP eingeführt. In Deutschland ist die Telefonseelsorge rund um die Uhr kostenlos erreichbar.", "topics": ["body"] }],
-    "09-13": [{ "title": "Tag des Programmierers", "text": "Es ist der 256. Tag des Jahres, weil 256 die Zahl der Werte eines Bytes ist. In Schaltjahren fällt er auf den 12. September.", "topics": ["tech"], "wiki": "Tag des Programmierers" }],
-    "09-15": [{ "title": "Internationaler Tag der Demokratie", "text": "Die UN beschloss ihn 2007. Das Wort stammt aus dem Griechischen und bedeutet wörtlich Herrschaft des Volkes.", "topics": ["history", "language"] }],
-    "09-16": [{ "title": "Internationaler Tag zur Erhaltung der Ozonschicht", "text": "Am 16. September 1987 wurde das Montrealer Protokoll unterzeichnet. Es gilt als erfolgreichstes Umweltabkommen der Geschichte, das Ozonloch schließt sich messbar.", "topics": ["nature", "science"], "wiki": "Montreal-Protokoll" }],
-    "09-19": [{ "title": "Tag des Sprechens wie ein Pirat", "text": "1995 von zwei Freunden in Oregon beim Squash erfunden. Berühmt wurde er, als ein US-Kolumnist 2002 darüber schrieb.", "topics": ["language", "weird"], "wiki": "International Talk Like a Pirate Day" }],
-    "09-21": [{ "title": "Internationaler Tag des Friedens", "text": "Die UN ruft an diesem Tag zu einem 24-stündigen weltweiten Waffenstillstand auf. Um 9 Uhr New Yorker Zeit läutet die Friedensglocke am UN-Hauptquartier.", "topics": ["history"] }],
-    "09-22": [{ "title": "Welt-Nashorn-Tag", "text": "Nashorn-Horn besteht aus Keratin, demselben Material wie menschliche Fingernägel. Vom Nördlichen Breitmaulnashorn leben nur noch zwei Weibchen.", "topics": ["animals", "nature"], "wiki": "Nashörner" }],
-    "09-26": [{ "title": "Europäischer Tag der Sprachen", "text": "In Europa werden über 200 Sprachen gesprochen. Der Tag wurde 2001 vom Europarat ins Leben gerufen.", "topics": ["language", "geography"] }],
-    "09-27": [{ "title": "Welttourismustag", "text": "Er erinnert an die Satzung der Welttourismusorganisation von 1970. Vor der Pandemie zählte die Welt jährlich rund 1,5 Milliarden internationale Reisen.", "topics": ["geography"] }],
-    "09-28": [{ "title": "Welttollwuttag", "text": "Das Datum ist der Todestag von Louis Pasteur, der 1885 den ersten wirksamen Tollwutimpfstoff einsetzte. Unbehandelt verläuft die Krankheit nach Ausbruch fast immer tödlich.", "topics": ["science", "body", "animals"], "wiki": "Louis Pasteur" }],
-    "09-30": [{ "title": "Internationaler Übersetzertag", "text": "Das Datum ist der Todestag des Hieronymus, der die Bibel ins Lateinische übertrug. Er gilt als Schutzpatron der Übersetzer.", "topics": ["language", "history"] }],
-    "10-01": [{ "title": "Internationaler Kaffeetag", "text": "Kaffee ist nach Erdöl eines der meistgehandelten Güter der Welt. Die Espressomaschine mit Pumpendruck wurde erst 1961 erfunden.", "topics": ["food"], "wiki": "Kaffee" }],
-    "10-02": [{ "title": "Internationaler Tag der Gewaltlosigkeit", "text": "Das Datum ist Mahatma Gandhis Geburtstag. Die UN beschloss den Tag 2007.", "topics": ["history"], "wiki": "Mohandas Karamchand Gandhi" }],
-    "10-03": [{ "title": "Tag der Deutschen Einheit", "text": "Gewählt wurde nicht der 9. November, weil auf dieses Datum auch die Novemberpogrome von 1938 fallen.", "topics": ["history"], "wiki": "Tag der Deutschen Einheit" }],
-    "10-04": [{ "title": "Welttierschutztag", "text": "Das Datum ist der Gedenktag des Franz von Assisi, der als Schutzpatron der Tiere gilt.", "topics": ["animals"] }],
-    "10-05": [{ "title": "Weltlehrertag", "text": "Er erinnert an eine UNESCO-Empfehlung von 1966 zum Status von Lehrkräften. Weltweit fehlen laut UNESCO Millionen Lehrerinnen und Lehrer.", "topics": ["history"] }],
-    "10-08": [{ "title": "Welt-Oktopus-Tag", "text": "Ein Oktopus hat neun Gehirne: ein zentrales und je eines pro Arm. Zwei Drittel seiner Nervenzellen sitzen in den Armen.", "topics": ["animals", "science"], "wiki": "Kraken" }],
-    "10-09": [{ "title": "Weltposttag", "text": "Am 9. Oktober 1874 wurde der Weltpostverein gegründet. Er sorgt dafür, dass eine Briefmarke aus einem Land in jedem anderen anerkannt wird.", "topics": ["history", "geography"], "wiki": "Weltpostverein" }],
-    "10-10": [{ "title": "Welttag der psychischen Gesundheit", "text": "Er wurde 1992 eingeführt. Weltweit lebt laut WHO etwa jeder achte Mensch mit einer psychischen Erkrankung.", "topics": ["body"] }],
-    "10-11": [{ "title": "Internationaler Mädchentag", "text": "Die UN riefen ihn 2011 aus, um auf Ungleichheit in Bildung und Gesundheit aufmerksam zu machen.", "topics": ["history"] }],
-    "10-13": [{ "title": "Internationaler Tag der Katastrophenvorsorge", "text": "Studien zeigen, dass jeder in Vorsorge investierte Euro ein Vielfaches an Schadenskosten spart.", "topics": ["nature", "science"] }],
-    "10-15": [{ "title": "Welttag des Händewaschens", "text": "Ignaz Semmelweis erkannte den Zusammenhang zwischen Handhygiene und Sterblichkeit schon 1847, wurde dafür aber jahrzehntelang angefeindet.", "topics": ["body", "history", "science"], "wiki": "Ignaz Semmelweis" }],
-    "10-16": [{ "title": "Welternährungstag", "text": "Am 16. Oktober 1945 wurde die Ernährungs- und Landwirtschaftsorganisation der UN gegründet. Rund ein Drittel aller Lebensmittel weltweit geht verloren oder wird weggeworfen.", "topics": ["food"] }],
-    "10-17": [{ "title": "Internationaler Tag für die Beseitigung der Armut", "text": "Er geht auf eine Kundgebung 1987 in Paris zurück, an der 100.000 Menschen teilnahmen.", "topics": ["history"] }],
-    "10-24": [{ "title": "Tag der Vereinten Nationen", "text": "Am 24. Oktober 1945 trat die UN-Charta in Kraft. Sechs Amtssprachen gelten: Arabisch, Chinesisch, Englisch, Französisch, Russisch und Spanisch.", "topics": ["history", "language"], "wiki": "Vereinte Nationen" }],
-    "10-25": [{ "title": "Weltnudeltag", "text": "Nudeln wurden nicht von Marco Polo aus China nach Italien gebracht, das ist eine Werbelegende aus den 1920er Jahren. In Italien sind Teigwaren schon vorher belegt.", "topics": ["food", "history"], "wiki": "Teigwaren" }],
-    "10-27": [{ "title": "Welttag des audiovisuellen Erbes", "text": "Ein großer Teil der Stummfilme gilt als unwiederbringlich verloren, weil Nitratfilm zerfällt und leicht brennt.", "topics": ["movies", "history"] }],
-    "10-29": [{ "title": "Internettag", "text": "Am 29. Oktober 1969 wurde die erste Nachricht zwischen zwei Computern im ARPANET verschickt. Nach zwei Buchstaben stürzte das System ab.", "topics": ["tech", "history"], "wiki": "ARPANET" }],
-    "10-30": [{ "title": "Weltspartag", "text": "Er wurde 1924 auf dem ersten internationalen Sparkassenkongress in Mailand beschlossen, kurz nach der deutschen Hyperinflation.", "topics": ["history"] }],
-    "10-31": [{ "title": "Halloween", "text": "Der Brauch geht auf das keltische Samhain zurück. Ausgehöhlt wurden ursprünglich Rüben, erst in Nordamerika setzte sich der Kürbis durch.", "topics": ["history", "weird"], "wiki": "Halloween" }],
-    "11-01": [{ "title": "Weltvegantag", "text": "Das Wort vegan wurde 1944 von Donald Watson geprägt, aus dem Anfang und dem Ende von vegetarian.", "topics": ["food", "language"], "wiki": "Veganismus" }],
-    "11-05": [{ "title": "Guy Fawkes Night", "text": "1605 sollte das englische Parlament gesprengt werden. Der Plan scheiterte, und Guy Fawkes' Maske wurde Jahrhunderte später zum Protestsymbol.", "topics": ["history"], "wiki": "Gunpowder Plot" }],
-    "11-08": [{ "title": "Welttag der Radiologie", "text": "Am 8. November 1895 entdeckte Wilhelm Conrad Röntgen die nach ihm benannten Strahlen. Er verzichtete bewusst auf ein Patent.", "topics": ["science", "body", "history"], "wiki": "Wilhelm Conrad Röntgen" }],
-    "11-09": [{ "title": "Schicksalstag der Deutschen", "text": "Auf den 9. November fallen die Ausrufung der Republik 1918, der Hitlerputsch 1923, die Novemberpogrome 1938 und der Mauerfall 1989.", "topics": ["history"], "wiki": "9. November" }],
-    "11-10": [{ "title": "Welttag der Wissenschaft", "text": "Die UNESCO rief ihn 2001 aus, für Frieden und Entwicklung. Weltweit arbeiten rund neun Millionen Menschen in der Forschung.", "topics": ["science"] }],
-    "11-11": [{ "title": "Sessionsbeginn im Karneval", "text": "Um 11:11 Uhr startet die närrische Session. Die Elf gilt seit dem 19. Jahrhundert als Narrenzahl, weil sie über die zehn Gebote hinausgeht.", "topics": ["history", "weird"], "wiki": "Karneval, Fastnacht und Fasching" }],
-    "11-13": [{ "title": "Welt-Nett-Tag", "text": "1998 in Tokio von einem Zusammenschluss aus 28 Ländern gegründet. Freundlichkeit senkt messbar den Blutdruck.", "topics": ["body"] }],
-    "11-14": [{ "title": "Weltdiabetestag", "text": "Das Datum ist der Geburtstag von Frederick Banting, der 1921 mit Charles Best das Insulin isolierte. Das Patent verkauften sie für einen symbolischen Dollar.", "topics": ["body", "science", "history"], "wiki": "Frederick Banting" }],
-    "11-16": [{ "title": "Internationaler Tag der Toleranz", "text": "Die UNESCO verabschiedete 1995 eine Erklärung zu Prinzipien der Toleranz, im 50. Jahr ihres Bestehens.", "topics": ["history"] }],
-    "11-17": [{ "title": "Internationaler Studententag", "text": "Er erinnert an die Niederschlagung tschechischer Studentenproteste 1939 in Prag.", "topics": ["history"] }],
-    "11-19": [{ "title": "Welttoilettentag", "text": "Die UN erklärte ihn 2013. Rund 3,5 Milliarden Menschen haben keinen Zugang zu sicheren Sanitäranlagen.", "topics": ["body", "geography"] }],
-    "11-20": [{ "title": "Weltkindertag", "text": "Am 20. November 1989 wurde die UN-Kinderrechtskonvention verabschiedet. Sie ist der am weitesten ratifizierte Menschenrechtsvertrag der Welt.", "topics": ["history"], "wiki": "UN-Kinderrechtskonvention" }],
-    "11-21": [{ "title": "Welt-Hallo-Tag", "text": "1973 als Reaktion auf den Jom-Kippur-Krieg entstanden. Die Idee: Wer an diesem Tag zehn Menschen grüßt, setzt ein Zeichen für Kommunikation statt Konflikt.", "topics": ["language", "history"] }],
-    "11-30": [{ "title": "Computer Security Day", "text": "Er existiert seit 1988, dem Jahr des Morris-Wurms, der als erster Wurm große Teile des frühen Internets lahmlegte.", "topics": ["tech"], "wiki": "Morris-Wurm" }],
-    "12-01": [{ "title": "Welt-AIDS-Tag", "text": "Er wurde 1988 eingeführt und war der erste weltweite Gesundheitstag überhaupt. Die rote Schleife entstand 1991 in New York.", "topics": ["body", "history"] }],
-    "12-03": [{ "title": "Internationaler Tag der Menschen mit Behinderungen", "text": "Die UN riefen ihn 1992 aus. Weltweit lebt etwa jeder sechste Mensch mit einer Behinderung.", "topics": ["body"] }],
-    "12-04": [{ "title": "Internationaler Gepardentag", "text": "Geparde beschleunigen in drei Sekunden auf 100 km/h. Ihre Krallen sind nur teilweise einziehbar und wirken wie Spikes.", "topics": ["animals", "nature"], "wiki": "Gepard" }],
-    "12-05": [{ "title": "Weltbodentag", "text": "In einer Handvoll gesunder Erde leben mehr Organismen als Menschen auf der Erde. Für einen Zentimeter Boden braucht die Natur je nach Bedingungen Jahrhunderte.", "topics": ["nature", "science"] }],
-    "12-07": [{ "title": "Internationaler Tag der Zivilluftfahrt", "text": "Am 7. Dezember 1944 wurde das Abkommen von Chicago unterzeichnet, die Grundlage des internationalen Luftverkehrsrechts.", "topics": ["tech", "history"] }],
-    "12-09": [{ "title": "Internationaler Antikorruptionstag", "text": "Am 9. Dezember 2003 wurde die UN-Konvention gegen Korruption in Mérida zur Unterschrift ausgelegt.", "topics": ["history"] }],
-    "12-10": [{ "title": "Tag der Menschenrechte", "text": "Am 10. Dezember 1948 verabschiedete die UN die Allgemeine Erklärung der Menschenrechte. Sie ist in über 500 Sprachen übersetzt, mehr als jedes andere Dokument.", "topics": ["history", "language"], "wiki": "Allgemeine Erklärung der Menschenrechte" }],
-    "12-11": [{ "title": "Internationaler Tag der Berge", "text": "Berge liefern bis zu 60 Prozent des weltweiten Süßwassers. Rund 15 Prozent der Menschheit lebt in Bergregionen.", "topics": ["geography", "nature"] }],
-    "12-13": [{ "title": "Luciatag", "text": "In Schweden zieht am Morgen ein Lichterzug durchs Haus, angeführt von einer Lucia mit Kerzenkranz. Vor der Kalenderreform fiel der Tag auf die Wintersonnenwende.", "topics": ["history", "geography"] }],
-    "12-14": [{ "title": "Monkey Day", "text": "1999 an einer US-Kunsthochschule als Scherz im Kalender entstanden, inzwischen von Primatenschutzorganisationen aufgegriffen.", "topics": ["animals", "weird"] }],
-    "12-18": [{ "title": "Internationaler Tag der Migranten", "text": "Die UN beschloss den Tag 2000. Etwa jeder dreißigste Mensch weltweit lebt dauerhaft außerhalb seines Geburtslandes.", "topics": ["geography"] }],
-    "12-21": [{ "title": "Wintersonnenwende", "text": "Der kürzeste Tag des Jahres auf der Nordhalbkugel. Der früheste Sonnenuntergang liegt allerdings schon einige Tage davor, weil die Erdbahn elliptisch ist.", "topics": ["space", "science", "nature"], "wiki": "Sonnenwende" }],
-    "12-23": [{ "title": "Festivus", "text": "Der erfundene Feiertag aus der Serie Seinfeld: ein ungeschmückter Aluminiumpfahl statt Baum, dazu das Vortragen der Beschwerden des Jahres.", "topics": ["movies", "weird"], "wiki": "Festivus" }],
-    "12-24": [{ "title": "Heiligabend", "text": "Der Weihnachtsbaum setzte sich erst im 19. Jahrhundert durch, von Deutschland aus. Der englische Hof übernahm ihn unter Prinz Albert.", "topics": ["history"], "wiki": "Weihnachtsbaum" }],
-    "12-25": [{ "title": "Weihnachten", "text": "Das Datum ist nicht biblisch überliefert. Es setzte sich im 4. Jahrhundert durch, nahe an römischen Festen zur Wintersonnenwende.", "topics": ["history"], "wiki": "Weihnachten" }],
-    "12-26": [{ "title": "Boxing Day", "text": "Der Name kommt von den Geschenkboxen, die Dienstboten und Handwerker am Tag nach Weihnachten erhielten. In Großbritannien ist er Feiertag mit vollem Fußballprogramm.", "topics": ["history", "sports"] }],
-    "12-28": [{ "title": "Tag des Kinos", "text": "Am 28. Dezember 1895 zeigten die Brüder Lumière in Paris die erste öffentliche Filmvorführung gegen Eintritt.", "topics": ["movies", "history"], "wiki": "Auguste und Louis Lumière" }],
-    "12-31": [{ "title": "Silvester", "text": "Benannt nach Papst Silvester I., der am 31. Dezember 335 starb. Der Jahreswechsel liegt hier erst, seit der gregorianische Kalender sich durchsetzte.", "topics": ["history"], "wiki": "Silvester" }]
-  }
+ "days": {
+  "01-01": [
+   {
+    "title": "Neujahr",
+    "text": "Der 1. Januar ist erst seit der gregorianischen Reform überall Jahresbeginn. Im Mittelalter startete das Jahr vielerorts an Weihnachten oder zu Ostern.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Neujahr"
+   }
+  ],
+  "01-02": [
+   {
+    "title": "Welttag der Introvertierten",
+    "text": "Nach dem Trubel der Feiertage erinnert dieser Tag daran, dass Rückzug kein Defizit ist. Der Psychologe Felicitas Heyne rief ihn 2011 in einem Blogbeitrag aus.",
+    "topics": [
+     "language"
+    ],
+    "wiki": "Introversion und Extraversion"
+   }
+  ],
+  "01-04": [
+   {
+    "title": "Welt-Brailletag",
+    "text": "Der Tag erinnert an den Geburtstag von Louis Braille, der 1809 geboren wurde. Seine Blindenschrift entwickelte er als Teenager aus einem militärischen Nachtschriftsystem.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "Louis Braille"
+   }
+  ],
+  "01-06": [
+   {
+    "title": "Heilige Drei Könige",
+    "text": "Das Fest Epiphanias erinnert an die Weisen aus dem Morgenland. In Bayern, Baden-Württemberg und Sachsen-Anhalt ist es gesetzlicher Feiertag, in vielen Ländern endet damit die Weihnachtszeit.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Erscheinung des Herrn"
+   }
+  ],
+  "01-07": [
+   {
+    "title": "Orthodoxes Weihnachtsfest",
+    "text": "Kirchen, die dem julianischen Kalender folgen, feiern Christi Geburt heute. Der Unterschied von 13 Tagen zum gregorianischen Kalender wächst im Jahr 2100 auf 14.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Weihnachten"
+   }
+  ],
+  "01-15": [
+   {
+    "title": "Wikipedia-Tag",
+    "text": "Am 15. Januar 2001 ging Wikipedia online. Heute existieren Ausgaben in über 300 Sprachen, geschrieben von Freiwilligen.",
+    "topics": [
+     "tech",
+     "language"
+    ],
+    "wiki": "Wikipedia"
+   }
+  ],
+  "01-18": [
+   {
+    "title": "Welt-Schneemann-Tag",
+    "text": "Das Datum wurde gewählt, weil die 18 wie ein Schneemann mit Besen aussieht und der Januar in vielen Ländern verlässlich Schnee liefert.",
+    "topics": [
+     "weird",
+     "nature"
+    ]
+   }
+  ],
+  "01-20": [
+   {
+    "title": "Tag des Pinguins",
+    "text": "Rund um dieses Datum ziehen viele Pinguinarten in der Antarktis Richtung Brutkolonie. Von den 18 Arten lebt nur eine nördlich des Äquators.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Pinguine"
+   }
+  ],
+  "01-21": [
+   {
+    "title": "Tag der Umarmung",
+    "text": "Erfunden 1986 von einem US-Pfarrer, der die Zeit zwischen Neujahr und Valentinstag für die trübste des Jahres hielt.",
+    "topics": [
+     "weird",
+     "body"
+    ]
+   }
+  ],
+  "01-23": [
+   {
+    "title": "Tag der Handschrift",
+    "text": "Das Datum ist der Geburtstag von John Hancock, dessen ausladende Unterschrift auf der US-Unabhängigkeitserklärung im Englischen zum Synonym für Signatur wurde.",
+    "topics": [
+     "language",
+     "history"
+    ]
+   }
+  ],
+  "01-24": [
+   {
+    "title": "Internationaler Tag der Bildung",
+    "text": "Die UN-Vollversammlung erklärte den Tag 2018. Weltweit gehen weiterhin über 250 Millionen Kinder und Jugendliche nicht zur Schule.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "01-25": [
+   {
+    "title": "Tag des Gegenteils",
+    "text": "Der Opposite Day ist ein Kinderspiel-Feiertag: Alles Gesagte bedeutet das Gegenteil. Logisch ist er ein Paradoxon, denn die Ankündigung hebt sich selbst auf.",
+    "topics": [
+     "weird",
+     "language"
+    ]
+   }
+  ],
+  "01-26": [
+   {
+    "title": "Internationaler Zolltag",
+    "text": "Die Weltzollorganisation erinnert an ihre Gründungssitzung 1953. Zollbehörden kontrollieren heute weniger Koffer als Container – über 90 Prozent des Welthandels läuft per Schiff.",
+    "topics": [
+     "geography",
+     "history"
+    ],
+    "wiki": "Weltzollorganisation"
+   }
+  ],
+  "01-27": [
+   {
+    "title": "Tag des Gedenkens an die Opfer des Nationalsozialismus",
+    "text": "Am 27. Januar 1945 befreite die Rote Armee das Konzentrationslager Auschwitz. Seit 1996 ist der Tag in Deutschland offizieller Gedenktag.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Internationaler Tag des Gedenkens an die Opfer des Holocaust"
+   }
+  ],
+  "01-28": [
+   {
+    "title": "Europäischer Datenschutztag",
+    "text": "Er erinnert an die Datenschutzkonvention des Europarats von 1981, den ersten völkerrechtlich bindenden Datenschutzvertrag der Welt.",
+    "topics": [
+     "tech"
+    ]
+   }
+  ],
+  "01-29": [
+   {
+    "title": "Internationaler Puzzle-Tag",
+    "text": "Das erste Puzzle war eine Landkarte: Der Londoner Kartograf John Spilsbury zersägte um 1760 Karten, um Kindern Geografie beizubringen.",
+    "topics": [
+     "gaming",
+     "history"
+    ],
+    "wiki": "Puzzle"
+   }
+  ],
+  "01-31": [
+   {
+    "title": "Internationaler Tag des Zebras",
+    "text": "Der Tag macht auf bedrohte Zebraarten aufmerksam, vor allem das Grevyzebra mit nur noch wenigen tausend Tieren. Jedes Zebra trägt ein Streifenmuster, das es kein zweites Mal gibt.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Zebras"
+   }
+  ],
+  "02-01": [
+   {
+    "title": "Weltnutellatag",
+    "text": "Eine Bloggerin rief ihn 2007 aus, der Hersteller übernahm ihn später offiziell. Erfunden wurde die Haselnusscreme in der Nachkriegszeit, als Kakao knapp und Haselnüsse billig waren.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Nutella"
+   }
+  ],
+  "02-02": [
+   {
+    "title": "Murmeltiertag",
+    "text": "In Pennsylvania sagt seit 1887 ein Murmeltier das Ende des Winters voraus. Seine Trefferquote liegt laut Auswertungen etwa auf dem Niveau des Zufalls.",
+    "topics": [
+     "animals",
+     "weird"
+    ],
+    "wiki": "Groundhog Day"
+   }
+  ],
+  "02-04": [
+   {
+    "title": "Weltkrebstag",
+    "text": "Ausgerufen im Jahr 2000 bei einem Gipfel in Paris. Die WHO schätzt, dass sich rund ein Drittel aller Krebserkrankungen durch Prävention vermeiden ließe.",
+    "topics": [
+     "body",
+     "science"
+    ]
+   }
+  ],
+  "02-05": [
+   {
+    "title": "Weltnutellatag",
+    "text": "Erfunden 2007 von einer US-Bloggerin, später von Ferrero offiziell übernommen. Nutella entstand, weil in der Nachkriegszeit Kakao knapp und Haselnüsse in Piemont reichlich vorhanden waren.",
+    "topics": [
+     "food"
+    ],
+    "wiki": "Nutella"
+   }
+  ],
+  "02-09": [
+   {
+    "title": "Tag der Pizza",
+    "text": "Die Margherita soll 1889 für Königin Margherita von Savoyen belegt worden sein: Basilikum, Mozzarella und Tomate für Grün, Weiß und Rot.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Pizza"
+   }
+  ],
+  "02-10": [
+   {
+    "title": "Welttag der Hülsenfrüchte",
+    "text": "Die UN erinnert an Linsen, Bohnen und Erbsen: Sie liefern viel Eiweiß und binden über Knöllchenbakterien Stickstoff aus der Luft. Ein Feld mit Hülsenfrüchten düngt sich damit selbst.",
+    "topics": [
+     "food",
+     "nature"
+    ],
+    "wiki": "Hülsenfrüchte"
+   }
+  ],
+  "02-11": [
+   {
+    "title": "Internationaler Tag der Frauen und Mädchen in der Wissenschaft",
+    "text": "Von der UN 2015 beschlossen. Weltweit liegt der Frauenanteil in der Forschung weiterhin bei rund einem Drittel.",
+    "topics": [
+     "science"
+    ]
+   }
+  ],
+  "02-12": [
+   {
+    "title": "Darwin-Tag",
+    "text": "Charles Darwin wurde am 12. Februar 1809 geboren – am selben Tag wie Abraham Lincoln. Seine Evolutionstheorie veröffentlichte er erst nach über 20 Jahren Zögern.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "Charles Darwin"
+   }
+  ],
+  "02-13": [
+   {
+    "title": "Weltradiotag",
+    "text": "Die UNESCO wählte das Datum nach der Gründung des UN-Radios 1946. Radio erreicht bis heute mehr Menschen weltweit als jedes andere Medium.",
+    "topics": [
+     "tech",
+     "music"
+    ]
+   }
+  ],
+  "02-14": [
+   {
+    "title": "Valentinstag",
+    "text": "Der Brauch, an diesem Tag Karten zu verschicken, wurde im viktorianischen England zum Massengeschäft. In Japan schenken traditionell Frauen den Männern Schokolade, einen Monat später umgekehrt.",
+    "topics": [
+     "history",
+     "food"
+    ],
+    "wiki": "Valentinstag"
+   }
+  ],
+  "02-15": [
+   {
+    "title": "Weltnilpferdtag",
+    "text": "Flusspferde gelten als eines der gefährlichsten Großtiere Afrikas. Ihre nächsten lebenden Verwandten sind übrigens Wale und Delfine.",
+    "topics": [
+     "animals"
+    ],
+    "wiki": "Flusspferd"
+   }
+  ],
+  "02-17": [
+   {
+    "title": "Tag der spontanen Freundlichkeit",
+    "text": "Der Random Acts of Kindness Day geht auf eine US-Initiative der 1990er zurück. Studien zeigen, dass beschenkte und schenkende Person messbar profitieren.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "02-18": [
+   {
+    "title": "Internationaler Asperger-Tag",
+    "text": "Das Datum ist der Geburtstag des Kinderarztes Hans Asperger. In der heutigen Diagnostik ist Asperger keine eigene Diagnose mehr, sondern Teil des Autismus-Spektrums.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Asperger-Syndrom"
+   }
+  ],
+  "02-20": [
+   {
+    "title": "Welttag der sozialen Gerechtigkeit",
+    "text": "Die UN-Generalversammlung rief ihn 2007 aus. Gemeint ist nicht nur Einkommen, sondern auch Zugang zu Bildung, Gesundheit und Arbeit.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Soziale Gerechtigkeit"
+   }
+  ],
+  "02-21": [
+   {
+    "title": "Internationaler Tag der Muttersprache",
+    "text": "Die UNESCO erinnert an Studentenproteste 1952 in Dhaka für die bengalische Sprache. Etwa alle zwei Wochen stirbt weltweit eine Sprache aus.",
+    "topics": [
+     "language"
+    ],
+    "wiki": "Internationaler Tag der Muttersprache"
+   }
+  ],
+  "02-22": [
+   {
+    "title": "Thinking Day der Pfadfinder",
+    "text": "Das Datum ist der gemeinsame Geburtstag von Robert Baden-Powell und seiner Frau Olave. Weltweit gibt es rund 50 Millionen Pfadfinderinnen und Pfadfinder.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "02-27": [
+   {
+    "title": "Internationaler Tag des Eisbären",
+    "text": "Eisbärenfell ist nicht weiß, sondern durchscheinend, und die Haut darunter ist schwarz. Das hilft, Wärme zu speichern.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Eisbär"
+   }
+  ],
+  "02-29": [
+   {
+    "title": "Schalttag",
+    "text": "Es gibt ihn, weil ein Erdumlauf knapp 365,2422 Tage dauert. Die Feinkorrektur: Jahre durch 100 teilbar sind keine Schaltjahre, außer sie sind auch durch 400 teilbar.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "Schaltjahr"
+   }
+  ],
+  "03-01": [
+   {
+    "title": "Weltkomplimententag",
+    "text": "Ein niederländisches Team rief ihn 2003 aus – ohne Geschenke, nur mit ehrlich gemeinten Worten. Studien zeigen: Ein Kompliment aktiviert dieselben Hirnareale wie eine Geldbelohnung.",
+    "topics": [
+     "language",
+     "body"
+    ],
+    "wiki": "Kompliment"
+   }
+  ],
+  "03-02": [
+   {
+    "title": "Tag des Artenschutzes",
+    "text": "Er erinnert an das Washingtoner Artenschutzübereinkommen von 1973, das den Handel mit bedrohten Arten regelt. Über 40.000 Arten stehen inzwischen auf seinen Listen.",
+    "topics": [
+     "nature",
+     "animals"
+    ],
+    "wiki": "Washingtoner Artenschutzübereinkommen"
+   }
+  ],
+  "03-03": [
+   {
+    "title": "Welttag des Artenschutzes",
+    "text": "Am 3. März 1973 wurde das Washingtoner Artenschutzübereinkommen unterzeichnet. Es regelt heute den Handel mit über 40.000 Arten.",
+    "topics": [
+     "animals",
+     "nature"
+    ]
+   }
+  ],
+  "03-08": [
+   {
+    "title": "Internationaler Frauentag",
+    "text": "Zurück geht er auf sozialistische Frauenbewegungen ab 1911. In Berlin ist er seit 2019 gesetzlicher Feiertag.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Internationaler Frauentag"
+   }
+  ],
+  "03-10": [
+   {
+    "title": "MAR10 Day",
+    "text": "Geschrieben sieht das Datum aus wie MARIO. Nintendo begeht den Tag seit 2016 offiziell.",
+    "topics": [
+     "gaming"
+    ],
+    "wiki": "Mario"
+   }
+  ],
+  "03-12": [
+   {
+    "title": "Tag gegen Internetzensur",
+    "text": "Reporter ohne Grenzen ruft ihn seit 2008 aus. Am selben Tag 1989 legte Tim Berners-Lee seinem Chef den Entwurf für das World Wide Web vor – Vermerk: „vage, aber spannend“.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "World Wide Web"
+   }
+  ],
+  "03-14": [
+   {
+    "title": "Pi-Tag",
+    "text": "In amerikanischer Schreibweise ist heute 3/14. Passenderweise wurde Albert Einstein an diesem Tag 1879 geboren.",
+    "topics": [
+     "science"
+    ],
+    "wiki": "Kreiszahl"
+   }
+  ],
+  "03-15": [
+   {
+    "title": "Weltverbrauchertag",
+    "text": "Er erinnert an eine Rede von John F. Kennedy 1962, in der er vier Grundrechte für Verbraucher formulierte, darunter das Recht auf Information.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "03-17": [
+   {
+    "title": "St. Patrick's Day",
+    "text": "Die Farbe des Heiligen war ursprünglich Blau. Grün setzte sich erst im 18. Jahrhundert durch, zusammen mit dem Kleeblatt als Symbol.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Saint Patrick’s Day"
+   }
+  ],
+  "03-18": [
+   {
+    "title": "Global Recycling Day",
+    "text": "Aluminium lässt sich praktisch unbegrenzt recyceln und spart dabei rund 95 Prozent der Energie gegenüber der Neuproduktion.",
+    "topics": [
+     "nature",
+     "tech"
+    ]
+   }
+  ],
+  "03-20": [
+   {
+    "title": "Internationaler Tag des Glücks",
+    "text": "Die UN riefen ihn 2012 aus, angestoßen von Bhutan. Meist fällt der Tag mit dem astronomischen Frühlingsanfang zusammen.",
+    "topics": [
+     "body",
+     "geography"
+    ]
+   }
+  ],
+  "03-21": [
+   {
+    "title": "Welttag der Poesie",
+    "text": "Die UNESCO beschloss ihn 1999. Das älteste bekannte namentlich zugeschriebene Gedicht stammt von Enheduanna, einer Priesterin im Sumer des 23. Jahrhunderts v. Chr.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "En-hedu-anna"
+   }
+  ],
+  "03-22": [
+   {
+    "title": "Weltwassertag",
+    "text": "Weniger als ein Prozent des Wassers der Erde ist als flüssiges Süßwasser direkt zugänglich. Der Rest ist Salzwasser, Eis oder tiefes Grundwasser.",
+    "topics": [
+     "nature",
+     "science"
+    ]
+   }
+  ],
+  "03-23": [
+   {
+    "title": "Welttag der Meteorologie",
+    "text": "Er erinnert an die Gründung der Weltorganisation für Meteorologie 1950. Wettervorhersagen sind heute auf drei Tage so treffsicher wie vor 40 Jahren auf einen.",
+    "topics": [
+     "nature",
+     "science"
+    ],
+    "wiki": "Weltorganisation für Meteorologie"
+   }
+  ],
+  "03-24": [
+   {
+    "title": "Welttuberkulosetag",
+    "text": "Robert Koch stellte an diesem Tag 1882 den Erreger vor. Tuberkulose ist bis heute eine der tödlichsten Infektionskrankheiten weltweit.",
+    "topics": [
+     "body",
+     "history"
+    ],
+    "wiki": "Tuberkulose"
+   }
+  ],
+  "03-25": [
+   {
+    "title": "Tolkien Reading Day",
+    "text": "Am 25. März fällt in Der Herr der Ringe der Ring in den Schicksalsberg. Die Tolkien Society rief den Tag 2003 aus.",
+    "topics": [
+     "movies",
+     "language"
+    ],
+    "wiki": "J. R. R. Tolkien"
+   }
+  ],
+  "03-27": [
+   {
+    "title": "Welttheatertag",
+    "text": "Das Internationale Theaterinstitut rief ihn 1961 aus. Jedes Jahr schreibt eine Theaterpersönlichkeit eine Botschaft, die weltweit in über 50 Sprachen verlesen wird.",
+    "topics": [
+     "movies",
+     "language"
+    ]
+   }
+  ],
+  "03-30": [
+   {
+    "title": "Tag des Bleistifts",
+    "text": "Am 30. März 1858 ließ sich Hymen Lipman in den USA den Bleistift mit angesetztem Radiergummi patentieren. Das Patent wurde später für ungültig erklärt, weil es zwei bekannte Dinge nur kombinierte.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Bleistift"
+   }
+  ],
+  "04-01": [
+   {
+    "title": "Aprilscherz",
+    "text": "Der Brauch ist seit dem 16. Jahrhundert belegt. Der berühmteste Fernsehstreich lief 1957 bei der BBC: ein Bericht über die Spaghetti-Ernte in der Schweiz.",
+    "topics": [
+     "weird",
+     "history"
+    ],
+    "wiki": "Aprilscherz"
+   }
+  ],
+  "04-02": [
+   {
+    "title": "Welt-Autismus-Tag",
+    "text": "Von der UN 2007 beschlossen. Das Datum ist zugleich der Geburtstag von Hans Christian Andersen.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "04-03": [
+   {
+    "title": "Tag des ersten Handyanrufs",
+    "text": "Am 3. April 1973 telefonierte Martin Cooper auf einer Straße in New York mit einem Prototyp – und rief seinen Konkurrenten bei Bell an. Das Gerät wog fast ein Kilogramm.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Martin Cooper"
+   }
+  ],
+  "04-06": [
+   {
+    "title": "Internationaler Tag des Sports",
+    "text": "Die UN erinnert an die ersten neuzeitlichen Olympischen Spiele, die am 6. April 1896 in Athen begannen. Teilgenommen haben damals 241 Sportler aus 14 Ländern – alle männlich.",
+    "topics": [
+     "sports",
+     "history"
+    ],
+    "wiki": "Olympische Sommerspiele 1896"
+   }
+  ],
+  "04-07": [
+   {
+    "title": "Weltgesundheitstag",
+    "text": "Am 7. April 1948 trat die Verfassung der Weltgesundheitsorganisation in Kraft. Sie definiert Gesundheit ausdrücklich als mehr als die Abwesenheit von Krankheit.",
+    "topics": [
+     "body",
+     "science"
+    ]
+   }
+  ],
+  "04-08": [
+   {
+    "title": "Internationaler Tag der Roma",
+    "text": "Er erinnert an den ersten Welt-Roma-Kongress 1971 in London, auf dem Flagge und Hymne beschlossen wurden. Romani ist eine indoarische Sprache, verwandt mit Hindi.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Internationaler Tag der Roma"
+   }
+  ],
+  "04-10": [
+   {
+    "title": "Tag der Geschwister",
+    "text": "Geschwister sind meist die längste Beziehung eines Lebens – oft länger als die zu Eltern oder Partnern. Sie teilen im Schnitt die Hälfte ihrer Gene.",
+    "topics": [
+     "body",
+     "language"
+    ],
+    "wiki": "Geschwister"
+   }
+  ],
+  "04-11": [
+   {
+    "title": "Welt-Parkinson-Tag",
+    "text": "Das Datum ist der Geburtstag von James Parkinson, der die Krankheit 1817 erstmals beschrieb. Er war zugleich Arzt, Paläontologe und politischer Aktivist.",
+    "topics": [
+     "body",
+     "science"
+    ]
+   }
+  ],
+  "04-12": [
+   {
+    "title": "Internationaler Tag der bemannten Raumfahrt",
+    "text": "Am 12. April 1961 flog Juri Gagarin als erster Mensch ins All. Exakt 20 Jahre später startete der erste Space Shuttle.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Juri Alexejewitsch Gagarin"
+   }
+  ],
+  "04-14": [
+   {
+    "title": "Weltquantentag",
+    "text": "Das Datum spielt auf 4,14 an – die ersten Stellen der Planck-Konstante in Elektronenvolt-Sekunden. Ohne Quantenmechanik gäbe es weder Laser noch Computerchips.",
+    "topics": [
+     "science",
+     "tech"
+    ],
+    "wiki": "Planck-Konstante"
+   }
+  ],
+  "04-15": [
+   {
+    "title": "Weltkunsttag",
+    "text": "Das Datum ist Leonardo da Vincis Geburtstag. Er hinterließ mehr als 6000 Seiten Notizen, aber weniger als 20 gesicherte Gemälde.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Leonardo da Vinci"
+   }
+  ],
+  "04-16": [
+   {
+    "title": "Welt-Stimme-Tag",
+    "text": "Die menschliche Stimme entsteht durch Stimmlippen, die bis zu tausendmal pro Sekunde schwingen. Alles Weitere formen Rachen, Zunge und Lippen.",
+    "topics": [
+     "body",
+     "music"
+    ],
+    "wiki": "Stimme"
+   }
+  ],
+  "04-17": [
+   {
+    "title": "Welt-Hämophilie-Tag",
+    "text": "Er erinnert an den Geburtstag von Frank Schnabel, dem Gründer der Welt-Hämophilie-Föderation. Die Bluterkrankheit prägte die Geschichte mehrerer europäischer Königshäuser.",
+    "topics": [
+     "body",
+     "history"
+    ]
+   }
+  ],
+  "04-18": [
+   {
+    "title": "Internationaler Denkmaltag",
+    "text": "Der Tag geht auf den Denkmalrat ICOMOS zurück. Weltweit stehen über 1200 Stätten auf der Welterbeliste der UNESCO – Italien und China führen die Liste an.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "UNESCO-Welterbe"
+   }
+  ],
+  "04-19": [
+   {
+    "title": "Tag des Fahrrads",
+    "text": "Am 19. April 1943 unternahm der Chemiker Albert Hofmann seine berühmte Fahrradfahrt in Basel. Für Radfahrer weltweit ist der Tag längst ein eigener Anlass geworden.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Fahrrad"
+   }
+  ],
+  "04-20": [
+   {
+    "title": "Tag der Chinesischen Sprache",
+    "text": "Die UN ehrt Cang Jie, den mythischen Erfinder der chinesischen Schrift. Für eine Zeitung muss man rund 3000 Zeichen kennen, insgesamt gibt es über 50.000.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "Chinesische Schrift"
+   }
+  ],
+  "04-21": [
+   {
+    "title": "Welttag der Kreativität",
+    "text": "Die UN rief ihn 2017 aus, um Innovation als Motor der Entwicklung zu würdigen. Studien zeigen, dass Langeweile Kreativität nachweislich fördert.",
+    "topics": [
+     "science",
+     "language"
+    ],
+    "wiki": "Kreativität"
+   }
+  ],
+  "04-22": [
+   {
+    "title": "Tag der Erde",
+    "text": "Der erste Earth Day 1970 in den USA brachte rund 20 Millionen Menschen auf die Straße und gilt als Startpunkt der modernen Umweltbewegung.",
+    "topics": [
+     "nature",
+     "history"
+    ],
+    "wiki": "Tag der Erde"
+   }
+  ],
+  "04-23": [
+   {
+    "title": "Welttag des Buches",
+    "text": "Am 23. April 1616 starben Cervantes und Shakespeare, allerdings nach unterschiedlichen Kalendern und damit nicht am selben Tag.",
+    "topics": [
+     "language",
+     "history"
+    ]
+   }
+  ],
+  "04-24": [
+   {
+    "title": "Tag des Versuchstiers",
+    "text": "In Deutschland werden jährlich rund zwei Millionen Tiere in Versuchen eingesetzt. Ersatzmethoden wie Organoide und Computermodelle sollen die Zahl senken.",
+    "topics": [
+     "animals",
+     "science"
+    ],
+    "wiki": "Tierversuch"
+   }
+  ],
+  "04-25": [
+   {
+    "title": "Welt-Pinguin-Tag",
+    "text": "Ein Kaiserpinguin kann über 500 Meter tief tauchen und mehr als 20 Minuten unter Wasser bleiben.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Kaiserpinguin"
+   }
+  ],
+  "04-26": [
+   {
+    "title": "Welttag des geistigen Eigentums",
+    "text": "Am 26. April 1970 trat das Übereinkommen zur Gründung der Weltorganisation für geistiges Eigentum in Kraft.",
+    "topics": [
+     "tech"
+    ]
+   }
+  ],
+  "04-27": [
+   {
+    "title": "Welttag des Designs",
+    "text": "Der internationale Designrat rief ihn 1995 aus, zum Jahrestag seiner Gründung. Gutes Design fällt meist nur auf, wenn es fehlt.",
+    "topics": [
+     "tech",
+     "language"
+    ],
+    "wiki": "Design"
+   }
+  ],
+  "04-28": [
+   {
+    "title": "Welttag für Sicherheit am Arbeitsplatz",
+    "text": "Die Internationale Arbeitsorganisation erinnert an tödliche Arbeitsunfälle. Der Schutzhelm setzte sich erst durch, als beim Bau der Golden Gate Bridge ein Netz und Helme Pflicht wurden.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Arbeitsschutz"
+   }
+  ],
+  "04-29": [
+   {
+    "title": "Internationaler Tag des Tanzes",
+    "text": "Das Datum ist der Geburtstag von Jean-Georges Noverre, der im 18. Jahrhundert das Handlungsballett prägte.",
+    "topics": [
+     "music",
+     "history"
+    ]
+   }
+  ],
+  "04-30": [
+   {
+    "title": "Internationaler Jazztag",
+    "text": "Die UNESCO rief ihn 2011 aus. Das Wort Jazz taucht gedruckt zuerst im Sportteil kalifornischer Zeitungen auf, nicht im Musikteil.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Jazz"
+   }
+  ],
+  "05-01": [
+   {
+    "title": "Tag der Arbeit",
+    "text": "Er geht auf die Proteste für den Achtstundentag in Chicago 1886 zurück. In Deutschland ist er seit 1933 gesetzlicher Feiertag.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Erster Mai"
+   }
+  ],
+  "05-02": [
+   {
+    "title": "Tag des Thunfischs",
+    "text": "Die UN macht auf überfischte Bestände aufmerksam. Ein Roter Thun schwimmt bis zu 70 km/h schnell und hält seine Körpertemperatur über der des Wassers.",
+    "topics": [
+     "animals",
+     "food"
+    ],
+    "wiki": "Thunfische"
+   }
+  ],
+  "05-03": [
+   {
+    "title": "Internationaler Tag der Pressefreiheit",
+    "text": "Er erinnert an die Deklaration von Windhoek 1991. Reporter ohne Grenzen zählt jedes Jahr Dutzende getöteter Journalistinnen und Journalisten.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "05-04": [
+   {
+    "title": "Star Wars Day",
+    "text": "May the Fourth be with you. Der Wortwitz tauchte erstmals 1979 in einer britischen Zeitungsanzeige an Margaret Thatcher auf.",
+    "topics": [
+     "movies"
+    ],
+    "wiki": "Star Wars"
+   }
+  ],
+  "05-05": [
+   {
+    "title": "Europatag des Europarats",
+    "text": "Am 5. Mai 1949 wurde der Europarat in London gegründet – nicht zu verwechseln mit der EU. Zu ihm gehören 46 Staaten und der Europäische Gerichtshof für Menschenrechte.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Europarat"
+   }
+  ],
+  "05-06": [
+   {
+    "title": "Internationaler Anti-Diät-Tag",
+    "text": "Die britische Aktivistin Mary Evans Young rief ihn 1992 aus. Studien zeigen, dass die meisten strengen Diäten nach wenigen Jahren wieder rückgängig gemacht sind.",
+    "topics": [
+     "food",
+     "body"
+    ],
+    "wiki": "Diät"
+   }
+  ],
+  "05-08": [
+   {
+    "title": "Weltrotkreuztag",
+    "text": "Das Datum ist der Geburtstag von Henry Dunant, der nach der Schlacht von Solferino 1859 die Idee zum Roten Kreuz entwickelte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Henry Dunant"
+   }
+  ],
+  "05-09": [
+   {
+    "title": "Europatag der Europäischen Union",
+    "text": "Am 9. Mai 1950 schlug Robert Schuman eine gemeinsame Kohle- und Stahlbehörde vor. Aus dieser Idee wurde über Jahrzehnte die EU.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Schuman-Plan"
+   }
+  ],
+  "05-11": [
+   {
+    "title": "Tag der Eisheiligen",
+    "text": "Mamertus, Pankratius, Servatius, Bonifatius und die Kalte Sophie bringen der Bauernregel nach einen letzten Kälteeinbruch. Statistisch ist der Effekt heute kaum noch nachweisbar.",
+    "topics": [
+     "nature",
+     "history"
+    ],
+    "wiki": "Eisheilige"
+   }
+  ],
+  "05-12": [
+   {
+    "title": "Internationaler Tag der Pflege",
+    "text": "Das Datum ist der Geburtstag von Florence Nightingale. Sie war nicht nur Krankenschwester, sondern auch Statistikerin und erfand ein eigenes Diagramm zur Darstellung von Sterbeursachen.",
+    "topics": [
+     "body",
+     "history"
+    ],
+    "wiki": "Florence Nightingale"
+   }
+  ],
+  "05-13": [
+   {
+    "title": "Tag des Cocktails",
+    "text": "Die erste bekannte Definition von 1806 nennt Spirituose, Zucker, Wasser und Bitters – daraus wurde der Old Fashioned. Alles andere kam später dazu.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Cocktail"
+   }
+  ],
+  "05-14": [
+   {
+    "title": "Tag der Impfung",
+    "text": "Am 14. Mai 1796 impfte Edward Jenner einen Jungen mit Kuhpocken und machte ihn gegen Pocken immun. Die Pocken sind bis heute die einzige ausgerottete Menschenkrankheit.",
+    "topics": [
+     "body",
+     "history"
+    ],
+    "wiki": "Edward Jenner"
+   }
+  ],
+  "05-15": [
+   {
+    "title": "Internationaler Tag der Familie",
+    "text": "Die UN riefen ihn 1993 aus. Wie eine Familie definiert wird, überlässt die Resolution ausdrücklich den einzelnen Kulturen.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "05-16": [
+   {
+    "title": "Internationaler Tag des Lichts",
+    "text": "Die UNESCO erinnert an den ersten funktionierenden Laser, den Theodore Maiman am 16. Mai 1960 in Betrieb nahm. Ohne Laser gäbe es weder Glasfaser noch Barcodescanner.",
+    "topics": [
+     "science",
+     "tech"
+    ],
+    "wiki": "Laser"
+   }
+  ],
+  "05-17": [
+   {
+    "title": "Welttag der Telekommunikation",
+    "text": "Er erinnert an die Gründung der Internationalen Fernmeldeunion 1865 – damals ging es um Telegrafie. Heute regelt sie unter anderem Funkfrequenzen und Satellitenbahnen.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Internationale Fernmeldeunion"
+   }
+  ],
+  "05-18": [
+   {
+    "title": "Internationaler Museumstag",
+    "text": "Weltweit gibt es über 100.000 Museen. Der Louvre allein zeigt dauerhaft rund 35.000 Objekte, besitzt aber über 500.000.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "05-20": [
+   {
+    "title": "Weltbienentag",
+    "text": "Das Datum ist der Geburtstag von Anton Janša, einem slowenischen Imker des 18. Jahrhunderts. Für ein Kilo Honig fliegen Bienen etwa dreimal um die Erde.",
+    "topics": [
+     "animals",
+     "nature",
+     "food"
+    ],
+    "wiki": "Honigbienen"
+   }
+  ],
+  "05-21": [
+   {
+    "title": "Welttag der kulturellen Vielfalt",
+    "text": "Die UNESCO erinnert daran, dass rund 7000 Sprachen existieren – und alle zwei Wochen eine verschwindet. Mit jeder Sprache geht ein eigenes Ordnungssystem der Welt verloren.",
+    "topics": [
+     "language",
+     "geography"
+    ],
+    "wiki": "Sprachtod"
+   }
+  ],
+  "05-22": [
+   {
+    "title": "Internationaler Tag der biologischen Vielfalt",
+    "text": "Bis heute sind rund zwei Millionen Arten wissenschaftlich beschrieben. Schätzungen zur tatsächlichen Zahl reichen von acht bis über zwanzig Millionen.",
+    "topics": [
+     "nature",
+     "animals"
+    ]
+   }
+  ],
+  "05-23": [
+   {
+    "title": "Welt-Schildkröten-Tag",
+    "text": "Schildkröten gibt es seit über 200 Millionen Jahren, länger als Schlangen oder Krokodile. Ihr Panzer ist mit dem Skelett verwachsen.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Schildkröten"
+   }
+  ],
+  "05-24": [
+   {
+    "title": "Europäischer Tag der Nationalparks",
+    "text": "Am 24. Mai 1909 wurden in Schweden die ersten Nationalparks Europas ausgewiesen. Deutschland folgte erst 1970 mit dem Bayerischen Wald.",
+    "topics": [
+     "nature",
+     "geography"
+    ],
+    "wiki": "Nationalpark"
+   }
+  ],
+  "05-25": [
+   {
+    "title": "Handtuchtag",
+    "text": "Zu Ehren von Douglas Adams, der zwei Wochen zuvor 2001 gestorben war. In Per Anhalter durch die Galaxis ist das Handtuch der nützlichste Gegenstand im Universum.",
+    "topics": [
+     "movies",
+     "language"
+    ],
+    "wiki": "Towel Day"
+   }
+  ],
+  "05-29": [
+   {
+    "title": "Tag der Everest-Erstbesteigung",
+    "text": "Am 29. Mai 1953 erreichten Edmund Hillary und Tenzing Norgay als Erste den Gipfel. Wer von beiden zuerst oben stand, haben sie zeitlebens offengelassen.",
+    "topics": [
+     "sports",
+     "history"
+    ],
+    "wiki": "Mount Everest"
+   }
+  ],
+  "05-30": [
+   {
+    "title": "Tag der Nachbarn",
+    "text": "Der Aktionstag lädt zu Hofpartys und Straßenfesten ein. Studien zeigen: Wer seine Nachbarn kennt, fühlt sich in seiner Wohngegend messbar sicherer.",
+    "topics": [
+     "language",
+     "geography"
+    ],
+    "wiki": "Nachbarschaft"
+   }
+  ],
+  "05-31": [
+   {
+    "title": "Weltnichtrauchertag",
+    "text": "Die WHO rief ihn 1987 aus. Der Blutkreislauf beginnt sich messbar schon in den ersten Wochen nach dem Rauchstopp zu erholen.",
+    "topics": [
+     "body",
+     "science"
+    ]
+   }
+  ],
+  "06-01": [
+   {
+    "title": "Internationaler Kindertag",
+    "text": "Er wurde 1925 auf einer Konferenz in Genf angeregt. In Deutschland gibt es bis heute zwei Termine: den 1. Juni im Osten und den 20. September im Westen.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "06-03": [
+   {
+    "title": "Weltfahrradtag",
+    "text": "Das Fahrrad ist das energieeffizienteste Fortbewegungsmittel, das der Mensch kennt, gemessen an Energie pro Kilometer und Kilogramm.",
+    "topics": [
+     "sports",
+     "tech"
+    ],
+    "wiki": "Fahrrad"
+   }
+  ],
+  "06-05": [
+   {
+    "title": "Weltumwelttag",
+    "text": "Er erinnert an die erste UN-Umweltkonferenz 1972 in Stockholm, die den Umweltschutz erstmals auf die internationale Agenda setzte.",
+    "topics": [
+     "nature"
+    ]
+   }
+  ],
+  "06-07": [
+   {
+    "title": "Welttag der Lebensmittelsicherheit",
+    "text": "Die WHO schätzt, dass jährlich 600 Millionen Menschen an verunreinigten Lebensmitteln erkranken. Die häufigste Ursache ist eine unterbrochene Kühlkette.",
+    "topics": [
+     "food",
+     "science"
+    ],
+    "wiki": "Lebensmittelsicherheit"
+   }
+  ],
+  "06-08": [
+   {
+    "title": "Welttag der Ozeane",
+    "text": "Der Ozean produziert mehr als die Hälfte des Sauerstoffs der Erde, vor allem durch Phytoplankton. Kartiert ist bislang nur ein Bruchteil des Meeresbodens in hoher Auflösung.",
+    "topics": [
+     "nature",
+     "science"
+    ]
+   }
+  ],
+  "06-09": [
+   {
+    "title": "Internationaler Tag der Archive",
+    "text": "Der Weltverband der Archive erinnert an seine Gründung 1948. Das älteste durchgehend geführte Archiv Europas ist das Vatikanische Apostolische Archiv.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Archiv"
+   }
+  ],
+  "06-13": [
+   {
+    "title": "Internationaler Albinismus-Tag",
+    "text": "Die UN macht auf Diskriminierung aufmerksam. Albinismus betrifft die Melaninbildung und geht fast immer mit starker Sehbeeinträchtigung einher.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Albinismus"
+   }
+  ],
+  "06-14": [
+   {
+    "title": "Weltblutspendetag",
+    "text": "Das Datum ist der Geburtstag von Karl Landsteiner, der 1901 die Blutgruppen entdeckte und dafür den Nobelpreis erhielt.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Karl Landsteiner"
+   }
+  ],
+  "06-15": [
+   {
+    "title": "Tag des Windes",
+    "text": "Wind entsteht durch Druckunterschiede, die die Sonne über ungleich erwärmte Flächen erzeugt. Weltweit deckt Windkraft inzwischen einen zweistelligen Prozentsatz des Stroms.",
+    "topics": [
+     "nature",
+     "tech"
+    ],
+    "wiki": "Wind"
+   }
+  ],
+  "06-16": [
+   {
+    "title": "Bloomsday",
+    "text": "An diesem Tag im Jahr 1904 spielt James Joyces Ulysses. In Dublin laufen Fans die Route der Romanfiguren ab, in historischer Kleidung.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "Bloomsday"
+   }
+  ],
+  "06-17": [
+   {
+    "title": "Welttag zur Bekämpfung von Wüstenbildung",
+    "text": "Jedes Jahr gehen weltweit Millionen Hektar fruchtbaren Bodens verloren. Ein Zentimeter Humus braucht je nach Bedingungen Jahrhunderte, um nachzuwachsen.",
+    "topics": [
+     "nature",
+     "geography"
+    ],
+    "wiki": "Desertifikation"
+   }
+  ],
+  "06-18": [
+   {
+    "title": "Internationaler Picknicktag",
+    "text": "Das Wort stammt vom französischen pique-nique aus dem 17. Jahrhundert und meinte ursprünglich ein Essen, zu dem jeder etwas beisteuert. Erst im 19. Jahrhundert zog es nach draußen.",
+    "topics": [
+     "food",
+     "language"
+    ],
+    "wiki": "Picknick"
+   }
+  ],
+  "06-20": [
+   {
+    "title": "Weltflüchtlingstag",
+    "text": "Die UN riefen ihn 2001 aus, 50 Jahre nach der Genfer Flüchtlingskonvention.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "06-21": [
+   {
+    "title": "Fête de la Musique",
+    "text": "1982 in Frankreich gestartet, spielen an diesem Tag Laien und Profis kostenlos auf Straßen und Plätzen. Heute machen über 100 Länder mit.",
+    "topics": [
+     "music"
+    ],
+    "wiki": "Fête de la Musique"
+   }
+  ],
+  "06-23": [
+   {
+    "title": "Olympischer Tag",
+    "text": "Am 23. Juni 1894 wurde in Paris das Internationale Olympische Komitee gegründet. Zwei Jahre später fanden die ersten neuzeitlichen Spiele in Athen statt.",
+    "topics": [
+     "sports",
+     "history"
+    ],
+    "wiki": "Internationales Olympisches Komitee"
+   }
+  ],
+  "06-24": [
+   {
+    "title": "Johannistag",
+    "text": "Der Tag markiert traditionell das Ende der Spargel- und Rhabarberernte und den Beginn der Johannisbeerzeit. Schwarze Johannisbeeren enthalten mehr Vitamin C als Zitronen.",
+    "topics": [
+     "food",
+     "nature"
+    ],
+    "wiki": "Johannistag"
+   }
+  ],
+  "06-25": [
+   {
+    "title": "Tag des Seefahrers",
+    "text": "Über 90 Prozent des Welthandels laufen über See, getragen von rund zwei Millionen Seeleuten. Viele davon sind monatelang ohne Landgang unterwegs.",
+    "topics": [
+     "geography",
+     "tech"
+    ],
+    "wiki": "Seemann"
+   }
+  ],
+  "06-26": [
+   {
+    "title": "Internationaler Tag gegen Drogenmissbrauch",
+    "text": "Die UN rief ihn 1987 aus. Koffein ist übrigens die weltweit am häufigsten konsumierte psychoaktive Substanz – und in fast allen Kulturen legal.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Psychotrope Substanz"
+   }
+  ],
+  "06-30": [
+   {
+    "title": "Internationaler Asteroidentag",
+    "text": "Am 30. Juni 1908 zerstörte das Tunguska-Ereignis in Sibirien rund 2000 Quadratkilometer Wald. Einen Einschlagkrater fand man nie.",
+    "topics": [
+     "space",
+     "science"
+    ],
+    "wiki": "Tunguska-Ereignis"
+   }
+  ],
+  "07-01": [
+   {
+    "title": "Internationaler Witzetag",
+    "text": "Über Humor lässt sich forschen: Als zuverlässigster Mechanismus gilt die verletzte Erwartung – eine Pointe funktioniert, wenn das Gehirn falsch vorhergesagt hat.",
+    "topics": [
+     "language",
+     "science"
+    ],
+    "wiki": "Humor"
+   }
+  ],
+  "07-02": [
+   {
+    "title": "Welt-UFO-Tag",
+    "text": "Das Datum verweist auf den angeblichen Absturz bei Roswell 1947. Die US-Luftwaffe erklärte den Fund Jahrzehnte später mit einem geheimen Ballonprojekt zur Atomtestüberwachung.",
+    "topics": [
+     "space",
+     "weird"
+    ],
+    "wiki": "Roswell-Zwischenfall"
+   }
+  ],
+  "07-03": [
+   {
+    "title": "Internationaler Tag der Plastiktüte",
+    "text": "Eine Plastiktüte wird im Schnitt 25 Minuten benutzt und braucht Jahrhunderte zum Zerfallen. Deutschland hat den Verkauf 2022 weitgehend verboten.",
+    "topics": [
+     "nature",
+     "tech"
+    ],
+    "wiki": "Plastiktüte"
+   }
+  ],
+  "07-04": [
+   {
+    "title": "Unabhängigkeitstag der USA",
+    "text": "Am 4. Juli 1776 wurde die Unabhängigkeitserklärung angenommen – unterschrieben wurde sie größtenteils erst im August. Zwei ihrer Autoren starben exakt 50 Jahre später am selben 4. Juli.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Unabhängigkeitserklärung der Vereinigten Staaten"
+   }
+  ],
+  "07-05": [
+   {
+    "title": "Tag des Bikinis",
+    "text": "Am 5. Juli 1946 wurde er in Paris vorgestellt und nach dem Bikini-Atoll benannt, wo kurz zuvor Atomtests stattfanden. Der Designer erwartete eine ähnliche Sprengkraft.",
+    "topics": [
+     "history",
+     "weird"
+    ],
+    "wiki": "Bikini"
+   }
+  ],
+  "07-06": [
+   {
+    "title": "Internationaler Tag des Kusses",
+    "text": "Beim Küssen sind bis zu 34 Gesichtsmuskeln beteiligt. Die Forschungsrichtung dazu heißt tatsächlich Philematologie.",
+    "topics": [
+     "body",
+     "weird"
+    ]
+   }
+  ],
+  "07-07": [
+   {
+    "title": "Weltschokoladentag",
+    "text": "Kakao war bei den Maya und Azteken Getränk und Zahlungsmittel zugleich. Für eine Tafel Schokolade braucht es rund 400 Kakaobohnen.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Schokolade"
+   }
+  ],
+  "07-10": [
+   {
+    "title": "Nikola-Tesla-Tag",
+    "text": "Tesla wurde 1856 in der Nacht zum 10. Juli geboren. Er hielt rund 300 Patente und starb weitgehend mittellos in einem New Yorker Hotel.",
+    "topics": [
+     "tech",
+     "science",
+     "history"
+    ],
+    "wiki": "Nikola Tesla"
+   }
+  ],
+  "07-11": [
+   {
+    "title": "Weltbevölkerungstag",
+    "text": "Die UN wählte das Datum, weil die Weltbevölkerung am 11. Juli 1987 fünf Milliarden erreichte. 2022 wurde die Acht-Milliarden-Marke überschritten.",
+    "topics": [
+     "geography",
+     "history"
+    ],
+    "wiki": "Weltbevölkerung"
+   }
+  ],
+  "07-14": [
+   {
+    "title": "Welt-Schimpansen-Tag",
+    "text": "Am 14. Juli 1960 begann Jane Goodall ihre Feldforschung in Gombe. Sie beobachtete als Erste, dass Schimpansen Werkzeuge herstellen.",
+    "topics": [
+     "animals",
+     "science"
+    ],
+    "wiki": "Jane Goodall"
+   }
+  ],
+  "07-15": [
+   {
+    "title": "Tag der Fertigkeiten Jugendlicher",
+    "text": "Die UN weist auf berufliche Ausbildung hin. Das duale System aus Betrieb und Berufsschule gilt international als deutsche Besonderheit.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Duale Ausbildung"
+   }
+  ],
+  "07-17": [
+   {
+    "title": "Welt-Emoji-Tag",
+    "text": "Das Datum steht auf dem Kalender-Emoji von Apple. Das meistgenutzte Emoji weltweit ist seit Jahren das Tränen lachende Gesicht.",
+    "topics": [
+     "tech",
+     "language"
+    ],
+    "wiki": "Emoji"
+   }
+  ],
+  "07-18": [
+   {
+    "title": "Nelson-Mandela-Tag",
+    "text": "An seinem Geburtstag ruft die UN dazu auf, 67 Minuten Gutes zu tun, ein Jahr für jedes Jahr seines öffentlichen Wirkens.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Nelson Mandela"
+   }
+  ],
+  "07-20": [
+   {
+    "title": "Internationaler Tag des Mondes",
+    "text": "Am 20. Juli 1969 landete Apollo 11. Die Fußabdrücke im Mondstaub werden dort ohne Wind und Wasser Millionen Jahre überdauern.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Apollo 11"
+   }
+  ],
+  "07-21": [
+   {
+    "title": "Tag der ersten Mondlandung",
+    "text": "Am 21. Juli 1969 um 3:56 Uhr MEZ betrat Neil Armstrong den Mond. Sein erster Satz war live zu hören, das unbestimmte „a“ darin bis heute umstritten.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Apollo 11"
+   }
+  ],
+  "07-22": [
+   {
+    "title": "Pi-Näherungstag",
+    "text": "Der 22. Juli steht für den Bruch 22/7, der Pi auf zwei Nachkommastellen genau annähert. Archimedes fand diese Näherung vor über 2200 Jahren.",
+    "topics": [
+     "science",
+     "language"
+    ],
+    "wiki": "Kreiszahl"
+   }
+  ],
+  "07-23": [
+   {
+    "title": "Tag der Hundstage",
+    "text": "Die Hundstage sind nach dem Stern Sirius im Sternbild Großer Hund benannt, der in dieser Zeit mit der Sonne aufgeht. Mit der Hitze hat er physikalisch nichts zu tun.",
+    "topics": [
+     "space",
+     "nature"
+    ],
+    "wiki": "Hundstage"
+   }
+  ],
+  "07-24": [
+   {
+    "title": "Tag der Selbstfürsorge",
+    "text": "Das Datum 24/7 steht dafür, dass Selbstfürsorge nicht an einem Tag endet. Schon zehn Minuten Pause ohne Bildschirm senken messbar den Puls.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Selbstfürsorge"
+   }
+  ],
+  "07-26": [
+   {
+    "title": "Tag der Mangroven",
+    "text": "Mangrovenwälder speichern pro Fläche mehr Kohlenstoff als Regenwälder und schützen Küsten vor Sturmfluten. Über ein Drittel ist seit 1980 verschwunden.",
+    "topics": [
+     "nature",
+     "geography"
+    ],
+    "wiki": "Mangrove"
+   }
+  ],
+  "07-28": [
+   {
+    "title": "Welt-Hepatitis-Tag",
+    "text": "Das Datum ist der Geburtstag von Baruch Blumberg, der das Hepatitis-B-Virus entdeckte und dafür den Nobelpreis erhielt. Eine Impfung gibt es seit 1982.",
+    "topics": [
+     "body",
+     "history"
+    ],
+    "wiki": "Baruch Samuel Blumberg"
+   }
+  ],
+  "07-29": [
+   {
+    "title": "Internationaler Tag des Tigers",
+    "text": "Ausgerufen 2010, als der Bestand auf rund 3200 Tiere gefallen war. Jedes Streifenmuster ist einzigartig, vergleichbar mit einem Fingerabdruck.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Tiger"
+   }
+  ],
+  "07-30": [
+   {
+    "title": "Internationaler Tag der Freundschaft",
+    "text": "Die UN riefen ihn 2011 aus. Die sogenannte Dunbar-Zahl schätzt, dass Menschen etwa 150 stabile soziale Beziehungen halten können.",
+    "topics": [
+     "body",
+     "science"
+    ]
+   }
+  ],
+  "07-31": [
+   {
+    "title": "Weltrangertag",
+    "text": "Der Tag erinnert an Ranger, die weltweit Schutzgebiete bewachen. In einigen Ländern ist das einer der gefährlichsten Berufe überhaupt.",
+    "topics": [
+     "nature",
+     "geography"
+    ],
+    "wiki": "Ranger"
+   }
+  ],
+  "08-01": [
+   {
+    "title": "Schweizer Nationalfeiertag",
+    "text": "Er erinnert an den Bundesbrief von 1291. Gesetzlicher Feiertag ist er allerdings erst seit einer Volksabstimmung 1993.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Bundesfeiertag"
+   }
+  ],
+  "08-03": [
+   {
+    "title": "Tag der Wassermelone",
+    "text": "Eine Wassermelone besteht zu über 90 Prozent aus Wasser und gehört botanisch zu den Kürbisgewächsen. In Westafrika wurde sie schon vor 4000 Jahren angebaut.",
+    "topics": [
+     "food",
+     "nature"
+    ],
+    "wiki": "Wassermelone"
+   }
+  ],
+  "08-05": [
+   {
+    "title": "Tag der ersten Ampel",
+    "text": "Am 5. August 1914 ging in Cleveland die erste elektrische Ampel in Betrieb. Sie kannte nur Rot und Grün – Gelb kam Jahre später dazu.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Ampel"
+   }
+  ],
+  "08-06": [
+   {
+    "title": "Tag der Erinnerung an Hiroshima",
+    "text": "Am 6. August 1945 wurde die erste Atombombe über einer Stadt gezündet. In Hiroshima brennt seit 1964 eine Flamme, die erst erlöschen soll, wenn die letzte Atomwaffe verschwunden ist.",
+    "topics": [
+     "history",
+     "science"
+    ],
+    "wiki": "Atombombenabwürfe auf Hiroshima und Nagasaki"
+   }
+  ],
+  "08-08": [
+   {
+    "title": "Weltkatzentag",
+    "text": "Katzen können rund 100 verschiedene Laute erzeugen, Hunde etwa zehn. Miauen setzen erwachsene Katzen fast ausschließlich gegenüber Menschen ein.",
+    "topics": [
+     "animals"
+    ],
+    "wiki": "Hauskatze"
+   }
+  ],
+  "08-09": [
+   {
+    "title": "Internationaler Tag der indigenen Völker",
+    "text": "Weltweit leben rund 476 Millionen indigene Menschen. Sie stellen etwa 6 Prozent der Bevölkerung, hüten aber einen großen Teil der verbliebenen Biodiversität.",
+    "topics": [
+     "geography",
+     "nature"
+    ]
+   }
+  ],
+  "08-10": [
+   {
+    "title": "Weltlöwentag",
+    "text": "Löwen sind die einzigen Katzen, die dauerhaft in Gruppen leben. Ihr Brüllen ist über acht Kilometer weit zu hören.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Löwe"
+   }
+  ],
+  "08-12": [
+   {
+    "title": "Welt-Elefanten-Tag",
+    "text": "Elefanten begrüßen sich mit dem Rüssel, trösten gestresste Artgenossen und erkennen sich im Spiegel. Ihr Rüssel enthält rund 40.000 Muskelbündel.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Elefanten"
+   }
+  ],
+  "08-13": [
+   {
+    "title": "Internationaler Tag der Linkshänder",
+    "text": "Etwa 10 Prozent der Menschen sind Linkshänder. Bis in die 1970er Jahre wurden Kinder in deutschen Schulen noch systematisch umgeschult.",
+    "topics": [
+     "body",
+     "history"
+    ],
+    "wiki": "Linkshänder"
+   }
+  ],
+  "08-15": [
+   {
+    "title": "Tag der Entspannung",
+    "text": "Erfunden 1985 von einem Viertklässler aus Michigan, der fand, dass Erwachsene zu wenig faulenzen.",
+    "topics": [
+     "body",
+     "weird"
+    ]
+   }
+  ],
+  "08-16": [
+   {
+    "title": "Tag des Witzes",
+    "text": "Der älteste überlieferte Witz stammt aus Sumer, ist rund 4000 Jahre alt und dreht sich um Blähungen.",
+    "topics": [
+     "language",
+     "weird",
+     "history"
+    ]
+   }
+  ],
+  "08-17": [
+   {
+    "title": "Tag der schwarzen Katze",
+    "text": "In Deutschland und Italien gelten schwarze Katzen als Unglücksboten, in Großbritannien und Japan als Glücksbringer. Im Tierheim werden sie messbar seltener adoptiert.",
+    "topics": [
+     "animals",
+     "weird"
+    ],
+    "wiki": "Hauskatze"
+   }
+  ],
+  "08-19": [
+   {
+    "title": "Welt-Foto-Tag",
+    "text": "Am 19. August 1839 stellte Frankreich das Daguerreotypie-Verfahren der Öffentlichkeit vor und schenkte es der Welt.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Daguerreotypie"
+   }
+  ],
+  "08-20": [
+   {
+    "title": "Weltmoskitotag",
+    "text": "Am 20. August 1897 wies Ronald Ross nach, dass Stechmücken Malaria übertragen. Die Mücke gilt bis heute als das für Menschen tödlichste Tier der Welt.",
+    "topics": [
+     "animals",
+     "history"
+    ],
+    "wiki": "Ronald Ross"
+   }
+  ],
+  "08-23": [
+   {
+    "title": "Internationaler Tag zur Erinnerung an den Sklavenhandel",
+    "text": "Die UNESCO wählte die Nacht des Aufstands auf Haiti 1791. Er führte 1804 zur ersten unabhängigen Republik, die von befreiten Sklaven gegründet wurde.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Haitianische Revolution"
+   }
+  ],
+  "08-24": [
+   {
+    "title": "Tag des Vesuvausbruchs",
+    "text": "Traditionell wird der 24. August 79 n. Chr. als Datum genannt, an dem Pompeji verschüttet wurde. Funde von Herbstfrüchten sprechen inzwischen für einen späteren Termin im Oktober.",
+    "topics": [
+     "history",
+     "nature"
+    ],
+    "wiki": "Pompeji"
+   }
+  ],
+  "08-25": [
+   {
+    "title": "Tag des Nationalparks",
+    "text": "Am 25. August 1916 wurde in den USA der National Park Service gegründet. Der Yellowstone war bereits 1872 der erste Nationalpark der Welt.",
+    "topics": [
+     "nature",
+     "history"
+    ],
+    "wiki": "National Park Service"
+   }
+  ],
+  "08-26": [
+   {
+    "title": "Internationaler Hundetag",
+    "text": "Der Geruchssinn eines Hundes ist je nach Rasse zehntausend- bis hunderttausendfach empfindlicher als der menschliche.",
+    "topics": [
+     "animals"
+    ],
+    "wiki": "Haushund"
+   }
+  ],
+  "08-27": [
+   {
+    "title": "Tag des Krakatau-Ausbruchs",
+    "text": "Am 27. August 1883 explodierte der Vulkan mit einer Wucht, die noch in 4800 Kilometern zu hören war. Die Aschewolke ließ die Sonnenuntergänge weltweit monatelang rot leuchten.",
+    "topics": [
+     "nature",
+     "history"
+    ],
+    "wiki": "Krakatau"
+   }
+  ],
+  "08-29": [
+   {
+    "title": "Internationaler Tag gegen Atomtests",
+    "text": "Am 29. August 1991 wurde das Testgelände Semipalatinsk in Kasachstan geschlossen. Dort waren über 450 Kernwaffentests durchgeführt worden.",
+    "topics": [
+     "history",
+     "science"
+    ]
+   }
+  ],
+  "08-31": [
+   {
+    "title": "Blog Day",
+    "text": "Das Datum wurde gewählt, weil 3108 wie das Wort Blog aussieht. Der Begriff Weblog entstand 1997, die Kurzform Blog zwei Jahre später aus einem Wortspiel.",
+    "topics": [
+     "tech",
+     "language"
+    ]
+   }
+  ],
+  "09-01": [
+   {
+    "title": "Antikriegstag",
+    "text": "Am 1. September 1939 begann der Zweite Weltkrieg mit dem Überfall auf Polen. Der Gewerkschaftsbund begeht den Tag in Deutschland seit 1957.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "09-03": [
+   {
+    "title": "Tag des Wolkenkratzers",
+    "text": "Das Datum ist der Geburtstag von Louis Sullivan, dem Vater des Hochhauses. Sein Grundsatz „form follows function“ prägt die Architektur bis heute.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Louis Sullivan"
+   }
+  ],
+  "09-04": [
+   {
+    "title": "Tag der Currywurst",
+    "text": "Herta Heuwer meldete ihre Sauce 1959 als Marke an. In Berlin gab es zeitweise ein eigenes Currywurstmuseum.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Currywurst"
+   }
+  ],
+  "09-05": [
+   {
+    "title": "Internationaler Tag der Wohltätigkeit",
+    "text": "Das Datum ist der Todestag von Mutter Teresa. Die UN beschloss den Tag 2012.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "09-08": [
+   {
+    "title": "Weltalphabetisierungstag",
+    "text": "Die UNESCO rief ihn 1966 aus. Weltweit können etwa 750 Millionen Erwachsene nicht ausreichend lesen und schreiben, zwei Drittel davon sind Frauen.",
+    "topics": [
+     "language"
+    ]
+   }
+  ],
+  "09-10": [
+   {
+    "title": "Welttag der Suizidprävention",
+    "text": "Er wurde 2003 von der Weltgesundheitsorganisation und der IASP eingeführt. In Deutschland ist die Telefonseelsorge rund um die Uhr kostenlos erreichbar.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "09-11": [
+   {
+    "title": "Tag der Erinnerung an den 11. September",
+    "text": "Die Anschläge von 2001 veränderten Luftsicherheit, Datenschutz und internationale Politik nachhaltig. Der Luftraum über den USA war danach drei Tage lang gesperrt.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Terroranschläge am 11. September 2001"
+   }
+  ],
+  "09-12": [
+   {
+    "title": "Tag der Höhlenmalerei",
+    "text": "Am 12. September 1940 entdeckten vier Jugendliche die Höhle von Lascaux. Die Bilder sind rund 17.000 Jahre alt und mussten wegen der Besucher wieder verschlossen werden.",
+    "topics": [
+     "history",
+     "nature"
+    ],
+    "wiki": "Höhle von Lascaux"
+   }
+  ],
+  "09-13": [
+   {
+    "title": "Tag des Programmierers",
+    "text": "Es ist der 256. Tag des Jahres, weil 256 die Zahl der Werte eines Bytes ist. In Schaltjahren fällt er auf den 12. September.",
+    "topics": [
+     "tech"
+    ],
+    "wiki": "Tag des Programmierers"
+   }
+  ],
+  "09-14": [
+   {
+    "title": "Tag der Gravitationswellen",
+    "text": "Am 14. September 2015 wurden erstmals Gravitationswellen gemessen – von zwei verschmelzenden Schwarzen Löchern. Einstein hatte sie hundert Jahre vorher vorhergesagt.",
+    "topics": [
+     "space",
+     "science"
+    ],
+    "wiki": "Gravitationswelle"
+   }
+  ],
+  "09-15": [
+   {
+    "title": "Internationaler Tag der Demokratie",
+    "text": "Die UN beschloss ihn 2007. Das Wort stammt aus dem Griechischen und bedeutet wörtlich Herrschaft des Volkes.",
+    "topics": [
+     "history",
+     "language"
+    ]
+   }
+  ],
+  "09-16": [
+   {
+    "title": "Internationaler Tag zur Erhaltung der Ozonschicht",
+    "text": "Am 16. September 1987 wurde das Montrealer Protokoll unterzeichnet. Es gilt als erfolgreichstes Umweltabkommen der Geschichte, das Ozonloch schließt sich messbar.",
+    "topics": [
+     "nature",
+     "science"
+    ],
+    "wiki": "Montreal-Protokoll"
+   }
+  ],
+  "09-17": [
+   {
+    "title": "Tag der Patientensicherheit",
+    "text": "Checklisten im OP senken Komplikationen messbar – die Idee stammt aus der Luftfahrt. Die WHO empfiehlt sie seit 2008 weltweit.",
+    "topics": [
+     "body",
+     "tech"
+    ],
+    "wiki": "Patientensicherheit"
+   }
+  ],
+  "09-19": [
+   {
+    "title": "Tag des Sprechens wie ein Pirat",
+    "text": "1995 von zwei Freunden in Oregon beim Squash erfunden. Berühmt wurde er, als ein US-Kolumnist 2002 darüber schrieb.",
+    "topics": [
+     "language",
+     "weird"
+    ],
+    "wiki": "International Talk Like a Pirate Day"
+   }
+  ],
+  "09-21": [
+   {
+    "title": "Internationaler Tag des Friedens",
+    "text": "Die UN ruft an diesem Tag zu einem 24-stündigen weltweiten Waffenstillstand auf. Um 9 Uhr New Yorker Zeit läutet die Friedensglocke am UN-Hauptquartier.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "09-22": [
+   {
+    "title": "Welt-Nashorn-Tag",
+    "text": "Nashorn-Horn besteht aus Keratin, demselben Material wie menschliche Fingernägel. Vom Nördlichen Breitmaulnashorn leben nur noch zwei Weibchen.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Nashörner"
+   }
+  ],
+  "09-26": [
+   {
+    "title": "Europäischer Tag der Sprachen",
+    "text": "In Europa werden über 200 Sprachen gesprochen. Der Tag wurde 2001 vom Europarat ins Leben gerufen.",
+    "topics": [
+     "language",
+     "geography"
+    ]
+   }
+  ],
+  "09-27": [
+   {
+    "title": "Welttourismustag",
+    "text": "Er erinnert an die Satzung der Welttourismusorganisation von 1970. Vor der Pandemie zählte die Welt jährlich rund 1,5 Milliarden internationale Reisen.",
+    "topics": [
+     "geography"
+    ]
+   }
+  ],
+  "09-28": [
+   {
+    "title": "Welttollwuttag",
+    "text": "Das Datum ist der Todestag von Louis Pasteur, der 1885 den ersten wirksamen Tollwutimpfstoff einsetzte. Unbehandelt verläuft die Krankheit nach Ausbruch fast immer tödlich.",
+    "topics": [
+     "science",
+     "body",
+     "animals"
+    ],
+    "wiki": "Louis Pasteur"
+   }
+  ],
+  "09-29": [
+   {
+    "title": "Weltherztag",
+    "text": "Herz-Kreislauf-Erkrankungen sind weltweit die häufigste Todesursache. Schon 30 Minuten zügiges Gehen am Tag senken das Risiko deutlich.",
+    "topics": [
+     "body",
+     "sports"
+    ],
+    "wiki": "Herz-Kreislauf-Erkrankung"
+   }
+  ],
+  "09-30": [
+   {
+    "title": "Internationaler Übersetzertag",
+    "text": "Das Datum ist der Todestag des Hieronymus, der die Bibel ins Lateinische übertrug. Er gilt als Schutzpatron der Übersetzer.",
+    "topics": [
+     "language",
+     "history"
+    ]
+   }
+  ],
+  "10-01": [
+   {
+    "title": "Internationaler Kaffeetag",
+    "text": "Kaffee ist nach Erdöl eines der meistgehandelten Güter der Welt. Die Espressomaschine mit Pumpendruck wurde erst 1961 erfunden.",
+    "topics": [
+     "food"
+    ],
+    "wiki": "Kaffee"
+   }
+  ],
+  "10-02": [
+   {
+    "title": "Internationaler Tag der Gewaltlosigkeit",
+    "text": "Das Datum ist Mahatma Gandhis Geburtstag. Die UN beschloss den Tag 2007.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Mohandas Karamchand Gandhi"
+   }
+  ],
+  "10-03": [
+   {
+    "title": "Tag der Deutschen Einheit",
+    "text": "Gewählt wurde nicht der 9. November, weil auf dieses Datum auch die Novemberpogrome von 1938 fallen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Tag der Deutschen Einheit"
+   }
+  ],
+  "10-04": [
+   {
+    "title": "Welttierschutztag",
+    "text": "Das Datum ist der Gedenktag des Franz von Assisi, der als Schutzpatron der Tiere gilt.",
+    "topics": [
+     "animals"
+    ]
+   }
+  ],
+  "10-05": [
+   {
+    "title": "Weltlehrertag",
+    "text": "Er erinnert an eine UNESCO-Empfehlung von 1966 zum Status von Lehrkräften. Weltweit fehlen laut UNESCO Millionen Lehrerinnen und Lehrer.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "10-07": [
+   {
+    "title": "Tag der menschenwürdigen Arbeit",
+    "text": "Der Achtstundentag wurde in Deutschland erst 1918 eingeführt. Davor waren zwölf Stunden und mehr in Fabriken üblich.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Achtstundentag"
+   }
+  ],
+  "10-08": [
+   {
+    "title": "Welt-Oktopus-Tag",
+    "text": "Ein Oktopus hat neun Gehirne: ein zentrales und je eines pro Arm. Zwei Drittel seiner Nervenzellen sitzen in den Armen.",
+    "topics": [
+     "animals",
+     "science"
+    ],
+    "wiki": "Kraken"
+   }
+  ],
+  "10-09": [
+   {
+    "title": "Weltposttag",
+    "text": "Am 9. Oktober 1874 wurde der Weltpostverein gegründet. Er sorgt dafür, dass eine Briefmarke aus einem Land in jedem anderen anerkannt wird.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Weltpostverein"
+   }
+  ],
+  "10-10": [
+   {
+    "title": "Welttag der psychischen Gesundheit",
+    "text": "Er wurde 1992 eingeführt. Weltweit lebt laut WHO etwa jeder achte Mensch mit einer psychischen Erkrankung.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "10-11": [
+   {
+    "title": "Internationaler Mädchentag",
+    "text": "Die UN riefen ihn 2011 aus, um auf Ungleichheit in Bildung und Gesundheit aufmerksam zu machen.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "10-12": [
+   {
+    "title": "Tag der Rheuma-Aufklärung",
+    "text": "Rheuma ist keine einzelne Krankheit, sondern ein Sammelbegriff für über hundert Erkrankungen. Betroffen sind auch Kinder.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Rheuma"
+   }
+  ],
+  "10-13": [
+   {
+    "title": "Internationaler Tag der Katastrophenvorsorge",
+    "text": "Studien zeigen, dass jeder in Vorsorge investierte Euro ein Vielfaches an Schadenskosten spart.",
+    "topics": [
+     "nature",
+     "science"
+    ]
+   }
+  ],
+  "10-14": [
+   {
+    "title": "Weltnormentag",
+    "text": "Er erinnert an die Gründungskonferenz der internationalen Normung 1946. Ohne Normen würde kein Stecker in eine fremde Steckdose passen – und keine Schraube in ihre Mutter.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Internationale Organisation für Normung"
+   }
+  ],
+  "10-15": [
+   {
+    "title": "Welttag des Händewaschens",
+    "text": "Ignaz Semmelweis erkannte den Zusammenhang zwischen Handhygiene und Sterblichkeit schon 1847, wurde dafür aber jahrzehntelang angefeindet.",
+    "topics": [
+     "body",
+     "history",
+     "science"
+    ],
+    "wiki": "Ignaz Semmelweis"
+   }
+  ],
+  "10-16": [
+   {
+    "title": "Welternährungstag",
+    "text": "Am 16. Oktober 1945 wurde die Ernährungs- und Landwirtschaftsorganisation der UN gegründet. Rund ein Drittel aller Lebensmittel weltweit geht verloren oder wird weggeworfen.",
+    "topics": [
+     "food"
+    ]
+   }
+  ],
+  "10-17": [
+   {
+    "title": "Internationaler Tag für die Beseitigung der Armut",
+    "text": "Er geht auf eine Kundgebung 1987 in Paris zurück, an der 100.000 Menschen teilnahmen.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "10-20": [
+   {
+    "title": "Weltosteoporosetag",
+    "text": "Knochen bauen sich lebenslang um. Nach dem 35. Lebensjahr überwiegt der Abbau – Krafttraining und Vitamin D wirken dagegen.",
+    "topics": [
+     "body",
+     "sports"
+    ],
+    "wiki": "Osteoporose"
+   }
+  ],
+  "10-23": [
+   {
+    "title": "Mol-Tag",
+    "text": "Chemikerinnen und Chemiker feiern von 6:02 bis 18:02 Uhr die Avogadro-Konstante 6,022 mal 10 hoch 23. Sie gibt an, wie viele Teilchen in einem Mol stecken.",
+    "topics": [
+     "science",
+     "weird"
+    ],
+    "wiki": "Avogadro-Konstante"
+   }
+  ],
+  "10-24": [
+   {
+    "title": "Tag der Vereinten Nationen",
+    "text": "Am 24. Oktober 1945 trat die UN-Charta in Kraft. Sechs Amtssprachen gelten: Arabisch, Chinesisch, Englisch, Französisch, Russisch und Spanisch.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Vereinte Nationen"
+   }
+  ],
+  "10-25": [
+   {
+    "title": "Weltnudeltag",
+    "text": "Nudeln wurden nicht von Marco Polo aus China nach Italien gebracht, das ist eine Werbelegende aus den 1920er Jahren. In Italien sind Teigwaren schon vorher belegt.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "Teigwaren"
+   }
+  ],
+  "10-27": [
+   {
+    "title": "Welttag des audiovisuellen Erbes",
+    "text": "Ein großer Teil der Stummfilme gilt als unwiederbringlich verloren, weil Nitratfilm zerfällt und leicht brennt.",
+    "topics": [
+     "movies",
+     "history"
+    ]
+   }
+  ],
+  "10-28": [
+   {
+    "title": "Tag der Animation",
+    "text": "Am 28. Oktober 1892 zeigte Émile Reynaud in Paris die ersten bewegten Zeichnungen vor Publikum – drei Jahre vor der ersten Filmvorführung der Lumières.",
+    "topics": [
+     "movies",
+     "history"
+    ],
+    "wiki": "Émile Reynaud"
+   }
+  ],
+  "10-29": [
+   {
+    "title": "Internettag",
+    "text": "Am 29. Oktober 1969 wurde die erste Nachricht zwischen zwei Computern im ARPANET verschickt. Nach zwei Buchstaben stürzte das System ab.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "ARPANET"
+   }
+  ],
+  "10-30": [
+   {
+    "title": "Weltspartag",
+    "text": "Er wurde 1924 auf dem ersten internationalen Sparkassenkongress in Mailand beschlossen, kurz nach der deutschen Hyperinflation.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "10-31": [
+   {
+    "title": "Halloween",
+    "text": "Der Brauch geht auf das keltische Samhain zurück. Ausgehöhlt wurden ursprünglich Rüben, erst in Nordamerika setzte sich der Kürbis durch.",
+    "topics": [
+     "history",
+     "weird"
+    ],
+    "wiki": "Halloween"
+   }
+  ],
+  "11-01": [
+   {
+    "title": "Weltvegantag",
+    "text": "Das Wort vegan wurde 1944 von Donald Watson geprägt, aus dem Anfang und dem Ende von vegetarian.",
+    "topics": [
+     "food",
+     "language"
+    ],
+    "wiki": "Veganismus"
+   }
+  ],
+  "11-02": [
+   {
+    "title": "Allerseelen",
+    "text": "Der Tag ist den Verstorbenen gewidmet und geht auf das Kloster Cluny im 11. Jahrhundert zurück. In Mexiko wird daraus mit dem Día de Muertos ein farbenfrohes Fest.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Allerseelen"
+   }
+  ],
+  "11-03": [
+   {
+    "title": "Tag des Sandwichs",
+    "text": "Das Datum ist der Geburtstag von John Montagu, dem 4. Earl of Sandwich. Nach ihm sind auch die Sandwichinseln benannt – heute Hawaii.",
+    "topics": [
+     "food",
+     "history"
+    ],
+    "wiki": "John Montagu, 4. Earl of Sandwich"
+   }
+  ],
+  "11-04": [
+   {
+    "title": "Tag der Entdeckung des Tutanchamun-Grabs",
+    "text": "Am 4. November 1922 stieß Howard Carters Team auf die erste Stufe. Das Grab war das einzige weitgehend ungeplünderte Königsgrab im Tal der Könige.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Tutanchamun"
+   }
+  ],
+  "11-05": [
+   {
+    "title": "Guy Fawkes Night",
+    "text": "1605 sollte das englische Parlament gesprengt werden. Der Plan scheiterte, und Guy Fawkes' Maske wurde Jahrhunderte später zum Protestsymbol.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Gunpowder Plot"
+   }
+  ],
+  "11-06": [
+   {
+    "title": "Tag des Saxophons",
+    "text": "Adolphe Sax ließ es 1846 patentieren – als Brücke zwischen Holz- und Blechblasinstrumenten. Klassifiziert wird es bis heute als Holzblasinstrument, obwohl es aus Messing besteht.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Saxophon"
+   }
+  ],
+  "11-07": [
+   {
+    "title": "Tag der Radioaktivitätsforschung",
+    "text": "Am 7. November 1867 wurde Marie Curie geboren. Sie ist bis heute die einzige Person mit Nobelpreisen in zwei verschiedenen Naturwissenschaften.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "Marie Curie"
+   }
+  ],
+  "11-08": [
+   {
+    "title": "Welttag der Radiologie",
+    "text": "Am 8. November 1895 entdeckte Wilhelm Conrad Röntgen die nach ihm benannten Strahlen. Er verzichtete bewusst auf ein Patent.",
+    "topics": [
+     "science",
+     "body",
+     "history"
+    ],
+    "wiki": "Wilhelm Conrad Röntgen"
+   }
+  ],
+  "11-09": [
+   {
+    "title": "Schicksalstag der Deutschen",
+    "text": "Auf den 9. November fallen die Ausrufung der Republik 1918, der Hitlerputsch 1923, die Novemberpogrome 1938 und der Mauerfall 1989.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "9. November"
+   }
+  ],
+  "11-10": [
+   {
+    "title": "Welttag der Wissenschaft",
+    "text": "Die UNESCO rief ihn 2001 aus, für Frieden und Entwicklung. Weltweit arbeiten rund neun Millionen Menschen in der Forschung.",
+    "topics": [
+     "science"
+    ]
+   }
+  ],
+  "11-11": [
+   {
+    "title": "Sessionsbeginn im Karneval",
+    "text": "Um 11:11 Uhr startet die närrische Session. Die Elf gilt seit dem 19. Jahrhundert als Narrenzahl, weil sie über die zehn Gebote hinausgeht.",
+    "topics": [
+     "history",
+     "weird"
+    ],
+    "wiki": "Karneval, Fastnacht und Fasching"
+   }
+  ],
+  "11-12": [
+   {
+    "title": "Tag der Pneumonie-Aufklärung",
+    "text": "Lungenentzündung ist weltweit die häufigste tödliche Infektionskrankheit bei Kindern. Impfungen gegen Pneumokokken haben die Zahlen deutlich gesenkt.",
+    "topics": [
+     "body",
+     "science"
+    ],
+    "wiki": "Lungenentzündung"
+   }
+  ],
+  "11-13": [
+   {
+    "title": "Welt-Nett-Tag",
+    "text": "1998 in Tokio von einem Zusammenschluss aus 28 Ländern gegründet. Freundlichkeit senkt messbar den Blutdruck.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "11-14": [
+   {
+    "title": "Weltdiabetestag",
+    "text": "Das Datum ist der Geburtstag von Frederick Banting, der 1921 mit Charles Best das Insulin isolierte. Das Patent verkauften sie für einen symbolischen Dollar.",
+    "topics": [
+     "body",
+     "science",
+     "history"
+    ],
+    "wiki": "Frederick Banting"
+   }
+  ],
+  "11-16": [
+   {
+    "title": "Internationaler Tag der Toleranz",
+    "text": "Die UNESCO verabschiedete 1995 eine Erklärung zu Prinzipien der Toleranz, im 50. Jahr ihres Bestehens.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "11-17": [
+   {
+    "title": "Internationaler Studententag",
+    "text": "Er erinnert an die Niederschlagung tschechischer Studentenproteste 1939 in Prag.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "11-18": [
+   {
+    "title": "Tag der Micky Maus",
+    "text": "Am 18. November 1928 lief Steamboat Willie in New York – einer der ersten Zeichentrickfilme mit synchronem Ton. Walt Disney sprach Micky jahrelang selbst.",
+    "topics": [
+     "movies",
+     "history"
+    ],
+    "wiki": "Steamboat Willie"
+   }
+  ],
+  "11-19": [
+   {
+    "title": "Welttoilettentag",
+    "text": "Die UN erklärte ihn 2013. Rund 3,5 Milliarden Menschen haben keinen Zugang zu sicheren Sanitäranlagen.",
+    "topics": [
+     "body",
+     "geography"
+    ]
+   }
+  ],
+  "11-20": [
+   {
+    "title": "Weltkindertag",
+    "text": "Am 20. November 1989 wurde die UN-Kinderrechtskonvention verabschiedet. Sie ist der am weitesten ratifizierte Menschenrechtsvertrag der Welt.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "UN-Kinderrechtskonvention"
+   }
+  ],
+  "11-21": [
+   {
+    "title": "Welt-Hallo-Tag",
+    "text": "1973 als Reaktion auf den Jom-Kippur-Krieg entstanden. Die Idee: Wer an diesem Tag zehn Menschen grüßt, setzt ein Zeichen für Kommunikation statt Konflikt.",
+    "topics": [
+     "language",
+     "history"
+    ]
+   }
+  ],
+  "11-22": [
+   {
+    "title": "Tag der Hausmusik",
+    "text": "Vor dem Radio war Musik zu Hause fast immer selbst gemacht. Der Cäcilientag am 22. November gilt seit Jahrhunderten als Tag der Musik.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Cäcilia von Rom"
+   }
+  ],
+  "11-23": [
+   {
+    "title": "Tag des Fibonacci-Anfangs",
+    "text": "Das Datum 1, 1, 2, 3 steht für den Beginn der Fibonacci-Folge. Ihre Zahlen tauchen in Sonnenblumen, Tannenzapfen und Muschelspiralen auf.",
+    "topics": [
+     "science",
+     "nature"
+    ],
+    "wiki": "Fibonacci-Folge"
+   }
+  ],
+  "11-25": [
+   {
+    "title": "Internationaler Tag gegen Gewalt an Frauen",
+    "text": "Die UN erinnert an die Ermordung der Schwestern Mirabal 1960 in der Dominikanischen Republik. Der Tag eröffnet weltweit 16 Aktionstage bis zum 10. Dezember.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Schwestern Mirabal"
+   }
+  ],
+  "11-27": [
+   {
+    "title": "Tag der Nobelstiftung",
+    "text": "Am 27. November 1895 unterschrieb Alfred Nobel sein Testament, mit dem er sein Vermögen für die Preise stiftete. Auslöser war angeblich ein irrtümlicher Nachruf, der ihn als Händler des Todes bezeichnete.",
+    "topics": [
+     "history",
+     "science"
+    ],
+    "wiki": "Alfred Nobel"
+   }
+  ],
+  "11-29": [
+   {
+    "title": "Tag der Solidarität mit dem palästinensischen Volk",
+    "text": "Die UN wählte das Datum des Teilungsplans von 1947. Der Tag wird seit 1978 begangen.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "UN-Teilungsplan für Palästina"
+   }
+  ],
+  "11-30": [
+   {
+    "title": "Computer Security Day",
+    "text": "Er existiert seit 1988, dem Jahr des Morris-Wurms, der als erster Wurm große Teile des frühen Internets lahmlegte.",
+    "topics": [
+     "tech"
+    ],
+    "wiki": "Morris (Computerwurm)"
+   }
+  ],
+  "12-01": [
+   {
+    "title": "Welt-AIDS-Tag",
+    "text": "Er wurde 1988 eingeführt und war der erste weltweite Gesundheitstag überhaupt. Die rote Schleife entstand 1991 in New York.",
+    "topics": [
+     "body",
+     "history"
+    ]
+   }
+  ],
+  "12-02": [
+   {
+    "title": "Tag der Kernspaltung",
+    "text": "Am 2. Dezember 1942 gelang in Chicago die erste kontrollierte Kettenreaktion. Der Reaktor stand unter einer Tribüne des Universitätsstadions.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "Chicago Pile"
+   }
+  ],
+  "12-03": [
+   {
+    "title": "Internationaler Tag der Menschen mit Behinderungen",
+    "text": "Die UN riefen ihn 1992 aus. Weltweit lebt etwa jeder sechste Mensch mit einer Behinderung.",
+    "topics": [
+     "body"
+    ]
+   }
+  ],
+  "12-04": [
+   {
+    "title": "Internationaler Gepardentag",
+    "text": "Geparde beschleunigen in drei Sekunden auf 100 km/h. Ihre Krallen sind nur teilweise einziehbar und wirken wie Spikes.",
+    "topics": [
+     "animals",
+     "nature"
+    ],
+    "wiki": "Gepard"
+   }
+  ],
+  "12-05": [
+   {
+    "title": "Weltbodentag",
+    "text": "In einer Handvoll gesunder Erde leben mehr Organismen als Menschen auf der Erde. Für einen Zentimeter Boden braucht die Natur je nach Bedingungen Jahrhunderte.",
+    "topics": [
+     "nature",
+     "science"
+    ]
+   }
+  ],
+  "12-06": [
+   {
+    "title": "Nikolaustag",
+    "text": "Nikolaus von Myra lebte im 4. Jahrhundert in der heutigen Türkei und gilt als Schutzpatron der Kinder und Seefahrer. Der Brauch des Beschenkens geht auf Legenden über heimliche Gaben zurück.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Nikolaus von Myra"
+   }
+  ],
+  "12-07": [
+   {
+    "title": "Internationaler Tag der Zivilluftfahrt",
+    "text": "Am 7. Dezember 1944 wurde das Abkommen von Chicago unterzeichnet, die Grundlage des internationalen Luftverkehrsrechts.",
+    "topics": [
+     "tech",
+     "history"
+    ]
+   }
+  ],
+  "12-09": [
+   {
+    "title": "Internationaler Antikorruptionstag",
+    "text": "Am 9. Dezember 2003 wurde die UN-Konvention gegen Korruption in Mérida zur Unterschrift ausgelegt.",
+    "topics": [
+     "history"
+    ]
+   }
+  ],
+  "12-10": [
+   {
+    "title": "Tag der Menschenrechte",
+    "text": "Am 10. Dezember 1948 verabschiedete die UN die Allgemeine Erklärung der Menschenrechte. Sie ist in über 500 Sprachen übersetzt, mehr als jedes andere Dokument.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Allgemeine Erklärung der Menschenrechte"
+   }
+  ],
+  "12-11": [
+   {
+    "title": "Internationaler Tag der Berge",
+    "text": "Berge liefern bis zu 60 Prozent des weltweiten Süßwassers. Rund 15 Prozent der Menschheit lebt in Bergregionen.",
+    "topics": [
+     "geography",
+     "nature"
+    ]
+   }
+  ],
+  "12-12": [
+   {
+    "title": "Tag der Funkübertragung",
+    "text": "Am 12. Dezember 1901 empfing Guglielmo Marconi in Neufundland ein Signal aus Cornwall. Ob es wirklich das Morsezeichen S war, wird bis heute diskutiert.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Guglielmo Marconi"
+   }
+  ],
+  "12-13": [
+   {
+    "title": "Luciatag",
+    "text": "In Schweden zieht am Morgen ein Lichterzug durchs Haus, angeführt von einer Lucia mit Kerzenkranz. Vor der Kalenderreform fiel der Tag auf die Wintersonnenwende.",
+    "topics": [
+     "history",
+     "geography"
+    ]
+   }
+  ],
+  "12-14": [
+   {
+    "title": "Monkey Day",
+    "text": "1999 an einer US-Kunsthochschule als Scherz im Kalender entstanden, inzwischen von Primatenschutzorganisationen aufgegriffen.",
+    "topics": [
+     "animals",
+     "weird"
+    ]
+   }
+  ],
+  "12-15": [
+   {
+    "title": "Tag des Esperanto-Buchs",
+    "text": "Das Datum ist der Geburtstag von Ludwik Zamenhof, der die Plansprache 1887 vorstellte. Sein Ziel war eine neutrale Zweitsprache für alle.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "Ludwik Lejzer Zamenhof"
+   }
+  ],
+  "12-16": [
+   {
+    "title": "Beethovens Geburtstag",
+    "text": "Getauft wurde er am 17. Dezember 1770, geboren also vermutlich am Tag zuvor. Seine späten Werke schrieb Beethoven, als er praktisch taub war.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Ludwig van Beethoven"
+   }
+  ],
+  "12-18": [
+   {
+    "title": "Internationaler Tag der Migranten",
+    "text": "Die UN beschloss den Tag 2000. Etwa jeder dreißigste Mensch weltweit lebt dauerhaft außerhalb seines Geburtslandes.",
+    "topics": [
+     "geography"
+    ]
+   }
+  ],
+  "12-20": [
+   {
+    "title": "Tag der Solidarität",
+    "text": "Die UN erinnert daran, dass globale Probleme kein Land allein löst. Das Wort Solidarität stammt vom lateinischen solidus – fest, ganz.",
+    "topics": [
+     "language",
+     "history"
+    ],
+    "wiki": "Solidarität"
+   }
+  ],
+  "12-21": [
+   {
+    "title": "Wintersonnenwende",
+    "text": "Der kürzeste Tag des Jahres auf der Nordhalbkugel. Der früheste Sonnenuntergang liegt allerdings schon einige Tage davor, weil die Erdbahn elliptisch ist.",
+    "topics": [
+     "space",
+     "science",
+     "nature"
+    ],
+    "wiki": "Sonnenwende"
+   }
+  ],
+  "12-22": [
+   {
+    "title": "Tag der Wintersonnenwende",
+    "text": "Um den 21. oder 22. Dezember steht die Sonne am tiefsten. Danach werden die Tage wieder länger – zunächst nur um Sekunden.",
+    "topics": [
+     "space",
+     "nature"
+    ],
+    "wiki": "Sonnenwende"
+   }
+  ],
+  "12-23": [
+   {
+    "title": "Festivus",
+    "text": "Der erfundene Feiertag aus der Serie Seinfeld: ein ungeschmückter Aluminiumpfahl statt Baum, dazu das Vortragen der Beschwerden des Jahres.",
+    "topics": [
+     "movies",
+     "weird"
+    ],
+    "wiki": "Festivus"
+   }
+  ],
+  "12-24": [
+   {
+    "title": "Heiligabend",
+    "text": "Der Weihnachtsbaum setzte sich erst im 19. Jahrhundert durch, von Deutschland aus. Der englische Hof übernahm ihn unter Prinz Albert.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Weihnachtsbaum"
+   }
+  ],
+  "12-25": [
+   {
+    "title": "Weihnachten",
+    "text": "Das Datum ist nicht biblisch überliefert. Es setzte sich im 4. Jahrhundert durch, nahe an römischen Festen zur Wintersonnenwende.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Weihnachten"
+   }
+  ],
+  "12-26": [
+   {
+    "title": "Boxing Day",
+    "text": "Der Name kommt von den Geschenkboxen, die Dienstboten und Handwerker am Tag nach Weihnachten erhielten. In Großbritannien ist er Feiertag mit vollem Fußballprogramm.",
+    "topics": [
+     "history",
+     "sports"
+    ]
+   }
+  ],
+  "12-27": [
+   {
+    "title": "Louis Pasteurs Geburtstag",
+    "text": "Der Chemiker wurde am 27. Dezember 1822 geboren. Von ihm stammen die Impfung gegen Tollwut und das Verfahren, das bis heute Pasteurisieren heißt.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "Louis Pasteur"
+   }
+  ],
+  "12-28": [
+   {
+    "title": "Tag des Kinos",
+    "text": "Am 28. Dezember 1895 zeigten die Brüder Lumière in Paris die erste öffentliche Filmvorführung gegen Eintritt.",
+    "topics": [
+     "movies",
+     "history"
+    ],
+    "wiki": "Brüder Lumière"
+   }
+  ],
+  "12-29": [
+   {
+    "title": "Tag der Biodiversitätskonvention",
+    "text": "Am 29. Dezember 1993 trat das Übereinkommen über die biologische Vielfalt in Kraft. Von geschätzt acht Millionen Arten sind erst rund zwei Millionen wissenschaftlich beschrieben.",
+    "topics": [
+     "nature",
+     "science"
+    ],
+    "wiki": "Übereinkommen über die biologische Vielfalt"
+   }
+  ],
+  "12-31": [
+   {
+    "title": "Silvester",
+    "text": "Benannt nach Papst Silvester I., der am 31. Dezember 335 starb. Der Jahreswechsel liegt hier erst, seit der gregorianische Kalender sich durchsetzte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Silvester"
+   }
+  ]
+ }
 }

@@ -29,6 +29,24 @@ data class Quiz(
  * One swipeable card. [id] is stable across days for the same piece of content,
  * which is what makes favourites survive a restart.
  */
+/**
+ * Which of the five daily slots a card fills.
+ *
+ * [HISTORY] and [DAILY] are provisional offline: the bundled entry holds the
+ * place until Wikipedia answers, and only what survives that swap counts as
+ * shown. The other three are final the moment they are built.
+ */
+object Slot {
+    const val TODAY = "today"
+    const val HISTORY = "history"
+    const val DAILY = "daily"
+    const val FOR_YOU = "you"
+    const val QUIZ = "quiz"
+
+    /** Slots that [com.gravijet.daydrop.domain.DropGenerator.enrich] may replace. */
+    val PROVISIONAL = setOf(HISTORY, DAILY)
+}
+
 @Serializable
 data class Drop(
     val id: String,
@@ -42,6 +60,7 @@ data class Drop(
     val quiz: Quiz? = null,
     val topics: List<String> = emptyList(),
     val personalised: Boolean = false,
+    val slot: String = "",
     val savedAt: Long = 0L
 )
 

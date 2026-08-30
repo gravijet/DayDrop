@@ -6,12 +6,27 @@ import coil.ImageLoaderFactory
 import coil.disk.DiskCache
 import coil.memory.MemoryCache
 import coil.request.CachePolicy
+import com.gravijet.daydrop.data.local.ContentRepository
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.SupervisorJob
+import kotlinx.coroutines.launch
 
 /**
  * Keeps a generous image cache so yesterday's cards - and the ones you saved -
  * still show their photos with no connection.
  */
 class DayDropApp : Application(), ImageLoaderFactory {
+
+    override fun onCreate() {
+        super.onCreate()
+        // Parse the bundled JSON while the window is still being put together,
+        // so the feed screen finds it ready and renders on its first frame
+        // instead of waiting on the file system.
+        CoroutineScope(SupervisorJob() + Dispatchers.IO).launch {
+            runCatching { ContentRepository.get(this@DayDropApp).warmUp() }
+        }
+    }
 
     override fun newImageLoader(): ImageLoader = ImageLoader.Builder(this)
         .memoryCache {
