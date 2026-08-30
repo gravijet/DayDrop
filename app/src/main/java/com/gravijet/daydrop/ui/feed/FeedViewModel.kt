@@ -75,7 +75,7 @@ class FeedViewModel(app: Application) : AndroidViewModel(app) {
                 enriching = cached == null || shown.size < CARDS_PER_DAY
             )
 
-            // Two of the five cards are provisional: enrich() replaces the
+            // Two of the seven cards are provisional: enrich() replaces the
             // bundled stand-ins with the real event of the day and Wikipedia's
             // Artikel des Tages. They are not counted as shown until we know
             // they survived - otherwise every day would burn two curated cards

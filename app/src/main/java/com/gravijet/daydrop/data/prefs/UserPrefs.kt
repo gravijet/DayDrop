@@ -152,7 +152,7 @@ class UserPrefs(private val context: Context) {
      * Marks [ids] as delivered - they will not be picked again.
      *
      * The list is stored newline-joined rather than as a set so the oldest ids
-     * can be dropped once it hits [SEEN_LIMIT], which at five cards a day is
+     * can be dropped once it hits [SEEN_LIMIT], which at seven cards a day is
      * well past thirty years of use.
      */
     suspend fun markSeen(ids: Collection<String>) {
@@ -206,6 +206,6 @@ class UserPrefs(private val context: Context) {
     }
 
     private companion object {
-        const val SEEN_LIMIT = 60_000
+        const val SEEN_LIMIT = 80_000
     }
 }
