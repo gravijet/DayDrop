@@ -894,6 +894,2680 @@
     "geography",
     "nature"
    ]
+  },
+  {
+   "id": "q061",
+   "question": "Welcher Planet hat einen Tag, der länger dauert als sein Jahr?",
+   "options": [
+    "Merkur",
+    "Venus",
+    "Mars"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Venus braucht 243 Erdtage für eine Umdrehung, aber nur 225 für einen Sonnenumlauf. Außerdem dreht sie sich rückwärts.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "q062",
+   "question": "Wie viele Halswirbel hat eine Giraffe?",
+   "options": [
+    "7",
+    "14",
+    "27"
+   ],
+   "answerIndex": 0,
+   "explanation": "Sieben – genau wie fast alle Säugetiere, auch der Mensch. Bei der Giraffe ist jeder einzelne nur bis zu 25 Zentimeter lang.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q063",
+   "question": "Woraus besteht das Horn eines Nashorns?",
+   "options": [
+    "Knochen",
+    "Keratin",
+    "Elfenbein"
+   ],
+   "answerIndex": 1,
+   "explanation": "Keratin ist derselbe Stoff wie in Haaren und Fingernägeln. Abgebrochene Hörner wachsen deshalb nach.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q064",
+   "question": "Wie heiß wird ein Blitzkanal?",
+   "options": [
+    "Rund 3000 Grad",
+    "Rund 30.000 Grad",
+    "Rund 300 Grad"
+   ],
+   "answerIndex": 1,
+   "explanation": "Etwa 30.000 Grad – fünfmal heißer als die Sonnenoberfläche. Die schlagartige Ausdehnung der Luft erzeugt den Donner.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q065",
+   "question": "Welches Tier hat die größten Augen der Welt?",
+   "options": [
+    "Blauwal",
+    "Riesenkalmar",
+    "Elefant"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bis zu 27 Zentimeter Durchmesser. Damit erkennt der Riesenkalmar in der Tiefsee das schwache Leuchten anrückender Pottwale.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q066",
+   "question": "Was ist im Bleistift drin?",
+   "options": [
+    "Blei",
+    "Graphit",
+    "Kohle"
+   ],
+   "answerIndex": 1,
+   "explanation": "Graphit und Ton. Der Name stammt aus einer Zeit, in der man Graphit für eine Bleiart hielt.",
+   "topics": [
+    "tech",
+    "language"
+   ]
+  },
+  {
+   "id": "q067",
+   "question": "Wie viele Farben hat ein weißes Pixel auf dem Bildschirm?",
+   "options": [
+    "Eine",
+    "Zwei",
+    "Drei"
+   ],
+   "answerIndex": 2,
+   "explanation": "Drei: Rot, Grün und Blau leuchten gleichzeitig. Unter der Lupe ist jedes weiße Feld ein buntes Raster.",
+   "topics": [
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "id": "q068",
+   "question": "Was passiert mit dem Mond jedes Jahr?",
+   "options": [
+    "Er kommt näher",
+    "Er entfernt sich",
+    "Er bleibt genau gleich"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund vier Zentimeter pro Jahr, verursacht durch Gezeitenreibung. In ferner Zukunft gibt es deshalb keine totalen Sonnenfinsternisse mehr.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q069",
+   "question": "Warum ist der Himmel blau?",
+   "options": [
+    "Weil das Meer sich spiegelt",
+    "Weil Luft blaues Licht stärker streut",
+    "Weil die Atmosphäre blau gefärbt ist"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rayleigh-Streuung verteilt kurzwelliges blaues Licht über den ganzen Himmel. Deshalb erscheint auch die Sonne gelblich statt weiß.",
+   "topics": [
+    "science",
+    "nature"
+   ]
+  },
+  {
+   "id": "q070",
+   "question": "Welches ist das größte Lebewesen der Erde?",
+   "options": [
+    "Ein Blauwal",
+    "Ein Pilzgeflecht",
+    "Ein Mammutbaum"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ein Hallimasch-Geflecht in Oregon erstreckt sich über neun Quadratkilometer. Sichtbar sind davon nur die Pilzhüte im Herbst.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q071",
+   "question": "Was war der erste Gegenstand, der jemals mit einem Barcode gescannt wurde?",
+   "options": [
+    "Eine Milchtüte",
+    "Eine Packung Kaugummi",
+    "Eine Zeitung"
+   ],
+   "answerIndex": 1,
+   "explanation": "1974 scannte ein Supermarkt in Ohio eine Packung Wrigley's Juicy Fruit. Sie liegt heute im Smithsonian.",
+   "topics": [
+    "tech",
+    "food"
+   ]
+  },
+  {
+   "id": "q072",
+   "question": "Welche Farbe hat die Haut eines Eisbären?",
+   "options": [
+    "Weiß",
+    "Rosa",
+    "Schwarz"
+   ],
+   "answerIndex": 2,
+   "explanation": "Schwarz – das nimmt Wärme gut auf. Die Haare sind durchsichtig und hohl, sie streuen Licht und wirken dadurch weiß.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "q073",
+   "question": "Wie viele Knochen hat ein neugeborenes Baby ungefähr?",
+   "options": [
+    "206",
+    "300",
+    "150"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund 300, viele davon knorpelig. Beim Wachsen verschmelzen sie zu den 206 Knochen eines Erwachsenen.",
+   "topics": [
+    "body"
+   ]
+  },
+  {
+   "id": "q074",
+   "question": "Welches Land hat die meisten Zeitzonen?",
+   "options": [
+    "Russland",
+    "Frankreich",
+    "USA"
+   ],
+   "answerIndex": 1,
+   "explanation": "Frankreich kommt durch seine Überseegebiete auf zwölf. Russland hat elf.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q075",
+   "question": "Was ist botanisch gesehen eine Beere?",
+   "options": [
+    "Erdbeere",
+    "Himbeere",
+    "Banane"
+   ],
+   "answerIndex": 2,
+   "explanation": "Eine Beere entsteht aus einem einzigen Fruchtknoten – das trifft auf die Banane zu. Bei der Erdbeere ist der rote Teil der Blütenboden.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q076",
+   "question": "Wogegen hilft Wasser bei scharfem Essen?",
+   "options": [
+    "Gegen nichts",
+    "Sofort gegen die Schärfe",
+    "Nur bei Chili"
+   ],
+   "answerIndex": 0,
+   "explanation": "Capsaicin ist fettlöslich. Milch, Joghurt oder Öl wirken, Wasser verteilt den Stoff nur weiter.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q077",
+   "question": "Wie viele Buchstaben hat das längste Wort im Duden?",
+   "options": [
+    "43",
+    "67",
+    "102"
+   ],
+   "answerIndex": 1,
+   "explanation": "67: das Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz aus Mecklenburg-Vorpommern. Es wurde 2013 aufgehoben.",
+   "topics": [
+    "language",
+    "weird"
+   ]
+  },
+  {
+   "id": "q078",
+   "question": "Welche Farbe hatte die Karotte ursprünglich?",
+   "options": [
+    "Orange",
+    "Violett",
+    "Weiß"
+   ],
+   "answerIndex": 1,
+   "explanation": "Violett. Orange Sorten setzten sich erst im 16. Jahrhundert in den Niederlanden durch.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "q079",
+   "question": "Was ist die Flugschreiber-Box in einem Flugzeug für eine Farbe?",
+   "options": [
+    "Schwarz",
+    "Orange",
+    "Silber"
+   ],
+   "answerIndex": 1,
+   "explanation": "Grellorange, damit man sie im Trümmerfeld findet. Der Name schwarze Box stammt vermutlich aus der frühen Zeit verrußter Gehäuse.",
+   "topics": [
+    "tech",
+    "weird"
+   ]
+  },
+  {
+   "id": "q080",
+   "question": "Wie viele Menschen brauchst du, damit zwei mit über 50 Prozent Wahrscheinlichkeit am selben Tag Geburtstag haben?",
+   "options": [
+    "23",
+    "183",
+    "365"
+   ],
+   "answerIndex": 0,
+   "explanation": "Schon 23. Der Effekt heißt Geburtstagsparadoxon – entscheidend sind die vielen möglichen Paare, nicht die Personenzahl.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "q081",
+   "question": "Wodurch wurde die Mona Lisa weltberühmt?",
+   "options": [
+    "Durch einen Diebstahl",
+    "Durch Napoleon",
+    "Durch einen Film"
+   ],
+   "answerIndex": 0,
+   "explanation": "1911 wurde sie aus dem Louvre gestohlen, zwei Jahre lang war der leere Platz eine Attraktion. Erst danach wurde das Bild zur Ikone.",
+   "topics": [
+    "history",
+    "movies"
+   ]
+  },
+  {
+   "id": "q082",
+   "question": "Was war der Bikini nach seiner Vorstellung 1946 benannt?",
+   "options": [
+    "Nach einer Designerin",
+    "Nach einem Atoll",
+    "Nach einem Tanz"
+   ],
+   "answerIndex": 1,
+   "explanation": "Nach dem Bikini-Atoll, wo kurz zuvor Atomtests stattfanden. Der Designer erwartete eine ähnliche Sprengkraft.",
+   "topics": [
+    "history",
+    "weird"
+   ]
+  },
+  {
+   "id": "q083",
+   "question": "Welches Tier kann nicht rückwärts laufen?",
+   "options": [
+    "Känguru",
+    "Nashorn",
+    "Zebra"
+   ],
+   "answerIndex": 0,
+   "explanation": "Känguru und Emu können es nicht – deshalb stehen beide im Wappen Australiens, als Sinnbild für ein Land, das nur vorangeht.",
+   "topics": [
+    "animals",
+    "geography"
+   ]
+  },
+  {
+   "id": "q084",
+   "question": "Wie viele Sekunden dauerte der kürzeste Krieg der Geschichte ungefähr?",
+   "options": [
+    "2280",
+    "86.400",
+    "604.800"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rund 38 Minuten, also etwa 2280 Sekunden: 1896 beschoss die britische Flotte den Palast von Sansibar.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q085",
+   "question": "Woraus entsteht der Geruch von Regen?",
+   "options": [
+    "Aus Ozon allein",
+    "Aus Bodenbakterien und Pflanzenölen",
+    "Aus Staub"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Stoff Geosmin stammt von Bakterien im Boden, dazu kommen Pflanzenöle. Menschen riechen ihn noch bei fünf Teilen pro Billion.",
+   "topics": [
+    "nature",
+    "body"
+   ]
+  },
+  {
+   "id": "q086",
+   "question": "Was ist an der Cheopspyramide ungewöhnlich, verglichen mit Mammuts?",
+   "options": [
+    "Sie ist jünger",
+    "Sie stand schon, als die letzten Mammuts lebten",
+    "Sie ist gleich alt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die letzten Mammuts starben vor rund 4000 Jahren auf der Wrangelinsel aus. Da stand die Pyramide schon etwa 600 Jahre.",
+   "topics": [
+    "history",
+    "animals"
+   ]
+  },
+  {
+   "id": "q087",
+   "question": "Wie viel Prozent der Masse des Sonnensystems steckt in der Sonne?",
+   "options": [
+    "Rund 70 Prozent",
+    "Rund 90 Prozent",
+    "Rund 99,9 Prozent"
+   ],
+   "answerIndex": 2,
+   "explanation": "99,86 Prozent. Alle Planeten, Monde und Asteroiden zusammen ergeben den kümmerlichen Rest – davon das meiste im Jupiter.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "q088",
+   "question": "Welches Metall ist bei Zimmertemperatur flüssig?",
+   "options": [
+    "Blei",
+    "Quecksilber",
+    "Zinn"
+   ],
+   "answerIndex": 1,
+   "explanation": "Quecksilber schmilzt bei minus 39 Grad. Gallium schmilzt schon in der Handfläche, ist bei Zimmertemperatur aber noch fest.",
+   "topics": [
+    "science"
+   ]
+  },
+  {
+   "id": "q089",
+   "question": "Was macht Honig praktisch unverderblich?",
+   "options": [
+    "Der hohe Zuckergehalt und der saure pH-Wert",
+    "Die Bienenwachsschicht",
+    "Der Sauerstoffmangel im Glas"
+   ],
+   "answerIndex": 0,
+   "explanation": "Wenig Wasser, saurer pH-Wert und Wasserstoffperoxid machen ihn keimfeindlich. In ägyptischen Gräbern fand man essbaren Honig nach 3000 Jahren.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q090",
+   "question": "Wie viele Sinne hat der Mensch?",
+   "options": [
+    "Genau fünf",
+    "Deutlich mehr als fünf",
+    "Genau sieben"
+   ],
+   "answerIndex": 1,
+   "explanation": "Neben den klassischen fünf gibt es Gleichgewichts-, Temperatur- und Schmerzsinn sowie die Tiefensensibilität. Je nach Zählweise kommt man auf über zwanzig.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q091",
+   "question": "Warum sind Flamingos rosa?",
+   "options": [
+    "Wegen ihrer Gene",
+    "Wegen ihrer Nahrung",
+    "Wegen der Sonne"
+   ],
+   "answerIndex": 1,
+   "explanation": "Krebstiere und Algen liefern Carotinoide, die sich im Gefieder einlagern. Ohne diese Nahrung bleibt ein Flamingo grauweiß.",
+   "topics": [
+    "animals",
+    "food"
+   ]
+  },
+  {
+   "id": "q092",
+   "question": "Was ist ein Lichtjahr?",
+   "options": [
+    "Eine Zeitspanne",
+    "Eine Entfernung",
+    "Eine Helligkeit"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund 9,46 Billionen Kilometer – die Strecke, die Licht in einem Jahr zurücklegt. Der nächste Stern ist 4,2 Lichtjahre entfernt.",
+   "topics": [
+    "space",
+    "language"
+   ]
+  },
+  {
+   "id": "q093",
+   "question": "Welche Sprache hat die meisten Muttersprachler?",
+   "options": [
+    "Englisch",
+    "Mandarin",
+    "Spanisch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mandarin liegt bei Muttersprachlern vorn. Zählt man alle Sprecher inklusive Zweitsprache, führt Englisch.",
+   "topics": [
+    "language",
+    "geography"
+   ]
+  },
+  {
+   "id": "q094",
+   "question": "Wie viele mögliche Anordnungen hat ein gemischtes Kartenspiel mit 52 Karten?",
+   "options": [
+    "Etwa eine Milliarde",
+    "Etwa 10 hoch 68",
+    "Etwa eine Billion"
+   ],
+   "answerIndex": 1,
+   "explanation": "52 Fakultät sind etwa 8 mal 10 hoch 67. Jede gründlich gemischte Reihenfolge gab es mit hoher Wahrscheinlichkeit noch nie.",
+   "topics": [
+    "science",
+    "gaming"
+   ]
+  },
+  {
+   "id": "q095",
+   "question": "Was war der erste Satz einer SMS?",
+   "options": [
+    "Hello World",
+    "Merry Christmas",
+    "Test"
+   ],
+   "answerIndex": 1,
+   "explanation": "Neil Papworth schickte sie 1992 von einem Computer an ein Handy. Antworten war damals noch gar nicht möglich.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "q096",
+   "question": "Woher stammt der Name Bluetooth?",
+   "options": [
+    "Von einem Wikingerkönig",
+    "Von einer Zahnpasta",
+    "Von einem Sternbild"
+   ],
+   "answerIndex": 0,
+   "explanation": "Harald Blauzahn einte Dänemark und Norwegen. Das Logo besteht aus seinen Runeninitialen.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "q097",
+   "question": "Was ist die Antarktis geografisch gesehen?",
+   "options": [
+    "Ein Eismeer",
+    "Die größte Wüste der Erde",
+    "Ein Archipel"
+   ],
+   "answerIndex": 1,
+   "explanation": "Wüste heißt wenig Niederschlag, nicht Sand und Hitze. Im Inneren der Antarktis fällt weniger Schnee als in der Sahara Regen.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q098",
+   "question": "Wie viele Blitze schlagen weltweit pro Sekunde ein?",
+   "options": [
+    "Etwa 10",
+    "Etwa 100",
+    "Etwa 1000"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund 100 pro Sekunde, also acht Millionen am Tag. Am häufigsten trifft es den Maracaibo-See in Venezuela.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q099",
+   "question": "Welches Tier schläft nur mit einer Gehirnhälfte?",
+   "options": [
+    "Delfin",
+    "Wolf",
+    "Adler"
+   ],
+   "answerIndex": 0,
+   "explanation": "Immer nur eine Hälfte schläft, die andere hält Atmung und Wachsamkeit am Laufen. Ein Delfin ist deshalb nie vollständig bewusstlos.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q100",
+   "question": "Wie viel wiegt eine mittlere Schönwetterwolke ungefähr?",
+   "options": [
+    "Fast nichts",
+    "Rund 500 Tonnen",
+    "Rund 5 Kilogramm"
+   ],
+   "answerIndex": 1,
+   "explanation": "Etwa 500 Tonnen Wasser, verteilt auf winzige Tröpfchen. Sie schwebt, weil warme Luft von unten nachströmt.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q101",
+   "question": "Was war der ursprüngliche Zweck des Klettverschlusses?",
+   "options": [
+    "Raumfahrt",
+    "Nachbau einer Pflanze",
+    "Schuhmode"
+   ],
+   "answerIndex": 1,
+   "explanation": "George de Mestral untersuchte 1941 Kletten im Hundefell unter dem Mikroskop und kopierte deren Häkchen in Nylon.",
+   "topics": [
+    "tech",
+    "nature"
+   ]
+  },
+  {
+   "id": "q102",
+   "question": "Wie viele Punkte hat ein Marienkäfer?",
+   "options": [
+    "So viele wie Lebensjahre",
+    "Je nach Art immer gleich viele",
+    "Zufällig verteilt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Punktzahl ist ein Artmerkmal und ändert sich nie. Ein Siebenpunkt hat sein Leben lang sieben Punkte – und lebt meist nur ein Jahr.",
+   "topics": [
+    "animals",
+    "weird"
+   ]
+  },
+  {
+   "id": "q103",
+   "question": "Welches Land führte als erstes das Frauenwahlrecht landesweit ein?",
+   "options": [
+    "Neuseeland",
+    "Finnland",
+    "Schweiz"
+   ],
+   "answerIndex": 0,
+   "explanation": "1893 durften Frauen in Neuseeland landesweit wählen. Kandidieren durften sie allerdings erst ab 1919.",
+   "topics": [
+    "history",
+    "geography"
+   ]
+  },
+  {
+   "id": "q104",
+   "question": "Was verursacht Muskelkater?",
+   "options": [
+    "Milchsäure",
+    "Feine Risse in den Muskelfasern",
+    "Zu wenig Wasser"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mikrorisse und die anschließende Entzündungsreaktion. Milchsäure ist schon nach einer Stunde wieder abgebaut.",
+   "topics": [
+    "body",
+    "sports"
+   ]
+  },
+  {
+   "id": "q105",
+   "question": "Wie viele Umdrehungen macht ein Windrad ungefähr pro Minute?",
+   "options": [
+    "Rund 15",
+    "Rund 150",
+    "Rund 1500"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rund 15 – trotzdem legen die Blattspitzen bis zu 300 Kilometer pro Stunde zurück. Der lange Hebel macht den Unterschied.",
+   "topics": [
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "id": "q106",
+   "question": "Welches Tier gilt als das für Menschen tödlichste der Welt?",
+   "options": [
+    "Hai",
+    "Stechmücke",
+    "Schlange"
+   ],
+   "answerIndex": 1,
+   "explanation": "Durch übertragene Krankheiten wie Malaria und Dengue. Ronald Ross wies 1897 nach, dass Mücken Malaria übertragen.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q107",
+   "question": "Was steckt in einem Handyfoto außer dem Sensorbild?",
+   "options": [
+    "Nichts",
+    "Sehr viel Rechnung",
+    "Nur ein Farbfilter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rauschunterdrückung, Mehrfachbelichtung und Kontrastanpassung laufen automatisch. Was herauskommt, hat kein einzelner Sensor je so gesehen.",
+   "topics": [
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "id": "q108",
+   "question": "Wie tief ist die tiefste Stelle des Ozeans ungefähr?",
+   "options": [
+    "3 Kilometer",
+    "11 Kilometer",
+    "30 Kilometer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das Challengertief im Marianengraben liegt fast 11.000 Meter tief. Der Mount Everest hätte dort noch zwei Kilometer Wasser über sich.",
+   "topics": [
+    "nature",
+    "geography"
+   ]
+  },
+  {
+   "id": "q109",
+   "question": "Was ist der Unterschied zwischen grünem und schwarzem Tee?",
+   "options": [
+    "Verschiedene Pflanzen",
+    "Verschiedene Verarbeitung",
+    "Verschiedene Länder"
+   ],
+   "answerIndex": 1,
+   "explanation": "Beides stammt von derselben Pflanze. Der Unterschied entsteht durch die Oxidation der Blätter nach der Ernte.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q110",
+   "question": "Wie viele Tage dauert ein Jahr auf dem Neptun?",
+   "options": [
+    "687 Erdtage",
+    "165 Erdjahre",
+    "88 Erdtage"
+   ],
+   "answerIndex": 1,
+   "explanation": "165 Erdjahre. Seit seiner Entdeckung 1846 hat Neptun erst eine einzige Runde geschafft, abgeschlossen 2011.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "q111",
+   "question": "Welche Sprache hat die koreanische Schrift Hangul erfunden?",
+   "options": [
+    "Sie ist aus dem Chinesischen gewachsen",
+    "Sie wurde bewusst entworfen",
+    "Sie stammt aus Japan"
+   ],
+   "answerIndex": 1,
+   "explanation": "König Sejong ließ sie 1443 entwerfen, damit auch einfache Leute lesen lernen. Die Buchstabenformen bilden die Stellung der Sprechwerkzeuge nach.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "q112",
+   "question": "Wie viele Legosteine mit acht Noppen ergeben über 900 Millionen Kombinationen?",
+   "options": [
+    "Drei",
+    "Sechs",
+    "Zwanzig"
+   ],
+   "answerIndex": 1,
+   "explanation": "Für sechs Steine derselben Farbe sind es rund 915 Millionen Möglichkeiten. Die oft genannte Zahl von 102 Millionen betraf nur Türme.",
+   "topics": [
+    "gaming",
+    "science"
+   ]
+  },
+  {
+   "id": "q113",
+   "question": "In wie vielen Zügen lässt sich jeder Zauberwürfel maximal lösen?",
+   "options": [
+    "20",
+    "50",
+    "Unbegrenzt viele"
+   ],
+   "answerIndex": 0,
+   "explanation": "Computerbeweise zeigten 2010, dass 20 Züge immer genügen. In der Community heißt diese Zahl Gottes Zahl.",
+   "topics": [
+    "gaming",
+    "science"
+   ]
+  },
+  {
+   "id": "q114",
+   "question": "Woraus besteht der grüne Code in den Matrix-Filmen?",
+   "options": [
+    "Aus Programmcode",
+    "Aus Sushi-Rezepten",
+    "Aus Zufallszahlen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Designer digitalisierte Zeichen aus dem Kochbuch seiner Frau und stellte sie gespiegelt dar.",
+   "topics": [
+    "movies",
+    "food"
+   ]
+  },
+  {
+   "id": "q115",
+   "question": "Warum trägt Mario eine Mütze und einen Schnurrbart?",
+   "options": [
+    "Aus Stilgründen",
+    "Wegen technischer Grenzen",
+    "Als Hommage"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bei 16 mal 16 Pixeln waren Haare kaum darstellbar, und der Schnurrbart machte Nase und Mund unterscheidbar.",
+   "topics": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "id": "q116",
+   "question": "Welches Spiel ist das meistverkaufte der Welt?",
+   "options": [
+    "Tetris",
+    "Minecraft",
+    "Super Mario Bros."
+   ],
+   "answerIndex": 1,
+   "explanation": "Über 300 Millionen Exemplare. Die erste Version entwickelte eine einzelne Person.",
+   "topics": [
+    "gaming"
+   ]
+  },
+  {
+   "id": "q117",
+   "question": "Wie viel Prozent des Internetverkehrs laufen über Seekabel?",
+   "options": [
+    "Rund 50",
+    "Rund 75",
+    "Über 95"
+   ],
+   "answerIndex": 2,
+   "explanation": "Satelliten spielen nur eine Nebenrolle. Rund 500 Kabel liegen auf dem Meeresboden, das längste über 39.000 Kilometer.",
+   "topics": [
+    "tech",
+    "geography"
+   ]
+  },
+  {
+   "id": "q118",
+   "question": "Was ist der häufigste Grund für Schäden an Seekabeln?",
+   "options": [
+    "Sabotage",
+    "Anker und Fischerei",
+    "Erdbeben"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund zwei Drittel aller Schäden gehen darauf zurück. Reparaturschiffe holen das Kabel dafür an die Oberfläche.",
+   "topics": [
+    "tech",
+    "geography"
+   ]
+  },
+  {
+   "id": "q119",
+   "question": "Wie viel Prozent seiner Energie verbraucht das Gehirn?",
+   "options": [
+    "Rund 5 Prozent",
+    "Rund 20 Prozent",
+    "Rund 50 Prozent"
+   ],
+   "answerIndex": 1,
+   "explanation": "Es macht nur zwei Prozent des Körpergewichts aus, zieht aber rund 20 Prozent der Kalorien. Denken selbst kostet kaum extra.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q120",
+   "question": "Was ist an der Zunge und den Geschmackszonen dran?",
+   "options": [
+    "Süß vorn, bitter hinten",
+    "Alle Qualitäten überall",
+    "Nur die Zungenspitze schmeckt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die alte Schulbuchgrafik beruht auf einer Fehlübersetzung von 1901. Alle Geschmacksqualitäten werden überall wahrgenommen.",
+   "topics": [
+    "body",
+    "food"
+   ]
+  },
+  {
+   "id": "q121",
+   "question": "Warum können viele Erwachsene keine Milch verdauen?",
+   "options": [
+    "Weil Milch von Natur aus schwer verdaulich ist",
+    "Weil die Fähigkeit eine junge Mutation ist",
+    "Weil moderne Milch anders ist"
+   ],
+   "answerIndex": 1,
+   "explanation": "Laktosetoleranz im Erwachsenenalter stammt aus Viehzüchterkulturen. In Nordeuropa ist sie fast allgegenwärtig, in Ostasien selten.",
+   "topics": [
+    "body",
+    "food"
+   ]
+  },
+  {
+   "id": "q122",
+   "question": "Was misst der Nutri-Score?",
+   "options": [
+    "Kalorien pro Portion",
+    "Nährstoffe pro 100 Gramm",
+    "Den Preis pro Kilo"
+   ],
+   "answerIndex": 1,
+   "explanation": "Er fasst günstige und ungünstige Nährstoffe pro 100 Gramm zu einer Buchstabenskala zusammen. In Deutschland ist er freiwillig.",
+   "topics": [
+    "food",
+    "tech"
+   ]
+  },
+  {
+   "id": "q123",
+   "question": "Wie lange hielt der Akku des ersten kommerziellen Handys?",
+   "options": [
+    "30 Minuten",
+    "5 Stunden",
+    "2 Tage"
+   ],
+   "answerIndex": 0,
+   "explanation": "Das Motorola DynaTAC von 1983 telefonierte 30 Minuten und musste zehn Stunden laden. Es wog fast 800 Gramm.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "q124",
+   "question": "Warum muss GPS die Relativitätstheorie einrechnen?",
+   "options": [
+    "Wegen der Erdrotation",
+    "Wegen Geschwindigkeit und Schwerkraft der Satelliten",
+    "Wegen der Atmosphäre"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Satellitenuhren gehen täglich rund 38 Mikrosekunden anders. Ohne Korrektur wäre die Position nach einem Tag um zehn Kilometer daneben.",
+   "topics": [
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "id": "q125",
+   "question": "Was passiert mit blanken Metallen im Weltraum?",
+   "options": [
+    "Sie rosten schneller",
+    "Sie verschweißen bei Berührung",
+    "Sie werden spröde"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ohne Luft bildet sich keine Oxidschicht, berührende Flächen verbinden sich. Raumfahrttechniker nennen das Kaltverschweißen.",
+   "topics": [
+    "space",
+    "tech"
+   ]
+  },
+  {
+   "id": "q126",
+   "question": "Wie viele Male kann man Glas recyceln?",
+   "options": [
+    "Etwa sechsmal",
+    "Beliebig oft",
+    "Nur einmal"
+   ],
+   "answerIndex": 1,
+   "explanation": "Glas lässt sich beliebig oft einschmelzen. Papier verträgt dagegen nur rund sechs bis sieben Durchgänge, dann sind die Fasern zu kurz.",
+   "topics": [
+    "nature",
+    "tech"
+   ]
+  },
+  {
+   "id": "q127",
+   "question": "Was ist die Ursache dafür, dass Eis rutschig ist?",
+   "options": [
+    "Druckschmelzen",
+    "Eine quasiflüssige Oberflächenschicht",
+    "Glatte Kristalle"
+   ],
+   "answerIndex": 1,
+   "explanation": "An der Oberfläche bleiben Wassermoleküle auch unter null beweglich. Diese Schicht senkt die Reibung, nicht der Druck.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q128",
+   "question": "Wie viele Sprachen gibt es weltweit ungefähr?",
+   "options": [
+    "Rund 700",
+    "Rund 7000",
+    "Rund 70.000"
+   ],
+   "answerIndex": 1,
+   "explanation": "Etwa 7000, von denen nur einige hundert regelmäßig geschrieben werden. Alle zwei Wochen stirbt eine Sprache aus.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "q129",
+   "question": "Welche Insel-Sprache wird gepfiffen?",
+   "options": [
+    "Silbo Gomero auf La Gomera",
+    "Maltesisch auf Malta",
+    "Sardisch auf Sardinien"
+   ],
+   "answerIndex": 0,
+   "explanation": "Silbo überträgt Spanisch in Pfiffe, die kilometerweit tragen. Es wird an den Schulen der Insel unterrichtet.",
+   "topics": [
+    "language",
+    "geography"
+   ]
+  },
+  {
+   "id": "q130",
+   "question": "Wie viele Bakterien wechseln bei einem zehnsekündigen Kuss die Seite?",
+   "options": [
+    "Rund 800",
+    "Rund 80.000",
+    "Rund 80 Millionen"
+   ],
+   "answerIndex": 2,
+   "explanation": "Rund 80 Millionen. Paare gleichen ihre Mundflora dadurch messbar an.",
+   "topics": [
+    "body",
+    "weird"
+   ]
+  },
+  {
+   "id": "q131",
+   "question": "Wie viel Prozent des Meeresbodens sind hochauflösend vermessen?",
+   "options": [
+    "Rund ein Viertel",
+    "Rund die Hälfte",
+    "Fast alles"
+   ],
+   "answerIndex": 0,
+   "explanation": "Vom Mars haben wir bessere Karten als vom eigenen Meeresboden. Über 80 Prozent des Ozeans gelten als unerforscht.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q132",
+   "question": "Was ist der Grund für den sechseckigen Bau von Bienenwaben?",
+   "options": [
+    "Zufall",
+    "Minimaler Materialaufwand",
+    "Bienen können nur Ecken bauen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Sechsecke schließen eine Fläche mit dem geringsten Material. Bienen bauen zunächst runde Zellen, die durch Körperwärme in die Sechseckform fließen.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "q133",
+   "question": "Wie viele Ratten leben ungefähr im Karni-Mata-Tempel in Indien?",
+   "options": [
+    "Ein paar Dutzend",
+    "Mehrere tausend",
+    "Keine"
+   ],
+   "answerIndex": 1,
+   "explanation": "Tausende Ratten gelten dort als heilige Tiere. Eine weiße Ratte zu sehen gilt als besonderes Glück.",
+   "topics": [
+    "animals",
+    "weird"
+   ]
+  },
+  {
+   "id": "q134",
+   "question": "Was war die Ursprungsidee hinter Monopoly?",
+   "options": [
+    "Ein Spiel über Erfolg",
+    "Eine Kritik an Bodenspekulation",
+    "Ein Lehrmittel für Mathematik"
+   ],
+   "answerIndex": 1,
+   "explanation": "Elizabeth Magie entwarf 1904 das Landlord's Game, um die Folgen von Bodenspekulation zu zeigen. Vermarktet wurde später die entschärfte Version.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "q135",
+   "question": "Wie viele Reifen produziert Lego ungefähr pro Jahr?",
+   "options": [
+    "Rund 3 Millionen",
+    "Rund 30 Millionen",
+    "Über 300 Millionen"
+   ],
+   "answerIndex": 2,
+   "explanation": "Damit ist Lego – gemessen an der Stückzahl – der größte Reifenhersteller der Welt. Die Reifen sind allerdings winzig.",
+   "topics": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "id": "q136",
+   "question": "Wodurch klingt die eigene Stimme auf Aufnahmen fremd?",
+   "options": [
+    "Durch das Mikrofon",
+    "Weil der Knochenschall fehlt",
+    "Durch die Kompression"
+   ],
+   "answerIndex": 1,
+   "explanation": "Normalerweise hörst du dich zusätzlich über die Schädelknochen, was tiefe Anteile verstärkt. Auf Aufnahmen fehlt genau dieser Anteil.",
+   "topics": [
+    "body",
+    "music"
+   ]
+  },
+  {
+   "id": "q137",
+   "question": "Was ist der Kammerton a heute?",
+   "options": [
+    "432 Hertz",
+    "440 Hertz",
+    "480 Hertz"
+   ],
+   "answerIndex": 1,
+   "explanation": "440 Hertz wurde 1939 international festgelegt. Historisch lag er teils deutlich tiefer, weshalb Barockmusik oft mit 415 Hertz gespielt wird.",
+   "topics": [
+    "music",
+    "science"
+   ]
+  },
+  {
+   "id": "q138",
+   "question": "Wie viele Tasten hat ein modernes Klavier?",
+   "options": [
+    "76",
+    "88",
+    "96"
+   ],
+   "answerIndex": 1,
+   "explanation": "88 – jenseits dieses Bereichs werden Tonhöhen schwer unterscheidbar. Frühere Klaviere hatten deutlich weniger Tasten.",
+   "topics": [
+    "music",
+    "body"
+   ]
+  },
+  {
+   "id": "q139",
+   "question": "Welches Musikstück besteht aus Stille?",
+   "options": [
+    "4'33'' von John Cage",
+    "Bolero von Ravel",
+    "Für Elise"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der Interpret spielt vier Minuten und 33 Sekunden nicht. Die Musik sind die Geräusche des Raums.",
+   "topics": [
+    "music",
+    "weird"
+   ]
+  },
+  {
+   "id": "q140",
+   "question": "Woher stammt die Melodie der Tetris-Titelmusik?",
+   "options": [
+    "Aus einem russischen Volkslied",
+    "Von einem japanischen Komponisten",
+    "Aus einem Kirchenlied"
+   ],
+   "answerIndex": 0,
+   "explanation": "Korobeiniki stammt aus dem 19. Jahrhundert und basiert auf einem Gedicht von Nikolai Nekrassow.",
+   "topics": [
+    "gaming",
+    "music"
+   ]
+  },
+  {
+   "id": "q141",
+   "question": "Was ist der Grund für Dellen auf einem Golfball?",
+   "options": [
+    "Bessere Griffigkeit",
+    "Halber Luftwiderstand",
+    "Bessere Sichtbarkeit"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Dimples erzeugen eine turbulente Grenzschicht. Ein glatter Ball fliegt nur halb so weit.",
+   "topics": [
+    "sports",
+    "science"
+   ]
+  },
+  {
+   "id": "q142",
+   "question": "Warum ist der Marathon 42,195 Kilometer lang?",
+   "options": [
+    "Wegen einer antiken Strecke",
+    "Wegen des britischen Königshauses 1908",
+    "Wegen einer Rechenumstellung"
+   ],
+   "answerIndex": 1,
+   "explanation": "1908 wurde der Start ins Schloss Windsor verlegt, damit die Kinder zusehen konnten. Seit 1921 ist die Distanz fest.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "q143",
+   "question": "Wie viel Zeit ist der Ball in einem Fußballspiel tatsächlich im Spiel?",
+   "options": [
+    "Rund 55 Minuten",
+    "Rund 75 Minuten",
+    "Volle 90 Minuten"
+   ],
+   "answerIndex": 0,
+   "explanation": "Auswechslungen, Einwürfe und Unterbrechungen fressen den Rest. Deshalb wird über eine effektive Spielzeit diskutiert.",
+   "topics": [
+    "sports"
+   ]
+  },
+  {
+   "id": "q144",
+   "question": "Was war der erste Basketballkorb?",
+   "options": [
+    "Ein Fassreifen",
+    "Ein Pfirsichkorb",
+    "Ein Netz ohne Ring"
+   ],
+   "answerIndex": 1,
+   "explanation": "James Naismith nagelte 1891 Pfirsichkörbe an die Empore. Nach jedem Treffer musste jemand den Ball herausholen.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "q145",
+   "question": "Wofür wurde der Fosbury-Flop 1968 zunächst gehalten?",
+   "options": [
+    "Für eine Regelwidrigkeit",
+    "Für eine Verrücktheit",
+    "Für eine Verletzungsgefahr"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dick Fosbury sprang rückwärts über die Latte und wurde belächelt – dann gewann er Gold. Heute springt praktisch niemand mehr anders.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "q146",
+   "question": "Warum wischen Curlingspieler das Eis?",
+   "options": [
+    "Um Schmutz zu entfernen",
+    "Um es anzuschmelzen",
+    "Um den Stein zu bremsen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Reibung erzeugt einen dünnen Wasserfilm, der Stein läuft weiter und gerader. Gutes Sweeping verlängert die Bahn um mehrere Meter.",
+   "topics": [
+    "sports",
+    "science"
+   ]
+  },
+  {
+   "id": "q147",
+   "question": "Wo liegt der schiefste Turm der Welt?",
+   "options": [
+    "In Pisa",
+    "In Suurhusen",
+    "In Bologna"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Kirchturm von Suurhusen in Ostfriesland neigt sich stärker als der Turm von Pisa und steht dafür im Guinness-Buch.",
+   "topics": [
+    "geography",
+    "weird"
+   ]
+  },
+  {
+   "id": "q148",
+   "question": "Was ist das kleinste Land der Welt?",
+   "options": [
+    "Monaco",
+    "San Marino",
+    "Vatikanstadt"
+   ],
+   "answerIndex": 2,
+   "explanation": "0,44 Quadratkilometer, weniger als der Central Park. Trotzdem hat der Vatikan eigene Post, Kennzeichen und einen Bahnhof.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q149",
+   "question": "Welches Land hat mehr Seen als der Rest der Welt zusammen?",
+   "options": [
+    "Russland",
+    "Kanada",
+    "Finnland"
+   ],
+   "answerIndex": 1,
+   "explanation": "Über zwei Millionen Seen bedecken fast neun Prozent der Landesfläche Kanadas. Allein die Großen Seen enthalten ein Fünftel des Süßwassers der Erde.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q150",
+   "question": "Welche Landesflagge ist nicht rechteckig?",
+   "options": [
+    "Die von Nepal",
+    "Die der Schweiz",
+    "Die von Katar"
+   ],
+   "answerIndex": 0,
+   "explanation": "Nepals Flagge besteht aus zwei übereinanderliegenden Wimpeln. Sie ist die einzige nicht viereckige Nationalflagge der Welt.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "q151",
+   "question": "Was passiert am Nordpol unter dem Eis?",
+   "options": [
+    "Es gibt festes Land",
+    "Es ist offener Ozean",
+    "Es liegt ein Gebirge"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Nordpol liegt mitten im Arktischen Ozean auf treibendem Meereis. Der Südpol dagegen liegt auf einem Kontinent unter drei Kilometern Eis.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q152",
+   "question": "Wie alt ist der älteste bekannte Baum der Welt ungefähr?",
+   "options": [
+    "1200 Jahre",
+    "2500 Jahre",
+    "4800 Jahre"
+   ],
+   "answerIndex": 2,
+   "explanation": "Die Grannenkiefer Methuselah keimte, bevor die Cheopspyramide gebaut wurde. Ihr genauer Standort wird geheim gehalten.",
+   "topics": [
+    "nature",
+    "history"
+   ]
+  },
+  {
+   "id": "q153",
+   "question": "Was macht Vulkanasche mit Flugzeugtriebwerken?",
+   "options": [
+    "Nichts",
+    "Sie verglast an den Turbinenschaufeln",
+    "Sie verstopft die Filter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Partikel schmelzen in der Brennkammer und lagern sich als Glas ab. Deshalb legte der Eyjafjallajökull 2010 den europäischen Luftraum lahm.",
+   "topics": [
+    "nature",
+    "tech"
+   ]
+  },
+  {
+   "id": "q154",
+   "question": "Was verbindet Bäume unter dem Waldboden?",
+   "options": [
+    "Wurzeln allein",
+    "Ein Netz aus Pilzfäden",
+    "Nichts"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mykorrhiza-Pilze tauschen Zucker, Nährstoffe und Warnsignale aus. Forscher nennen es halb im Scherz das Wood Wide Web.",
+   "topics": [
+    "nature",
+    "tech"
+   ]
+  },
+  {
+   "id": "q155",
+   "question": "Welche Farbe hat Gletschereis?",
+   "options": [
+    "Weiß",
+    "Blau",
+    "Grün"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dichtes Eis ohne Luftblasen absorbiert rotes Licht und lässt Blau übrig. Frischer Schnee streut alle Farben und wirkt weiß.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q156",
+   "question": "Wie lange kann ein Wombat-Kot seine Form halten?",
+   "options": [
+    "Er ist rund",
+    "Er ist würfelförmig",
+    "Er ist flach"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der letzte Darmabschnitt hat unterschiedlich elastische Wände und formt Kanten. Die Würfel rollen nicht weg – praktisch fürs Reviermarkieren.",
+   "topics": [
+    "animals",
+    "weird"
+   ]
+  },
+  {
+   "id": "q157",
+   "question": "Woraus besteht der Kern des Asteroiden Psyche vermutlich?",
+   "options": [
+    "Eis",
+    "Metall",
+    "Gestein"
+   ],
+   "answerIndex": 1,
+   "explanation": "Überwiegend Eisen und Nickel – vermutlich der freigelegte Kern eines zerstörten Protoplaneten. Eine NASA-Sonde ist unterwegs.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q158",
+   "question": "Warum sind Sonnenuntergänge auf dem Mars blau?",
+   "options": [
+    "Wegen der dünnen Luft",
+    "Wegen des Staubs",
+    "Wegen des Eises"
+   ],
+   "answerIndex": 1,
+   "explanation": "Feiner Staub streut rotes Licht stärker als blaues – genau umgekehrt wie auf der Erde. Der Marshimmel ist tagsüber butterfarben.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q159",
+   "question": "Was hat Alan Shepard 1971 auf dem Mond gemacht?",
+   "options": [
+    "Golf gespielt",
+    "Musik gehört",
+    "Ein Foto entwickelt"
+   ],
+   "answerIndex": 0,
+   "explanation": "Er befestigte einen Schlägerkopf an einem Werkzeuggriff und schlug zwei Bälle. Bildanalysen ergaben Weiten von rund 24 und 37 Metern.",
+   "topics": [
+    "space",
+    "sports"
+   ]
+  },
+  {
+   "id": "q160",
+   "question": "Wie viele Sonnenaufgänge erlebt die ISS-Besatzung pro Tag?",
+   "options": [
+    "1",
+    "4",
+    "16"
+   ],
+   "answerIndex": 2,
+   "explanation": "Die Station umrundet die Erde alle 90 Minuten mit 28.000 Kilometern pro Stunde. Das ergibt 16 Sonnenaufgänge am Tag.",
+   "topics": [
+    "space",
+    "tech"
+   ]
+  },
+  {
+   "id": "q161",
+   "question": "Was ist die kälteste bekannte Stelle des Universums?",
+   "options": [
+    "Der Pluto",
+    "Der Boomerang-Nebel",
+    "Die Oortsche Wolke"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dort herrschen minus 272 Grad, nur ein Grad über dem absoluten Nullpunkt. Der Nebel kühlt sich durch die Expansion seines Gases selbst.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q162",
+   "question": "Warum kann man im All nicht schreien und gehört werden?",
+   "options": [
+    "Zu kalt",
+    "Zu wenige Teilchen für Schall",
+    "Zu laut"
+   ],
+   "answerIndex": 1,
+   "explanation": "Schallwellen sind Druckschwankungen in einem Medium. Im nahezu leeren Raum gibt es zu wenige Teilchen, um sie weiterzugeben.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q163",
+   "question": "Wie viele Jahre alt ist der älteste bekannte Kaugummi?",
+   "options": [
+    "Rund 500",
+    "Rund 5700",
+    "Rund 200"
+   ],
+   "answerIndex": 1,
+   "explanation": "In Skandinavien fand man 5700 Jahre alte Birkenpech-Klumpen mit Zahnabdrücken. Aus einem ließ sich das Erbgut der Kauerin rekonstruieren.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "q164",
+   "question": "Welches Getränk war ursprünglich als Medikament gedacht?",
+   "options": [
+    "Coca-Cola",
+    "Bier",
+    "Tee"
+   ],
+   "answerIndex": 0,
+   "explanation": "John Pemberton verkaufte es 1886 als Nervenstärkung in der Apotheke. Die braune Farbe stammt vom zugesetzten Karamell.",
+   "topics": [
+    "food",
+    "history"
+   ]
+  },
+  {
+   "id": "q165",
+   "question": "Was macht Zwiebeln zum Tränenverursacher?",
+   "options": [
+    "Säure",
+    "Ein schwefelhaltiges Gas",
+    "Staub"
+   ],
+   "answerIndex": 1,
+   "explanation": "Beim Schneiden entsteht ein Gas, das mit Tränenflüssigkeit Säure bildet. Kaltes Wasser und ein scharfes Messer mindern den Effekt.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q166",
+   "question": "Warum ist eine Tomate im Kühlschrank ein Fehler?",
+   "options": [
+    "Sie verdirbt schneller",
+    "Sie verliert ihr Aroma",
+    "Sie wird giftig"
+   ],
+   "answerIndex": 1,
+   "explanation": "Unter etwa zwölf Grad stellt sie die Bildung von Duftstoffen ein. Der Verlust ist auch bei Zimmertemperatur nicht mehr umkehrbar.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q167",
+   "question": "Wie lange bleibt Kaugummi im Magen?",
+   "options": [
+    "Sieben Jahre",
+    "Ein bis zwei Tage",
+    "Für immer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Kaumasse wird nicht verdaut, aber wie andere unverdauliche Reste normal weitertransportiert. Der Mythos hält sich trotzdem hartnäckig.",
+   "topics": [
+    "body",
+    "food"
+   ]
+  },
+  {
+   "id": "q168",
+   "question": "Was ist der härteste Stoff im menschlichen Körper?",
+   "options": [
+    "Knochen",
+    "Zahnschmelz",
+    "Knorpel"
+   ],
+   "answerIndex": 1,
+   "explanation": "Zahnschmelz besteht zu 96 Prozent aus Mineral und ist härter als Stahl. Nachbilden kann der Körper ihn allerdings nicht.",
+   "topics": [
+    "body"
+   ]
+  },
+  {
+   "id": "q169",
+   "question": "Was passiert mit deinem Körper nachts im Schlaf?",
+   "options": [
+    "Nichts Besonderes",
+    "Abfallstoffe werden aus dem Gehirn gespült",
+    "Er kühlt vollständig aus"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ein Reinigungssystem weitet nachts die Zwischenräume im Gewebe. Fehlt der Schlaf, sammeln sich Proteine an, die mit Demenz in Verbindung stehen.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q170",
+   "question": "Wie viele Gerüche kann die menschliche Nase unterscheiden?",
+   "options": [
+    "Rund 10.000",
+    "Rund eine Million",
+    "Rund eine Billion"
+   ],
+   "answerIndex": 2,
+   "explanation": "Eine Studie von 2014 kam auf diese Größenordnung. Nur unsere Sprache hat kaum Wörter dafür.",
+   "topics": [
+    "body",
+    "language"
+   ]
+  },
+  {
+   "id": "q171",
+   "question": "Warum kann man sich selbst nicht kitzeln?",
+   "options": [
+    "Zu wenig Kraft",
+    "Das Kleinhirn sagt die Berührung voraus",
+    "Falscher Winkel"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Vorhersage dämpft die Reaktion. Genau diese Vorhersage fehlt, wenn jemand anderes kitzelt.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q172",
+   "question": "Wie stark wirkt sich 17 Stunden ohne Schlaf aus?",
+   "options": [
+    "Wie 0,5 Promille",
+    "Wie zwei Kaffee",
+    "Gar nicht messbar"
+   ],
+   "answerIndex": 0,
+   "explanation": "Die Reaktionsfähigkeit entspricht etwa 0,5 Promille. Nach 24 Stunden sind es rund 1,0 Promille.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q173",
+   "question": "Welcher Teil des Auges hat keine Blutgefäße?",
+   "options": [
+    "Die Netzhaut",
+    "Die Hornhaut",
+    "Die Iris"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Hornhaut holt Sauerstoff direkt aus der Luft. Deshalb lässt sie sich auch ohne Gewebetypisierung verpflanzen.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q174",
+   "question": "Was ist der blinde Fleck im Auge?",
+   "options": [
+    "Eine Krankheit",
+    "Die Austrittsstelle des Sehnervs",
+    "Ein Alterszeichen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dort gibt es keine Sinneszellen. Das Gehirn ergänzt die Lücke aus der Umgebung – wir merken nichts davon.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q175",
+   "question": "Wie viele Prozent unserer Gene teilen wir mit einer Banane?",
+   "options": [
+    "Rund 10",
+    "Rund 50",
+    "Rund 90"
+   ],
+   "answerIndex": 1,
+   "explanation": "Grundlegende Zellfunktionen laufen in allen Lebewesen ähnlich ab. Mit Schimpansen sind es dagegen fast 99 Prozent.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "q176",
+   "question": "Woher kommt das Wort Quarantäne?",
+   "options": [
+    "Von einer Insel",
+    "Von der Zahl vierzig",
+    "Von einem Arzt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Venedig ließ Schiffe im 14. Jahrhundert vierzig Tage vor der Stadt warten. Aus quaranta giorni wurde die Quarantäne.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "q177",
+   "question": "Was bedeutet das Wort Sarkasmus wörtlich?",
+   "options": [
+    "Ins Fleisch schneiden",
+    "Verdrehte Rede",
+    "Bitterer Wein"
+   ],
+   "answerIndex": 0,
+   "explanation": "Vom griechischen sarkázein. Gemeint ist ein Spott, der ins Fleisch schneidet.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "q178",
+   "question": "Was ist ein Palindrom?",
+   "options": [
+    "Ein Wort ohne Vokale",
+    "Ein Wort, das rückwärts gleich bleibt",
+    "Ein Wort mit doppelter Bedeutung"
+   ],
+   "answerIndex": 1,
+   "explanation": "Reliefpfeiler ist eines. Im Finnischen gibt es sogar saippuakivikauppias – Seifensteinhändler.",
+   "topics": [
+    "language",
+    "weird"
+   ]
+  },
+  {
+   "id": "q179",
+   "question": "Was ist ein Autoantonym?",
+   "options": [
+    "Ein Wort, das sein eigenes Gegenteil bedeutet",
+    "Ein Fremdwort",
+    "Ein Markenname"
+   ],
+   "answerIndex": 0,
+   "explanation": "Umfahren kann heißen, jemanden zu überfahren oder ihm auszuweichen. Auch ausleihen funktioniert in beide Richtungen.",
+   "topics": [
+    "language",
+    "weird"
+   ]
+  },
+  {
+   "id": "q180",
+   "question": "Woher stammt das Wort Roboter?",
+   "options": [
+    "Aus einem Theaterstück",
+    "Aus einem Patent",
+    "Aus einem Roman von Asimov"
+   ],
+   "answerIndex": 0,
+   "explanation": "Karel Čapek verwendete es 1920 in R.U.R., abgeleitet vom tschechischen robota für Fronarbeit.",
+   "topics": [
+    "language",
+    "tech"
+   ]
+  },
+  {
+   "id": "q181",
+   "question": "Welches Wort ist im Englischen ein deutsches Lehnwort?",
+   "options": [
+    "Schadenfreude",
+    "Happiness",
+    "Sorrow"
+   ],
+   "answerIndex": 0,
+   "explanation": "Es gibt kein englisches Wort dafür. Auch Kindergarten, Zeitgeist und Doppelgänger wurden übernommen.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "q182",
+   "question": "Was ist Handy auf Englisch?",
+   "options": [
+    "Handy",
+    "Mobile phone",
+    "Handphone"
+   ],
+   "answerIndex": 1,
+   "explanation": "Handy ist ein deutscher Scheinanglizismus. Im Englischen heißt es mobile phone oder cell phone.",
+   "topics": [
+    "language",
+    "tech"
+   ]
+  },
+  {
+   "id": "q183",
+   "question": "Wie lange dauerte die erste Fotografie in der Belichtung?",
+   "options": [
+    "Acht Sekunden",
+    "Acht Minuten",
+    "Acht Stunden"
+   ],
+   "answerIndex": 2,
+   "explanation": "Nicéphore Niépce nahm 1826 den Blick aus seinem Fenster auf. Deshalb wirft auf dem Bild die Sonne von zwei Seiten Schatten.",
+   "topics": [
+    "history",
+    "tech"
+   ]
+  },
+  {
+   "id": "q184",
+   "question": "Wann endete der Zweite Weltkrieg für den Soldaten Hiroo Onoda?",
+   "options": [
+    "1945",
+    "1955",
+    "1974"
+   ],
+   "answerIndex": 2,
+   "explanation": "Er hielt auf den Philippinen 29 Jahre lang seine Stellung. Erst als sein früherer Vorgesetzter den Befehl persönlich aufhob, ergab er sich.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q185",
+   "question": "Was löste den Fall der Berliner Mauer unmittelbar aus?",
+   "options": [
+    "Ein Volksentscheid",
+    "Ein Versprecher auf einer Pressekonferenz",
+    "Ein Beschluss der Alliierten"
+   ],
+   "answerIndex": 1,
+   "explanation": "Günter Schabowski verlas eine Regelung, ohne das Sperrdatum zu kennen, und sagte: sofort, unverzüglich. Noch am selben Abend standen die Menschen an den Übergängen.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q186",
+   "question": "Welche Farbe hatte die Freiheitsstatue anfangs?",
+   "options": [
+    "Grün",
+    "Kupferbraun",
+    "Weiß"
+   ],
+   "answerIndex": 1,
+   "explanation": "Erst nach rund 30 Jahren bildete sich die grüne Patina. Es gab Überlegungen, sie zu entfernen – man ließ es bleiben.",
+   "topics": [
+    "history",
+    "science"
+   ]
+  },
+  {
+   "id": "q187",
+   "question": "Wie viele Tage fielen 1582 bei der Kalenderreform aus?",
+   "options": [
+    "Drei",
+    "Zehn",
+    "Dreißig"
+   ],
+   "answerIndex": 1,
+   "explanation": "Auf den 4. Oktober folgte direkt der 15. Oktober. Manche Länder machten die Umstellung erst Jahrhunderte später mit.",
+   "topics": [
+    "history",
+    "science"
+   ]
+  },
+  {
+   "id": "q188",
+   "question": "Wie lange war der Eiffelturm ursprünglich geplant?",
+   "options": [
+    "Für immer",
+    "Für 20 Jahre",
+    "Für 5 Jahre"
+   ],
+   "answerIndex": 1,
+   "explanation": "Er war ein temporäres Bauwerk für die Weltausstellung 1889. Gerettet hat ihn seine Brauchbarkeit als Funkantenne.",
+   "topics": [
+    "history",
+    "tech"
+   ]
+  },
+  {
+   "id": "q189",
+   "question": "Welche Rolle spielten Wikinger in Amerika?",
+   "options": [
+    "Sie waren nie dort",
+    "Sie kamen 500 Jahre vor Kolumbus",
+    "Sie kamen nach Kolumbus"
+   ],
+   "answerIndex": 1,
+   "explanation": "In L'Anse aux Meadows auf Neufundland wurde eine nordische Siedlung ausgegraben. Jahrringdatierungen weisen auf das Jahr 1021.",
+   "topics": [
+    "history",
+    "geography"
+   ]
+  },
+  {
+   "id": "q190",
+   "question": "Trugen Wikinger Hörnerhelme?",
+   "options": [
+    "Ja, im Kampf",
+    "Ja, bei Zeremonien",
+    "Nein, das ist eine Erfindung des 19. Jahrhunderts"
+   ],
+   "answerIndex": 2,
+   "explanation": "Kein einziger Fund belegt sie. Das Bild stammt aus Bühnenkostümen für Wagners Ring des Nibelungen.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q191",
+   "question": "Wie groß war Napoleon?",
+   "options": [
+    "Rund 1,52 Meter",
+    "Rund 1,68 Meter",
+    "Rund 1,85 Meter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Damit lag er im Durchschnitt seiner Zeitgenossen. Der Irrtum stammt aus unterschiedlichen Zollmaßen und britischer Karikatur.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q192",
+   "question": "Was passierte mit der Mumie von Ramses II. im Jahr 1976?",
+   "options": [
+    "Sie bekam einen Reisepass",
+    "Sie wurde verkauft",
+    "Sie wurde zerstört"
+   ],
+   "answerIndex": 0,
+   "explanation": "Für den Flug zur Restaurierung nach Paris stellte Ägypten ein Dokument aus, Beruf: König (verstorben). Am Flughafen gab es militärische Ehren.",
+   "topics": [
+    "history",
+    "weird"
+   ]
+  },
+  {
+   "id": "q193",
+   "question": "Welche Farbe hatten griechische Marmorstatuen ursprünglich?",
+   "options": [
+    "Weiß",
+    "Knallbunt",
+    "Golden"
+   ],
+   "answerIndex": 1,
+   "explanation": "Reste von Pigmenten zeigen kräftiges Rot, Blau und Gold. Das weiße Ideal entstand erst, als die Farben verwittert waren.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "q194",
+   "question": "Woraus besteht der Kern der Erde?",
+   "options": [
+    "Ganz flüssig",
+    "Fester Innenkern, flüssiger Außenkern",
+    "Ganz fest"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Innenkern ist trotz 5000 Grad fest, weil der Druck ihn zusammenhält. Die Bewegung des flüssigen Außenkerns erzeugt das Erdmagnetfeld.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q195",
+   "question": "Was passiert regelmäßig mit dem Erdmagnetfeld?",
+   "options": [
+    "Es verschwindet",
+    "Nord und Süd tauschen die Plätze",
+    "Es wird stetig stärker"
+   ],
+   "answerIndex": 1,
+   "explanation": "In der Erdgeschichte ist das hunderte Male passiert, zuletzt vor rund 780.000 Jahren. Erhalten ist es in der Magnetisierung von Gestein.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q196",
+   "question": "Wie viele Tonnen Weltraummaterial landen täglich auf der Erde?",
+   "options": [
+    "Rund 1",
+    "Rund 100",
+    "Rund 10.000"
+   ],
+   "answerIndex": 1,
+   "explanation": "Fast alles davon ist Staub, der in der Atmosphäre verglüht. Große Brocken sind die Ausnahme.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "q197",
+   "question": "Welche Form haben fallende Regentropfen?",
+   "options": [
+    "Tränenförmig",
+    "Unten abgeflacht",
+    "Perfekt rund"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Luftwiderstand drückt sie unten flach – eher wie ein Hamburger. Die klassische Tränenform gibt es in der Natur gar nicht.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q198",
+   "question": "Was ist die Ursache dafür, dass Seen von oben zufrieren?",
+   "options": [
+    "Der Wind",
+    "Die Dichteanomalie des Wassers",
+    "Die Sonneneinstrahlung"
+   ],
+   "answerIndex": 1,
+   "explanation": "Wasser ist bei vier Grad am dichtesten und sinkt ab, kälteres bleibt oben. Ohne diese Anomalie würden Seen von unten zufrieren.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "q199",
+   "question": "Wie viele Bäume gibt es auf der Erde ungefähr?",
+   "options": [
+    "Rund 3 Milliarden",
+    "Rund 300 Milliarden",
+    "Rund 3 Billionen"
+   ],
+   "answerIndex": 2,
+   "explanation": "Damit gibt es mehr Bäume als Sterne in der Milchstraße. Pro Jahr verschwinden allerdings rund 15 Milliarden.",
+   "topics": [
+    "nature",
+    "space"
+   ]
+  },
+  {
+   "id": "q200",
+   "question": "Wie oft muss man Karten mischen, damit sie zufällig liegen?",
+   "options": [
+    "Dreimal",
+    "Siebenmal",
+    "Zwanzigmal"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mathematiker zeigten, dass beim Riffle-Shuffle nach sieben Durchgängen die Ordnung praktisch verschwunden ist. Weniger reicht nicht, mehr bringt kaum etwas.",
+   "topics": [
+    "gaming",
+    "science"
+   ]
+  },
+  {
+   "id": "q201",
+   "question": "Wie viele Personen braucht es für 99 Prozent Chance auf denselben Geburtstag?",
+   "options": [
+    "Rund 70",
+    "Rund 200",
+    "Rund 365"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bei 70 Menschen liegt die Wahrscheinlichkeit über 99 Prozent. Intuitiv schätzen die meisten sie viel niedriger ein.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "q202",
+   "question": "Wie oft lässt sich ein Blatt Papier realistisch falten?",
+   "options": [
+    "Etwa sieben- bis zwölfmal",
+    "Etwa 42-mal",
+    "Beliebig oft"
+   ],
+   "answerIndex": 0,
+   "explanation": "Jede Faltung verdoppelt die Dicke. Bei 42 theoretischen Faltungen käme man rechnerisch bis zum Mond.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "q203",
+   "question": "Wie viele Blüten besucht ein Kolibri am Tag?",
+   "options": [
+    "Rund 20",
+    "Rund 200",
+    "Bis zu 2000"
+   ],
+   "answerIndex": 2,
+   "explanation": "Er muss ständig Nektar aufnehmen und frisst täglich etwa die Hälfte seines Körpergewichts. Nachts fällt er in eine Kältestarre.",
+   "topics": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "q204",
+   "question": "Was tut ein Kolkrabe, wenn ihn jemand beim Verstecken beobachtet?",
+   "options": [
+    "Er verzichtet aufs Verstecken",
+    "Er gräbt ein leeres Loch",
+    "Er wartet ab"
+   ],
+   "answerIndex": 1,
+   "explanation": "Er täuscht ein Versteck vor und legt den Vorrat später woanders ab. Der Rabe rechnet damit, was der andere sehen kann.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q205",
+   "question": "Wonach navigiert ein Mistkäfer?",
+   "options": [
+    "Nach dem Erdmagnetfeld",
+    "Nach der Milchstraße",
+    "Nach dem Geruch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Versuche im Planetarium zeigten: Ohne Sternenhimmel läuft er im Kreis. Mit Milchstraße rollt er seine Kugel schnurgerade davon.",
+   "topics": [
+    "animals",
+    "space"
+   ]
+  },
+  {
+   "id": "q206",
+   "question": "Was macht der Kugelfisch der Gattung Torquigener im Sand?",
+   "options": [
+    "Er versteckt Eier",
+    "Er malt ein symmetrisches Muster",
+    "Er baut eine Höhle"
+   ],
+   "answerIndex": 1,
+   "explanation": "Männchen schieben tagelang Sand, bis ein zwei Meter großes Muster entsteht. Es dient allein dazu, ein Weibchen zu beeindrucken.",
+   "topics": [
+    "animals",
+    "weird"
+   ]
+  },
+  {
+   "id": "q207",
+   "question": "Welches Tier überlebt im Vakuum des Weltalls?",
+   "options": [
+    "Bärtierchen",
+    "Kakerlake",
+    "Skorpion"
+   ],
+   "answerIndex": 0,
+   "explanation": "Getrocknet übersteht es Vakuum, kosmische Strahlung und Temperaturen nahe dem absoluten Nullpunkt. Dabei ist es kaum einen Millimeter groß.",
+   "topics": [
+    "animals",
+    "space"
+   ]
+  },
+  {
+   "id": "q208",
+   "question": "Warum hat ein Specht keine Gehirnerschütterung?",
+   "options": [
+    "Er schlägt nur leicht zu",
+    "Sein Schädel dämpft über Knochenpolster und Zunge",
+    "Er hat kein Gehirn im Vorderkopf"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ein schwammartiges Knochenpolster und eine ungewöhnlich lange Zunge, die sich um den Kopf legt, dämpfen die Wucht. Er verträgt über 1000 g.",
+   "topics": [
+    "animals",
+    "body"
+   ]
+  },
+  {
+   "id": "q209",
+   "question": "Was frisst ein Faultier so langsam, dass es Wochen dauert?",
+   "options": [
+    "Insekten",
+    "Blätter",
+    "Früchte"
+   ],
+   "answerIndex": 1,
+   "explanation": "Sein Magen verdaut Blätter extrem langsam. Zum Koten klettert es trotzdem einmal pro Woche auf den Boden – der gefährlichste Moment seines Lebens.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q210",
+   "question": "Was tun Vampirfledermäuse mit Artgenossen, die nichts gefunden haben?",
+   "options": [
+    "Sie vertreiben sie",
+    "Sie teilen ihre Mahlzeit",
+    "Sie ignorieren sie"
+   ],
+   "answerIndex": 1,
+   "explanation": "Sie würgen einen Teil hervor. Wer nie teilt, bekommt später selbst nichts ab.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q211",
+   "question": "Welche Farbe hat das Blut eines Kraken?",
+   "options": [
+    "Rot",
+    "Blau",
+    "Grün"
+   ],
+   "answerIndex": 1,
+   "explanation": "Sie transportieren Sauerstoff mit kupferhaltigem Hämocyanin. In kaltem, sauerstoffarmem Wasser funktioniert das besser als Hämoglobin.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "q212",
+   "question": "Wie alt kann ein Grönlandhai werden?",
+   "options": [
+    "Rund 50 Jahre",
+    "Rund 120 Jahre",
+    "Über 250 Jahre"
+   ],
+   "answerIndex": 2,
+   "explanation": "Datierungen an der Augenlinse ergaben Alter von mehr als 270 Jahren. Geschlechtsreif wird er erst mit etwa 150.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q213",
+   "question": "Was macht ein Seeotter, damit er im Schlaf nicht wegtreibt?",
+   "options": [
+    "Er hält die Pfote seines Partners",
+    "Er gräbt sich ein",
+    "Er schläft an Land"
+   ],
+   "answerIndex": 0,
+   "explanation": "So treibt die Gruppe nicht auseinander. Manche wickeln sich zusätzlich in Seetang ein.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "q214",
+   "question": "Warum schmeckt Chili scharf, obwohl nichts brennt?",
+   "options": [
+    "Es zerstört Zellen",
+    "Capsaicin reizt einen Hitzerezeptor",
+    "Es senkt den pH-Wert"
+   ],
+   "answerIndex": 1,
+   "explanation": "Capsaicin bindet an einen Rezeptor, der eigentlich Hitze meldet. Das Gehirn bekommt eine Verbrennungsmeldung ohne Verbrennung.",
+   "topics": [
+    "food",
+    "body"
+   ]
+  },
+  {
+   "id": "q215",
+   "question": "Warum spüren Vögel keine Schärfe?",
+   "options": [
+    "Sie haben keine Zunge",
+    "Ihnen fehlt der Rezeptor",
+    "Sie fressen keine Chilis"
+   ],
+   "answerIndex": 1,
+   "explanation": "Genau deshalb setzen Chilipflanzen auf Vögel zur Samenverbreitung – Säugetiere zerkauen die Kerne.",
+   "topics": [
+    "food",
+    "animals"
+   ]
+  },
+  {
+   "id": "q216",
+   "question": "Wie viele Blüten braucht man für ein Kilogramm Safran?",
+   "options": [
+    "Rund 1500",
+    "Rund 15.000",
+    "Rund 150.000"
+   ],
+   "answerIndex": 2,
+   "explanation": "Alle von Hand geerntet, nur die Blütennarben zählen. Deshalb kostet Safran zeitweise mehr als Gold pro Gramm.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q217",
+   "question": "Was ist im Restaurant meistens als Wasabi im Einsatz?",
+   "options": [
+    "Echter Wasabi",
+    "Gefärbter Meerrettich",
+    "Senfpaste"
+   ],
+   "answerIndex": 1,
+   "explanation": "Echter Wasabi ist schwer anzubauen und verliert sein Aroma binnen Minuten. Grün gefärbter Meerrettich mit Senf ist der übliche Ersatz.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "q218",
+   "question": "Was ist eine Erdnuss botanisch?",
+   "options": [
+    "Eine Nuss",
+    "Eine Hülsenfrucht",
+    "Eine Steinfrucht"
+   ],
+   "answerIndex": 1,
+   "explanation": "Sie ist näher mit Erbsen und Bohnen verwandt als mit Walnüssen. Ihre Früchte reifen unter der Erde.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q219",
+   "question": "Wo wächst der Cashewkern?",
+   "options": [
+    "Innen in der Frucht",
+    "Außen unter der Frucht",
+    "Unter der Erde"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Kern hängt unter dem Cashewapfel. Die Schale enthält ein hautreizendes Öl – deshalb gibt es Cashews nie roh und ungeschält.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q220",
+   "question": "Welcher Druck herrscht in einer Champagnerflasche?",
+   "options": [
+    "Rund 1 bar",
+    "Rund 6 bar",
+    "Rund 20 bar"
+   ],
+   "answerIndex": 1,
+   "explanation": "Etwa der dreifache Druck eines Autoreifens. Deshalb ist das Glas dicker und der Korken mit Drahtkorb gesichert.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q221",
+   "question": "Was passiert mit einer Korkeiche bei der Ernte?",
+   "options": [
+    "Sie wird gefällt",
+    "Sie wird geschält und lebt weiter",
+    "Sie stirbt langsam ab"
+   ],
+   "answerIndex": 1,
+   "explanation": "Alle neun bis zwölf Jahre wird sie geschält und lebt dabei über 200 Jahre. Portugal produziert rund die Hälfte des Weltkorks.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q222",
+   "question": "Was bedeutet das Mindesthaltbarkeitsdatum?",
+   "options": [
+    "Danach ist das Produkt verdorben",
+    "Bis dahin sind Eigenschaften garantiert",
+    "Es ist der Produktionstag"
+   ],
+   "answerIndex": 1,
+   "explanation": "Danach entscheiden Aussehen, Geruch und Geschmack. Nur beim Verbrauchsdatum auf leicht verderblichen Waren ist wirklich Schluss.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "q223",
+   "question": "Wie viel Prozent der Lebensmittel werden weltweit weggeworfen?",
+   "options": [
+    "Rund 5",
+    "Rund 15",
+    "Rund ein Drittel"
+   ],
+   "answerIndex": 2,
+   "explanation": "Etwa 1,3 Milliarden Tonnen pro Jahr. In Deutschland entfällt der größte Teil auf private Haushalte.",
+   "topics": [
+    "food",
+    "nature"
+   ]
+  },
+  {
+   "id": "q224",
+   "question": "Welcher Wettbewerb findet jährlich in Finnland statt?",
+   "options": [
+    "Ehefrauentragen",
+    "Kissenwerfen",
+    "Baumklettern"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bei der Weltmeisterschaft trägt man die Partnerin durch einen Hindernisparcours. Der Preis entspricht traditionell ihrem Gewicht in Bier.",
+   "topics": [
+    "weird",
+    "sports"
+   ]
+  },
+  {
+   "id": "q225",
+   "question": "Was ist am Ort Longyearbyen auf Spitzbergen besonders?",
+   "options": [
+    "Es gibt keine Autos",
+    "Man kann dort nicht beerdigt werden",
+    "Es gibt kein Internet"
+   ],
+   "answerIndex": 1,
+   "explanation": "Wegen des Permafrosts verwesen Körper nicht. Schwerkranke werden aufs Festland gebracht.",
+   "topics": [
+    "weird",
+    "geography"
+   ]
+  },
+  {
+   "id": "q226",
+   "question": "Was passierte 1932 beim sogenannten Emu-Krieg in Australien?",
+   "options": [
+    "Die Emus gewannen",
+    "Die Armee gewann",
+    "Er wurde abgesagt"
+   ],
+   "answerIndex": 0,
+   "explanation": "Soldaten mit Maschinengewehren wurden gegen Emuherden eingesetzt. Nach wenigen Wochen wurde die Aktion erfolglos abgebrochen.",
+   "topics": [
+    "weird",
+    "animals"
+   ]
+  },
+  {
+   "id": "q227",
+   "question": "Wie lange brennt die Centennial Light in Kalifornien schon?",
+   "options": [
+    "Seit 1901",
+    "Seit 1951",
+    "Seit 1991"
+   ],
+   "answerIndex": 0,
+   "explanation": "Sie hängt in einer Feuerwache und leuchtet schwach. Dass sie fast nie ausgeschaltet wurde, schont den Glühfaden.",
+   "topics": [
+    "weird",
+    "tech"
+   ]
+  },
+  {
+   "id": "q228",
+   "question": "Wie oft fällt ein Tropfen beim australischen Pechtropfenexperiment?",
+   "options": [
+    "Täglich",
+    "Etwa alle zehn Jahre",
+    "Einmal im Jahr"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das Experiment läuft seit 1927. Den ersten Tropfen sah nie jemand live fallen.",
+   "topics": [
+    "weird",
+    "science"
+   ]
+  },
+  {
+   "id": "q229",
+   "question": "Was ist das Voynich-Manuskript?",
+   "options": [
+    "Eine mittelalterliche Bibel",
+    "Ein bis heute unentzifferter Text",
+    "Ein Rechnungsbuch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Es stammt aus dem 15. Jahrhundert und zeigt unbekannte Pflanzen und Schriftzeichen. Kryptografen sind bis heute gescheitert.",
+   "topics": [
+    "weird",
+    "language"
+   ]
+  },
+  {
+   "id": "q230",
+   "question": "Was war das Wow!-Signal?",
+   "options": [
+    "Ein Funkspruch aus dem All",
+    "Ein Erdbebensignal",
+    "Ein Radarfehler"
+   ],
+   "answerIndex": 0,
+   "explanation": "1977 wurde es für 72 Sekunden aufgezeichnet und nie wieder empfangen. Der Astronom notierte am Rand des Ausdrucks nur Wow!",
+   "topics": [
+    "weird",
+    "space"
+   ]
+  },
+  {
+   "id": "q231",
+   "question": "Was verkaufte der Betrüger Victor Lustig 1925 – zweimal?",
+   "options": [
+    "Den Eiffelturm",
+    "Die Mona Lisa",
+    "Notre-Dame"
+   ],
+   "answerIndex": 0,
+   "explanation": "Er gab sich als Beamter aus und verkaufte den Turm als Altmetall. Sein erstes Opfer schämte sich zu sehr für eine Anzeige.",
+   "topics": [
+    "weird",
+    "history"
+   ]
+  },
+  {
+   "id": "q232",
+   "question": "Was ist an einem Rückwärtsfahrrad besonders?",
+   "options": [
+    "Es hat keine Bremse",
+    "Das Vorderrad lenkt entgegengesetzt",
+    "Es fährt nur bergab"
+   ],
+   "answerIndex": 1,
+   "explanation": "Selbst geübte Radfahrer brauchen Monate, um es zu lernen – und verlernen dann das normale Rad.",
+   "topics": [
+    "weird",
+    "tech"
+   ]
+  },
+  {
+   "id": "q233",
+   "question": "Wie viele Sprachen werden in Papua-Neuguinea gesprochen?",
+   "options": [
+    "Über 800",
+    "Rund 80",
+    "Rund 8"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bei rund zehn Millionen Einwohnern kommen auf eine Sprache im Schnitt wenige tausend Menschen.",
+   "topics": [
+    "language",
+    "geography"
+   ]
+  },
+  {
+   "id": "q234",
+   "question": "Was zeigt der Grundriss von Brasília aus der Luft?",
+   "options": [
+    "Ein Kreuz",
+    "Ein Flugzeug",
+    "Einen Stern"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Stadt wurde in weniger als vier Jahren gebaut und 1960 eingeweiht. Entworfen haben sie Lúcio Costa und Oscar Niemeyer.",
+   "topics": [
+    "geography",
+    "history"
+   ]
+  },
+  {
+   "id": "q235",
+   "question": "Warum hat der Suezkanal keine Schleusen?",
+   "options": [
+    "Er ist zu kurz",
+    "Beide Meere liegen fast gleich hoch",
+    "Er ist zu flach"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mittelmeer und Rotes Meer liegen auf ähnlicher Höhe. Der Panamakanal dagegen hebt Schiffe 26 Meter an.",
+   "topics": [
+    "geography",
+    "tech"
+   ]
+  },
+  {
+   "id": "q236",
+   "question": "Was ist Point Nemo?",
+   "options": [
+    "Der tiefste Punkt der Erde",
+    "Der von Land entfernteste Punkt",
+    "Der kälteste Ort der Welt"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dort im Südpazifik werden ausgediente Satelliten und Raumstationen versenkt – unter anderem die Mir.",
+   "topics": [
+    "geography",
+    "space"
+   ]
+  },
+  {
+   "id": "q237",
+   "question": "Wie heizt Island überwiegend?",
+   "options": [
+    "Mit Öl",
+    "Mit Erdwärme",
+    "Mit Kohle"
+   ],
+   "answerIndex": 1,
+   "explanation": "Rund 90 Prozent aller Gebäude werden geothermisch beheizt. Sogar Gehwege in Reykjavík werden im Winter eisfrei gehalten.",
+   "topics": [
+    "geography",
+    "tech"
+   ]
+  },
+  {
+   "id": "q238",
+   "question": "Was macht der Fluss Whanganui in Neuseeland rechtlich besonders?",
+   "options": [
+    "Er ist Privatbesitz",
+    "Er ist eine juristische Person",
+    "Er hat keinen Namen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Seit 2017 hat er eigene Rechte, zwei Vertreter sprechen für ihn vor Gericht. Ecuador schrieb Naturrechte schon 2008 in die Verfassung.",
+   "topics": [
+    "weird",
+    "nature"
+   ]
+  },
+  {
+   "id": "q239",
+   "question": "Wodurch ist der Lake Hillier in Australien bekannt?",
+   "options": [
+    "Er ist rosa",
+    "Er ist kochend heiß",
+    "Er verschwindet jährlich"
+   ],
+   "answerIndex": 0,
+   "explanation": "Er bleibt auch in einem Glas rosa. Verantwortlich sind salzliebende Algen und Bakterien.",
+   "topics": [
+    "geography",
+    "nature"
+   ]
+  },
+  {
+   "id": "q240",
+   "question": "Was tauschten Kanada und Dänemark jahrzehntelang auf Hans Island aus?",
+   "options": [
+    "Fahnen und Alkohol",
+    "Geld",
+    "Fischereirechte"
+   ],
+   "answerIndex": 0,
+   "explanation": "Sie hinterlegten abwechselnd Whisky und Schnaps samt Flagge. 2022 einigten sie sich auf eine Teilung der Insel.",
+   "topics": [
+    "weird",
+    "geography"
+   ]
   }
  ]
 }
