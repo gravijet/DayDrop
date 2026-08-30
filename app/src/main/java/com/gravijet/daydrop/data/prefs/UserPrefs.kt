@@ -20,6 +20,14 @@ private val Context.dataStore by preferencesDataStore(name = "daydrop")
 
 data class Streak(val current: Int, val best: Int, val lastDay: Long)
 
+/** One read of everything the feed screen needs to draw its first frame. */
+data class FeedSnapshot(
+    val interests: Set<String>,
+    val seen: Set<String>,
+    val streak: Streak,
+    val cachedFeed: List<Drop>?
+)
+
 /**
  * Everything the app remembers about you: chosen topics, streak, favourites and
  * the reminder time. All of it stays on the device.
@@ -38,6 +46,9 @@ class UserPrefs(private val context: Context) {
         val notifyEnabled = booleanPreferencesKey("notify_enabled")
         val notifyHour = intPreferencesKey("notify_hour")
         val notifyMinute = intPreferencesKey("notify_minute")
+        val seen = stringPreferencesKey("seen_ids")
+        val feedDay = longPreferencesKey("feed_day")
+        val feedJson = stringPreferencesKey("feed_json")
     }
 
     val onboarded: Flow<Boolean> = context.dataStore.data.map { it[Keys.onboarded] ?: false }
@@ -135,5 +146,66 @@ class UserPrefs(private val context: Context) {
         }
     }
 
-    suspend fun currentInterests(): Set<String> = interests.first()
+    // ---- what has already been shown ---------------------------------------
+
+    /**
+     * Marks [ids] as delivered - they will not be picked again.
+     *
+     * The list is stored newline-joined rather than as a set so the oldest ids
+     * can be dropped once it hits [SEEN_LIMIT], which at five cards a day is
+     * well past thirty years of use.
+     */
+    suspend fun markSeen(ids: Collection<String>) {
+        if (ids.isEmpty()) return
+        context.dataStore.edit { prefs ->
+            val existing = prefs[Keys.seen]?.lineSequence()?.filter { it.isNotBlank() }?.toList()
+                .orEmpty()
+            val merged = (existing + ids).distinct()
+            prefs[Keys.seen] = merged.takeLast(SEEN_LIMIT).joinToString("\n")
+        }
+    }
+
+    // ---- today's feed, kept ready ------------------------------------------
+
+    /**
+     * Stores the feed of [day] so the next visit has nothing left to compute.
+     * Written both by the feed screen and by the morning reminder.
+     */
+    suspend fun cacheFeed(day: LocalDate, drops: List<Drop>) {
+        if (drops.isEmpty()) return
+        context.dataStore.edit { prefs ->
+            prefs[Keys.feedDay] = day.toEpochDay()
+            prefs[Keys.feedJson] = json.encodeToString(drops)
+        }
+    }
+
+    /**
+     * Everything the feed needs, read in one go.
+     *
+     * DataStore reads the whole file per access, so asking for interests, the
+     * seen list, the streak and the cached feed separately would parse it four
+     * times before the first frame. This does it once.
+     */
+    suspend fun feedSnapshot(day: LocalDate): FeedSnapshot {
+        val prefs = context.dataStore.data.first()
+        val cached = if (prefs[Keys.feedDay] == day.toEpochDay()) {
+            prefs[Keys.feedJson]
+                ?.let { runCatching { json.decodeFromString<List<Drop>>(it) }.getOrNull() }
+                ?.takeIf { it.isNotEmpty() }
+        } else null
+        return FeedSnapshot(
+            interests = prefs[Keys.interests] ?: emptySet(),
+            seen = prefs[Keys.seen]?.lineSequence()?.filter { it.isNotBlank() }?.toSet().orEmpty(),
+            streak = Streak(
+                current = prefs[Keys.streakCurrent] ?: 0,
+                best = prefs[Keys.streakBest] ?: 0,
+                lastDay = prefs[Keys.streakLastDay] ?: 0L
+            ),
+            cachedFeed = cached
+        )
+    }
+
+    private companion object {
+        const val SEEN_LIMIT = 60_000
+    }
 }

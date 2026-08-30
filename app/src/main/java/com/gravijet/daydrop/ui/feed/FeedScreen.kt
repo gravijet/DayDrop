@@ -18,6 +18,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.pager.PagerDefaults
 import androidx.compose.foundation.pager.VerticalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.foundation.shape.CircleShape
@@ -29,7 +30,6 @@ import androidx.compose.material.icons.rounded.FavoriteBorder
 import androidx.compose.material.icons.rounded.IosShare
 import androidx.compose.material.icons.rounded.KeyboardArrowDown
 import androidx.compose.material.icons.rounded.Settings
-import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
@@ -91,6 +91,7 @@ fun FeedScreen(
                     DateTimeFormatter.ofPattern("EEEE, d. MMMM", Locale.GERMAN)
                 ),
                 streak = state.streak.current,
+                enriching = state.enriching,
                 onOpenFavourites = onOpenFavourites,
                 onOpenSettings = onOpenSettings
             )
@@ -104,12 +105,20 @@ fun FeedScreen(
             }
 
             when {
-                state.loading -> LoadingState(Modifier.weight(1f))
+                // Nothing at all for the few frames before the feed is built -
+                // an empty-state flash would be a lie.
+                !state.ready -> Spacer(Modifier.weight(1f))
                 state.drops.isEmpty() -> EmptyState(Modifier.weight(1f))
                 else -> VerticalPager(
                     state = pagerState,
                     modifier = Modifier.weight(1f),
                     pageSpacing = 12.dp,
+                    // A short flick is enough to turn the page - the default
+                    // wants half a screen of travel before it commits.
+                    flingBehavior = PagerDefaults.flingBehavior(
+                        state = pagerState,
+                        snapPositionalThreshold = 0.15f
+                    ),
                     contentPadding = androidx.compose.foundation.layout.PaddingValues(
                         horizontal = 14.dp, vertical = 6.dp
                     )
@@ -152,7 +161,12 @@ fun FeedScreen(
                     drop = drop,
                     saved = drop.id in favouriteIds,
                     onSave = { viewModel.toggleFavourite(drop) },
-                    onShare = { scope.launch { StoryCardRenderer.share(context, drop) } }
+                    onShare = { scope.launch { StoryCardRenderer.share(context, drop) } },
+                    onNext = {
+                        scope.launch {
+                            pagerState.animateScrollToPage(pagerState.currentPage + 1)
+                        }
+                    }
                 )
             } else {
                 Spacer(Modifier.height(74.dp).navigationBarsPadding())
@@ -165,6 +179,7 @@ fun FeedScreen(
 private fun TopBar(
     dateLabel: String,
     streak: Int,
+    enriching: Boolean,
     onOpenFavourites: () -> Unit,
     onOpenSettings: () -> Unit
 ) {
@@ -182,7 +197,9 @@ private fun TopBar(
                 color = Chalk
             )
             Text(
-                text = dateLabel,
+                // The feed is complete and readable either way; this only says
+                // that two of the cards may still swap themselves out.
+                text = if (enriching) "$dateLabel · lädt noch" else dateLabel,
                 style = MaterialTheme.typography.labelMedium,
                 color = ChalkDim
             )
@@ -263,7 +280,13 @@ private fun StoryProgress(total: Int, current: Int, modifier: Modifier = Modifie
 }
 
 @Composable
-private fun ActionBar(drop: Drop, saved: Boolean, onSave: () -> Unit, onShare: () -> Unit) {
+private fun ActionBar(
+    drop: Drop,
+    saved: Boolean,
+    onSave: () -> Unit,
+    onShare: () -> Unit,
+    onNext: () -> Unit
+) {
     Row(
         modifier = Modifier
             .fillMaxWidth()
@@ -287,6 +310,22 @@ private fun ActionBar(drop: Drop, saved: Boolean, onSave: () -> Unit, onShare: (
             modifier = Modifier.weight(1f),
             onClick = onShare
         )
+        // Turning the page without swiping at all.
+        Box(
+            Modifier
+                .size(52.dp)
+                .clip(RoundedCornerShape(16.dp))
+                .background(Chalk)
+                .clickable(onClick = onNext),
+            contentAlignment = Alignment.Center
+        ) {
+            Icon(
+                Icons.Rounded.KeyboardArrowDown,
+                contentDescription = "Nächste Karte",
+                tint = Ink,
+                modifier = Modifier.size(24.dp)
+            )
+        }
     }
 }
 
@@ -369,21 +408,6 @@ private fun OutroCard(streak: Int, best: Int, count: Int, onOpenFavourites: () -
                 text = "Morgen früh wartet der nächste Drop.",
                 style = MaterialTheme.typography.labelMedium,
                 color = ChalkDim.copy(alpha = 0.7f)
-            )
-        }
-    }
-}
-
-@Composable
-private fun LoadingState(modifier: Modifier = Modifier) {
-    Box(modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-            CircularProgressIndicator(color = ChalkDim, strokeWidth = 2.dp)
-            Spacer(Modifier.height(18.dp))
-            Text(
-                "Dein Drop wird gemischt …",
-                style = MaterialTheme.typography.labelMedium,
-                color = ChalkDim
             )
         }
     }

@@ -12,9 +12,9 @@ data class FactEntry(
     val title: String,
     val text: String,
     val topics: List<String> = emptyList(),
-    /** Optional MM-dd. Entries with a date are preferred on that calendar day. */
+    /** Optional MM-dd. Entries with a date are only ever shown on that day. */
     val date: String? = null,
-    /** Optional German Wikipedia article used to pull a fitting header image. */
+    /** Optional German Wikipedia article, used for the "read on" link. */
     val wiki: String? = null
 )
 
@@ -37,6 +37,9 @@ data class QuizEntry(
 )
 
 @Serializable
+data class ImageEntry(val url: String, val file: String = "")
+
+@Serializable
 private data class FactsFile(val facts: List<FactEntry>)
 
 @Serializable
@@ -44,6 +47,9 @@ private data class DaysFile(val days: Map<String, List<DayEntry>>)
 
 @Serializable
 private data class QuizFile(val quizzes: List<QuizEntry>)
+
+@Serializable
+private data class ImagesFile(val images: Map<String, List<ImageEntry>>)
 
 /**
  * Reads the curated content that ships inside the APK. Everything here works
@@ -69,5 +75,32 @@ class ContentRepository(private val read: (String) -> String) {
 
     val quizzes: List<QuizEntry> by lazy {
         json.decodeFromString<QuizFile>(read("content/quiz.json")).quizzes
+    }
+
+    /** Topic id -> photos that fit that topic. `_default` catches the rest. */
+    val images: Map<String, List<ImageEntry>> by lazy {
+        json.decodeFromString<ImagesFile>(read("content/images.json")).images
+    }
+
+    /**
+     * Parses every file now instead of on first touch. Called off the main
+     * thread while the app starts, so the feed screen finds everything ready
+     * and can render its first frame without waiting for I/O.
+     */
+    fun warmUp() {
+        facts; days; quizzes; images
+    }
+
+    companion object {
+        @Volatile private var instance: ContentRepository? = null
+
+        /**
+         * One parsed copy per process. The JSON is a few hundred kilobytes and
+         * completely immutable, so re-reading it per screen would be pure cost.
+         */
+        fun get(context: Context): ContentRepository =
+            instance ?: synchronized(this) {
+                instance ?: ContentRepository(context.applicationContext).also { instance = it }
+            }
     }
 }
