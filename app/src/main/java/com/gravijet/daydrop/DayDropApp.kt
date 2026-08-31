@@ -11,6 +11,7 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.launch
+import okhttp3.OkHttpClient
 
 /**
  * Keeps a generous image cache so yesterday's cards - and the ones you saved -
@@ -29,6 +30,20 @@ class DayDropApp : Application(), ImageLoaderFactory {
     }
 
     override fun newImageLoader(): ImageLoader = ImageLoader.Builder(this)
+        // Wikimedia rejects OkHttp's anonymous default user agent with HTTP 403.
+        // Coil uses OkHttp internally, so photos silently failed and left only
+        // the card palette visible. Identify the app on every image request.
+        .okHttpClient {
+            OkHttpClient.Builder()
+                .addInterceptor { chain ->
+                    chain.proceed(
+                        chain.request().newBuilder()
+                            .header("User-Agent", WIKIMEDIA_USER_AGENT)
+                            .build()
+                    )
+                }
+                .build()
+        }
         .memoryCache {
             MemoryCache.Builder(this)
                 .maxSizePercent(0.20)
@@ -44,4 +59,9 @@ class DayDropApp : Application(), ImageLoaderFactory {
         .diskCachePolicy(CachePolicy.ENABLED)
         .crossfade(220)
         .build()
+
+    private companion object {
+        const val WIKIMEDIA_USER_AGENT =
+            "DayDrop/1.4.1 (https://github.com/gravijet/DayDrop; Android image loader)"
+    }
 }
