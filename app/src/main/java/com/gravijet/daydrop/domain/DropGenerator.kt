@@ -407,8 +407,8 @@ class DropGenerator(
             personalised = personalised,
             slot = slot,
             imageUrl = images.imageFor(id, topics),
-            sourceUrl = wiki?.let(::wikiUrl),
-            sourceLabel = wiki?.let { "Wikipedia · $it" }
+            sourceUrl = sourceUrl ?: wiki?.let(::wikiUrl),
+            sourceLabel = sourceLabel ?: wiki?.let { "Wikipedia · $it" }
         )
     }
 

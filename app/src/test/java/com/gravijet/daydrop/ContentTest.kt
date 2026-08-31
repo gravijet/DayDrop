@@ -23,8 +23,8 @@ class ContentTest {
     private val content = testContent()
 
     @Test
-    fun `all four content files parse`() {
-        assertTrue(content.facts.size > 1000)
+    fun `all content editions parse`() {
+        assertTrue(content.facts.size >= 2300)
         assertTrue(content.days.size > 250)
         assertTrue(content.quizzes.size >= 200)
         assertTrue(content.images.isNotEmpty())
@@ -92,6 +92,10 @@ class ContentTest {
             assertTrue("${fact.id}: body too short", fact.text.length > 55)
             assertTrue("${fact.id}: body too long", fact.text.length <= 400)
             assertTrue("${fact.id}: title repeats the body", fact.title != fact.text)
+            fact.sourceUrl?.let { url ->
+                assertTrue("${fact.id}: source url must be https", url.startsWith("https://"))
+                assertTrue("${fact.id}: source label missing", !fact.sourceLabel.isNullOrBlank())
+            }
         }
     }
 

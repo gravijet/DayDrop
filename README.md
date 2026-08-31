@@ -30,7 +30,9 @@ installieren sich also als Update über die vorherige.
 
 Dazu: **Streak** (🔥 Tage in Folge), **Speichern** in eine eigene Liste,
 **Teilen** als 1080×1920-Story-Karte, und eine **Push-Nachricht** pro Tag, die
-neugierig macht, ohne die Karte zu verraten.
+neugierig macht, ohne die Karte zu verraten. Auf großen Displays bleiben Feed,
+Kopfzeile und Aktionen in einer angenehmen Lesespalte statt unruhig in die Breite
+zu laufen.
 
 ### Personalisierung
 
@@ -76,13 +78,13 @@ zweimal ausgeliefert wird.
 
 Mit Netz verbraucht ein Tag im Schnitt **drei** kuratierte Fakten-Karten
 („Für dich" plus zwei der weiteren Fakten), weil die Slots „Heute vor X
-Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 2.165 nicht
+Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 2.221 nicht
 datumsgebundene Fakten stecken im Vorrat – rechnerisch reicht das über zwei
 Jahre, die Fragen (353 Stück) rund elf Monate. Danach übernimmt
 Wikipedia diese Slots, ohne Wiederholung. Ohne Netz kommen mehr Karten aus
 dem kuratierten Vorrat, weil dann auch der Artikel-Slot lokal gefüllt wird.
 
-Nachlegen geht jederzeit: eine Zeile mehr in `facts.json`, fertig.
+Nachlegen geht jederzeit: eine eigene kleine `facts_*.json`-Edition, fertig.
 
 ## Bilder
 
@@ -110,12 +112,14 @@ Karte, gleiches Bild – unabhängig von Gerät und Tag.
 
 Alles Persönliche – Themen, Streak, Favoriten, gesehene Karten, Uhrzeit der
 Erinnerung – bleibt per DataStore auf dem Gerät. Es gibt kein Konto, kein
-Backend, kein Tracking.
+Backend, kein Tracking. Neue Fakten erscheinen als kleine, separat prüfbare
+Editionen; die erste **Atlas-Edition** erweitert den Vorrat um 60 sorgfältig
+geschriebene Karten aus allen 15 Themenbereichen.
 
 Die Netzaufrufe gehen ausschließlich an die offene Wikimedia-REST-API
 (`onthisday` für Ereignisse und Feiertage, `feed/featured` für den Artikel des
 Tages) und an `upload.wikimedia.org` für die Fotos. Ohne Netz funktioniert die
-App weiter: 2256 Fakten, 366 Aktionstage und 353 Fragen liegen in der APK.
+App weiter: 2316 Fakten, 366 Aktionstage und 353 Fragen liegen in der APK.
 
 ## Selbst bauen
 
@@ -154,9 +158,10 @@ Umgebungsvariablen – der Build nimmt sie dann statt des mitgelieferten Keys.
 
 Die Inhalte liegen als JSON in `app/src/main/assets/content/`:
 
-- `facts.json` – `kind` ist eines von `fact`, `know`, `science`, `pop`,
-  `random`, `history`. Optional: `date` (`MM-TT`, bindet den Eintrag an einen
-  Tag) und `wiki` (Artikelname für den Quellen-Link unter der Karte).
+- `facts.json` und `facts_*.json` – `kind` ist eines von `fact`, `know`,
+  `science`, `pop`, `random`, `history`. Optional: `date` (`MM-TT`, bindet den
+  Eintrag an einen Tag), `wiki` (deutscher Wikipedia-Artikel) oder `sourceUrl`
+  plus `sourceLabel` für eine direkte Quelle.
 - `days.json` – nach `MM-TT` geschlüsselte Aktionstage.
 - `quiz.json` – Frage, Antwortoptionen, `answerIndex`, Erklärung.
 - `images.json` – Foto-URLs pro Thema, plus `_default`.
