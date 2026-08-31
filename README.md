@@ -78,7 +78,7 @@ zweimal ausgeliefert wird.
 
 Mit Netz verbraucht ein Tag im Schnitt **drei** kuratierte Fakten-Karten
 („Für dich" plus zwei der weiteren Fakten), weil die Slots „Heute vor X
-Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 2.221 nicht
+Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 2.311 nicht
 datumsgebundene Fakten stecken im Vorrat – rechnerisch reicht das über zwei
 Jahre, die Fragen (353 Stück) rund elf Monate. Danach übernimmt
 Wikipedia diese Slots, ohne Wiederholung. Ohne Netz kommen mehr Karten aus
@@ -113,13 +113,13 @@ Karte, gleiches Bild – unabhängig von Gerät und Tag.
 Alles Persönliche – Themen, Streak, Favoriten, gesehene Karten, Uhrzeit der
 Erinnerung – bleibt per DataStore auf dem Gerät. Es gibt kein Konto, kein
 Backend, kein Tracking. Neue Fakten erscheinen als kleine, separat prüfbare
-Editionen; die erste **Atlas-Edition** erweitert den Vorrat um 60 sorgfältig
-geschriebene Karten aus allen 15 Themenbereichen.
+Editionen; die **Atlas-Edition** und die neue **Mosaik-Edition** erweitern den
+Vorrat um 150 sorgfältig geschriebene Karten aus allen 15 Themenbereichen.
 
 Die Netzaufrufe gehen ausschließlich an die offene Wikimedia-REST-API
 (`onthisday` für Ereignisse und Feiertage, `feed/featured` für den Artikel des
 Tages) und an `upload.wikimedia.org` für die Fotos. Ohne Netz funktioniert die
-App weiter: 2316 Fakten, 366 Aktionstage und 353 Fragen liegen in der APK.
+App weiter: 2406 Fakten, 366 Aktionstage und 353 Fragen liegen in der APK.
 
 ## Selbst bauen
 
