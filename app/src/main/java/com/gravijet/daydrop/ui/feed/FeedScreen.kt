@@ -18,6 +18,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.pager.PagerDefaults
 import androidx.compose.foundation.pager.VerticalPager
 import androidx.compose.foundation.pager.rememberPagerState
@@ -95,14 +96,21 @@ fun FeedScreen(
                 streak = state.streak.current,
                 enriching = state.enriching,
                 onOpenFavourites = onOpenFavourites,
-                onOpenSettings = onOpenSettings
+                onOpenSettings = onOpenSettings,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .widthIn(max = 760.dp)
+                    .align(Alignment.CenterHorizontally)
             )
 
             if (pageCount > 0) {
                 StoryProgress(
                     total = state.drops.size,
                     current = pagerState.currentPage,
-                    modifier = Modifier.padding(horizontal = 20.dp, vertical = 10.dp)
+                    modifier = Modifier
+                        .padding(horizontal = 20.dp, vertical = 10.dp)
+                        .widthIn(max = 760.dp)
+                        .align(Alignment.CenterHorizontally)
                 )
             }
 
@@ -113,7 +121,11 @@ fun FeedScreen(
                 state.drops.isEmpty() -> EmptyState(Modifier.weight(1f))
                 else -> VerticalPager(
                     state = pagerState,
-                    modifier = Modifier.weight(1f),
+                    modifier = Modifier
+                        .weight(1f)
+                        .fillMaxWidth()
+                        .widthIn(max = 760.dp)
+                        .align(Alignment.CenterHorizontally),
                     pageSpacing = 12.dp,
                     // A short flick is enough to turn the page - the default
                     // wants half a screen of travel before it commits.
@@ -173,7 +185,11 @@ fun FeedScreen(
                         scope.launch {
                             pagerState.animateScrollToPage(pagerState.currentPage + 1)
                         }
-                    }
+                    },
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .widthIn(max = 760.dp)
+                        .align(Alignment.CenterHorizontally)
                 )
             } else {
                 Spacer(Modifier.height(74.dp).navigationBarsPadding())
@@ -188,11 +204,11 @@ private fun TopBar(
     streak: Int,
     enriching: Boolean,
     onOpenFavourites: () -> Unit,
-    onOpenSettings: () -> Unit
+    onOpenSettings: () -> Unit,
+    modifier: Modifier = Modifier
 ) {
     Row(
-        modifier = Modifier
-            .fillMaxWidth()
+        modifier = modifier
             .statusBarsPadding()
             .padding(start = 22.dp, end = 14.dp, top = 14.dp),
         verticalAlignment = Alignment.CenterVertically
@@ -292,12 +308,12 @@ private fun ActionBar(
     saved: Boolean,
     onSave: () -> Unit,
     onShare: () -> Unit,
-    onNext: () -> Unit
+    onNext: () -> Unit,
+    modifier: Modifier = Modifier
 ) {
     val haptics = LocalHapticFeedback.current
     Row(
-        modifier = Modifier
-            .fillMaxWidth()
+        modifier = modifier
             .navigationBarsPadding()
             .padding(horizontal = 20.dp, vertical = 14.dp),
         verticalAlignment = Alignment.CenterVertically,

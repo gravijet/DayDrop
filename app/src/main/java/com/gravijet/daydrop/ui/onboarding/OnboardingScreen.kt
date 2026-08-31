@@ -21,6 +21,7 @@ import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
@@ -37,12 +38,15 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.gravijet.daydrop.data.model.Interest
+import com.gravijet.daydrop.R
 import com.gravijet.daydrop.ui.theme.Chalk
 import com.gravijet.daydrop.ui.theme.ChalkDim
 import com.gravijet.daydrop.ui.theme.Ink
@@ -69,16 +73,23 @@ fun OnboardingScreen(onDone: (Set<String>) -> Unit) {
             .fillMaxSize()
             .background(Ink)
     ) {
-        // A soft glow so the first screen does not read as a flat black wall.
+        // A real editorial image gives the first launch a sense of discovery;
+        // the dark lower third was composed as quiet space for this exact copy.
+        androidx.compose.foundation.Image(
+            painter = painterResource(R.drawable.onboarding_atlas),
+            contentDescription = null,
+            contentScale = ContentScale.Crop,
+            modifier = Modifier.fillMaxSize()
+        )
         Box(
-            Modifier
-                .fillMaxWidth()
-                .height(420.dp)
-                .background(
-                    Brush.verticalGradient(
-                        listOf(Color(0xFFFFB347).copy(alpha = 0.20f), Color.Transparent)
-                    )
+            Modifier.fillMaxSize().background(
+                Brush.verticalGradient(
+                    0f to Ink.copy(alpha = 0.10f),
+                    0.42f to Ink.copy(alpha = 0.24f),
+                    0.72f to Ink.copy(alpha = 0.84f),
+                    1f to Ink
                 )
+            )
         )
 
         Column(
@@ -87,6 +98,8 @@ fun OnboardingScreen(onDone: (Set<String>) -> Unit) {
                 .statusBarsPadding()
                 .navigationBarsPadding()
                 .padding(horizontal = 26.dp)
+                .widthIn(max = 620.dp)
+                .align(Alignment.Center)
         ) {
             if (step == 0) WelcomeStep(Modifier.weight(1f)) else InterestStep(
                 selected = selected.value,
@@ -128,6 +141,20 @@ private fun WelcomeStep(modifier: Modifier = Modifier) {
         modifier = modifier.fillMaxWidth(),
         verticalArrangement = Arrangement.Center
     ) {
+        Box(
+            Modifier
+                .clip(CircleShape)
+                .background(Chalk.copy(alpha = 0.12f))
+                .border(1.dp, Chalk.copy(alpha = 0.24f), CircleShape)
+                .padding(horizontal = 12.dp, vertical = 7.dp)
+        ) {
+            Text(
+                "DEIN TÄGLICHER WISSENSMOMENT",
+                style = MaterialTheme.typography.labelLarge,
+                color = Chalk.copy(alpha = 0.9f)
+            )
+        }
+        Spacer(Modifier.height(18.dp))
         Text("💧", fontSize = 68.sp)
         Spacer(Modifier.height(22.dp))
         Text(

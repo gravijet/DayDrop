@@ -15,7 +15,10 @@ data class FactEntry(
     /** Optional MM-dd. Entries with a date are only ever shown on that day. */
     val date: String? = null,
     /** Optional German Wikipedia article, used for the "read on" link. */
-    val wiki: String? = null
+    val wiki: String? = null,
+    /** A primary or editorial source may be preferable to an encyclopedia link. */
+    val sourceUrl: String? = null,
+    val sourceLabel: String? = null
 )
 
 @Serializable
@@ -65,8 +68,14 @@ class ContentRepository(private val read: (String) -> String) {
 
     private val json = Json { ignoreUnknownKeys = true }
 
+    /**
+     * Facts live in small, independently editable editions. Keeping the long
+     * established library separate from new editorial batches makes additions
+     * reviewable and avoids a single unwieldy asset file.
+     */
     val facts: List<FactEntry> by lazy {
-        json.decodeFromString<FactsFile>(read("content/facts.json")).facts
+        listOf("content/facts.json", "content/facts_atlas.json")
+            .flatMap { path -> json.decodeFromString<FactsFile>(read(path)).facts }
     }
 
     val days: Map<String, List<DayEntry>> by lazy {
