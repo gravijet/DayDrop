@@ -21,7 +21,7 @@ installieren sich also als Update über die vorherige.
 
 | # | Karte | Woher |
 | --- | --- | --- |
-| 1 | 📅 **Heute ist …** | 316 von 366 Tagen kuratiert, der Rest live von Wikipedia |
+| 1 | 📅 **Heute ist …** | Alle 366 Tage kuratiert, Wikipedia als stiller Fallback |
 | 2 | ⏳ **Heute vor X Jahren** | Wikipedia, das Ereignis des Tages |
 | 3 | 📖 **Artikel des Tages** | Wikipedia; ohne Netz springt ein kuratierter Fakt ein |
 | 4 | ✨ **Für dich** | Kuratierter Fakt aus deinen Themen |
@@ -76,9 +76,9 @@ zweimal ausgeliefert wird.
 
 Mit Netz verbraucht ein Tag im Schnitt **drei** kuratierte Fakten-Karten
 („Für dich" plus zwei der weiteren Fakten), weil die Slots „Heute vor X
-Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 1.950 nicht
-datumsgebundene Fakten stecken im Vorrat – rechnerisch reicht das fast zwei
-Jahre, die Fragen (289 Stück) rund neun Monate. Danach übernimmt
+Jahren" und „Artikel des Tages" von Wikipedia kommen. Rund 2.165 nicht
+datumsgebundene Fakten stecken im Vorrat – rechnerisch reicht das über zwei
+Jahre, die Fragen (353 Stück) rund elf Monate. Danach übernimmt
 Wikipedia diese Slots, ohne Wiederholung. Ohne Netz kommen mehr Karten aus
 dem kuratierten Vorrat, weil dann auch der Artikel-Slot lokal gefüllt wird.
 
@@ -87,7 +87,7 @@ Nachlegen geht jederzeit: eine Zeile mehr in `facts.json`, fertig.
 ## Bilder
 
 Hinter jeder Karte steht ein Foto aus einem **kuratierten Katalog** von rund
-1.300 Wikimedia-Commons-*Featured Pictures*: Landschaften, Tiere, Nachthimmel,
+3.400 Wikimedia-Commons-*Featured Pictures*: Landschaften, Tiere, Nachthimmel,
 Mineralien, Bibliotheken – nach Thema sortiert und jede URL beim Aufbau des
 Katalogs direkt über die Wikimedia-API verifiziert. Das Bild sitzt in voller
 Stärke hinter der Karte, nur der untere Rand verdunkelt sich sanft für den
@@ -115,7 +115,7 @@ Backend, kein Tracking.
 Die Netzaufrufe gehen ausschließlich an die offene Wikimedia-REST-API
 (`onthisday` für Ereignisse und Feiertage, `feed/featured` für den Artikel des
 Tages) und an `upload.wikimedia.org` für die Fotos. Ohne Netz funktioniert die
-App weiter: 2034 Fakten, 316 Aktionstage und 289 Fragen liegen in der APK.
+App weiter: 2256 Fakten, 366 Aktionstage und 353 Fragen liegen in der APK.
 
 ## Selbst bauen
 
