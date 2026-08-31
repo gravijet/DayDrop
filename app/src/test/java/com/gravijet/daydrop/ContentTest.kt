@@ -1,6 +1,7 @@
 package com.gravijet.daydrop
 
 import com.gravijet.daydrop.data.local.ContentRepository
+import com.gravijet.daydrop.domain.ImagePicker
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test
@@ -198,5 +199,16 @@ class ContentTest {
         // Some overlap is intended (minerals appear under science and weird),
         // but a catalogue that is mostly the same handful of pictures is not.
         assertTrue("only ${urls.toSet().size} distinct photos", urls.toSet().size >= 150)
+    }
+
+    @Test
+    fun `every fact resolves to a photo`() {
+        val picker = ImagePicker(content.images)
+        content.facts.forEach { fact ->
+            assertTrue(
+                "${fact.id}: no image resolved for ${fact.topics}",
+                !picker.imageFor(fact.id, fact.topics).isNullOrBlank()
+            )
+        }
     }
 }
