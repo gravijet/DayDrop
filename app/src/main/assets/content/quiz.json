@@ -4286,6 +4286,942 @@
     "sports",
     "science"
    ]
+  },
+  {
+   "id": "yq001",
+   "question": "Welcher Regisseur drehte 'Jurassic Park', 'E.T.' und 'Der weiße Hai'?",
+   "options": [
+    "Steven Spielberg",
+    "George Lucas",
+    "James Cameron"
+   ],
+   "answerIndex": 0,
+   "explanation": "Steven Spielberg gilt mit diesen und weiteren Klassikern als einer der kommerziell erfolgreichsten Regisseure der Filmgeschichte.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "yq002",
+   "question": "Welcher Animationsfilm-Klassiker war der erste abendfüllende Trickfilm der Filmgeschichte?",
+   "options": [
+    "Fantasia",
+    "Schneewittchen und die sieben Zwerge",
+    "Pinocchio"
+   ],
+   "answerIndex": 1,
+   "explanation": "Disneys 'Schneewittchen und die sieben Zwerge' kam 1937 als erster abendfüllender Zeichentrickfilm ins Kino.",
+   "topics": [
+    "movies",
+    "history"
+   ]
+  },
+  {
+   "id": "yq003",
+   "question": "In welcher Stadt spielt der Großteil der Handlung von 'Der Pate'?",
+   "options": [
+    "Chicago",
+    "New York",
+    "Boston"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Corleone-Familie in 'Der Pate' ist vor allem in New York angesiedelt, mit Abstechern nach Las Vegas und Sizilien.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "yq004",
+   "question": "Welches Filmstudio steht hinter 'Toy Story' und 'Findet Nemo'?",
+   "options": [
+    "DreamWorks",
+    "Pixar",
+    "Illumination"
+   ],
+   "answerIndex": 1,
+   "explanation": "Pixar Animation Studios revolutionierte ab 1995 mit 'Toy Story' die computeranimierte Filmbranche.",
+   "topics": [
+    "movies",
+    "tech"
+   ]
+  },
+  {
+   "id": "yq005",
+   "question": "Wie viele Oscars gewann der Film 'Titanic' von 1997 insgesamt?",
+   "options": [
+    "8",
+    "11",
+    "14"
+   ],
+   "answerIndex": 1,
+   "explanation": "'Titanic' gewann elf Oscars, darunter Bester Film und Beste Regie, und stellte damit einen Rekord ein.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "yq006",
+   "question": "Welches Instrument spielte Wolfgang Amadeus Mozart schon als kleines Kind virtuos?",
+   "options": [
+    "Geige",
+    "Klavier",
+    "Flöte"
+   ],
+   "answerIndex": 1,
+   "explanation": "Mozart trat schon als Fünfjähriger als Klaviervirtuose auf und komponierte erste kleine Stücke für das Instrument.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "yq007",
+   "question": "Welche Band veröffentlichte das meistverkaufte Album aller Zeiten, 'Thriller'?",
+   "options": [
+    "The Jackson 5",
+    "Michael Jackson (solo)",
+    "Earth, Wind & Fire"
+   ],
+   "answerIndex": 1,
+   "explanation": "Michael Jackson veröffentlichte 'Thriller' 1982 als Soloalbum, es verkaufte sich weltweit über 70 Millionen Mal.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "yq008",
+   "question": "Wie viele Saiten hat eine klassische Konzertgitarre normalerweise?",
+   "options": [
+    "4",
+    "6",
+    "8"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die klassische Gitarre wird mit sechs Saiten gestimmt, von der tiefen E-Saite bis zur hohen E-Saite.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "yq009",
+   "question": "Welches Land gilt als Geburtsort des Jazz?",
+   "options": [
+    "Frankreich",
+    "USA",
+    "Kuba"
+   ],
+   "answerIndex": 1,
+   "explanation": "Jazz entstand um die Wende zum 20. Jahrhundert vor allem in New Orleans im Süden der USA.",
+   "topics": [
+    "music",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq010",
+   "question": "Wie nennt man das Instrument, das durch Berühren zweier Antennen ohne Kontakt gespielt wird?",
+   "options": [
+    "Theremin",
+    "Synthesizer",
+    "Vocoder"
+   ],
+   "answerIndex": 0,
+   "explanation": "Das Theremin reagiert auf Handbewegungen im elektromagnetischen Feld zweier Antennen und wird dabei nie berührt.",
+   "topics": [
+    "music",
+    "tech"
+   ]
+  },
+  {
+   "id": "yq011",
+   "question": "Welches Land veranstaltete die erste FIFA-Fußballweltmeisterschaft 1930?",
+   "options": [
+    "Brasilien",
+    "Uruguay",
+    "Frankreich"
+   ],
+   "answerIndex": 1,
+   "explanation": "Uruguay war Gastgeber und gleichzeitig Weltmeister der ersten Fußball-WM im Jahr 1930.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "yq012",
+   "question": "Wie lang ist eine olympische Marathonstrecke?",
+   "options": [
+    "40 Kilometer",
+    "42,195 Kilometer",
+    "45 Kilometer"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Distanz von 42,195 Kilometern wurde 1921 international festgelegt, nach der Streckenführung von 1908 in London.",
+   "topics": [
+    "sports",
+    "history"
+   ]
+  },
+  {
+   "id": "yq013",
+   "question": "Welche Sportart wird traditionell auf einem 'Dohyō' ausgetragen?",
+   "options": [
+    "Judo",
+    "Sumō",
+    "Karate"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Dohyō ist der runde Ring aus gestampfter Lehmerde, auf dem japanisches Sumō-Ringen stattfindet.",
+   "topics": [
+    "sports"
+   ]
+  },
+  {
+   "id": "yq014",
+   "question": "Wie viele Spieler stehen bei American Football normalerweise gleichzeitig pro Team auf dem Feld?",
+   "options": [
+    "9",
+    "11",
+    "13"
+   ],
+   "answerIndex": 1,
+   "explanation": "Wie beim Fußball stehen auch beim American Football elf Spieler pro Mannschaft gleichzeitig auf dem Feld.",
+   "topics": [
+    "sports"
+   ]
+  },
+  {
+   "id": "yq015",
+   "question": "Aus welchem Land stammt der Curling-Granit, der für fast alle Wettkampfsteine verwendet wird?",
+   "options": [
+    "Kanada",
+    "Schottland",
+    "Norwegen"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Granit von der schottischen Insel Ailsa Craig gilt wegen seiner geringen Wasseraufnahme als idealer Curling-Stein.",
+   "topics": [
+    "sports",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq016",
+   "question": "Wer entwickelte das Videospiel Tetris?",
+   "options": [
+    "Shigeru Miyamoto",
+    "Alexei Paschitnow",
+    "Toru Iwatani"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der sowjetische Programmierer Alexei Paschitnow entwickelte Tetris 1984 in Moskau.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "yq017",
+   "question": "Wie hieß die Spielfigur Mario, bevor sie ihren heutigen Namen bekam?",
+   "options": [
+    "Jumpman",
+    "Runner",
+    "Blockhead"
+   ],
+   "answerIndex": 0,
+   "explanation": "In 'Donkey Kong' von 1981 war die Figur zunächst als 'Jumpman' bekannt.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "yq018",
+   "question": "Welches Spiel gilt mit über 300 Millionen verkauften Kopien als meistverkauftes Videospiel der Welt?",
+   "options": [
+    "Grand Theft Auto V",
+    "Minecraft",
+    "Tetris"
+   ],
+   "answerIndex": 1,
+   "explanation": "Minecraft verkaufte sich seit 2011 über 300 Millionen Mal und übertrifft damit selbst Tetris deutlich.",
+   "topics": [
+    "gaming"
+   ]
+  },
+  {
+   "id": "yq019",
+   "question": "Wie viele Felder hat ein klassisches Schachbrett?",
+   "options": [
+    "49",
+    "64",
+    "81"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ein Schachbrett besteht aus 8 mal 8 Feldern, also insgesamt 64 abwechselnd hellen und dunklen Feldern.",
+   "topics": [
+    "gaming"
+   ]
+  },
+  {
+   "id": "yq020",
+   "question": "In welchem Jahrzehnt kam die erste Version des Kartenspiels Rubik's Cube auf den Markt?",
+   "options": [
+    "1960er",
+    "1970er",
+    "1980er"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ernő Rubik entwickelte seinen Würfel 1974, verkauft wurde er ab Ende der 1970er-Jahre international.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "yq021",
+   "question": "Welche Sprache hat mit rund 74 Buchstaben das größte Alphabet der Welt?",
+   "options": [
+    "Khmer",
+    "Georgisch",
+    "Amharisch"
+   ],
+   "answerIndex": 0,
+   "explanation": "Die kambodschanische Khmer-Schrift zählt in ihrer vollen Form 74 Buchstaben, deutlich mehr als die meisten anderen Alphabete.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "yq022",
+   "question": "Auf welcher Insel wird die gepfiffene Sprache Silbo Gomero gesprochen?",
+   "options": [
+    "Kreta",
+    "La Gomera",
+    "Sardinien"
+   ],
+   "answerIndex": 1,
+   "explanation": "Auf der Kanareninsel La Gomera verständigen sich manche Menschen über eine gepfiffene Version des Spanischen.",
+   "topics": [
+    "language",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq023",
+   "question": "Aus welcher Sprache stammt ursprünglich das Wort 'Roboter'?",
+   "options": [
+    "Russisch",
+    "Tschechisch",
+    "Polnisch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Karel Čapek prägte den Begriff 1920 in seinem tschechischen Theaterstück 'R.U.R.', abgeleitet vom Wort 'robota' für Zwangsarbeit.",
+   "topics": [
+    "language",
+    "tech"
+   ]
+  },
+  {
+   "id": "yq024",
+   "question": "Welche europäische Sprache gilt als isoliert und mit keiner anderen verwandt?",
+   "options": [
+    "Ungarisch",
+    "Baskisch",
+    "Finnisch"
+   ],
+   "answerIndex": 1,
+   "explanation": "Baskisch im Norden Spaniens gehört zu keiner bekannten Sprachfamilie und steht sprachhistorisch isoliert da.",
+   "topics": [
+    "language",
+    "history"
+   ]
+  },
+  {
+   "id": "yq025",
+   "question": "Welches Land verbraucht laut Statistiken den meisten Kaffee pro Kopf?",
+   "options": [
+    "Italien",
+    "Finnland",
+    "Kolumbien"
+   ],
+   "answerIndex": 1,
+   "explanation": "Finnland liegt seit Jahren mit rund zehn Kilo Rohkaffee pro Kopf und Jahr an der Weltspitze.",
+   "topics": [
+    "food",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq026",
+   "question": "Woraus besteht die grüne Paste, die außerhalb Japans meist als 'Wasabi' serviert wird?",
+   "options": [
+    "Echtem Wasabi",
+    "Gefärbtem Meerrettich",
+    "Grüner Senfsaat"
+   ],
+   "answerIndex": 1,
+   "explanation": "Weil echter Wasabi teuer und schwer anzubauen ist, besteht die Paste meist aus gefärbtem Meerrettich mit Senfpulver.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "yq027",
+   "question": "Botanisch betrachtet gehören Erdnüsse zu welcher Pflanzenfamilie?",
+   "options": [
+    "Nussgewächse",
+    "Hülsenfrüchtler",
+    "Doldenblütler"
+   ],
+   "answerIndex": 1,
+   "explanation": "Erdnüsse zählen zu den Hülsenfrüchtlern und wachsen, anders als echte Nüsse, unterirdisch am Wurzelwerk.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "yq028",
+   "question": "Wie tief liegt der tiefste Punkt des Toten Meeres ungefähr unter dem Meeresspiegel?",
+   "options": [
+    "Etwa 130 Meter",
+    "Etwa 430 Meter",
+    "Etwa 730 Meter"
+   ],
+   "answerIndex": 1,
+   "explanation": "Das Tote Meer liegt auf rund 430 Metern unter dem Meeresspiegel, dem tiefsten Punkt an Land weltweit.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "yq029",
+   "question": "In welchem Land liegt die Wüste Atacama, eine der trockensten der Welt?",
+   "options": [
+    "Peru",
+    "Chile",
+    "Argentinien"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Atacama-Wüste erstreckt sich entlang der chilenischen Pazifikküste und gilt als eine der trockensten Regionen der Erde.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "yq030",
+   "question": "Welches Tier hat drei Herzen?",
+   "options": [
+    "Krake",
+    "Delfin",
+    "Wal"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kraken und andere Tintenfische besitzen drei Herzen: zwei für die Kiemen, eines für den restlichen Körper.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "yq031",
+   "question": "Wie schnell kann ein Wanderfalke im Sturzflug maximal werden?",
+   "options": [
+    "Etwa 150 km/h",
+    "Etwa 320 km/h",
+    "Etwa 500 km/h"
+   ],
+   "answerIndex": 1,
+   "explanation": "Beim Beutestoß erreicht der Wanderfalke Geschwindigkeiten von über 320 km/h und gilt damit als schnellstes Tier der Welt.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "yq032",
+   "question": "Welches Tier kann seine Gliedmaßen nahezu vollständig nachwachsen lassen?",
+   "options": [
+    "Axolotl",
+    "Gecko",
+    "Seestern"
+   ],
+   "answerIndex": 0,
+   "explanation": "Der mexikanische Axolotl kann verlorene Beine, Teile des Herzens und sogar Rückenmark fast narbenfrei regenerieren.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "yq033",
+   "question": "Was versorgt die charakteristische Farbe von Flamingos?",
+   "options": [
+    "Genetische Veranlagung",
+    "Ihre Nahrung",
+    "Die Sonneneinstrahlung"
+   ],
+   "answerIndex": 1,
+   "explanation": "Flamingos werden erst durch Pigmente aus Algen und Krebstieren in ihrer Nahrung pink, geschlüpft sind sie grau.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "yq034",
+   "question": "Wie heißt die Grenze, ab der offiziell der Weltraum beginnt?",
+   "options": [
+    "Kármán-Linie",
+    "Van-Allen-Grenze",
+    "Exosphärenlinie"
+   ],
+   "answerIndex": 0,
+   "explanation": "Die Kármán-Linie liegt bei rund 100 Kilometern Höhe und gilt international als Grenze zur Erdatmosphäre.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "yq035",
+   "question": "Welcher Planet hat einen Tag, der länger dauert als sein eigenes Jahr?",
+   "options": [
+    "Merkur",
+    "Venus",
+    "Mars"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die Venus braucht 243 Erdtage für eine Umdrehung um die eigene Achse, aber nur 225 Erdtage für eine Sonnenumrundung.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "yq036",
+   "question": "Wie heißt die am weitesten von der Erde entfernte, von Menschen gebaute Sonde?",
+   "options": [
+    "Voyager 1",
+    "New Horizons",
+    "Pioneer 10"
+   ],
+   "answerIndex": 0,
+   "explanation": "Voyager 1 hat seit ihrem Start 1977 längst den interstellaren Raum erreicht und ist das am weitesten entfernte menschengemachte Objekt.",
+   "topics": [
+    "space",
+    "tech"
+   ]
+  },
+  {
+   "id": "yq037",
+   "question": "Wie viele Höhenmeter kann der höchste bekannte Vulkan des Sonnensystems, Olympus Mons auf dem Mars, erreichen?",
+   "options": [
+    "Etwa 9 Kilometer",
+    "Etwa 15 Kilometer",
+    "Etwa 22 Kilometer"
+   ],
+   "answerIndex": 2,
+   "explanation": "Olympus Mons ist mit rund 22 Kilometern Höhe fast dreimal so hoch wie der Mount Everest über dem Meeresspiegel.",
+   "topics": [
+    "space",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq038",
+   "question": "Wodurch entsteht der charakteristische pinke See Lake Hillier in Australien?",
+   "options": [
+    "Mineralische Ablagerungen",
+    "Mikroorganismen und Salzgehalt",
+    "Vulkanische Gase"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bestimmte Mikroorganismen zusammen mit einem hohen Salzgehalt färben den Lake Hillier dauerhaft pink.",
+   "topics": [
+    "weird",
+    "nature"
+   ]
+  },
+  {
+   "id": "yq039",
+   "question": "In welcher neuseeländischen Höhle leuchten Insektenlarven wie ein Sternenhimmel?",
+   "options": [
+    "Waitomo-Höhlen",
+    "Ruakuri-Höhle",
+    "Cathedral Caves"
+   ],
+   "answerIndex": 0,
+   "explanation": "In den Waitomo-Höhlen erzeugen Larven einer heimischen Mückenart bläuliches Licht, um Beute anzulocken.",
+   "topics": [
+    "weird",
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "id": "yq040",
+   "question": "Welches Gebiet zwischen Ägypten und Sudan beansprucht offiziell kein Staat?",
+   "options": [
+    "Bir Tawil",
+    "Halaib-Dreieck",
+    "Wadi Halfa"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bir Tawil wird von keinem der beiden Nachbarstaaten beansprucht, weil beide lieber ein anderes, ressourcenreicheres Gebiet reklamieren.",
+   "topics": [
+    "weird",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq041",
+   "question": "Woraus besteht hauptsächlich die Wolkendecke der Venus?",
+   "options": [
+    "Wassertropfen",
+    "Schwefelsäure",
+    "Kohlendioxid-Eis"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die dichten Venuswolken bestehen größtenteils aus hochkonzentrierter Schwefelsäure statt aus Wasser wie auf der Erde.",
+   "topics": [
+    "space",
+    "science"
+   ]
+  },
+  {
+   "id": "yq042",
+   "question": "Wie viele Zeitzonen erstrecken sich offiziell über russisches Staatsgebiet?",
+   "options": [
+    "Neun",
+    "Elf",
+    "Dreizehn"
+   ],
+   "answerIndex": 1,
+   "explanation": "Russland erstreckt sich über elf Zeitzonen, mehr als jedes andere Land der Welt.",
+   "topics": [
+    "geography"
+   ]
+  },
+  {
+   "id": "yq043",
+   "question": "Wie viele mögliche Stellungen hat ein Rubik's Cube ungefähr?",
+   "options": [
+    "43 Millionen",
+    "43 Milliarden",
+    "43 Trillionen"
+   ],
+   "answerIndex": 2,
+   "explanation": "Exakt sind es 43.252.003.274.489.856.000 verschiedene Zustände des Zauberwürfels.",
+   "topics": [
+    "gaming",
+    "science"
+   ]
+  },
+  {
+   "id": "yq044",
+   "question": "Welches Land produziert jährlich die meisten Spielfilme?",
+   "options": [
+    "USA",
+    "Indien",
+    "China"
+   ],
+   "answerIndex": 1,
+   "explanation": "Indiens Filmindustrie, allen voran Bollywood, bringt regelmäßig über 1.500 Filme pro Jahr in verschiedenen Sprachen heraus.",
+   "topics": [
+    "movies",
+    "geography"
+   ]
+  },
+  {
+   "id": "yq045",
+   "question": "Wie viele Zinken hat eine klassische Stimmgabel?",
+   "options": [
+    "Eine",
+    "Zwei",
+    "Vier"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die beiden Zinken schwingen exakt gegenläufig, wodurch Störschwingungen sich auslöschen und ein besonders reiner Ton entsteht.",
+   "topics": [
+    "music",
+    "science"
+   ]
+  },
+  {
+   "id": "yq046",
+   "question": "In welcher Stadt wurde die erste SMS der Geschichte 1992 verschickt?",
+   "options": [
+    "London",
+    "Newbury",
+    "Manchester"
+   ],
+   "answerIndex": 1,
+   "explanation": "Der Ingenieur Neil Papworth verschickte die erste SMS 1992 aus Newbury in England mit dem Text 'Merry Christmas'.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "yq047",
+   "question": "Wie heißt der erste Computer-Virus, der 1971 als Scherz programmiert wurde?",
+   "options": [
+    "Creeper",
+    "Melissa",
+    "ILOVEYOU"
+   ],
+   "answerIndex": 0,
+   "explanation": "'Creeper' zeigte 1971 nur eine harmlose Meldung an infizierten Rechnern und richtete keinen echten Schaden an.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "yq048",
+   "question": "Bei welcher Temperatur schmilzt das Metall Gallium ungefähr?",
+   "options": [
+    "Knapp unter 30 Grad",
+    "Bei 100 Grad",
+    "Bei minus 10 Grad"
+   ],
+   "answerIndex": 0,
+   "explanation": "Gallium schmilzt schon bei knapp unter 30 Grad Celsius und zerfließt deshalb in der warmen Hand.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "yq049",
+   "question": "Wie viele Herzschläge macht ein menschliches Herz schätzungsweise in einem ganzen Leben?",
+   "options": [
+    "Etwa 300 Millionen",
+    "Etwa 3 Milliarden",
+    "Etwa 30 Milliarden"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bei rund 70 Schlägen pro Minute kommen über achtzig Jahre gerechnet mehr als drei Milliarden Herzschläge zusammen.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "yq050",
+   "question": "Wie lange hielt die Cheops-Pyramide den Rekord als höchstes Bauwerk der Menschheit?",
+   "options": [
+    "Rund 800 Jahre",
+    "Rund 2.000 Jahre",
+    "Über 3.800 Jahre"
+   ],
+   "answerIndex": 2,
+   "explanation": "Von ihrer Fertigstellung um 2560 vor Christus bis zum Bau der Kathedrale von Lincoln im 14. Jahrhundert war sie das höchste Bauwerk der Welt.",
+   "topics": [
+    "history"
+   ]
+  },
+  {
+   "id": "yq051",
+   "question": "Welches Gewürz gilt als teuerstes der Welt?",
+   "options": [
+    "Vanille",
+    "Safran",
+    "Kardamom"
+   ],
+   "answerIndex": 1,
+   "explanation": "Für ein Gramm Safran müssen bis zu 150 Krokusblüten von Hand gepflückt werden, was den Kilopreis extrem in die Höhe treibt.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "yq052",
+   "question": "Welches Enzym macht Ananas zu einem natürlichen Fleischweichmacher?",
+   "options": [
+    "Bromelain",
+    "Papain",
+    "Amylase"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bromelain in der Ananas spaltet Proteine und wird deshalb in der Küche gezielt zum Weichmachen von Fleisch genutzt.",
+   "topics": [
+    "food",
+    "science"
+   ]
+  },
+  {
+   "id": "yq053",
+   "question": "Wie viele Buchstaben hatte das längste je offiziell gültige deutsche Gesetzeswort?",
+   "options": [
+    "37",
+    "51",
+    "63"
+   ],
+   "answerIndex": 2,
+   "explanation": "Das 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' zählte 63 Buchstaben, bevor es 2013 abgeschafft wurde.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "yq054",
+   "question": "Wie nennt man das Netzwerk aus Pilzfäden, über das sich Waldbäume Nährstoffe austauschen?",
+   "options": [
+    "Mykorrhiza",
+    "Xylem-Netz",
+    "Rhizosphäre-Bund"
+   ],
+   "answerIndex": 0,
+   "explanation": "Über das Mykorrhiza-Netzwerk können Bäume Zucker und Warnsignale an benachbarte Bäume weitergeben.",
+   "topics": [
+    "nature",
+    "science"
+   ]
+  },
+  {
+   "id": "yq055",
+   "question": "Welche Blume verströmt beim Blühen absichtlich einen Aasgeruch, um Fliegen anzulocken?",
+   "options": [
+    "Titanwurz",
+    "Rafflesia",
+    "Beide stimmen"
+   ],
+   "answerIndex": 2,
+   "explanation": "Sowohl die Titanwurz als auch die Rafflesia locken Aasfliegen mit Verwesungsgeruch an, um bestäubt zu werden.",
+   "topics": [
+    "nature",
+    "weird"
+   ]
+  },
+  {
+   "id": "yq056",
+   "question": "Wie oft umrundet die Internationale Raumstation die Erde ungefähr pro Tag?",
+   "options": [
+    "Etwa 4 Mal",
+    "Etwa 16 Mal",
+    "Etwa 30 Mal"
+   ],
+   "answerIndex": 1,
+   "explanation": "Bei einer Umlaufzeit von rund 90 Minuten umrundet die ISS die Erde etwa 16 Mal am Tag.",
+   "topics": [
+    "space"
+   ]
+  },
+  {
+   "id": "yq057",
+   "question": "Wie hoch kann die Temperatur in einem Blitzkanal kurzzeitig steigen?",
+   "options": [
+    "Etwa 3.000 Grad",
+    "Etwa 10.000 Grad",
+    "Über 27.000 Grad"
+   ],
+   "answerIndex": 2,
+   "explanation": "Ein Blitzkanal kann kurzzeitig über 27.000 Grad heiß werden, etwa fünfmal so heiß wie die Sonnenoberfläche.",
+   "topics": [
+    "science",
+    "weird"
+   ]
+  },
+  {
+   "id": "yq058",
+   "question": "Welches Tier hält im Schlaf die Pfote seines Partners fest?",
+   "options": [
+    "Seeotter",
+    "Biber",
+    "Waschbär"
+   ],
+   "answerIndex": 0,
+   "explanation": "Seeotter halten sich im Schlaf an den Pfoten, damit die Gruppe nicht auseinandertreibt, manche wickeln sich zusätzlich in Seetang ein.",
+   "topics": [
+    "animals"
+   ]
+  },
+  {
+   "id": "yq059",
+   "question": "Wodurch erkennen Krähen einzelne Menschen wieder?",
+   "options": [
+    "Am Geruch",
+    "An Gesichtern",
+    "An der Stimme"
+   ],
+   "answerIndex": 1,
+   "explanation": "Krähen merken sich menschliche Gesichter jahrelang und geben diese Erkenntnis sogar an andere Krähen weiter.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "yq060",
+   "question": "Wie viele Höhenmeter kann eine einzelne Bergetappe der Tour de France überwinden?",
+   "options": [
+    "Bis zu 2.000",
+    "Bis zu 3.500",
+    "Über 5.000"
+   ],
+   "answerIndex": 2,
+   "explanation": "Bei anspruchsvollen Alpen- oder Pyrenäenetappen können über 5.000 Höhenmeter an einem einzigen Tag zusammenkommen.",
+   "topics": [
+    "sports",
+    "body"
+   ]
+  },
+  {
+   "id": "yq061",
+   "question": "Wie schnell kann ein Federball beim Badminton-Smash ungefähr werden?",
+   "options": [
+    "Etwa 150 km/h",
+    "Etwa 250 km/h",
+    "Über 400 km/h"
+   ],
+   "answerIndex": 2,
+   "explanation": "Beim Smash kann ein Federball direkt am Schläger Geschwindigkeiten von über 400 km/h erreichen.",
+   "topics": [
+    "sports",
+    "science"
+   ]
+  },
+  {
+   "id": "yq062",
+   "question": "Wie heißt das Turnier, bei dem Studierende 1972 im Spiel Spacewar! gegeneinander antraten und als erster E-Sport-Wettbewerb der Geschichte gilt?",
+   "options": [
+    "Stanford-Turnier",
+    "Intergalactic Spacewar Olympics",
+    "MIT Game Cup"
+   ],
+   "answerIndex": 1,
+   "explanation": "Die 'Intergalactic Spacewar Olympics' an der Stanford University 1972 gelten als erster dokumentierter E-Sport-Wettbewerb.",
+   "topics": [
+    "gaming",
+    "history"
+   ]
+  },
+  {
+   "id": "yq063",
+   "question": "Wie schwer kann das Herz eines Blauwals werden?",
+   "options": [
+    "Etwa 20 Kilogramm",
+    "Etwa 90 Kilogramm",
+    "Bis zu 180 Kilogramm"
+   ],
+   "answerIndex": 2,
+   "explanation": "Mit bis zu 180 Kilogramm ist das Blauwal-Herz das größte bekannte Herz im Tierreich.",
+   "topics": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "id": "yq064",
+   "question": "In welchem Jahrzehnt wurde die erste E-Mail überhaupt verschickt?",
+   "options": [
+    "1960er",
+    "1970er",
+    "1980er"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ray Tomlinson verschickte 1971 die erste E-Mail über ein Netzwerk und führte dabei das @-Zeichen für Adressen ein.",
+   "topics": [
+    "tech",
+    "history"
+   ]
   }
  ]
 }
