@@ -49,6 +49,7 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.input.pointer.pointerInput
@@ -110,7 +111,7 @@ fun DropCard(
     Box(
         modifier = modifier
             .clip(RoundedCornerShape(32.dp))
-            .background(if (drop.imageUrl != null) Color.Black else palette.brush)
+            .background(if (drop.imageUrl != null) SolidColor(Color.Black) else palette.brush)
             .pointerInput(drop.id) {
                 detectTapGestures(
                     onDoubleTap = {
