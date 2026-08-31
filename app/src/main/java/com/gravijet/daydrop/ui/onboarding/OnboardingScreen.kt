@@ -76,7 +76,7 @@ fun OnboardingScreen(onDone: (Set<String>) -> Unit) {
         // A real editorial image gives the first launch a sense of discovery;
         // the dark lower third was composed as quiet space for this exact copy.
         androidx.compose.foundation.Image(
-            painter = painterResource(R.drawable.onboarding_atlas),
+            painter = painterResource(R.drawable.onboarding_drop),
             contentDescription = null,
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()

@@ -44,6 +44,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.platform.LocalContext
@@ -86,7 +87,13 @@ fun FeedScreen(
     Box(
         Modifier
             .fillMaxSize()
-            .background(Ink)
+            .background(
+                Brush.radialGradient(
+                    colors = listOf(Color(0xFF17264A), Ink),
+                    radius = 1_100f,
+                    center = androidx.compose.ui.geometry.Offset(260f, 0f)
+                )
+            )
     ) {
         Column(Modifier.fillMaxSize()) {
             TopBar(

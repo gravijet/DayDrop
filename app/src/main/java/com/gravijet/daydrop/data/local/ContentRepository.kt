@@ -74,7 +74,11 @@ class ContentRepository(private val read: (String) -> String) {
      * reviewable and avoids a single unwieldy asset file.
      */
     val facts: List<FactEntry> by lazy {
-        listOf("content/facts.json", "content/facts_atlas.json")
+        listOf(
+            "content/facts.json",
+            "content/facts_atlas.json",
+            "content/facts_mosaik.json"
+        )
             .flatMap { path -> json.decodeFromString<FactsFile>(read(path)).facts }
     }
 

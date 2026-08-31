@@ -267,7 +267,8 @@ private fun Eyebrow(drop: Drop) {
         Box(
             Modifier
                 .clip(CircleShape)
-                .background(Color.Black.copy(alpha = 0.28f))
+                .background(Color.Black.copy(alpha = 0.36f))
+                .border(1.dp, Chalk.copy(alpha = 0.17f), CircleShape)
                 .padding(horizontal = 14.dp, vertical = 8.dp)
         ) {
             Text(

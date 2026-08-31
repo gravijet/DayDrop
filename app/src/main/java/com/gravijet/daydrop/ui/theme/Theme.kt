@@ -16,9 +16,9 @@ import com.gravijet.daydrop.data.model.DropType
 
 // DayDrop is a night-time reading surface: near-black paper, one saturated
 // accent per card type, nothing else competing for attention.
-val Ink = Color(0xFF08080E)
-val InkElevated = Color(0xFF14141F)
-val InkBorder = Color(0xFF262636)
+val Ink = Color(0xFF070A12)
+val InkElevated = Color(0xFF111724)
+val InkBorder = Color(0xFF293246)
 val Chalk = Color(0xFFF4F3FB)
 val ChalkDim = Color(0xFF9E9DB4)
 val Accent = Color(0xFFFFB347)
