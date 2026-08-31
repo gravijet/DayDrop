@@ -44,7 +44,9 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -138,9 +140,14 @@ fun FeedScreen(
                             }
                     ) {
                         if (page < state.drops.size) {
+                            val drop = state.drops[page]
                             DropCard(
-                                drop = state.drops[page],
+                                drop = drop,
                                 modifier = Modifier.fillMaxSize(),
+                                pagerOffset = (pagerState.currentPage - page) +
+                                    pagerState.currentPageOffsetFraction,
+                                saved = drop.id in favouriteIds,
+                                onToggleSave = { viewModel.toggleFavourite(drop) },
                                 onOpenSource = { openUrl(context, it) }
                             )
                         } else {
@@ -287,6 +294,7 @@ private fun ActionBar(
     onShare: () -> Unit,
     onNext: () -> Unit
 ) {
+    val haptics = LocalHapticFeedback.current
     Row(
         modifier = Modifier
             .fillMaxWidth()
@@ -301,7 +309,10 @@ private fun ActionBar(
             label = if (saved) "Gespeichert" else "Speichern",
             tint = if (saved) palette.glow else ChalkDim,
             modifier = Modifier.weight(1f),
-            onClick = onSave
+            onClick = {
+                haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+                onSave()
+            }
         )
         ActionButton(
             icon = Icons.Rounded.IosShare,
@@ -316,7 +327,10 @@ private fun ActionBar(
                 .size(52.dp)
                 .clip(RoundedCornerShape(16.dp))
                 .background(Chalk)
-                .clickable(onClick = onNext),
+                .clickable {
+                    haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+                    onNext()
+                },
             contentAlignment = Alignment.Center
         ) {
             Icon(

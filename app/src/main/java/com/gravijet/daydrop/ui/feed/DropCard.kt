@@ -1,6 +1,8 @@
 package com.gravijet.daydrop.ui.feed
 
 import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.EaseOutQuart
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
 import androidx.compose.animation.expandVertically
@@ -8,6 +10,7 @@ import androidx.compose.animation.fadeIn
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -27,13 +30,16 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.CheckCircle
+import androidx.compose.material.icons.rounded.Favorite
 import androidx.compose.material.icons.automirrored.rounded.OpenInNew
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
@@ -43,7 +49,11 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -53,6 +63,8 @@ import com.gravijet.daydrop.data.model.DropType
 import com.gravijet.daydrop.data.model.Interest
 import com.gravijet.daydrop.ui.theme.Chalk
 import com.gravijet.daydrop.ui.theme.paletteFor
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 /**
  * One full-bleed story card. Image cards tint the photo with the card's own
@@ -64,14 +76,52 @@ fun DropCard(
     drop: Drop,
     modifier: Modifier = Modifier,
     compact: Boolean = false,
+    /** -1f (previous) .. 0f (current) .. 1f (next) - drives the photo's parallax drift. */
+    pagerOffset: Float = 0f,
+    saved: Boolean = false,
+    onToggleSave: () -> Unit = {},
     onOpenSource: (String) -> Unit = {}
 ) {
     val palette = paletteFor(drop.type)
+    val haptics = LocalHapticFeedback.current
+
+    // A slow, one-shot drift toward the photo so a card that just landed on
+    // screen never looks frozen - stops well short of cropping into the text.
+    val kenBurns = remember(drop.id) { Animatable(1f) }
+    LaunchedEffect(drop.id) {
+        kenBurns.animateTo(1.08f, tween(16_000, easing = EaseOutQuart))
+    }
+
+    var heartBurst by remember(drop.id) { mutableStateOf(false) }
+    val heartScale = remember(drop.id) { Animatable(0.6f) }
+    val heartAlpha = remember(drop.id) { Animatable(0f) }
+    LaunchedEffect(heartBurst) {
+        if (!heartBurst) return@LaunchedEffect
+        launch {
+            heartScale.snapTo(0.6f)
+            heartScale.animateTo(1f, tween(220, easing = EaseOutQuart))
+        }
+        heartAlpha.snapTo(1f)
+        delay(420)
+        heartAlpha.animateTo(0f, tween(260))
+        heartBurst = false
+    }
 
     Box(
         modifier = modifier
             .clip(RoundedCornerShape(32.dp))
             .background(if (drop.imageUrl != null) Color.Black else palette.brush)
+            .pointerInput(drop.id) {
+                detectTapGestures(
+                    onDoubleTap = {
+                        if (!saved) {
+                            onToggleSave()
+                            haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+                        }
+                        heartBurst = true
+                    }
+                )
+            }
     ) {
         drop.imageUrl?.let { url ->
             // The photo itself carries the card - full strength, no colour
@@ -82,7 +132,16 @@ fun DropCard(
                 model = url,
                 contentDescription = null,
                 contentScale = ContentScale.Crop,
-                modifier = Modifier.fillMaxSize()
+                modifier = Modifier
+                    .fillMaxSize()
+                    .graphicsLayer {
+                        val zoom = kenBurns.value
+                        scaleX = zoom
+                        scaleY = zoom
+                        // Drifts opposite the swipe so the photo reads as a
+                        // layer behind the card rather than glued to it.
+                        translationX = -pagerOffset * size.width * 0.06f
+                    }
             )
             Box(
                 Modifier
@@ -182,6 +241,22 @@ fun DropCard(
                 }
             }
         }
+
+        // Double-tap feedback, Instagram-style: a heart that bursts in over
+        // the photo and fades back out, independent of the save state below.
+        Icon(
+            Icons.Rounded.Favorite,
+            contentDescription = null,
+            tint = Chalk,
+            modifier = Modifier
+                .align(Alignment.Center)
+                .size(96.dp)
+                .graphicsLayer {
+                    scaleX = heartScale.value
+                    scaleY = heartScale.value
+                    alpha = heartAlpha.value
+                }
+        )
     }
 }
 
@@ -244,6 +319,7 @@ private fun TopicRow(topics: List<String>) {
 private fun QuizBody(drop: Drop, compact: Boolean) {
     val quiz = drop.quiz ?: return
     var picked by rememberSaveable(drop.id) { mutableIntStateOf(-1) }
+    val haptics = LocalHapticFeedback.current
 
     Text(
         text = quiz.question,
@@ -276,7 +352,10 @@ private fun QuizBody(drop: Drop, compact: Boolean) {
                 .clip(RoundedCornerShape(16.dp))
                 .background(fill)
                 .border(1.dp, Chalk.copy(alpha = 0.18f), RoundedCornerShape(16.dp))
-                .clickable(enabled = !revealed) { picked = index }
+                .clickable(enabled = !revealed) {
+                    picked = index
+                    haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+                }
                 .padding(horizontal = 16.dp, vertical = 15.dp)
         ) {
             Text(
