@@ -20,6 +20,17 @@
     "wiki": "Introversion und Extraversion"
    }
   ],
+  "01-03": [
+   {
+    "title": "J.R.R. Tolkien wurde geboren",
+    "text": "Der Sprachwissenschaftler und Autor kam 1892 im südafrikanischen Bloemfontein zur Welt. Aus seiner Liebe zu erfundenen Sprachen entstand später die komplette Welt von Mittelerde.",
+    "topics": [
+     "history",
+     "movies"
+    ],
+    "wiki": "J. R. R. Tolkien"
+   }
+  ],
   "01-04": [
    {
     "title": "Welt-Brailletag",
@@ -29,6 +40,16 @@
      "history"
     ],
     "wiki": "Louis Braille"
+   }
+  ],
+  "01-05": [
+   {
+    "title": "Henry Ford verdoppelt den Tageslohn seiner Arbeiter",
+    "text": "Am 5. Januar 1914 kündigte Ford Motor Company einen Mindestlohn von fünf Dollar pro Tag an, fast doppelt so viel wie üblich. Ford erhoffte sich dadurch zufriedenere Arbeiter und Kunden, die sich seine eigenen Autos leisten konnten.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Fünf-Dollar-Tag"
    }
   ],
   "01-06": [
@@ -51,6 +72,82 @@
     "wiki": "Weihnachten"
    }
   ],
+  "01-08": [
+   {
+    "title": "Elvis Presley wurde geboren",
+    "text": "1935 kam er im ärmlichen Tupelo, Mississippi, zur Welt, in einem selbstgebauten Zweizimmerhaus seines Vaters. Zwei Jahrzehnte später veränderte er als 'King of Rock 'n' Roll' die Popmusik weltweit.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Elvis Presley"
+   }
+  ],
+  "01-09": [
+   {
+    "title": "Steve Jobs stellte das erste iPhone vor",
+    "text": "2007 präsentierte er es auf der Macworld-Messe als Kombination aus Telefon, iPod und Internetgerät. Der Verkaufsstart folgte erst rund ein halbes Jahr später, im Juni desselben Jahres.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "IPhone (1. Generation)"
+   }
+  ],
+  "01-10": [
+   {
+    "title": "Der Völkerbund nimmt offiziell seine Arbeit auf",
+    "text": "Mit Inkrafttreten des Versailler Vertrags am 10. Januar 1920 entstand der Völkerbund als erste internationale Organisation zur Friedenssicherung. Er gilt als direkter Vorläufer der heutigen Vereinten Nationen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Völkerbund"
+   }
+  ],
+  "01-11": [
+   {
+    "title": "Ein Junge in Toronto erhält die erste Insulin-Spritze der Geschichte",
+    "text": "Am 11. Januar 1922 wurde einem 14-jährigen Diabetes-Patienten erstmals Insulin verabreicht, damals eine gerade erst entdeckte Substanz. Die Behandlung machte die bis dahin fast immer tödliche Zuckerkrankheit erstmals dauerhaft beherrschbar.",
+    "topics": [
+     "science",
+     "body",
+     "history"
+    ],
+    "wiki": "Insulin"
+   }
+  ],
+  "01-12": [
+   {
+    "title": "Jack London wurde geboren",
+    "text": "1876 in San Francisco geboren, arbeitete er unter anderem als Austernpirat und Goldsucher, bevor er zum Schriftsteller wurde. Seine Erlebnisse im Klondike-Goldrausch flossen direkt in Romane wie 'Ruf der Wildnis' ein.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Jack London"
+   }
+  ],
+  "01-13": [
+   {
+    "title": "Émile Zola veröffentlicht seinen berühmten offenen Brief 'J'accuse'",
+    "text": "Am 13. Januar 1898 druckte die Zeitung L'Aurore Zolas Anklage gegen die französische Justiz im Fall Dreyfus auf der Titelseite ab. Der Text gilt bis heute als eines der wirkungsmächtigsten Beispiele engagierten Journalismus.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "J’accuse…!"
+   }
+  ],
+  "01-14": [
+   {
+    "title": "Albert Schweitzer wurde geboren",
+    "text": "1875 im Elsass geboren, war er gleichzeitig Theologe, Musiker und Mediziner. Für sein Urwaldspital in Lambaréné im heutigen Gabun erhielt er 1952 den Friedensnobelpreis.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Albert Schweitzer"
+   }
+  ],
   "01-15": [
    {
     "title": "Wikipedia-Tag",
@@ -62,6 +159,27 @@
     "wiki": "Wikipedia"
    }
   ],
+  "01-16": [
+   {
+    "title": "Die Prohibition begann in den USA",
+    "text": "1920 trat der landesweite Alkoholverkauf per Verfassungszusatz außer Kraft und trieb den Handel in die Illegalität. Organisierte Kriminalität und Schmuggel blühten in den folgenden 13 Jahren, bis das Verbot 1933 wieder aufgehoben wurde.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Prohibition in den Vereinigten Staaten"
+   }
+  ],
+  "01-17": [
+   {
+    "title": "Muhammad Ali wurde geboren",
+    "text": "1942 als Cassius Clay in Louisville, Kentucky, geboren, wurde er zum vielleicht bekanntesten Boxer der Geschichte. Seinen Namen änderte er 1964 nach seinem Übertritt zum Islam.",
+    "topics": [
+     "sports",
+     "history"
+    ],
+    "wiki": "Muhammad Ali"
+   }
+  ],
   "01-18": [
    {
     "title": "Welt-Schneemann-Tag",
@@ -70,6 +188,17 @@
      "weird",
      "nature"
     ]
+   }
+  ],
+  "01-19": [
+   {
+    "title": "Edgar Allan Poe wurde geboren",
+    "text": "1809 in Boston geboren, gilt er als Wegbereiter der modernen Kurzgeschichte und der Detektivliteratur. Sein Gedicht 'Der Rabe' machte ihn 1845 quasi über Nacht berühmt, finanziellen Wohlstand brachte ihm das kaum.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Edgar Allan Poe"
    }
   ],
   "01-20": [
@@ -91,6 +220,16 @@
      "weird",
      "body"
     ]
+   }
+  ],
+  "01-22": [
+   {
+    "title": "Königin Victoria stirbt nach über 63 Jahren auf dem Thron",
+    "text": "Am 22. Januar 1901 endete die längste Regentschaft der britischen Geschichte bis dahin auf der Isle of Wight. Nach ihr wurde eine ganze Epoche benannt, das viktorianische Zeitalter.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Viktoria (Vereinigtes Königreich)"
    }
   ],
   "01-23": [
@@ -163,6 +302,16 @@
     "wiki": "Puzzle"
    }
   ],
+  "01-30": [
+   {
+    "title": "Franklin D. Roosevelt wurde geboren",
+    "text": "1882 geboren, ist er bis heute der einzige US-Präsident, der viermal ins Amt gewählt wurde. Sein 'New Deal' half den USA aus der Weltwirtschaftskrise, er selbst regierte trotz einer Lähmung beider Beine, die er weitgehend verbarg.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Franklin D. Roosevelt"
+   }
+  ],
   "01-31": [
    {
     "title": "Internationaler Tag des Zebras",
@@ -196,6 +345,17 @@
     "wiki": "Groundhog Day"
    }
   ],
+  "02-03": [
+   {
+    "title": "Der Tag, an dem die Musik starb",
+    "text": "1959 starben Buddy Holly, Ritchie Valens und The Big Bopper bei einem Flugzeugabsturz in Iowa. Musiker Don McLean prägte den Namen dieses Tages Jahre später in seinem Song 'American Pie'.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Buddy Holly"
+   }
+  ],
   "02-04": [
    {
     "title": "Weltkrebstag",
@@ -214,6 +374,39 @@
      "food"
     ],
     "wiki": "Nutella"
+   }
+  ],
+  "02-06": [
+   {
+    "title": "Bob Marley wurde geboren",
+    "text": "1945 auf Jamaika geboren, machte er den Reggae zu einem weltweit gehörten Musikstil. Seine Songs verbanden karibische Rhythmen mit politischen und spirituellen Botschaften des Rastafari-Glaubens.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Bob Marley"
+   }
+  ],
+  "02-07": [
+   {
+    "title": "Charles Dickens wurde geboren",
+    "text": "1812 in England geboren, prägte er mit Romanen wie 'Oliver Twist' das Bild des viktorianischen London bis heute. Viele seiner Werke erschienen zunächst als Fortsetzungsgeschichten in Zeitschriften, kapitelweise für ein wartendes Publikum.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Charles Dickens"
+   }
+  ],
+  "02-08": [
+   {
+    "title": "Jules Verne wurde geboren",
+    "text": "1828 in Frankreich geboren, gilt er als einer der Begründer der modernen Science-Fiction. In Romanen wie 'Zwanzigtausend Meilen unter dem Meer' beschrieb er U-Boote, lange bevor solche Technik tatsächlich existierte.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Jules Verne"
    }
   ],
   "02-09": [
@@ -289,6 +482,17 @@
     "wiki": "Flusspferd"
    }
   ],
+  "02-16": [
+   {
+    "title": "Fidel Castro wird kubanischer Ministerpräsident",
+    "text": "Am 16. Februar 1959, wenige Wochen nach dem Sturz von Diktator Batista, übernahm Castro offiziell das Regierungsamt. Er sollte Kuba danach für fast fünf Jahrzehnte prägen.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Fidel Castro"
+   }
+  ],
   "02-17": [
    {
     "title": "Tag der spontanen Freundlichkeit",
@@ -307,6 +511,17 @@
      "science"
     ],
     "wiki": "Asperger-Syndrom"
+   }
+  ],
+  "02-19": [
+   {
+    "title": "Nikolaus Kopernikus wurde geboren",
+    "text": "1473 im heutigen Polen geboren, stellte er die Erde vom Zentrum des Weltbilds auf einen Platz um die Sonne. Seine Theorie veröffentlichte er erst kurz vor seinem Tod, aus Sorge vor kirchlichem Widerstand.",
+    "topics": [
+     "history",
+     "space"
+    ],
+    "wiki": "Nikolaus Kopernikus"
    }
   ],
   "02-20": [
@@ -339,6 +554,49 @@
     ]
    }
   ],
+  "02-23": [
+   {
+    "title": "Ein Foto von der Flaggenhissung auf Iwo Jima wird zur Ikone",
+    "text": "Am 23. Februar 1945 fotografierte Joe Rosenthal sechs US-Soldaten beim Aufstellen einer Flagge auf dem Berg Suribachi. Das Bild gewann den Pulitzer-Preis und wurde zu einem der meistreproduzierten Kriegsfotos überhaupt.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Die Flaggenhissung auf Iwo Jima"
+   }
+  ],
+  "02-24": [
+   {
+    "title": "Steve Jobs wurde geboren",
+    "text": "1955 in San Francisco geboren, gründete er noch als 21-Jähriger mit Steve Wozniak in einer Garage das Unternehmen Apple. Nach einem zwischenzeitlichen Rauswurf kehrte er 1997 zurück und führte die Firma zu einer der wertvollsten der Welt.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Steve Jobs"
+   }
+  ],
+  "02-25": [
+   {
+    "title": "Samuel Colt lässt sich seinen Revolver patentieren",
+    "text": "Am 25. Februar 1836 erhielt der 21-jährige Erfinder das US-Patent für einen Revolver mit drehbarer Trommel. Die Massenproduktion machte den Colt bald zu einer der bekanntesten Waffen Amerikas.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Samuel Colt"
+   }
+  ],
+  "02-26": [
+   {
+    "title": "Victor Hugo wurde geboren",
+    "text": "1802 in Frankreich geboren, schrieb er mit 'Der Glöckner von Notre-Dame' und 'Die Elenden' zwei bis heute weltbekannte Romane. Sein Engagement für Notre-Dame trug maßgeblich dazu bei, dass die verfallende Kathedrale im 19. Jahrhundert restauriert wurde.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Victor Hugo"
+   }
+  ],
   "02-27": [
    {
     "title": "Internationaler Tag des Eisbären",
@@ -348,6 +606,17 @@
      "nature"
     ],
     "wiki": "Eisbär"
+   }
+  ],
+  "02-28": [
+   {
+    "title": "Watson und Crick verkünden die Entdeckung der DNA-Doppelhelix",
+    "text": "Am 28. Februar 1953 platzten die beiden Forscher in ihre Stammkneipe in Cambridge und verkündeten, sie hätten das Geheimnis des Lebens entschlüsselt. Die eigentliche Fachveröffentlichung folgte erst Wochen später im April.",
+    "topics": [
+     "science",
+     "history"
+    ],
+    "wiki": "DNA"
    }
   ],
   "02-29": [
@@ -393,6 +662,47 @@
     ]
    }
   ],
+  "03-04": [
+   {
+    "title": "Die Verfassung der USA tritt offiziell in Kraft",
+    "text": "Am 4. März 1789 trat der neu gewählte erste US-Kongress in New York zusammen und setzte die Verfassung formell in Kraft. George Washington wurde erst rund zwei Monate später als erster Präsident vereidigt.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Verfassung der Vereinigten Staaten"
+   }
+  ],
+  "03-05": [
+   {
+    "title": "Josef Stalin starb",
+    "text": "1953 starb der sowjetische Diktator nach einem Schlaganfall, offiziellen Angaben zufolge unbeobachtet über Stunden, weil sich niemand aus Angst in sein Zimmer traute. Sein Tod leitete eine vorsichtige politische Auftauphase in der Sowjetunion ein.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Josef Stalin"
+   }
+  ],
+  "03-06": [
+   {
+    "title": "Michelangelo wurde geboren",
+    "text": "1475 in der Toskana geboren, schuf er mit der Decke der Sixtinischen Kapelle eines der bekanntesten Kunstwerke der Welt. Die Arbeit dauerte rund vier Jahre, gemalt größtenteils in unbequemer Rückenlage auf einem Gerüst.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Michelangelo"
+   }
+  ],
+  "03-07": [
+   {
+    "title": "Alexander Graham Bell ließ das Telefon patentieren",
+    "text": "1876 sicherte er sich das Patent nur Stunden vor einem konkurrierenden Erfinder, der eine ähnliche Idee angemeldet hatte. Bis heute ist umstritten, wer die Technik tatsächlich zuerst zum Funktionieren brachte.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "Alexander Graham Bell"
+   }
+  ],
   "03-08": [
    {
     "title": "Internationaler Frauentag",
@@ -401,6 +711,16 @@
      "history"
     ],
     "wiki": "Internationaler Frauentag"
+   }
+  ],
+  "03-09": [
+   {
+    "title": "Die Barbie-Puppe kam auf den Markt",
+    "text": "1959 stellte die Firma Mattel die Puppe auf der New Yorker Spielwarenmesse vor, benannt nach der Tochter der Erfinderin Ruth Handler. Anfangs reagierten Fachhändler skeptisch, seither wurden weltweit über eine Milliarde Exemplare verkauft.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Barbie"
    }
   ],
   "03-10": [
@@ -413,6 +733,16 @@
     "wiki": "Mario"
    }
   ],
+  "03-11": [
+   {
+    "title": "Michail Gorbatschow wird sowjetischer Parteichef",
+    "text": "Am 11. März 1985 übernahm Gorbatschow die Führung der KPdSU und leitete damit die Reformen Glasnost und Perestroika ein. Wenige Jahre später sollte die Sowjetunion unter seiner Führung auseinanderbrechen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Michail Sergejewitsch Gorbatschow"
+   }
+  ],
   "03-12": [
    {
     "title": "Tag gegen Internetzensur",
@@ -422,6 +752,17 @@
      "history"
     ],
     "wiki": "World Wide Web"
+   }
+  ],
+  "03-13": [
+   {
+    "title": "Der Planet Uranus wurde entdeckt",
+    "text": "1781 entdeckte William Herschel ihn zufällig mit einem selbstgebauten Teleskop und hielt ihn zunächst für einen Kometen. Es war der erste Planet, der überhaupt mit einem Fernrohr entdeckt wurde, statt mit bloßem Auge bekannt zu sein.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Uranus (Planet)"
    }
   ],
   "03-14": [
@@ -443,6 +784,17 @@
     ]
    }
   ],
+  "03-16": [
+   {
+    "title": "Magellans Expedition erreicht als erste Europäer die Philippinen",
+    "text": "Am 16. März 1521 sichtete die spanische Flotte unter Ferdinand Magellan Land auf ihrer Fahrt über den Pazifik. Magellan selbst starb wenige Wochen später bei einem Gefecht auf der Insel Mactan.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Ferdinand Magellan"
+   }
+  ],
   "03-17": [
    {
     "title": "St. Patrick's Day",
@@ -462,6 +814,17 @@
      "nature",
      "tech"
     ]
+   }
+  ],
+  "03-19": [
+   {
+    "title": "Die Oscar-Verleihung wird erstmals landesweit im Fernsehen übertragen",
+    "text": "Am 19. März 1953 sahen Millionen US-Amerikaner die 25. Academy Awards erstmals live im TV statt nur im Kino-Vorprogramm. Der Auftritt veränderte die Wahrnehmung der Preisverleihung von einer Branchenfeier zum Massenspektakel.",
+    "topics": [
+     "history",
+     "movies"
+    ],
+    "wiki": "Academy Awards"
    }
   ],
   "03-20": [
@@ -528,6 +891,16 @@
     "wiki": "J. R. R. Tolkien"
    }
   ],
+  "03-26": [
+   {
+    "title": "Ägypten und Israel unterzeichnen einen historischen Friedensvertrag",
+    "text": "Am 26. März 1979 besiegelten Anwar as-Sadat und Menachem Begin im Weißen Haus den ersten Friedensvertrag zwischen Israel und einem arabischen Nachbarstaat. Beide Politiker hatten dafür bereits 1978 gemeinsam den Friedensnobelpreis erhalten.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Ägyptisch-israelischer Friedensvertrag"
+   }
+  ],
   "03-27": [
    {
     "title": "Welttheatertag",
@@ -536,6 +909,28 @@
      "movies",
      "language"
     ]
+   }
+  ],
+  "03-28": [
+   {
+    "title": "Reaktorunfall im Kernkraftwerk Three Mile Island",
+    "text": "Am 28. März 1979 kam es in Pennsylvania zur teilweisen Kernschmelze eines Reaktorblocks, dem schwersten Atomunfall in der Geschichte der USA. Radioaktivität trat dabei nur in geringem Umfang aus, das Ereignis erschütterte aber das Vertrauen in die Atomkraft nachhaltig.",
+    "topics": [
+     "history",
+     "tech",
+     "science"
+    ],
+    "wiki": "Nuklearunfall von Three Mile Island"
+   }
+  ],
+  "03-29": [
+   {
+    "title": "Bauern entdecken zufällig die Terrakotta-Armee",
+    "text": "Am 29. März 1974 stießen chinesische Bauern beim Brunnenbohren nahe Xi'an auf Tonscherben, die sich als Teil eines gigantischen Grabkomplexes erwiesen. Tausende lebensgroße Tonkrieger sollten den ersten Kaiser Chinas im Jenseits beschützen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Terrakotta-Armee"
    }
   ],
   "03-30": [
@@ -547,6 +942,17 @@
      "history"
     ],
     "wiki": "Bleistift"
+   }
+  ],
+  "03-31": [
+   {
+    "title": "Der Eiffelturm öffnete für die Öffentlichkeit",
+    "text": "1889 durften erstmals reguläre Besucher das gerade fertiggestellte Bauwerk betreten, rechtzeitig zur Weltausstellung. Ursprünglich nur als 20-jähriges Provisorium genehmigt, steht er bis heute.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Eiffelturm"
    }
   ],
   "04-01": [
@@ -578,6 +984,27 @@
      "history"
     ],
     "wiki": "Martin Cooper"
+   }
+  ],
+  "04-04": [
+   {
+    "title": "Martin Luther King Jr. wurde ermordet",
+    "text": "1968 wurde der Bürgerrechtler auf dem Balkon eines Motels in Memphis erschossen. Sein Tod löste in vielen amerikanischen Städten schwere Unruhen aus und beschleunigte zugleich weitere Bürgerrechtsgesetze.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Martin Luther King"
+   }
+  ],
+  "04-05": [
+   {
+    "title": "Pocahontas heiratet den englischen Siedler John Rolfe",
+    "text": "Am 5. April 1614 fand in Jamestown eine Hochzeit statt, die für einige Jahre zu einem brüchigen Frieden zwischen englischen Siedlern und den Powhatan führte. Pocahontas reiste später nach England, wo sie kurz vor der geplanten Rückkehr starb.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Pocahontas"
    }
   ],
   "04-06": [
@@ -612,6 +1039,16 @@
     "wiki": "Internationaler Tag der Roma"
    }
   ],
+  "04-09": [
+   {
+    "title": "General Lee kapituliert bei Appomattox",
+    "text": "Am 9. April 1865 übergab der Oberbefehlshaber der Konföderierten seine Armee an General Grant und beendete damit faktisch den amerikanischen Bürgerkrieg. Vereinzelte Kämpfe zogen sich zwar noch Wochen hin, doch die Kapitulation gilt als das Kriegsende.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Robert Edward Lee"
+   }
+  ],
   "04-10": [
    {
     "title": "Tag der Geschwister",
@@ -642,6 +1079,16 @@
      "history"
     ],
     "wiki": "Juri Alexejewitsch Gagarin"
+   }
+  ],
+  "04-13": [
+   {
+    "title": "Thomas Jefferson wurde geboren",
+    "text": "1743 geboren, verfasste er als Hauptautor die amerikanische Unabhängigkeitserklärung von 1776. Als dritter US-Präsident verdoppelte er später mit dem Kauf Louisianas die Fläche des jungen Landes.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Thomas Jefferson"
    }
   ],
   "04-14": [
@@ -887,6 +1334,17 @@
     "wiki": "Diät"
    }
   ],
+  "05-07": [
+   {
+    "title": "Johannes Brahms wurde geboren",
+    "text": "1833 in Hamburg geboren, zögerte er jahrzehntelang, seine erste Sinfonie zu veröffentlichen, aus Respekt vor dem übermächtigen Vorbild Beethoven. Erst mit 43 Jahren stellte er sie schließlich der Öffentlichkeit vor.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Johannes Brahms"
+   }
+  ],
   "05-08": [
    {
     "title": "Weltrotkreuztag",
@@ -906,6 +1364,17 @@
      "geography"
     ],
     "wiki": "Schuman-Plan"
+   }
+  ],
+  "05-10": [
+   {
+    "title": "Der 'goldene Nagel' vollendet die erste transkontinentale Eisenbahn der USA",
+    "text": "Am 10. Mai 1869 trafen sich in Promontory Summit, Utah, zwei von Osten und Westen gebaute Bahnstrecken. Ein zeremonieller goldener Nagel markierte die Verbindung, die eine Reise quer durch Amerika von Monaten auf wenige Tage verkürzte.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Golden Spike"
    }
   ],
   "05-11": [
@@ -992,6 +1461,16 @@
     ]
    }
   ],
+  "05-19": [
+   {
+    "title": "Anne Boleyn wird auf Befehl Heinrichs VIII. hingerichtet",
+    "text": "Am 19. Mai 1536 endete die zweite Ehe des englischen Königs mit einer Enthauptung im Tower of London. Ihre Tochter Elisabeth wurde später eine der bedeutendsten Monarchinnen der englischen Geschichte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Anne Boleyn"
+   }
+  ],
   "05-20": [
    {
     "title": "Weltbienentag",
@@ -1058,6 +1537,38 @@
     "wiki": "Towel Day"
    }
   ],
+  "05-26": [
+   {
+    "title": "Beginn der Evakuierung von Dünkirchen",
+    "text": "Am 26. Mai 1940 startete die Operation Dynamo, bei der britische und alliierte Truppen unter deutschem Beschuss von der französischen Küste evakuiert wurden. Hunderte private Boote halfen mit, am Ende wurden über 330.000 Soldaten gerettet.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Operation Dynamo"
+   }
+  ],
+  "05-27": [
+   {
+    "title": "Die Golden Gate Bridge wurde eröffnet",
+    "text": "1937 öffnete die Brücke über die Einfahrt der Bucht von San Francisco für den Verkehr. Ihre auffällige orange-rote Farbe war ursprünglich nur eine Grundierung, gefiel den Verantwortlichen aber so gut, dass sie zur endgültigen Farbe wurde.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Golden Gate Bridge"
+   }
+  ],
+  "05-28": [
+   {
+    "title": "John Muir gründet den Sierra Club",
+    "text": "Am 28. Mai 1892 rief der Naturschützer in San Francisco eine Organisation zum Schutz der kalifornischen Bergwelt ins Leben. Der Sierra Club zählt heute zu den ältesten und einflussreichsten Umweltverbänden der Welt.",
+    "topics": [
+     "history",
+     "nature"
+    ],
+    "wiki": "Sierra Club"
+   }
+  ],
   "05-29": [
    {
     "title": "Tag der Everest-Erstbesteigung",
@@ -1099,6 +1610,16 @@
     ]
    }
   ],
+  "06-02": [
+   {
+    "title": "Elizabeth II. wird in Westminster Abbey gekrönt",
+    "text": "Am 2. Juni 1953 fand die Krönungszeremonie statt, die erstmals live im britischen Fernsehen übertragen wurde. Millionen Menschen kauften sich eigens dafür ein erstes Fernsehgerät.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Elisabeth II."
+   }
+  ],
   "06-03": [
    {
     "title": "Weltfahrradtag",
@@ -1110,6 +1631,16 @@
     "wiki": "Fahrrad"
    }
   ],
+  "06-04": [
+   {
+    "title": "Die Proteste auf dem Tiananmen-Platz wurden gewaltsam beendet",
+    "text": "1989 ließ die chinesische Führung friedliche Demonstrationen für politische Reformen in Peking mit Militär niederschlagen. Die genaue Opferzahl ist bis heute nicht offiziell bekannt, das Ereignis bleibt in China ein weitgehend tabuisiertes Thema.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Proteste auf dem Platz des Himmlischen Friedens 1989"
+   }
+  ],
   "06-05": [
    {
     "title": "Weltumwelttag",
@@ -1117,6 +1648,16 @@
     "topics": [
      "nature"
     ]
+   }
+  ],
+  "06-06": [
+   {
+    "title": "Die alliierte Landung in der Normandie begann",
+    "text": "1944 landeten am 'D-Day' rund 156.000 alliierte Soldaten an den Stränden Nordfrankreichs, unterstützt von tausenden Schiffen und Flugzeugen. Es war die größte amphibische Militäroperation der Geschichte und leitete die Befreiung Westeuropas ein.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Operation Overlord"
    }
   ],
   "06-07": [
@@ -1149,6 +1690,36 @@
      "language"
     ],
     "wiki": "Archiv"
+   }
+  ],
+  "06-10": [
+   {
+    "title": "Italien tritt an der Seite Deutschlands in den Zweiten Weltkrieg ein",
+    "text": "Am 10. Juni 1940 erklärte Benito Mussolini Frankreich und Großbritannien den Krieg, kurz bevor Frankreich ohnehin kapitulierte. Die italienische Kriegsbeteiligung blieb militärisch weitgehend erfolglos.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Königreich Italien im Zweiten Weltkrieg"
+   }
+  ],
+  "06-11": [
+   {
+    "title": "Heinrich VIII. heiratet Katharina von Aragon",
+    "text": "Am 11. Juni 1509 begann die erste von sechs Ehen des englischen Königs, die zunächst fast zwei Jahrzehnte hielt. Die spätere Scheidung von Katharina stieß den Bruch Englands mit der katholischen Kirche an.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Katharina von Aragon"
+   }
+  ],
+  "06-12": [
+   {
+    "title": "Anne Frank erhielt ihr Tagebuch",
+    "text": "1942, an ihrem 13. Geburtstag, bekam sie das karierte Notizbuch geschenkt, das später als 'Tagebuch der Anne Frank' weltberühmt wurde. Wenige Wochen später musste ihre Familie vor der Verfolgung in ein Versteck in Amsterdam fliehen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Anne Frank"
    }
   ],
   "06-13": [
@@ -1217,6 +1788,16 @@
     "wiki": "Picknick"
    }
   ],
+  "06-19": [
+   {
+    "title": "Juneteenth erinnert an das Ende der Sklaverei in den USA",
+    "text": "Am 19. Juni 1865 erfuhren die letzten versklavten Menschen in Texas von ihrer Freiheit, über zwei Jahre nach der offiziellen Emanzipationserklärung. Seit 2021 ist der Tag ein staatlicher Feiertag in den Vereinigten Staaten.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Juneteenth"
+   }
+  ],
   "06-20": [
    {
     "title": "Weltflüchtlingstag",
@@ -1234,6 +1815,16 @@
      "music"
     ],
     "wiki": "Fête de la Musique"
+   }
+  ],
+  "06-22": [
+   {
+    "title": "Deutschland überfällt die Sowjetunion",
+    "text": "Am 22. Juni 1941 begann mit dem 'Unternehmen Barbarossa' der größte Militärangriff der Geschichte entlang einer tausende Kilometer langen Front. Der Bruch des zuvor geschlossenen Nichtangriffspakts markierte einen Wendepunkt des Zweiten Weltkriegs.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Unternehmen Barbarossa"
    }
   ],
   "06-23": [
@@ -1278,6 +1869,37 @@
      "science"
     ],
     "wiki": "Psychotrope Substanz"
+   }
+  ],
+  "06-27": [
+   {
+    "title": "Helen Keller wurde geboren",
+    "text": "1880 geboren, verlor sie im Kleinkindalter durch eine Krankheit Sehkraft und Gehör fast vollständig. Mit Hilfe ihrer Lehrerin Anne Sullivan lernte sie dennoch lesen, schreiben und sprechen und wurde zur weltbekannten Autorin und Aktivistin.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Helen Keller"
+   }
+  ],
+  "06-28": [
+   {
+    "title": "Erzherzog Franz Ferdinand wurde ermordet",
+    "text": "1914 wurde der österreichische Thronfolger in Sarajevo erschossen, das Attentat gilt als unmittelbarer Auslöser des Ersten Weltkriegs. Fünf Jahre später wurde an genau diesem Datum, dem 28. Juni 1919, auch der Versailler Vertrag unterzeichnet.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Attentat von Sarajevo"
+   }
+  ],
+  "06-29": [
+   {
+    "title": "Das erste iPhone kommt in den Verkauf",
+    "text": "Am 29. Juni 2007 stellten sich in den USA lange Schlangen vor Apple-Läden, um Steve Jobs' neues Gerät zu kaufen. Es veränderte binnen weniger Jahre, wie die Welt Mobiltelefone nutzt.",
+    "topics": [
+     "tech",
+     "history"
+    ],
+    "wiki": "IPhone (1. Generation)"
    }
   ],
   "06-30": [
@@ -1367,6 +1989,27 @@
     "wiki": "Schokolade"
    }
   ],
+  "07-08": [
+   {
+    "title": "Das Wall Street Journal erscheint zum ersten Mal",
+    "text": "Am 8. Juli 1889 brachten die Gründer Charles Dow und Edward Jones die erste Ausgabe der bis heute einflussreichen Wirtschaftszeitung heraus. Aus ihren Kursberechnungen entstand später der berühmte Dow-Jones-Index.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "The Wall Street Journal"
+   }
+  ],
+  "07-09": [
+   {
+    "title": "Argentinien erklärt seine Unabhängigkeit von Spanien",
+    "text": "Am 9. Juli 1816 verkündete ein Kongress in Tucumán die Loslösung von der spanischen Krone. Der Tag ist bis heute argentinischer Nationalfeiertag.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Argentinische Unabhängigkeitserklärung"
+   }
+  ],
   "07-10": [
    {
     "title": "Nikola-Tesla-Tag",
@@ -1388,6 +2031,28 @@
      "history"
     ],
     "wiki": "Weltbevölkerung"
+   }
+  ],
+  "07-12": [
+   {
+    "title": "Der Schriftsteller Henry David Thoreau wird geboren",
+    "text": "Am 12. Juli 1817 kam der spätere Autor von 'Walden' in Concord, Massachusetts, zur Welt. Sein Rückzug an einen See und seine Schriften über zivilen Ungehorsam beeinflussten spätere Bürgerrechtsbewegungen weltweit.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Henry David Thoreau"
+   }
+  ],
+  "07-13": [
+   {
+    "title": "Das Live-Aid-Konzert fand statt",
+    "text": "1985 traten in London und Philadelphia gleichzeitig Dutzende Musikgrößen auf, um Spenden gegen die Hungersnot in Äthiopien zu sammeln. Weltweit verfolgten schätzungsweise anderthalb Milliarden Menschen die Übertragung im Fernsehen.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "Live Aid"
    }
   ],
   "07-14": [
@@ -1412,6 +2077,17 @@
     "wiki": "Duale Ausbildung"
    }
   ],
+  "07-16": [
+   {
+    "title": "Apollo 11 startete Richtung Mond",
+    "text": "1969 hob die Rakete vom Kennedy Space Center ab, an Bord Neil Armstrong, Buzz Aldrin und Michael Collins. Vier Tage später, am 20. Juli, betrat Armstrong als erster Mensch die Mondoberfläche.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Apollo 11"
+   }
+  ],
   "07-17": [
    {
     "title": "Welt-Emoji-Tag",
@@ -1431,6 +2107,16 @@
      "history"
     ],
     "wiki": "Nelson Mandela"
+   }
+  ],
+  "07-19": [
+   {
+    "title": "Beginn der Seneca-Falls-Konvention für Frauenrechte",
+    "text": "Am 19. Juli 1848 versammelten sich in einem kleinen Ort im Staat New York erstmals Aktivistinnen zu einer organisierten Frauenrechtskonferenz. Ihre 'Declaration of Sentiments' forderte unter anderem das Wahlrecht für Frauen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Frauenrechtskonvention von Seneca Falls"
    }
   ],
   "07-20": [
@@ -1488,6 +2174,18 @@
     "wiki": "Selbstfürsorge"
    }
   ],
+  "07-25": [
+   {
+    "title": "Louise Brown wird als erstes 'Retortenbaby' der Welt geboren",
+    "text": "Am 25. Juli 1978 kam in England das erste Kind zur Welt, das durch künstliche Befruchtung außerhalb des Körpers gezeugt wurde. Die Methode war jahrelang umstritten, ihre Entwickler erhielten später den Medizin-Nobelpreis.",
+    "topics": [
+     "science",
+     "body",
+     "history"
+    ],
+    "wiki": "Louise Brown"
+   }
+  ],
   "07-26": [
    {
     "title": "Tag der Mangroven",
@@ -1497,6 +2195,16 @@
      "geography"
     ],
     "wiki": "Mangrove"
+   }
+  ],
+  "07-27": [
+   {
+    "title": "Der Koreakrieg endete mit einem Waffenstillstand",
+    "text": "1953 unterzeichneten die Konfliktparteien in Panmunjom ein Abkommen, das die Kämpfe beendete, aber nie zu einem offiziellen Friedensvertrag führte. Formal befinden sich Nord- und Südkorea deshalb bis heute im Kriegszustand.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Koreakrieg"
    }
   ],
   "07-28": [
@@ -1553,6 +2261,17 @@
     "wiki": "Bundesfeiertag"
    }
   ],
+  "08-02": [
+   {
+    "title": "Irak überfällt Kuwait und löst die Golfkrise aus",
+    "text": "Am 2. August 1990 marschierten irakische Truppen in das kleine Nachbarland ein und besetzten es innerhalb weniger Stunden. Der Angriff führte wenige Monate später zum international geführten Zweiten Golfkrieg.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Zweiter Golfkrieg"
+   }
+  ],
   "08-03": [
    {
     "title": "Tag der Wassermelone",
@@ -1562,6 +2281,16 @@
      "nature"
     ],
     "wiki": "Wassermelone"
+   }
+  ],
+  "08-04": [
+   {
+    "title": "Barack Obama wurde geboren",
+    "text": "1961 in Honolulu, Hawaii, geboren, wurde er 2009 als erster afroamerikanischer Präsident der USA vereidigt. Vor seiner politischen Karriere arbeitete er unter anderem als Sozialarbeiter in Chicago.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Barack Obama"
    }
   ],
   "08-05": [
@@ -1584,6 +2313,17 @@
      "science"
     ],
     "wiki": "Atombombenabwürfe auf Hiroshima und Nagasaki"
+   }
+  ],
+  "08-07": [
+   {
+    "title": "Philippe Petit balanciert zwischen den Zwillingstürmen des World Trade Center",
+    "text": "Am 7. August 1974 spannte der französische Hochseilartist heimlich ein Seil zwischen den beiden gerade fertiggestellten Türmen und balancierte darauf ohne Sicherung. Die Aktion, rund 400 Meter über der Straße, machte ihn weltberühmt.",
+    "topics": [
+     "history",
+     "weird"
+    ],
+    "wiki": "Philippe Petit"
    }
   ],
   "08-08": [
@@ -1617,6 +2357,18 @@
     "wiki": "Löwe"
    }
   ],
+  "08-11": [
+   {
+    "title": "Die letzte totale Sonnenfinsternis des Jahrtausends verdunkelt Europa",
+    "text": "Am 11. August 1999 zog der Kernschatten des Mondes quer über den Kontinent, von Südwestengland bis zum Nahen Osten. Millionen Menschen beobachteten das Naturschauspiel gemeinsam im Freien.",
+    "topics": [
+     "space",
+     "science",
+     "history"
+    ],
+    "wiki": "Sonnenfinsternis vom 11. August 1999"
+   }
+  ],
   "08-12": [
    {
     "title": "Welt-Elefanten-Tag",
@@ -1637,6 +2389,17 @@
      "history"
     ],
     "wiki": "Linkshänder"
+   }
+  ],
+  "08-14": [
+   {
+    "title": "Pakistan erklärte seine Unabhängigkeit",
+    "text": "1947 entstand der Staat mit der Teilung Britisch-Indiens, einen Tag vor der Unabhängigkeit Indiens selbst. Die Teilung löste eine der größten Fluchtbewegungen der Geschichte aus, Millionen Menschen wechselten in kürzester Zeit die Grenze.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Pakistan"
    }
   ],
   "08-15": [
@@ -1671,6 +2434,16 @@
     "wiki": "Hauskatze"
    }
   ],
+  "08-18": [
+   {
+    "title": "Der 19. Zusatzartikel gibt US-Amerikanerinnen das Wahlrecht",
+    "text": "Am 18. August 1920 wurde die Verfassungsänderung von der nötigen Anzahl an Bundesstaaten ratifiziert und trat damit in Kraft. Jahrzehntelange Kämpfe der Frauenrechtsbewegung hatten diesem Tag den Weg bereitet.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "19. Zusatzartikel zur Verfassung der Vereinigten Staaten"
+   }
+  ],
   "08-19": [
    {
     "title": "Welt-Foto-Tag",
@@ -1691,6 +2464,27 @@
      "history"
     ],
     "wiki": "Ronald Ross"
+   }
+  ],
+  "08-21": [
+   {
+    "title": "Die Mona Lisa wird aus dem Louvre gestohlen",
+    "text": "Am 21. August 1911 nahm ein ehemaliger Museumsangestellter das Gemälde einfach von der Wand und schmuggelte es unter seinem Kittel hinaus. Der Diebstahl blieb zwei Jahre lang unentdeckt und machte das Bild erst richtig weltberühmt.",
+    "topics": [
+     "history",
+     "weird"
+    ],
+    "wiki": "Diebstahl der Mona Lisa"
+   }
+  ],
+  "08-22": [
+   {
+    "title": "Die Schlacht von Bosworth beendet die Rosenkriege",
+    "text": "Am 22. August 1485 fiel König Richard III. im Kampf gegen Henry Tudor, der danach als Heinrich VII. den Thron bestieg. Die Schlacht markierte den Beginn der Tudor-Dynastie in England.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Schlacht von Bosworth"
    }
   ],
   "08-23": [
@@ -1747,6 +2541,16 @@
     "wiki": "Krakatau"
    }
   ],
+  "08-28": [
+   {
+    "title": "Martin Luther King hielt seine Rede 'I Have a Dream'",
+    "text": "1963 sprach er vor rund 250.000 Menschen am Lincoln Memorial in Washington für Gleichberechtigung. Die Rede gilt bis heute als einer der einflussreichsten politischen Reden der amerikanischen Geschichte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "I Have a Dream"
+   }
+  ],
   "08-29": [
    {
     "title": "Internationaler Tag gegen Atomtests",
@@ -1755,6 +2559,17 @@
      "history",
      "science"
     ]
+   }
+  ],
+  "08-30": [
+   {
+    "title": "Der 'heiße Draht' zwischen Washington und Moskau nimmt den Betrieb auf",
+    "text": "Am 30. August 1963 wurde die direkte Fernschreibverbindung zwischen dem Weißen Haus und dem Kreml einsatzbereit. Sie war eine direkte Konsequenz aus der Kubakrise des Vorjahres, in der Fehlkommunikation beinahe zur Katastrophe geführt hätte.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Roter Draht (Fernschreibverbindung)"
    }
   ],
   "08-31": [
@@ -1774,6 +2589,16 @@
     "topics": [
      "history"
     ]
+   }
+  ],
+  "09-02": [
+   {
+    "title": "Japan unterzeichnete die Kapitulation und beendete den Zweiten Weltkrieg",
+    "text": "1945 unterschrieben japanische Vertreter an Bord des US-Schlachtschiffs Missouri in der Bucht von Tokio die formelle Kapitulation. Erst damit endete der Zweite Weltkrieg endgültig, rund vier Monate nach dem Kriegsende in Europa.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Kapitulation Japans"
    }
   ],
   "09-03": [
@@ -1807,6 +2632,27 @@
     ]
    }
   ],
+  "09-06": [
+   {
+    "title": "Die Beerdigung von Prinzessin Diana wird weltweit verfolgt",
+    "text": "Am 6. September 1997 verfolgten schätzungsweise über zwei Milliarden Menschen die Trauerfeier in der Westminster Abbey per Fernsehen. Es gilt bis heute als eines der meistgesehenen Fernsehereignisse der Geschichte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Diana, Princess of Wales"
+   }
+  ],
+  "09-07": [
+   {
+    "title": "Brasilien erklärte seine Unabhängigkeit von Portugal",
+    "text": "1822 rief Prinzregent Pedro am Ufer des Flusses Ipiranga die Unabhängigkeit aus, der Legende nach mit dem Ausruf 'Unabhängigkeit oder Tod'. Er wurde kurz darauf zum ersten Kaiser des unabhängigen Brasilien gekrönt.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Unabhängigkeit Brasiliens"
+   }
+  ],
   "09-08": [
    {
     "title": "Weltalphabetisierungstag",
@@ -1814,6 +2660,16 @@
     "topics": [
      "language"
     ]
+   }
+  ],
+  "09-09": [
+   {
+    "title": "Der Kontinentalkongress gibt den USA offiziell ihren Namen",
+    "text": "Am 9. September 1776 beschlossen die Delegierten, die bisherige Bezeichnung 'Vereinigte Kolonien' durch 'Vereinigte Staaten von Amerika' zu ersetzen. Der neue Name sollte die Eigenständigkeit der jungen Nation unterstreichen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Zweiter Kontinentalkongress"
    }
   ],
   "09-10": [
@@ -1900,6 +2756,17 @@
     "wiki": "Patientensicherheit"
    }
   ],
+  "09-18": [
+   {
+    "title": "Chile begann seinen Weg in die Unabhängigkeit",
+    "text": "1810 bildete sich in Santiago eine erste eigenständige Regierungsjunta, der Auftakt zum jahrelangen Unabhängigkeitsprozess vom spanischen Kolonialreich. Der Tag wird als Chiles Nationalfeiertag bis heute groß gefeiert.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Chile"
+   }
+  ],
   "09-19": [
    {
     "title": "Tag des Sprechens wie ein Pirat",
@@ -1909,6 +2776,17 @@
      "weird"
     ],
     "wiki": "International Talk Like a Pirate Day"
+   }
+  ],
+  "09-20": [
+   {
+    "title": "Magellan sticht zu seiner Weltumsegelung in See",
+    "text": "Am 20. September 1519 verließ die fünfschiffige Flotte den spanischen Hafen Sanlúcar de Barrameda. Von den rund 260 Seeleuten sollte am Ende nur eine Handvoll die erste vollständige Erdumseglung überleben.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Magellan-Elcano-Expedition"
    }
   ],
   "09-21": [
@@ -1929,6 +2807,38 @@
      "nature"
     ],
     "wiki": "Nashörner"
+   }
+  ],
+  "09-23": [
+   {
+    "title": "Der Planet Neptun wurde entdeckt",
+    "text": "1846 fand ihn ein Astronom fast genau dort, wo Berechnungen aufgrund von Bahnstörungen des Uranus ihn vorhergesagt hatten. Es war das erste Mal, dass ein Planet zuerst durch Mathematik vorhergesagt und erst danach tatsächlich beobachtet wurde.",
+    "topics": [
+     "space",
+     "history"
+    ],
+    "wiki": "Neptun (Planet)"
+   }
+  ],
+  "09-24": [
+   {
+    "title": "Soichiro Honda gründet sein Motorenunternehmen",
+    "text": "Am 24. September 1948 wurde die Honda Motor Co. in Japan offiziell eingetragen, zunächst als kleiner Hersteller von motorisierten Fahrrädern. Wenige Jahrzehnte später zählte Honda zu den größten Automobilkonzernen der Welt.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Honda"
+   }
+  ],
+  "09-25": [
+   {
+    "title": "Die 'Little Rock Nine' betreten unter Bundesschutz ihre High School",
+    "text": "Am 25. September 1957 begleiteten Fallschirmjäger der US-Armee neun Schwarze Schüler in eine zuvor rein weiße Schule in Arkansas. Der Gouverneur des Bundesstaats hatte die Rassentrennung zuvor mit der Nationalgarde durchsetzen wollen.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Little Rock Nine"
    }
   ],
   "09-26": [
@@ -2029,6 +2939,17 @@
     "topics": [
      "history"
     ]
+   }
+  ],
+  "10-06": [
+   {
+    "title": "'The Jazz Singer' läutet das Ende des Stummfilms ein",
+    "text": "Am 6. Oktober 1927 feierte der erste abendfüllende Tonfilm mit gesprochenen und gesungenen Passagen seine Premiere in New York. Innerhalb weniger Jahre verschwand der klassische Stummfilm fast vollständig aus den Kinos.",
+    "topics": [
+     "history",
+     "movies"
+    ],
+    "wiki": "Der Jazzsänger"
    }
   ],
   "10-07": [
@@ -2143,6 +3064,27 @@
     ]
    }
   ],
+  "10-18": [
+   {
+    "title": "Die USA übernehmen Alaska offiziell von Russland",
+    "text": "Am 18. Oktober 1867 wurde in Sitka die russische Flagge eingeholt und die amerikanische gehisst, nachdem die USA das Gebiet für rund 7,2 Millionen Dollar gekauft hatten. Viele Amerikaner hielten den Kauf damals für reine Geldverschwendung.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Alaska Purchase"
+   }
+  ],
+  "10-19": [
+   {
+    "title": "Die britischen Truppen kapitulierten bei Yorktown",
+    "text": "1781 ergab sich General Cornwallis nach einer Belagerung durch amerikanische und französische Truppen. Die Niederlage besiegelte praktisch das Ende des amerikanischen Unabhängigkeitskriegs.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Schlacht von Yorktown"
+   }
+  ],
   "10-20": [
    {
     "title": "Weltosteoporosetag",
@@ -2152,6 +3094,26 @@
      "sports"
     ],
     "wiki": "Osteoporose"
+   }
+  ],
+  "10-21": [
+   {
+    "title": "Die Schlacht von Trafalgar wurde geschlagen",
+    "text": "1805 besiegte die britische Flotte unter Admiral Nelson eine überlegene französisch-spanische Streitmacht vor der spanischen Küste. Nelson selbst starb während der Schlacht durch einen Musketenschuss, kurz bevor der Sieg feststand.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Schlacht von Trafalgar"
+   }
+  ],
+  "10-22": [
+   {
+    "title": "Kennedy verkündet im Fernsehen die Blockade Kubas",
+    "text": "Am 22. Oktober 1962 informierte der US-Präsident die Öffentlichkeit über sowjetische Raketen auf Kuba und die geplante Seeblockade der Insel. Die folgenden Tage der Kubakrise gelten als der Welt bisher nächster Moment an einem Atomkrieg.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Kubakrise"
    }
   ],
   "10-23": [
@@ -2185,6 +3147,17 @@
      "history"
     ],
     "wiki": "Teigwaren"
+   }
+  ],
+  "10-26": [
+   {
+    "title": "Österreich erklärte seine dauerhafte Neutralität",
+    "text": "1955 beschloss das Parlament ein Gesetz, das dem Land nach dem Abzug der alliierten Besatzungsmächte dauerhafte Neutralität auferlegte. Seither wird der Tag als österreichischer Nationalfeiertag begangen.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Österreichische Neutralität"
    }
   ],
   "10-27": [
@@ -2388,6 +3361,17 @@
     "wiki": "Frederick Banting"
    }
   ],
+  "11-15": [
+   {
+    "title": "Brasilien wurde zur Republik erklärt",
+    "text": "1889 stürzte ein Militärputsch die brasilianische Monarchie und beendete die Herrschaft von Kaiser Pedro II. ohne größeres Blutvergießen. Der Kaiser selbst ging wenige Tage später ins Exil nach Europa.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Proklamation der Republik (Brasilien)"
+   }
+  ],
   "11-16": [
    {
     "title": "Internationaler Tag der Toleranz",
@@ -2469,6 +3453,17 @@
     "wiki": "Fibonacci-Folge"
    }
   ],
+  "11-24": [
+   {
+    "title": "Charles Darwin veröffentlichte 'Die Entstehung der Arten'",
+    "text": "1859 erschien sein Hauptwerk über die Evolution durch natürliche Auslese und war am ersten Verkaufstag bereits ausverkauft. Das Buch löste heftige Debatten aus, weil es dem bis dahin vorherrschenden religiösen Weltbild widersprach.",
+    "topics": [
+     "history",
+     "science"
+    ],
+    "wiki": "Die Entstehung der Arten"
+   }
+  ],
   "11-25": [
    {
     "title": "Internationaler Tag gegen Gewalt an Frauen",
@@ -2480,6 +3475,16 @@
     "wiki": "Schwestern Mirabal"
    }
   ],
+  "11-26": [
+   {
+    "title": "Howard Carter blickt erstmals in Tutanchamuns Grabkammer",
+    "text": "Am 26. November 1922 durchbrach der Archäologe eine versiegelte Wand im Tal der Könige und sah im Kerzenschein 'wunderbare Dinge'. Es war der bis dahin am besten erhaltene Pharaonenfund der Geschichte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Tutanchamun"
+   }
+  ],
   "11-27": [
    {
     "title": "Tag der Nobelstiftung",
@@ -2489,6 +3494,17 @@
      "science"
     ],
     "wiki": "Alfred Nobel"
+   }
+  ],
+  "11-28": [
+   {
+    "title": "Magellans Flotte erreicht als erste Europäer den Pazifik von Osten",
+    "text": "Am 28. November 1520 verließen die verbliebenen Schiffe die später nach ihm benannte Meerenge an der Südspitze Südamerikas. Weil das Meer dahinter so ruhig wirkte, nannte Magellan es den 'Pazifik', den Stillen Ozean.",
+    "topics": [
+     "history",
+     "geography"
+    ],
+    "wiki": "Ferdinand Magellan"
    }
   ],
   "11-29": [
@@ -2583,6 +3599,17 @@
     ]
    }
   ],
+  "12-08": [
+   {
+    "title": "John Lennon wurde erschossen",
+    "text": "1980 wurde der Beatles-Musiker vor seiner Wohnung in New York von einem Attentäter getötet, der zuvor um sein Autogramm gebeten hatte. Weltweit versammelten sich in den folgenden Tagen trauernde Fans zu spontanen Gedenkveranstaltungen.",
+    "topics": [
+     "music",
+     "history"
+    ],
+    "wiki": "John Lennon"
+   }
+  ],
   "12-09": [
    {
     "title": "Internationaler Antikorruptionstag",
@@ -2666,6 +3693,17 @@
     "wiki": "Ludwig van Beethoven"
    }
   ],
+  "12-17": [
+   {
+    "title": "Die Gebrüder Wright flogen zum ersten Mal motorisiert",
+    "text": "1903 hob ihr selbstgebautes Flugzeug in North Carolina für 12 Sekunden ab und legte dabei rund 37 Meter zurück. Keine zehn Jahre später legten Flugzeuge bereits hunderte Kilometer am Stück zurück.",
+    "topics": [
+     "history",
+     "tech"
+    ],
+    "wiki": "Gebrüder Wright"
+   }
+  ],
   "12-18": [
    {
     "title": "Internationaler Tag der Migranten",
@@ -2673,6 +3711,17 @@
     "topics": [
      "geography"
     ]
+   }
+  ],
+  "12-19": [
+   {
+    "title": "Charles Dickens veröffentlicht 'Eine Weihnachtsgeschichte'",
+    "text": "Am 19. Dezember 1843 erschien die Erzählung um den geizigen Ebenezer Scrooge in London und war innerhalb weniger Tage ausverkauft. Kaum eine andere Erzählung prägt das heutige Bild von Weihnachten so stark wie diese.",
+    "topics": [
+     "history",
+     "language"
+    ],
+    "wiki": "Ein Weihnachtslied in Prosa"
    }
   ],
   "12-20": [
@@ -2783,535 +3832,6 @@
     "wiki": "Übereinkommen über die biologische Vielfalt"
    }
   ],
-  "12-31": [
-   {
-    "title": "Silvester",
-    "text": "Benannt nach Papst Silvester I., der am 31. Dezember 335 starb. Der Jahreswechsel liegt hier erst, seit der gregorianische Kalender sich durchsetzte.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Silvester"
-   }
-  ],
-  "01-03": [
-   {
-    "title": "J.R.R. Tolkien wurde geboren",
-    "text": "Der Sprachwissenschaftler und Autor kam 1892 im südafrikanischen Bloemfontein zur Welt. Aus seiner Liebe zu erfundenen Sprachen entstand später die komplette Welt von Mittelerde.",
-    "topics": [
-     "history",
-     "movies"
-    ],
-    "wiki": "J. R. R. Tolkien"
-   }
-  ],
-  "01-08": [
-   {
-    "title": "Elvis Presley wurde geboren",
-    "text": "1935 kam er im ärmlichen Tupelo, Mississippi, zur Welt, in einem selbstgebauten Zweizimmerhaus seines Vaters. Zwei Jahrzehnte später veränderte er als 'King of Rock 'n' Roll' die Popmusik weltweit.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "Elvis Presley"
-   }
-  ],
-  "01-09": [
-   {
-    "title": "Steve Jobs stellte das erste iPhone vor",
-    "text": "2007 präsentierte er es auf der Macworld-Messe als Kombination aus Telefon, iPod und Internetgerät. Der Verkaufsstart folgte erst rund ein halbes Jahr später, im Juni desselben Jahres.",
-    "topics": [
-     "tech",
-     "history"
-    ],
-    "wiki": "IPhone (1. Generation)"
-   }
-  ],
-  "01-12": [
-   {
-    "title": "Jack London wurde geboren",
-    "text": "1876 in San Francisco geboren, arbeitete er unter anderem als Austernpirat und Goldsucher, bevor er zum Schriftsteller wurde. Seine Erlebnisse im Klondike-Goldrausch flossen direkt in Romane wie 'Ruf der Wildnis' ein.",
-    "topics": [
-     "history",
-     "language"
-    ],
-    "wiki": "Jack London"
-   }
-  ],
-  "01-14": [
-   {
-    "title": "Albert Schweitzer wurde geboren",
-    "text": "1875 im Elsass geboren, war er gleichzeitig Theologe, Musiker und Mediziner. Für sein Urwaldspital in Lambaréné im heutigen Gabun erhielt er 1952 den Friedensnobelpreis.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Albert Schweitzer"
-   }
-  ],
-  "01-16": [
-   {
-    "title": "Die Prohibition begann in den USA",
-    "text": "1920 trat der landesweite Alkoholverkauf per Verfassungszusatz außer Kraft und trieb den Handel in die Illegalität. Organisierte Kriminalität und Schmuggel blühten in den folgenden 13 Jahren, bis das Verbot 1933 wieder aufgehoben wurde.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Prohibition in den Vereinigten Staaten"
-   }
-  ],
-  "01-17": [
-   {
-    "title": "Muhammad Ali wurde geboren",
-    "text": "1942 als Cassius Clay in Louisville, Kentucky, geboren, wurde er zum vielleicht bekanntesten Boxer der Geschichte. Seinen Namen änderte er 1964 nach seinem Übertritt zum Islam.",
-    "topics": [
-     "sports",
-     "history"
-    ],
-    "wiki": "Muhammad Ali"
-   }
-  ],
-  "01-19": [
-   {
-    "title": "Edgar Allan Poe wurde geboren",
-    "text": "1809 in Boston geboren, gilt er als Wegbereiter der modernen Kurzgeschichte und der Detektivliteratur. Sein Gedicht 'Der Rabe' machte ihn 1845 quasi über Nacht berühmt, finanziellen Wohlstand brachte ihm das kaum.",
-    "topics": [
-     "history",
-     "language"
-    ],
-    "wiki": "Edgar Allan Poe"
-   }
-  ],
-  "01-30": [
-   {
-    "title": "Franklin D. Roosevelt wurde geboren",
-    "text": "1882 geboren, ist er bis heute der einzige US-Präsident, der viermal ins Amt gewählt wurde. Sein 'New Deal' half den USA aus der Weltwirtschaftskrise, er selbst regierte trotz einer Lähmung beider Beine, die er weitgehend verbarg.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Franklin D. Roosevelt"
-   }
-  ],
-  "02-03": [
-   {
-    "title": "Der Tag, an dem die Musik starb",
-    "text": "1959 starben Buddy Holly, Ritchie Valens und The Big Bopper bei einem Flugzeugabsturz in Iowa. Musiker Don McLean prägte den Namen dieses Tages Jahre später in seinem Song 'American Pie'.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "Buddy Holly"
-   }
-  ],
-  "02-06": [
-   {
-    "title": "Bob Marley wurde geboren",
-    "text": "1945 auf Jamaika geboren, machte er den Reggae zu einem weltweit gehörten Musikstil. Seine Songs verbanden karibische Rhythmen mit politischen und spirituellen Botschaften des Rastafari-Glaubens.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "Bob Marley"
-   }
-  ],
-  "02-07": [
-   {
-    "title": "Charles Dickens wurde geboren",
-    "text": "1812 in England geboren, prägte er mit Romanen wie 'Oliver Twist' das Bild des viktorianischen London bis heute. Viele seiner Werke erschienen zunächst als Fortsetzungsgeschichten in Zeitschriften, kapitelweise für ein wartendes Publikum.",
-    "topics": [
-     "history",
-     "language"
-    ],
-    "wiki": "Charles Dickens"
-   }
-  ],
-  "02-08": [
-   {
-    "title": "Jules Verne wurde geboren",
-    "text": "1828 in Frankreich geboren, gilt er als einer der Begründer der modernen Science-Fiction. In Romanen wie 'Zwanzigtausend Meilen unter dem Meer' beschrieb er U-Boote, lange bevor solche Technik tatsächlich existierte.",
-    "topics": [
-     "history",
-     "language"
-    ],
-    "wiki": "Jules Verne"
-   }
-  ],
-  "02-19": [
-   {
-    "title": "Nikolaus Kopernikus wurde geboren",
-    "text": "1473 im heutigen Polen geboren, stellte er die Erde vom Zentrum des Weltbilds auf einen Platz um die Sonne. Seine Theorie veröffentlichte er erst kurz vor seinem Tod, aus Sorge vor kirchlichem Widerstand.",
-    "topics": [
-     "history",
-     "space"
-    ],
-    "wiki": "Nikolaus Kopernikus"
-   }
-  ],
-  "02-24": [
-   {
-    "title": "Steve Jobs wurde geboren",
-    "text": "1955 in San Francisco geboren, gründete er noch als 21-Jähriger mit Steve Wozniak in einer Garage das Unternehmen Apple. Nach einem zwischenzeitlichen Rauswurf kehrte er 1997 zurück und führte die Firma zu einer der wertvollsten der Welt.",
-    "topics": [
-     "tech",
-     "history"
-    ],
-    "wiki": "Steve Jobs"
-   }
-  ],
-  "02-26": [
-   {
-    "title": "Victor Hugo wurde geboren",
-    "text": "1802 in Frankreich geboren, schrieb er mit 'Der Glöckner von Notre-Dame' und 'Die Elenden' zwei bis heute weltbekannte Romane. Sein Engagement für Notre-Dame trug maßgeblich dazu bei, dass die verfallende Kathedrale im 19. Jahrhundert restauriert wurde.",
-    "topics": [
-     "history",
-     "language"
-    ],
-    "wiki": "Victor Hugo"
-   }
-  ],
-  "03-05": [
-   {
-    "title": "Josef Stalin starb",
-    "text": "1953 starb der sowjetische Diktator nach einem Schlaganfall, offiziellen Angaben zufolge unbeobachtet über Stunden, weil sich niemand aus Angst in sein Zimmer traute. Sein Tod leitete eine vorsichtige politische Auftauphase in der Sowjetunion ein.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Josef Stalin"
-   }
-  ],
-  "03-06": [
-   {
-    "title": "Michelangelo wurde geboren",
-    "text": "1475 in der Toskana geboren, schuf er mit der Decke der Sixtinischen Kapelle eines der bekanntesten Kunstwerke der Welt. Die Arbeit dauerte rund vier Jahre, gemalt größtenteils in unbequemer Rückenlage auf einem Gerüst.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Michelangelo"
-   }
-  ],
-  "03-07": [
-   {
-    "title": "Alexander Graham Bell ließ das Telefon patentieren",
-    "text": "1876 sicherte er sich das Patent nur Stunden vor einem konkurrierenden Erfinder, der eine ähnliche Idee angemeldet hatte. Bis heute ist umstritten, wer die Technik tatsächlich zuerst zum Funktionieren brachte.",
-    "topics": [
-     "tech",
-     "history"
-    ],
-    "wiki": "Alexander Graham Bell"
-   }
-  ],
-  "03-09": [
-   {
-    "title": "Die Barbie-Puppe kam auf den Markt",
-    "text": "1959 stellte die Firma Mattel die Puppe auf der New Yorker Spielwarenmesse vor, benannt nach der Tochter der Erfinderin Ruth Handler. Anfangs reagierten Fachhändler skeptisch, seither wurden weltweit über eine Milliarde Exemplare verkauft.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Barbie"
-   }
-  ],
-  "03-13": [
-   {
-    "title": "Der Planet Uranus wurde entdeckt",
-    "text": "1781 entdeckte William Herschel ihn zufällig mit einem selbstgebauten Teleskop und hielt ihn zunächst für einen Kometen. Es war der erste Planet, der überhaupt mit einem Fernrohr entdeckt wurde, statt mit bloßem Auge bekannt zu sein.",
-    "topics": [
-     "space",
-     "history"
-    ],
-    "wiki": "Uranus (Planet)"
-   }
-  ],
-  "03-31": [
-   {
-    "title": "Der Eiffelturm öffnete für die Öffentlichkeit",
-    "text": "1889 durften erstmals reguläre Besucher das gerade fertiggestellte Bauwerk betreten, rechtzeitig zur Weltausstellung. Ursprünglich nur als 20-jähriges Provisorium genehmigt, steht er bis heute.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Eiffelturm"
-   }
-  ],
-  "04-04": [
-   {
-    "title": "Martin Luther King Jr. wurde ermordet",
-    "text": "1968 wurde der Bürgerrechtler auf dem Balkon eines Motels in Memphis erschossen. Sein Tod löste in vielen amerikanischen Städten schwere Unruhen aus und beschleunigte zugleich weitere Bürgerrechtsgesetze.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Martin Luther King"
-   }
-  ],
-  "04-13": [
-   {
-    "title": "Thomas Jefferson wurde geboren",
-    "text": "1743 geboren, verfasste er als Hauptautor die amerikanische Unabhängigkeitserklärung von 1776. Als dritter US-Präsident verdoppelte er später mit dem Kauf Louisianas die Fläche des jungen Landes.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Thomas Jefferson"
-   }
-  ],
-  "05-07": [
-   {
-    "title": "Johannes Brahms wurde geboren",
-    "text": "1833 in Hamburg geboren, zögerte er jahrzehntelang, seine erste Sinfonie zu veröffentlichen, aus Respekt vor dem übermächtigen Vorbild Beethoven. Erst mit 43 Jahren stellte er sie schließlich der Öffentlichkeit vor.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "Johannes Brahms"
-   }
-  ],
-  "05-27": [
-   {
-    "title": "Die Golden Gate Bridge wurde eröffnet",
-    "text": "1937 öffnete die Brücke über die Einfahrt der Bucht von San Francisco für den Verkehr. Ihre auffällige orange-rote Farbe war ursprünglich nur eine Grundierung, gefiel den Verantwortlichen aber so gut, dass sie zur endgültigen Farbe wurde.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Golden Gate Bridge"
-   }
-  ],
-  "06-04": [
-   {
-    "title": "Die Proteste auf dem Tiananmen-Platz wurden gewaltsam beendet",
-    "text": "1989 ließ die chinesische Führung friedliche Demonstrationen für politische Reformen in Peking mit Militär niederschlagen. Die genaue Opferzahl ist bis heute nicht offiziell bekannt, das Ereignis bleibt in China ein weitgehend tabuisiertes Thema.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Proteste auf dem Platz des Himmlischen Friedens 1989"
-   }
-  ],
-  "06-06": [
-   {
-    "title": "Die alliierte Landung in der Normandie begann",
-    "text": "1944 landeten am 'D-Day' rund 156.000 alliierte Soldaten an den Stränden Nordfrankreichs, unterstützt von tausenden Schiffen und Flugzeugen. Es war die größte amphibische Militäroperation der Geschichte und leitete die Befreiung Westeuropas ein.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Operation Overlord"
-   }
-  ],
-  "06-12": [
-   {
-    "title": "Anne Frank erhielt ihr Tagebuch",
-    "text": "1942, an ihrem 13. Geburtstag, bekam sie das karierte Notizbuch geschenkt, das später als 'Tagebuch der Anne Frank' weltberühmt wurde. Wenige Wochen später musste ihre Familie vor der Verfolgung in ein Versteck in Amsterdam fliehen.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Anne Frank"
-   }
-  ],
-  "06-19": [
-   {
-    "title": "Juneteenth erinnert an das Ende der Sklaverei in den USA",
-    "text": "Am 19. Juni 1865 erfuhren die letzten versklavten Menschen in Texas von ihrer Freiheit, über zwei Jahre nach der offiziellen Emanzipationserklärung. Seit 2021 ist der Tag ein staatlicher Feiertag in den Vereinigten Staaten.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Juneteenth"
-   }
-  ],
-  "06-27": [
-   {
-    "title": "Helen Keller wurde geboren",
-    "text": "1880 geboren, verlor sie im Kleinkindalter durch eine Krankheit Sehkraft und Gehör fast vollständig. Mit Hilfe ihrer Lehrerin Anne Sullivan lernte sie dennoch lesen, schreiben und sprechen und wurde zur weltbekannten Autorin und Aktivistin.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Helen Keller"
-   }
-  ],
-  "06-28": [
-   {
-    "title": "Erzherzog Franz Ferdinand wurde ermordet",
-    "text": "1914 wurde der österreichische Thronfolger in Sarajevo erschossen, das Attentat gilt als unmittelbarer Auslöser des Ersten Weltkriegs. Fünf Jahre später wurde an genau diesem Datum, dem 28. Juni 1919, auch der Versailler Vertrag unterzeichnet.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Attentat von Sarajevo"
-   }
-  ],
-  "07-13": [
-   {
-    "title": "Das Live-Aid-Konzert fand statt",
-    "text": "1985 traten in London und Philadelphia gleichzeitig Dutzende Musikgrößen auf, um Spenden gegen die Hungersnot in Äthiopien zu sammeln. Weltweit verfolgten schätzungsweise anderthalb Milliarden Menschen die Übertragung im Fernsehen.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "Live Aid"
-   }
-  ],
-  "07-16": [
-   {
-    "title": "Apollo 11 startete Richtung Mond",
-    "text": "1969 hob die Rakete vom Kennedy Space Center ab, an Bord Neil Armstrong, Buzz Aldrin und Michael Collins. Vier Tage später, am 20. Juli, betrat Armstrong als erster Mensch die Mondoberfläche.",
-    "topics": [
-     "space",
-     "history"
-    ],
-    "wiki": "Apollo 11"
-   }
-  ],
-  "07-27": [
-   {
-    "title": "Der Koreakrieg endete mit einem Waffenstillstand",
-    "text": "1953 unterzeichneten die Konfliktparteien in Panmunjom ein Abkommen, das die Kämpfe beendete, aber nie zu einem offiziellen Friedensvertrag führte. Formal befinden sich Nord- und Südkorea deshalb bis heute im Kriegszustand.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Koreakrieg"
-   }
-  ],
-  "08-04": [
-   {
-    "title": "Barack Obama wurde geboren",
-    "text": "1961 in Honolulu, Hawaii, geboren, wurde er 2009 als erster afroamerikanischer Präsident der USA vereidigt. Vor seiner politischen Karriere arbeitete er unter anderem als Sozialarbeiter in Chicago.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Barack Obama"
-   }
-  ],
-  "08-14": [
-   {
-    "title": "Pakistan erklärte seine Unabhängigkeit",
-    "text": "1947 entstand der Staat mit der Teilung Britisch-Indiens, einen Tag vor der Unabhängigkeit Indiens selbst. Die Teilung löste eine der größten Fluchtbewegungen der Geschichte aus, Millionen Menschen wechselten in kürzester Zeit die Grenze.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Pakistan"
-   }
-  ],
-  "08-28": [
-   {
-    "title": "Martin Luther King hielt seine Rede 'I Have a Dream'",
-    "text": "1963 sprach er vor rund 250.000 Menschen am Lincoln Memorial in Washington für Gleichberechtigung. Die Rede gilt bis heute als einer der einflussreichsten politischen Reden der amerikanischen Geschichte.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "I Have a Dream"
-   }
-  ],
-  "09-02": [
-   {
-    "title": "Japan unterzeichnete die Kapitulation und beendete den Zweiten Weltkrieg",
-    "text": "1945 unterschrieben japanische Vertreter an Bord des US-Schlachtschiffs Missouri in der Bucht von Tokio die formelle Kapitulation. Erst damit endete der Zweite Weltkrieg endgültig, rund vier Monate nach dem Kriegsende in Europa.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Kapitulation Japans"
-   }
-  ],
-  "09-07": [
-   {
-    "title": "Brasilien erklärte seine Unabhängigkeit von Portugal",
-    "text": "1822 rief Prinzregent Pedro am Ufer des Flusses Ipiranga die Unabhängigkeit aus, der Legende nach mit dem Ausruf 'Unabhängigkeit oder Tod'. Er wurde kurz darauf zum ersten Kaiser des unabhängigen Brasilien gekrönt.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Unabhängigkeit Brasiliens"
-   }
-  ],
-  "09-18": [
-   {
-    "title": "Chile begann seinen Weg in die Unabhängigkeit",
-    "text": "1810 bildete sich in Santiago eine erste eigenständige Regierungsjunta, der Auftakt zum jahrelangen Unabhängigkeitsprozess vom spanischen Kolonialreich. Der Tag wird als Chiles Nationalfeiertag bis heute groß gefeiert.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Chile"
-   }
-  ],
-  "09-23": [
-   {
-    "title": "Der Planet Neptun wurde entdeckt",
-    "text": "1846 fand ihn ein Astronom fast genau dort, wo Berechnungen aufgrund von Bahnstörungen des Uranus ihn vorhergesagt hatten. Es war das erste Mal, dass ein Planet zuerst durch Mathematik vorhergesagt und erst danach tatsächlich beobachtet wurde.",
-    "topics": [
-     "space",
-     "history"
-    ],
-    "wiki": "Neptun (Planet)"
-   }
-  ],
-  "10-19": [
-   {
-    "title": "Die britischen Truppen kapitulierten bei Yorktown",
-    "text": "1781 ergab sich General Cornwallis nach einer Belagerung durch amerikanische und französische Truppen. Die Niederlage besiegelte praktisch das Ende des amerikanischen Unabhängigkeitskriegs.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Schlacht von Yorktown"
-   }
-  ],
-  "10-21": [
-   {
-    "title": "Die Schlacht von Trafalgar wurde geschlagen",
-    "text": "1805 besiegte die britische Flotte unter Admiral Nelson eine überlegene französisch-spanische Streitmacht vor der spanischen Küste. Nelson selbst starb während der Schlacht durch einen Musketenschuss, kurz bevor der Sieg feststand.",
-    "topics": [
-     "history"
-    ],
-    "wiki": "Schlacht von Trafalgar"
-   }
-  ],
-  "10-26": [
-   {
-    "title": "Österreich erklärte seine dauerhafte Neutralität",
-    "text": "1955 beschloss das Parlament ein Gesetz, das dem Land nach dem Abzug der alliierten Besatzungsmächte dauerhafte Neutralität auferlegte. Seither wird der Tag als österreichischer Nationalfeiertag begangen.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Österreichische Neutralität"
-   }
-  ],
-  "11-15": [
-   {
-    "title": "Brasilien wurde zur Republik erklärt",
-    "text": "1889 stürzte ein Militärputsch die brasilianische Monarchie und beendete die Herrschaft von Kaiser Pedro II. ohne größeres Blutvergießen. Der Kaiser selbst ging wenige Tage später ins Exil nach Europa.",
-    "topics": [
-     "history",
-     "geography"
-    ],
-    "wiki": "Proklamation der Republik (Brasilien)"
-   }
-  ],
-  "11-24": [
-   {
-    "title": "Charles Darwin veröffentlichte 'Die Entstehung der Arten'",
-    "text": "1859 erschien sein Hauptwerk über die Evolution durch natürliche Auslese und war am ersten Verkaufstag bereits ausverkauft. Das Buch löste heftige Debatten aus, weil es dem bis dahin vorherrschenden religiösen Weltbild widersprach.",
-    "topics": [
-     "history",
-     "science"
-    ],
-    "wiki": "Die Entstehung der Arten"
-   }
-  ],
-  "12-08": [
-   {
-    "title": "John Lennon wurde erschossen",
-    "text": "1980 wurde der Beatles-Musiker vor seiner Wohnung in New York von einem Attentäter getötet, der zuvor um sein Autogramm gebeten hatte. Weltweit versammelten sich in den folgenden Tagen trauernde Fans zu spontanen Gedenkveranstaltungen.",
-    "topics": [
-     "music",
-     "history"
-    ],
-    "wiki": "John Lennon"
-   }
-  ],
-  "12-17": [
-   {
-    "title": "Die Gebrüder Wright flogen zum ersten Mal motorisiert",
-    "text": "1903 hob ihr selbstgebautes Flugzeug in North Carolina für 12 Sekunden ab und legte dabei rund 37 Meter zurück. Keine zehn Jahre später legten Flugzeuge bereits hunderte Kilometer am Stück zurück.",
-    "topics": [
-     "history",
-     "tech"
-    ],
-    "wiki": "Gebrüder Wright"
-   }
-  ],
   "12-30": [
    {
     "title": "Rudyard Kipling wurde geboren",
@@ -3321,6 +3841,16 @@
      "language"
     ],
     "wiki": "Rudyard Kipling"
+   }
+  ],
+  "12-31": [
+   {
+    "title": "Silvester",
+    "text": "Benannt nach Papst Silvester I., der am 31. Dezember 335 starb. Der Jahreswechsel liegt hier erst, seit der gregorianische Kalender sich durchsetzte.",
+    "topics": [
+     "history"
+    ],
+    "wiki": "Silvester"
    }
   ]
  }

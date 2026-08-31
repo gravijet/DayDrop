@@ -146,6 +146,7 @@ fun FavouritesScreen(
                         DropCard(
                             drop = drop,
                             compact = true,
+                            saved = true,
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .height(280.dp),

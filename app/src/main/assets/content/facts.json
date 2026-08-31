@@ -21558,6 +21558,2369 @@
     "history"
    ],
    "wiki": "Terrakotta-Armee"
+  },
+  {
+   "id": "y0001",
+   "kind": "know",
+   "title": "Ein Konzertflügel hat mehr als 12.000 Einzelteile",
+   "text": "Allein die Mechanik unter den Tasten besteht aus rund 5.500 beweglichen Teilen pro Instrument. Ein Klavierbauer braucht für den kompletten Zusammenbau eines Flügels oft über ein Jahr.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Flügel (Klavier)"
+  },
+  {
+   "id": "y0002",
+   "kind": "fact",
+   "title": "Die kürzeste Nummer-eins-Hitparade der Geschichte dauerte einen Tag",
+   "text": "In manchen wöchentlichen Charts wechselte die Spitze schon nach 24 Stunden wieder, wenn Streaming-Zahlen untertägig nachgezählt wurden. Offizielle Jahres-Charts zählen solche Tagessiege meist gar nicht erst mit.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "y0003",
+   "kind": "science",
+   "title": "Beethoven komponierte einen Großteil seiner späten Werke fast taub",
+   "text": "Ab etwa 1818 galt er als praktisch gehörlos und führte Gespräche nur noch über Konversationshefte. Die Neunte Sinfonie dirigierte er 1824 uraufführend mit, merkte den tosenden Applaus aber erst, als ihn eine Sängerin zum Publikum umdrehte.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Ludwig van Beethoven"
+  },
+  {
+   "id": "y0004",
+   "kind": "know",
+   "title": "Die Stradivari-Geige verdankt ihren Klang wohl auch einer Kälteperiode",
+   "text": "Antonio Stradivari baute seine berühmtesten Instrumente während der sogenannten Kleinen Eiszeit, als Bäume in den Alpen besonders langsam und gleichmäßig wuchsen. Manche Akustikforscher vermuten, dass genau dieses dichte Holz zum unverwechselbaren Klang beiträgt.",
+   "topics": [
+    "music",
+    "science"
+   ],
+   "wiki": "Antonio Stradivari"
+  },
+  {
+   "id": "y0005",
+   "kind": "random",
+   "title": "Ein Didgeridoo ist mindestens 1.000 Jahre alt",
+   "text": "Aborigines im Norden Australiens bauen es traditionell aus Eukalyptusästen, die Termiten bereits ausgehöhlt haben. Gespielt wird es mit Zirkularatmung, bei der die Spielerin gleichzeitig ein- und ausatmet, damit der Ton nie abbricht.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Didgeridoo"
+  },
+  {
+   "id": "y0006",
+   "kind": "fact",
+   "title": "Das teuerste je versteigerte Musikinstrument war eine Geige für über 15 Millionen Dollar",
+   "text": "Die 'Lady Blunt'-Stradivari von 1721 wechselte 2011 zugunsten der Erdbebenhilfe in Japan den Besitzer. Sie gilt als eine der am besten erhaltenen Stradivari-Geigen überhaupt, weil sie kaum gespielt wurde.",
+   "topics": [
+    "music"
+   ]
+  },
+  {
+   "id": "y0007",
+   "kind": "know",
+   "title": "Mozart komponierte sein erstes Stück mit fünf Jahren",
+   "text": "Sein Vater Leopold schrieb die kleinen Menuette handschriftlich in ein Notenbuch, das bis heute erhalten ist. Mit sechs ging Mozart bereits auf Konzertreise durch halb Europa und spielte vor Kaiserin Maria Theresia.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Wolfgang Amadeus Mozart"
+  },
+  {
+   "id": "y0008",
+   "kind": "science",
+   "title": "Musikhören kann messbar den Puls senken",
+   "text": "Langsame Stücke mit rund 60 Schlägen pro Minute können sich an den Ruhepuls angleichen und ihn nach unten ziehen, zeigen mehrere Studien zur Herzratenvariabilität. Kliniken nutzen das gezielt vor Operationen, um die Angst von Patienten zu senken.",
+   "topics": [
+    "music",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "y0009",
+   "kind": "random",
+   "title": "Die längste Konzertaufführung der Welt dauert 639 Jahre",
+   "text": "In der Kirche St. Burchardi im deutschen Halberstadt läuft seit 2001 eine Orgelversion von John Cages Stück ORGAN2/ASLSP – geplantes Ende ist das Jahr 2640. Der letzte Tonwechsel fand 2024 statt, Besucher können den aktuellen Akkord jederzeit besichtigen.",
+   "topics": [
+    "music",
+    "weird"
+   ],
+   "wiki": "ORGAN2/ASLSP"
+  },
+  {
+   "id": "y0010",
+   "kind": "fact",
+   "title": "Die Beatles spielten ihr letztes öffentliches Konzert auf einem Hausdach",
+   "text": "Am 30. Januar 1969 gaben sie ein 42-minütiges Überraschungskonzert auf dem Dach ihres Apple-Studios in London. Die Polizei beendete den Auftritt wegen Lärmbeschwerden, bevor die Band ihr Set zu Ende spielen konnte.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "The Beatles"
+  },
+  {
+   "id": "y0011",
+   "kind": "know",
+   "title": "Eine Tuba kann über neun Meter Rohr enthalten",
+   "text": "Bei tiefen Kontrabasstuben ist das Metallrohr, wenn man es geradebiegen würde, oft länger als ein Linienbus. Trotzdem wiegt das Instrument dank dünnwandigem Messing meist nur um die zehn Kilogramm.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Tuba"
+  },
+  {
+   "id": "y0012",
+   "kind": "pop",
+   "title": "Der erste Song im Weltraum war ein Weihnachtslied",
+   "text": "Die Besatzung von Gemini 6 spielte 1965 heimlich eine Mundharmonika und Glöckchen im All und behauptete zunächst scherzhaft, ein UFO gesichtet zu haben. Jingle Bells wurde damit zum ersten Musikstück, das jemals außerhalb der Erdatmosphäre erklang.",
+   "topics": [
+    "music",
+    "space"
+   ],
+   "wiki": "Gemini 6"
+  },
+  {
+   "id": "y0013",
+   "kind": "random",
+   "title": "Manche Vögel singen in absoluten Halbtonschritten wie ein Klavier",
+   "text": "Nachtigallen und einige Finkenarten variieren ihre Rufe in Intervallen, die sich fast exakt mit der westlichen Tonleiter decken. Verhaltensforscher rätseln bis heute, ob das Zufall ist oder mit der Anatomie des Vogelkehlkopfs zusammenhängt.",
+   "topics": [
+    "music",
+    "animals"
+   ]
+  },
+  {
+   "id": "y0014",
+   "kind": "fact",
+   "title": "Die Nationalhymne von Griechenland hat 158 Strophen",
+   "text": "Offiziell gesungen werden nur die ersten beiden, der Rest des Gedichts von Dionysios Solomos wird kaum je vorgetragen. Damit ist sie die textlich längste Nationalhymne der Welt.",
+   "topics": [
+    "music",
+    "geography"
+   ],
+   "wiki": "Hymne an die Freiheit"
+  },
+  {
+   "id": "y0015",
+   "kind": "know",
+   "title": "Ein Schlagzeug-Cymbal wird meist aus einer Bronzelegierung mit Zinn gegossen",
+   "text": "Der typische Legierungsanteil liegt bei etwa 20 Prozent Zinn, was das Metall hart und klangfreudig zugleich macht. Manche Manufakturen hämmern jedes Becken noch von Hand, wodurch winzige Unwuchten den charakteristischen 'lebendigen' Klang erzeugen.",
+   "topics": [
+    "music",
+    "tech"
+   ]
+  },
+  {
+   "id": "y0016",
+   "kind": "random",
+   "title": "Whitney Houstons Version von 'I Will Always Love You' war ursprünglich ein Country-Song",
+   "text": "Dolly Parton schrieb und veröffentlichte das Lied bereits 1973 in einer ruhigen Akustikversion. Houstons Bearbeitung für den Film 'Bodyguard' hielt sich 1992 vierzehn Wochen an der Spitze der US-Charts – länger als jeder Song einer Solokünstlerin zuvor.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "I Will Always Love You"
+  },
+  {
+   "id": "y0017",
+   "kind": "science",
+   "title": "Ohrwürmer entstehen meist bei einfachen, sich wiederholenden Melodien",
+   "text": "Musikpsychologen fanden heraus, dass Songs mit kleinen, vorhersehbaren Sprüngen und einem markanten Rhythmus am hartnäckigsten im Kopf hängen bleiben. Im Schnitt verschwindet ein Ohrwurm nach rund 24 Stunden von selbst wieder.",
+   "topics": [
+    "music",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "y0018",
+   "kind": "fact",
+   "title": "Die japanische Koto hat traditionell genau 13 Saiten",
+   "text": "Jede Saite liegt auf einem eigenen, verschiebbaren Steg, mit dem sich die Stimmung während des Spiels verändern lässt. Das Instrument wird nicht gegriffen, sondern mit Fingerpicks aus Elfenbein oder Kunststoff gezupft.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Koto"
+  },
+  {
+   "id": "y0019",
+   "kind": "random",
+   "title": "Es gibt ein Musikstück, das komponiert wurde, um Autobahnraser auszubremsen",
+   "text": "In einigen Ländern spielen Behörden auf besonders unfallträchtigen Strecken absichtlich unangenehme Musik über Lautsprecher, um Autofahrer zum Bremsen zu bewegen. Studien aus Schweden zeigten dabei tatsächlich eine messbare Senkung der Durchschnittsgeschwindigkeit.",
+   "topics": [
+    "music",
+    "weird"
+   ]
+  },
+  {
+   "id": "y0020",
+   "kind": "know",
+   "title": "Das Wort 'Jazz' hatte ursprünglich nichts mit Musik zu tun",
+   "text": "Um 1912 tauchte der Begriff zuerst im US-Baseball als Slang für Energie und Schwung auf. Erst wenige Jahre später übernahmen Bands in New Orleans das Wort für ihren neuen, improvisierten Musikstil.",
+   "topics": [
+    "music",
+    "language"
+   ],
+   "wiki": "Jazz"
+  },
+  {
+   "id": "y0021",
+   "kind": "fact",
+   "title": "Elvis Presley hat kaum ein selbst geschriebenes Lied veröffentlicht",
+   "text": "Fast alle seine Hits stammten von professionellen Songwritern, während Presley sich auf Interpretation und Bühnenpräsenz konzentrierte. Trotzdem steht sein Name bei einigen Songs als Mitautor, weil Verträge ihm automatisch Tantiemenanteile sicherten.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Elvis Presley"
+  },
+  {
+   "id": "y0022",
+   "kind": "random",
+   "title": "Ein Dudelsack braucht ständigen Luftdruck, sonst verstummt er nicht sauber",
+   "text": "Der Windsack unter dem Arm speichert Luft, damit der Ton auch beim Atemholen nicht abreißt – anders als bei fast jedem anderen Blasinstrument. Manche schottischen Great Highland Pipes erreichen dabei eine Lautstärke von über 100 Dezibel.",
+   "topics": [
+    "music"
+   ],
+   "wiki": "Dudelsack"
+  },
+  {
+   "id": "y0023",
+   "kind": "science",
+   "title": "Das absolute Gehör ist zu einem Teil erlernbar, wenn man früh genug beginnt",
+   "text": "Kinder, die vor dem sechsten Lebensjahr intensiv Musik lernen, entwickeln deutlich häufiger die Fähigkeit, Töne ohne Vergleichston exakt zu benennen, als später Startende. Danach sinkt die Trainierbarkeit stark, weshalb absolutes Gehör bei Erwachsenen selten neu entsteht.",
+   "topics": [
+    "music",
+    "science",
+    "body"
+   ]
+  },
+  {
+   "id": "y0024",
+   "kind": "know",
+   "title": "Die erste komplett elektronische Popmusik-Nummer eins kam aus Deutschland",
+   "text": "1982 erreichte Nena mit '99 Luftballons' in mehreren Ländern die Chartspitze und war zugleich einer der ersten großen internationalen Erfolge des Synthpop. In den USA lief parallel die englische Version '99 Red Balloons'.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "99 Luftballons"
+  },
+  {
+   "id": "y0025",
+   "kind": "fact",
+   "title": "Manche Wale singen Lieder, die sich über Jahre hinweg verändern",
+   "text": "Buckelwal-Gesänge in einer Population folgen gemeinsamen Mustern, die sich langsam wandeln, ähnlich wie ein Ohrwurm, der sich in einer ganzen Stadt verbreitet. Forscher konnten sogar beobachten, wie sich ein neuer 'Hit' innerhalb weniger Jahre über den ganzen Pazifik ausbreitete.",
+   "topics": [
+    "music",
+    "animals"
+   ],
+   "wiki": "Buckelwal"
+  },
+  {
+   "id": "y0026",
+   "kind": "random",
+   "title": "Benjamin Franklin erfand ein Instrument aus rotierenden Glasschalen",
+   "text": "Die 1761 vorgestellte Glasharmonika erzeugt Töne, indem feuchte Finger rotierende Glasscheiben unterschiedlicher Größe berühren. Mozart und Beethoven komponierten eigene Stücke dafür, bis Gerüchte über angeblich krankmachende Vibrationen sie fast in Vergessenheit geraten ließen.",
+   "topics": [
+    "music",
+    "tech"
+   ],
+   "wiki": "Glasharmonika"
+  },
+  {
+   "id": "y0027",
+   "kind": "pop",
+   "title": "Der meistverkaufte Musik-Tonträger aller Zeiten ist ein Album von Michael Jackson",
+   "text": "'Thriller' verkaufte sich seit 1982 weltweit über 70 Millionen Mal und hält bis heute mehrere Chart- und Verkaufsrekorde. Das dazugehörige 14-minütige Musikvideo gilt als eines der ersten, das wie ein Kurzfilm inszeniert wurde.",
+   "topics": [
+    "music",
+    "movies"
+   ],
+   "wiki": "Thriller (Album)"
+  },
+  {
+   "id": "y0028",
+   "kind": "know",
+   "title": "Bis ins 19. Jahrhundert war der Kammerton nicht einheitlich festgelegt",
+   "text": "Orchester in verschiedenen Städten stimmten ihr A auf ganz unterschiedliche Frequenzen, teils lag der Unterschied bei fast einem Halbton. Erst 1939 einigte sich eine internationale Konferenz in London auf 440 Hertz als Standard.",
+   "topics": [
+    "music",
+    "history"
+   ],
+   "wiki": "Kammerton"
+  },
+  {
+   "id": "y0029",
+   "kind": "random",
+   "title": "Kühe geben mehr Milch, wenn im Stall langsame Musik läuft",
+   "text": "Eine oft zitierte britische Studie beobachtete bei ruhiger Musik einen messbaren Anstieg der Milchmenge gegenüber Stille oder schnellen Beats. Erklärt wird das mit einem niedrigeren Stresslevel der Tiere, ähnlich wie beim beruhigenden Effekt auf Menschen.",
+   "topics": [
+    "music",
+    "animals",
+    "weird"
+   ]
+  },
+  {
+   "id": "y0030",
+   "kind": "fact",
+   "title": "Das Vuvuzela-Horn wurde durch eine Fußball-WM weltberühmt",
+   "text": "Bei der WM 2010 in Südafrika machte das laute Plastikhorn aus den Stadien einen gleichmäßigen Dauerton, der im Fernsehen fast jede andere Geräuschkulisse übertönte. Ursprünglich stammt das Horn von traditionellen Kudu-Hörnern, mit denen Gemeinden zusammengerufen wurden.",
+   "topics": [
+    "music",
+    "sports"
+   ],
+   "wiki": "Vuvuzela"
+  },
+  {
+   "id": "y0031",
+   "kind": "know",
+   "title": "Eine Stimmgabel schwingt nach dem Anschlagen fast rein sinusförmig",
+   "text": "Ihre beiden Zinken bewegen sich exakt gegenläufig, wodurch sich Störschwingungen fast vollständig auslöschen und ein besonders reiner Ton entsteht. Erfunden wurde sie 1711 vom englischen Trompeter John Shore, ursprünglich zum Stimmen von Lauten.",
+   "topics": [
+    "music",
+    "science"
+   ],
+   "wiki": "Stimmgabel"
+  },
+  {
+   "id": "y0032",
+   "kind": "random",
+   "title": "Die kürzeste Nationalhymne der Welt dauert nur wenige Sekunden",
+   "text": "Japans Kimigayo zählt mit etwa elf Takten und rund 30 Sekunden Spieldauer zu den kürzesten Hymnen überhaupt. Der Text stammt aus einem Gedicht, das schon über tausend Jahre alt ist.",
+   "topics": [
+    "music",
+    "geography"
+   ],
+   "wiki": "Kimigayo"
+  },
+  {
+   "id": "y0033",
+   "kind": "fact",
+   "title": "Tetris wurde in der Sowjetunion auf einem Rechner ohne Grafikkarte entwickelt",
+   "text": "Alexei Paschitnow programmierte das Spiel 1984 am Moskauer Computerzentrum zunächst rein mit Textzeichen statt bunten Blöcken. Erst spätere Portierungen auf westliche Heimcomputer brachten die Farben, die heute jeder kennt.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Tetris"
+  },
+  {
+   "id": "y0034",
+   "kind": "know",
+   "title": "Pac-Man sollte ursprünglich 'Puck Man' heißen",
+   "text": "Der japanische Name Pakkuman leitete sich vom Lautmalerischen 'paku paku' fürs Mundöffnen und -schließen ab. In den USA änderte der Publisher den Namen aus Sorge, Vandalen könnten aus dem P ein F kratzen.",
+   "topics": [
+    "gaming",
+    "language"
+   ],
+   "wiki": "Pac-Man"
+  },
+  {
+   "id": "y0035",
+   "kind": "random",
+   "title": "Der Highscore von Pac-Man ist seit 1999 exakt bekannt",
+   "text": "Billy Mitchell erreichte als Erster die maximal mögliche Punktzahl von 3.333.360, bevor der Spielspeicher wegen eines Programmierfehlers überläuft. Danach ist das Spiel technisch nicht mehr fortsetzbar – ein sogenannter 'perfect game'.",
+   "topics": [
+    "gaming"
+   ]
+  },
+  {
+   "id": "y0036",
+   "kind": "fact",
+   "title": "Das erste Videospiel überhaupt lief auf einem Oszilloskop",
+   "text": "'Tennis for Two' simulierte 1958 am Brookhaven National Laboratory ein Tennismatch als grüne Linie auf einem Röhrenbildschirm, gedacht als Attraktion für Besuchertage. Erst mehr als ein Jahrzehnt später kamen die ersten kommerziellen Automaten auf den Markt.",
+   "topics": [
+    "gaming",
+    "history",
+    "tech"
+   ],
+   "wiki": "Tennis for Two"
+  },
+  {
+   "id": "y0037",
+   "kind": "random",
+   "title": "Der Nintendo-Klempner Mario hieß ursprünglich 'Jumpman'",
+   "text": "In 'Donkey Kong' von 1981 war die Figur zunächst namenlos, bis Nintendos US-Vermieter Mario Segale ihr unfreiwillig seinen Namen lieh. Erst später bekam die Figur ihren Beruf und einen roten Overall spendiert.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Mario (Videospielfigur)"
+  },
+  {
+   "id": "y0038",
+   "kind": "know",
+   "title": "Minecraft-Welten sind theoretisch größer als die Erdoberfläche",
+   "text": "Eine Welt erstreckt sich über rund 60 Millionen Blöcke in jede Richtung, was einer Fläche entspricht, die deutlich größer ist als die gesamte Landmasse unseres Planeten. In der Praxis stößt aber jeder Computer lange vorher an seine Speichergrenzen.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Minecraft"
+  },
+  {
+   "id": "y0039",
+   "kind": "fact",
+   "title": "Ein Speedrunner schlug Super Mario Bros. in unter fünf Minuten",
+   "text": "Durch das gezielte Ausnutzen von Programmierfehlern lässt sich das Spiel abkürzen, statt jedes der acht Level regulär zu durchqueren. Der aktuelle Weltrekord für den fehlerfreien Durchlauf liegt bei rund vier Minuten und 54 Sekunden.",
+   "topics": [
+    "gaming"
+   ]
+  },
+  {
+   "id": "y0040",
+   "kind": "random",
+   "title": "Der meistverkaufte Videospiel-Titel aller Zeiten ist Minecraft",
+   "text": "Seit dem Release 2011 gingen weltweit über 300 Millionen Kopien über den digitalen Ladentisch, auf so unterschiedlichen Geräten wie Smartphones und Schulcomputern. Damit übertrifft es sogar Klassiker wie Tetris deutlich.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Minecraft"
+  },
+  {
+   "id": "y0041",
+   "kind": "know",
+   "title": "Go hat mehr mögliche Stellungen als das gesamte Schachspiel",
+   "text": "Auf dem 19-mal-19-Brett gibt es rund 2 hoch 170 legale Stellungen, eine Zahl mit über 170 Stellen. Trotz seiner simplen Regeln gilt Go deshalb informatisch als deutlich komplexer als Schach.",
+   "topics": [
+    "gaming",
+    "science"
+   ],
+   "wiki": "Go (Spiel)"
+  },
+  {
+   "id": "y0042",
+   "kind": "fact",
+   "title": "Der Begriff 'Bug' für Programmfehler geht auf eine echte Motte zurück",
+   "text": "1947 fanden Ingenieurinnen an der Harvard-Universität ein totes Insekt in einem Relais des Computers Mark II, das den Betrieb störte. Sie klebten das Tier ins Logbuch und notierten scherzhaft, sie hätten den ersten 'Bug' gefunden.",
+   "topics": [
+    "gaming",
+    "tech",
+    "history"
+   ],
+   "wiki": "Softwarefehler"
+  },
+  {
+   "id": "y0043",
+   "kind": "random",
+   "title": "World of Warcraft löste 2005 versehentlich eine echte Seuchen-Simulation aus",
+   "text": "Ein neuer Bosskampf verbreitete eine ansteckende Debuff-Krankheit, die sich über einen Programmierfehler auch außerhalb des geplanten Gebiets ausbreitete. Epidemiologen untersuchten den 'Corrupted Blood Incident' später, weil sich Spielerverhalten überraschend realistisch verhielt.",
+   "topics": [
+    "gaming",
+    "science"
+   ],
+   "wiki": "World of Warcraft"
+  },
+  {
+   "id": "y0044",
+   "kind": "fact",
+   "title": "Der erste E-Sport-Wettbewerb fand schon 1972 statt",
+   "text": "Studierende der Stanford University traten im Weltraumspiel 'Spacewar!' gegeneinander an, der Hauptpreis war ein Jahresabo des Magazins Rolling Stone. Kommerzielle E-Sport-Turniere mit Preisgeldern in Millionenhöhe kamen erst rund vier Jahrzehnte später.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Spacewar!"
+  },
+  {
+   "id": "y0045",
+   "kind": "know",
+   "title": "Der Game Boy überlebte einen Bombenangriff funktionsfähig",
+   "text": "Während des Golfkriegs 1991 wurde das Gerät eines US-Soldaten bei einem Angriff auf sein Zeltlager beschädigt, funktionierte danach aber weiter. Nintendo stellt das verbeulte Gerät bis heute in seinem Firmenmuseum in Japan aus.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Game Boy"
+  },
+  {
+   "id": "y0046",
+   "kind": "random",
+   "title": "In Japan gibt es eigene Wettkämpfe im kompetitiven Kartenspielen mit Videospiel-Ursprung",
+   "text": "Das Sammelkartenspiel Yu-Gi-Oh! entstand aus einem Manga und wurde später selbst zum Videospiel-Franchise mit eigenen Weltmeisterschaften. Weltweit wurden davon über 25 Milliarden Spielkarten gedruckt, mehr als von jedem anderen Sammelkartenspiel.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Yu-Gi-Oh!"
+  },
+  {
+   "id": "y0047",
+   "kind": "fact",
+   "title": "Das Wort 'Videospiel-Konsole' Atari verdankt seinen Namen einem Go-Begriff",
+   "text": "'Atari' ist ein japanischer Ausdruck aus dem Brettspiel Go und bedeutet etwa 'du bist in Gefahr, gleich geschlagen zu werden'. Firmengründer Nolan Bushnell war selbst begeisterter Go-Spieler.",
+   "topics": [
+    "gaming",
+    "language"
+   ],
+   "wiki": "Atari"
+  },
+  {
+   "id": "y0048",
+   "kind": "know",
+   "title": "Der erste Computer-Virus wurde als harmloser Videospiel-Scherz programmiert",
+   "text": "'Creeper' zeigte 1971 auf infizierten Rechnern nur die Meldung 'I'm the creeper, catch me if you can!' und richtete keinen Schaden an. Als Gegenmittel entstand kurz darauf 'Reaper', das als erstes Antivirenprogramm der Geschichte gilt.",
+   "topics": [
+    "gaming",
+    "tech",
+    "history"
+   ],
+   "wiki": "Creeper (Computerprogramm)"
+  },
+  {
+   "id": "y0049",
+   "kind": "random",
+   "title": "Manche Schachcomputer spielen absichtlich schlechter, damit Menschen gewinnen können",
+   "text": "Moderne Schach-Engines sind Menschen längst überlegen, weshalb Trainingsprogramme ihre Spielstärke künstlich drosseln. Manche simulieren dabei sogar typische menschliche Fehler, um realistischer zu wirken.",
+   "topics": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "id": "y0050",
+   "kind": "fact",
+   "title": "Super Mario 64 nutzte für seine 3D-Welt weniger Speicher als ein modernes Emoji-Bild",
+   "text": "Das komplette Spiel passte 1996 auf ein Modul mit gerade einmal acht Megabyte Speicher. Ein einzelnes hochauflösendes Foto von einem heutigen Smartphone braucht oft ein Vielfaches davon.",
+   "topics": [
+    "gaming",
+    "tech"
+   ],
+   "wiki": "Super Mario 64"
+  },
+  {
+   "id": "y0051",
+   "kind": "know",
+   "title": "Rubik's Cube wurde ursprünglich als Lehrmittel für Raumvorstellung erfunden",
+   "text": "Der ungarische Architekturprofessor Ernő Rubik entwickelte 1974 seinen Würfel, um Studierenden dreidimensionales Denken zu erklären, nicht als Spielzeug. Es dauerte einen Monat, bis er selbst den ersten gelösten Zustand wiederherstellen konnte.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Zauberwürfel"
+  },
+  {
+   "id": "y0052",
+   "kind": "random",
+   "title": "Der Rubik's Cube hat mehr als 43 Trillionen mögliche Stellungen",
+   "text": "Exakt sind es 43.252.003.274.489.856.000 verschiedene Zustände, von denen jeder in maximal 20 Zügen lösbar ist – bewiesen von einer Forschungsgruppe erst 2010 mit massiver Rechenleistung von Google. Der aktuelle Speedcubing-Weltrekord liegt bei unter 3,5 Sekunden.",
+   "topics": [
+    "gaming",
+    "science"
+   ],
+   "wiki": "Zauberwürfel"
+  },
+  {
+   "id": "y0053",
+   "kind": "fact",
+   "title": "Die erste Version von Solitaire kam mit Windows 3.0, um Mausbedienung zu üben",
+   "text": "Microsoft legte das Kartenspiel 1990 bewusst als Trainingsprogramm bei, damit Büroangestellte das Ziehen und Ablegen mit der Maus lernten. Es wurde zu einem der meistgespielten Programme der Bürocomputer-Geschichte.",
+   "topics": [
+    "gaming",
+    "tech",
+    "history"
+   ],
+   "wiki": "Solitaire (Windows)"
+  },
+  {
+   "id": "y0054",
+   "kind": "random",
+   "title": "Es gibt eine Schachpartie, die theoretisch 5.949 Züge dauern könnte",
+   "text": "Diese Zahl ergibt sich aus der maximal erlaubten Zugzahl nach den offiziellen Remis-Regeln, bevor eine Partie zwangsweise endet. In der Praxis enden Profipartien fast immer nach deutlich unter 100 Zügen.",
+   "topics": [
+    "gaming"
+   ],
+   "wiki": "Schach"
+  },
+  {
+   "id": "y0055",
+   "kind": "fact",
+   "title": "Space Invaders ließ 1978 angeblich Japans Münzvorrat knapp werden",
+   "text": "Der Automatenhit war so populär, dass Spielhallenbetreiber weit mehr 100-Yen-Münzen brauchten, als im Umlauf verfügbar waren. Die Bank of Japan musste die Produktion der Münze deutlich hochfahren.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Space Invaders"
+  },
+  {
+   "id": "y0056",
+   "kind": "know",
+   "title": "Brettspiele sind vermutlich älter als geschriebene Sprache",
+   "text": "Das ägyptische Spiel Senet lässt sich archäologisch bis rund 3100 vor Christus zurückverfolgen, deutlich vor den frühesten vollständigen Schriftsystemen. Die genauen Regeln sind bis heute nicht restlos geklärt, weil keine antike Anleitung überliefert ist.",
+   "topics": [
+    "gaming",
+    "history"
+   ],
+   "wiki": "Senet"
+  },
+  {
+   "id": "y0057",
+   "kind": "fact",
+   "title": "Der Marathon ist nur wegen der britischen Königsfamilie 42,195 Kilometer lang",
+   "text": "Bei den Olympischen Spielen 1908 in London verlängerte man die Strecke, damit sie am Fenster von Windsor Castle startete und vor der königlichen Loge im Stadion endete. Diese krumme Distanz wurde 1921 weltweit zum offiziellen Standard erklärt.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Marathon (Sport)"
+  },
+  {
+   "id": "y0058",
+   "kind": "know",
+   "title": "Beim Tischtennis kann der Ball über 100 km/h schnell werden",
+   "text": "Profispieler erreichen bei Schmetterbällen Geschwindigkeiten, die schneller sind als mancher Aufschlag beim Tennis, obwohl der Ball nur 2,7 Gramm wiegt. Die Reaktionszeit des Gegners liegt dabei oft unter einer halben Sekunde.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Tischtennis"
+  },
+  {
+   "id": "y0059",
+   "kind": "random",
+   "title": "Ein Formel-1-Fahrer verliert während eines Rennens oft mehrere Kilogramm Körpergewicht",
+   "text": "Durch Hitze im Cockpit von über 50 Grad und die extreme Konzentration schwitzen Fahrer bei einem Grand Prix teils über drei Kilogramm Flüssigkeit aus. Deshalb tragen viele während der Fahrt spezielle Trinksysteme im Helm.",
+   "topics": [
+    "sports",
+    "body"
+   ]
+  },
+  {
+   "id": "y0060",
+   "kind": "fact",
+   "title": "Beim ersten modernen Olympia 1896 gab es noch keine Goldmedaillen",
+   "text": "Sieger erhielten stattdessen Silbermedaillen sowie einen Olivenzweig, Zweitplatzierte Bronze. Das heutige System mit Gold, Silber und Bronze führte man erst bei den Spielen 1904 in St. Louis ein.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Olympische Sommerspiele 1896"
+  },
+  {
+   "id": "y0061",
+   "kind": "know",
+   "title": "Ein Golfball hat im Schnitt zwischen 300 und 500 Dellen",
+   "text": "Diese sogenannten Dimples reduzieren den Luftwiderstand und erzeugen Verwirbelungen, die den Ball fast doppelt so weit fliegen lassen wie eine völlig glatte Kugel. Die genaue Anzahl und Anordnung ist bei jedem Hersteller ein eigenes Geheimnis.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Golfball"
+  },
+  {
+   "id": "y0062",
+   "kind": "random",
+   "title": "Curling-Steine werden fast alle aus demselben schottischen Steinbruch gefertigt",
+   "text": "Der Granit von Ailsa Craig, einer kleinen Insel vor der schottischen Küste, gilt wegen seiner besonders geringen Wasseraufnahme als ideal fürs Eis. Fast jeder offizielle Wettkampfstein weltweit stammt aus diesem einen Vorkommen.",
+   "topics": [
+    "sports",
+    "geography"
+   ],
+   "wiki": "Curling"
+  },
+  {
+   "id": "y0063",
+   "kind": "fact",
+   "title": "Der schnellste Aufschlag im Tennis war schneller als ein Auto auf der Autobahn",
+   "text": "Der Australier Sam Groth schlug 2012 einen Aufschlag mit 263 km/h, gemessen bei einem Challenger-Turnier. Beim Ball bleibt dem Gegner dabei kaum mehr als ein Wimpernschlag zum Reagieren.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Aufschlag (Tennis)"
+  },
+  {
+   "id": "y0064",
+   "kind": "know",
+   "title": "Basketballkörbe hingen ursprünglich wirklich an Pfirsichkörben",
+   "text": "James Naismith nagelte 1891 zwei Obstkörbe an eine Empore, um sein neues Hallenspiel zu erproben. Weil der Boden fehlte, musste nach jedem Korberfolg jemand mit einer Leiter den Ball wieder herausholen.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Basketball"
+  },
+  {
+   "id": "y0065",
+   "kind": "random",
+   "title": "Beim Sumō-Ringen zählt schon eine Fußsohle außerhalb des Rings als Niederlage",
+   "text": "Der Kreis, Dohyō genannt, hat nur etwa 4,55 Meter Durchmesser, trotzdem können die oft über 150 Kilogramm schweren Ringer darin enorme Wucht entwickeln. Ein Kampf dauert dadurch häufig nur wenige Sekunden.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Sumō"
+  },
+  {
+   "id": "y0066",
+   "kind": "fact",
+   "title": "Die Tour de France überquert bei manchen Etappen über 5.000 Höhenmeter am Tag",
+   "text": "Bergetappen in den Alpen oder Pyrenäen können mehrere Pässe über 2.000 Meter Höhe in einer einzigen Etappe verbinden. Profis verbrauchen an solchen Tagen bis zu 7.000 Kilokalorien, mehr als das Dreifache eines durchschnittlichen Tagesbedarfs.",
+   "topics": [
+    "sports",
+    "body"
+   ],
+   "wiki": "Tour de France"
+  },
+  {
+   "id": "y0067",
+   "kind": "know",
+   "title": "Boxhandschuhe wurden ursprünglich eingeführt, um mehr Schläge zu ermöglichen, nicht weniger",
+   "text": "Ohne Polsterung würden Boxer ihre eigenen Hände bei harten Treffern öfter verletzen als den Gegner. Die Polsterung schützt also vor allem die Fäuste des Schlagenden, während der Kopf des Getroffenen kaum weniger Wucht abbekommt.",
+   "topics": [
+    "sports",
+    "body"
+   ],
+   "wiki": "Boxen"
+  },
+  {
+   "id": "y0068",
+   "kind": "random",
+   "title": "Ein olympisches Schwimmbecken enthält genug Wasser für über 15.000 Badewannen",
+   "text": "Ein Wettkampfbecken fasst rund 2,5 Millionen Liter, verteilt auf 50 Meter Länge und acht Bahnen. Damit ein Rennen fair bleibt, wird die Wassertemperatur meist exakt zwischen 25 und 28 Grad gehalten.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Schwimmbecken"
+  },
+  {
+   "id": "y0069",
+   "kind": "fact",
+   "title": "Beim American Football ist der Ball absichtlich nicht rund",
+   "text": "Die ovale Form geht auf die Ursprünge im Rugby zurück, wo mit einer aufgeblasenen Schweinsblase gespielt wurde, die von Natur aus oval war. Die Form erleichtert heute vor allem das präzise Werfen mit einer Hand.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "American Football"
+  },
+  {
+   "id": "y0070",
+   "kind": "know",
+   "title": "Skispringer fliegen inzwischen weiter als die Schanze eigentlich lang ist",
+   "text": "Auf großen Anlagen übertreffen Weiten von über 240 Metern regelmäßig den sogenannten Konstruktionspunkt der Schanze. Die Technik namens V-Stil, bei der die Skispitzen ein V bilden, brachte ab den 1990er-Jahren enorme Weitenzuwächse.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Skispringen"
+  },
+  {
+   "id": "y0071",
+   "kind": "random",
+   "title": "Beim Bowling ist ein perfektes Spiel schwerer als 300 Punkte klingen lassen",
+   "text": "Für die Maximalpunktzahl braucht es zwölf Strikes hintereinander in einer einzigen Partie, ohne einen einzigen Fehlwurf. Weltweit gelingt das selbst unter Profis nur einer sehr kleinen Zahl von Spielerinnen und Spielern pro Jahr.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Bowling"
+  },
+  {
+   "id": "y0072",
+   "kind": "fact",
+   "title": "Der am schnellsten fliegende Ball im Sport kommt vom Badminton",
+   "text": "Beim Smash kann ein Federball Spitzengeschwindigkeiten von über 400 km/h erreichen, gemessen direkt am Schläger. Wegen seines hohen Luftwiderstands bremst er allerdings extrem schnell wieder ab.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Badminton"
+  },
+  {
+   "id": "y0073",
+   "kind": "know",
+   "title": "Im Rudern sitzt die kleinste Person im Boot und lenkt trotzdem alle anderen",
+   "text": "Der Steuermann oder die Steuerfrau, oft deutlich leichter als die übrige Crew, gibt Kommandos und hält den Kurs, während er oder sie selbst kaum zur Kraft beiträgt. Ein niedriges Gewicht ist hier gezielt von Vorteil, weil jedes Kilo das Boot bremst.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Rudersport"
+  },
+  {
+   "id": "y0074",
+   "kind": "random",
+   "title": "Die höchste je gemessene Fangeschwindigkeit im Baseball lag bei über 169 km/h",
+   "text": "Der kubanische Pitcher Aroldis Chapman wurde 2010 mit einem Wurf so schnell gemessen, dass Batter kaum Zeit zum Reagieren blieb. Der Ball erreicht die gegnerische Platte dabei in weniger als einer halben Sekunde.",
+   "topics": [
+    "sports"
+   ],
+   "wiki": "Baseball"
+  },
+  {
+   "id": "y0075",
+   "kind": "fact",
+   "title": "Im mittelalterlichen Florenz spielte man einen Vorläufer des Fußballs mit bis zu 27 Spielern pro Team",
+   "text": "Beim Calcio Storico auf der Piazza Santa Croce waren Fausthiebe und Ringen erlaubt, nur Tritte gegen den Kopf waren verboten. Die Tradition wird in Florenz bis heute jährlich in historischen Kostümen nachgestellt.",
+   "topics": [
+    "sports",
+    "history"
+   ],
+   "wiki": "Calcio Storico"
+  },
+  {
+   "id": "y0076",
+   "kind": "know",
+   "title": "Ein Eishockeypuck ist vor dem Spiel absichtlich gefroren",
+   "text": "Frisch aus der Verpackung würde die Gummischeibe zu stark auf dem Eis abprallen. Deshalb kühlen Betreuer den Puck vor jedem Spiel auf unter minus fünf Grad, damit er flach übers Eis gleitet.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Puck (Eishockey)"
+  },
+  {
+   "id": "y0077",
+   "kind": "random",
+   "title": "Beim Stabhochsprung biegt sich der Stab zeitweise fast zu einem Halbkreis",
+   "text": "Moderne Stäbe aus Fiberglas oder Carbon speichern die Sprintenergie der Athletin wie eine Feder und geben sie beim Absprung wieder ab. Erst ab den 1960er-Jahren lösten solche flexiblen Stäbe die starren Bambus- und Metallstäbe ab und ließen die Höhen sprunghaft steigen.",
+   "topics": [
+    "sports",
+    "science"
+   ],
+   "wiki": "Stabhochsprung"
+  },
+  {
+   "id": "y0078",
+   "kind": "fact",
+   "title": "Der erste abendfüllende Film der Geschichte kam nicht aus Hollywood",
+   "text": "'The Story of the Kelly Gang' über einen australischen Banditen lief 1906 rund 60 Minuten und gilt als erster Spielfilm in Spielfilmlänge überhaupt. Von der Originalfassung sind heute nur noch wenige Filmminuten erhalten.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "The Story of the Kelly Gang"
+  },
+  {
+   "id": "y0079",
+   "kind": "know",
+   "title": "Für den Kinofilm 'Avatar' entwickelten Sprachforscher eine komplette neue Sprache",
+   "text": "Der Linguist Paul Frommer schuf für die Na'vi im Film 2009 ein Vokabular von mehreren tausend Wörtern mit eigener Grammatik. Fans lernen die Sprache bis heute in Online-Foren weiter und erweitern den Wortschatz.",
+   "topics": [
+    "movies",
+    "language"
+   ],
+   "wiki": "Na’vi (Sprache)"
+  },
+  {
+   "id": "y0080",
+   "kind": "random",
+   "title": "Für 'Der König der Löwen' beobachteten Zeichner monatelang echte Löwen im Zoo",
+   "text": "Die Animatoren von Disney reisten für Recherchen nach Kenia und in den San Diego Zoo, um Bewegungsabläufe realistisch nachzuzeichnen. Der Film von 1994 wurde damit einer der erfolgreichsten traditionell gezeichneten Trickfilme überhaupt.",
+   "topics": [
+    "movies",
+    "animals"
+   ],
+   "wiki": "Der König der Löwen (1994)"
+  },
+  {
+   "id": "y0081",
+   "kind": "fact",
+   "title": "Der teuerste je gedrehte Film kostete über 400 Millionen Dollar",
+   "text": "Bei Superhelden- und Fortsetzungsfilmen aus dem Marvel- und Piraten-Universum werden Produktionsbudgets dieser Größenordnung inzwischen regelmäßig erreicht oder überschritten. Zum Vergleich: Der gesamte erste Star-Wars-Film von 1977 kostete umgerechnet weniger als 45 Millionen Dollar.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "y0082",
+   "kind": "know",
+   "title": "Alfred Hitchcock hatte in fast jedem seiner Filme einen kurzen Cameo-Auftritt",
+   "text": "Meist erschien er nur für wenige Sekunden im Hintergrund, etwa als Passant oder Fahrgast im Bus. Weil Zuschauer irgendwann gezielt nach ihm suchten, platzierte er seine Auftritte bewusst früh im Film, um von der eigentlichen Handlung abzulenken.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Alfred Hitchcock"
+  },
+  {
+   "id": "y0083",
+   "kind": "random",
+   "title": "Der Toy-Story-Computeranimationsfilm hätte fast mit blauem statt gelbem Licht ausgesehen",
+   "text": "Frühe Testrenderings von Pixar zeigten ungewohnt kühle Farbstiche, weil die Beleuchtungssoftware für Innenräume noch in den Kinderschuhen steckte. Das Studio entwickelte eigens neue Beleuchtungstechniken, um 1995 wärmere, glaubwürdigere Bilder zu erzeugen.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Toy Story"
+  },
+  {
+   "id": "y0084",
+   "kind": "fact",
+   "title": "Manche Filmstudios drehen wichtige Szenen zweimal mit unterschiedlichem Ende",
+   "text": "Bei Testvorführungen zeigt man ausgewählten Publikumsgruppen beide Versionen, um anhand der Reaktionen zu entscheiden, welches Ende ins Kino kommt. Bei einigen bekannten Thrillern wurde so erst kurz vor Kinostart über den finalen Schnitt entschieden.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "y0085",
+   "kind": "know",
+   "title": "Der erste Oscar-Preisträger für den besten Film dauerte nur 92 Minuten",
+   "text": "'Wings' von 1927 gewann bei der allerersten Verleihung 1929 die Auszeichnung und ist bis heute der einzige Stummfilm, der diesen Hauptpreis erhielt. Die Zeremonie selbst dauerte damals gerade einmal 15 Minuten.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Wings (1927)"
+  },
+  {
+   "id": "y0086",
+   "kind": "random",
+   "title": "Für Godzilla trug ursprünglich ein einzelner Schauspieler ein 100 Kilogramm schweres Gummikostüm",
+   "text": "Haruo Nakajima musste im brütend heißen japanischen Sommer 1954 in dem schweren Anzug agieren und hielt darin oft nur wenige Minuten am Stück durch. Die Filmreihe zählt seither zu den langlebigsten Monster-Franchises der Filmgeschichte.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Godzilla"
+  },
+  {
+   "id": "y0087",
+   "kind": "fact",
+   "title": "Bollywood produziert jährlich mehr Filme als Hollywood",
+   "text": "Indiens Filmindustrie bringt regelmäßig über 1.500 Filme pro Jahr heraus, verteilt auf viele Sprachen des Landes. Damit zählt sie zu den produktivsten Filmindustrien der Welt, gemessen an reiner Filmanzahl.",
+   "topics": [
+    "movies",
+    "geography"
+   ],
+   "wiki": "Bollywood"
+  },
+  {
+   "id": "y0088",
+   "kind": "know",
+   "title": "Der Klang von Lichtschwertern in Star Wars stammt aus einem Filmvorführraum",
+   "text": "Sounddesigner Ben Burtt kombinierte das Brummen eines alten Projektormotors mit den Interferenzen eines Röhrenfernsehers, um den charakteristischen Ton zu erzeugen. Diese analoge Aufnahmetechnik prägt bis heute, wie Science-Fiction-Filme Energiewaffen klingen lassen.",
+   "topics": [
+    "movies",
+    "tech"
+   ],
+   "wiki": "Star Wars"
+  },
+  {
+   "id": "y0089",
+   "kind": "random",
+   "title": "Manche Filmsets werden nach Drehschluss komplett wieder abgebaut und weiterverkauft",
+   "text": "Requisiten, Kulissenwände und sogar ganze Straßenzüge landen häufig bei spezialisierten Auktionen, sobald ein Film abgedreht ist. Fans ersteigern dabei mitunter originale Möbelstücke oder Kostüme für mehrere zehntausend Euro.",
+   "topics": [
+    "movies"
+   ]
+  },
+  {
+   "id": "y0090",
+   "kind": "fact",
+   "title": "Charlie Chaplin gewann einmal einen Wettbewerb für Chaplin-Doubles nicht",
+   "text": "Der Legende nach nahm er inkognito an einem solchen Nachahmungswettbewerb teil und landete nur auf einem hinteren Platz. Ob die Geschichte tatsächlich so passierte, ist historisch nicht sicher belegt, gilt aber als eine der bekanntesten Hollywood-Anekdoten.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Charlie Chaplin"
+  },
+  {
+   "id": "y0091",
+   "kind": "know",
+   "title": "Der erste Farbfilm in Spielfilmlänge entstand schon 1917",
+   "text": "'The Gulf Between' nutzte ein frühes Zweifarbverfahren, lange bevor Technicolor zum Standard in Hollywood wurde. Von diesem Pionierfilm ist heute nur noch ein winziges Fragment erhalten.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "Farbfilm"
+  },
+  {
+   "id": "y0092",
+   "kind": "random",
+   "title": "Für den Soundtrack von 'Jurassic Park' nahmen Toningenieure echte Tierlaute auf",
+   "text": "Der markante Brüllschrei des Tyrannosaurus mischt unter anderem Elefanten-, Alligator- und Tigergeräusche zu einem völlig neuen Klang. Kein Kinobesucher hat je einen echten Dinosaurier gehört, trotzdem klingt der Effekt für viele glaubwürdig bedrohlich.",
+   "topics": [
+    "movies",
+    "animals"
+   ],
+   "wiki": "Jurassic Park (Film)"
+  },
+  {
+   "id": "y0093",
+   "kind": "fact",
+   "title": "Manche Animationsfilme brauchen mehr Rechenzeit als jedes andere Softwareprojekt eines Studios",
+   "text": "Einzelne, besonders detailreiche Filmbilder benötigten bei modernen 3D-Produktionen schon über 100 Stunden Rechenzeit pro Einzelbild auf leistungsstarken Serverfarmen. Bei 24 Bildern pro Sekunde macht das die Fertigstellung eines Films zu einer logistischen Mammutaufgabe.",
+   "topics": [
+    "movies",
+    "tech"
+   ]
+  },
+  {
+   "id": "y0094",
+   "kind": "know",
+   "title": "Die Filmreihe James Bond begann ursprünglich als Romanserie eines Journalisten",
+   "text": "Ian Fleming schrieb den ersten Bond-Roman 1953 nach seiner eigenen Zeit im britischen Marine-Geheimdienst während des Zweiten Weltkriegs. Erst neun Jahre später kam mit 'James Bond jagt Dr. No' die erste Verfilmung ins Kino.",
+   "topics": [
+    "movies",
+    "history"
+   ],
+   "wiki": "James Bond"
+  },
+  {
+   "id": "y0095",
+   "kind": "random",
+   "title": "Manche Filmtitel werden für einzelne Länder komplett neu erfunden",
+   "text": "Der deutsche Kinotitel eines Films entspricht oft nicht der wörtlichen Übersetzung des Originals, weil Verleiher auf lokale Vermarktung setzen. Das kann so weit gehen, dass zwei völlig unterschiedliche Originalfilme im deutschen Titel fast identisch klingen.",
+   "topics": [
+    "movies",
+    "language"
+   ]
+  },
+  {
+   "id": "y0096",
+   "kind": "science",
+   "title": "Die Wolken der Venus bestehen größtenteils aus Schwefelsäure",
+   "text": "Statt Wassertropfen wie auf der Erde enthalten die dichten Wolkenschichten in etwa 50 Kilometern Höhe hochkonzentrierte Schwefelsäure. Am Boden herrscht zusätzlich ein Druck, der dem Neunzigfachen des irdischen Atmosphärendrucks entspricht.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Venus (Planet)"
+  },
+  {
+   "id": "y0097",
+   "kind": "fact",
+   "title": "Ein Saturnmond sieht aus wie der Todesstern aus Star Wars",
+   "text": "Der Mond Mimas trägt einen gewaltigen Einschlagkrater namens Herschel, der fast ein Drittel seines Durchmessers einnimmt. Die verblüffende Ähnlichkeit zur fiktiven Kampfstation fiel Astronomen erst nach den ersten Nahaufnahmen der Raumsonde Voyager 1 auf.",
+   "topics": [
+    "space",
+    "weird"
+   ],
+   "wiki": "Mimas (Mond)"
+  },
+  {
+   "id": "y0098",
+   "kind": "random",
+   "title": "Ein Astronaut wird im All bis zu fünf Zentimeter größer",
+   "text": "Ohne die Schwerkraft, die die Wirbelsäule sonst zusammendrückt, dehnen sich die Bandscheiben im All leicht aus. Nach der Rückkehr zur Erde schrumpft der Körper innerhalb weniger Wochen wieder auf die ursprüngliche Größe.",
+   "topics": [
+    "space",
+    "body"
+   ],
+   "wiki": "Raumfahrtmedizin"
+  },
+  {
+   "id": "y0099",
+   "kind": "know",
+   "title": "Ein Tag auf dem Mars dauert nur etwa 40 Minuten länger als auf der Erde",
+   "text": "Mit 24 Stunden, 39 Minuten und rund 35 Sekunden liegt der sogenannte Sol dem irdischen Tag erstaunlich nahe. Marsroboter der NASA laufen deshalb oft nach eigens angepassten 'Marszeit'-Uhren, um mit dem Planeten synchron zu bleiben.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Mars (Planet)"
+  },
+  {
+   "id": "y0100",
+   "kind": "fact",
+   "title": "Die Internationale Raumstation überquert alle 90 Minuten einen kompletten Sonnenauf- und -untergang",
+   "text": "Weil sie die Erde in nur etwa 90 Minuten umrundet, erleben die Astronauten an Bord rund 16 Sonnenaufgänge pro Tag. Damit ist ihr Schlafrhythmus komplett künstlich getaktet, da die natürliche Tag-Nacht-Orientierung fehlt.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Internationale Raumstation"
+  },
+  {
+   "id": "y0101",
+   "kind": "science",
+   "title": "Der größte bekannte Vulkan im Sonnensystem steht nicht auf der Erde",
+   "text": "Der Marsvulkan Olympus Mons ist rund 22 Kilometer hoch, fast dreimal so hoch wie der Mount Everest über dem Meeresspiegel. Seine Basis ist dabei etwa so groß wie der US-Bundesstaat Arizona.",
+   "topics": [
+    "space",
+    "geography"
+   ],
+   "wiki": "Olympus Mons"
+  },
+  {
+   "id": "y0102",
+   "kind": "random",
+   "title": "Astronauten können im All nicht weinen wie auf der Erde",
+   "text": "Ohne Schwerkraft bleiben Tränen als kleine Kugeln am Auge haften, statt an der Wange herunterzulaufen, was unangenehm brennen kann. Manche Raumfahrer beschreiben das als eine der ungewöhnlichsten Alltagserfahrungen im Orbit.",
+   "topics": [
+    "space",
+    "body"
+   ]
+  },
+  {
+   "id": "y0103",
+   "kind": "fact",
+   "title": "Ein Löffel voll Neutronenstern würde auf der Erde Milliarden Tonnen wiegen",
+   "text": "Die Materie in einem Neutronenstern ist so extrem verdichtet, dass ein einziger Teelöffel davon eine Masse von mehreren Milliarden Tonnen hätte. Neutronensterne entstehen, wenn massereiche Sterne nach einer Supernova-Explosion in sich zusammenstürzen.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Neutronenstern"
+  },
+  {
+   "id": "y0104",
+   "kind": "know",
+   "title": "Die Voyager-1-Sonde ist das am weitesten von der Erde entfernte menschengemachte Objekt",
+   "text": "Seit ihrem Start 1977 hat sie längst den interstellaren Raum erreicht und sendet noch immer schwache Signale zur Erde. Ein Funksignal braucht inzwischen über 20 Stunden, um die Sonde zu erreichen.",
+   "topics": [
+    "space",
+    "tech"
+   ],
+   "wiki": "Voyager 1"
+  },
+  {
+   "id": "y0105",
+   "kind": "random",
+   "title": "Auf dem Jupitermond Io gibt es aktivere Vulkane als irgendwo sonst im Sonnensystem",
+   "text": "Durch die enorme Gezeitenkraft des benachbarten Jupiter wird der Mond ständig verformt und dabei im Inneren aufgeheizt. Vulkanausbrüche auf Io schleudern Material teils Hunderte Kilometer hoch in den Weltraum.",
+   "topics": [
+    "space",
+    "geography"
+   ],
+   "wiki": "Io (Mond)"
+  },
+  {
+   "id": "y0106",
+   "kind": "fact",
+   "title": "Der hellste Stern am Nachthimmel ist eigentlich ein Doppelsternsystem",
+   "text": "Sirius, wie er von der Erde aus als einzelner Lichtpunkt erscheint, besteht tatsächlich aus zwei Sternen, die einander eng umkreisen. Der kleinere Begleiter, Sirius B, ist ein sogenannter Weißer Zwerg von der Größe der Erde, aber mit der Masse fast der ganzen Sonne.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Sirius (Stern)"
+  },
+  {
+   "id": "y0107",
+   "kind": "know",
+   "title": "Ein Jahr auf dem Merkur dauert kürzer als zwei Tage auf dem Merkur",
+   "text": "Der Planet umrundet die Sonne in nur 88 Erdtagen, dreht sich dabei aber so langsam um die eigene Achse, dass ein einzelner Sonnentag dort umgerechnet 176 Erdtage dauert. Ein Bewohner würde also sein Geburtstagsjahr erleben, bevor ein einziger voller Tag vergangen wäre.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Merkur (Planet)"
+  },
+  {
+   "id": "y0108",
+   "kind": "random",
+   "title": "Es gibt einen Planeten, auf dem es vermutlich aus geschmolzenem Glas seitwärts regnet",
+   "text": "Auf dem rund 1.000 Lichtjahre entfernten Exoplaneten HD 189733 b treiben starke Winde von über 8.700 km/h vermutlich Silikatpartikel seitwärts durch die Atmosphäre. Die Temperaturen dort liegen bei über 900 Grad Celsius.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "HD 189733 b"
+  },
+  {
+   "id": "y0109",
+   "kind": "fact",
+   "title": "Der Große Rote Fleck des Jupiter ist ein Sturm, der seit mindestens 190 Jahren tobt",
+   "text": "Beobachtungen belegen den Wirbelsturm durchgehend seit 1830, manche Historiker vermuten anhand älterer Skizzen sogar einen noch früheren Ursprung. In den vergangenen Jahrzehnten schrumpft der Fleck allerdings messbar.",
+   "topics": [
+    "space"
+   ],
+   "wiki": "Großer Roter Fleck"
+  },
+  {
+   "id": "y0110",
+   "kind": "know",
+   "title": "Astronauten müssen im All Muskeln und Knochen gezielt trainieren, damit sie nicht abbauen",
+   "text": "Ohne die Belastung durch Schwerkraft verlieren Muskeln und Knochendichte im Schnitt etwa ein bis anderthalb Prozent pro Monat im All. Deshalb trainieren ISS-Crews täglich rund zwei Stunden an speziell für die Schwerelosigkeit gebauten Geräten.",
+   "topics": [
+    "space",
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "y0111",
+   "kind": "random",
+   "title": "Ein einziger Tag auf der Venus überdauert die Lebensdauer mancher Raumsonden",
+   "text": "Die sowjetischen Venera-Landesonden hielten wegen der über 460 Grad heißen, extrem dichten Atmosphäre der Venus nur wenige Stunden durch, bevor die Elektronik versagte. Trotzdem gelangen ihnen die ersten Fotos je von der Oberfläche eines fremden Planeten.",
+   "topics": [
+    "space",
+    "history"
+   ],
+   "wiki": "Venera-Programm"
+  },
+  {
+   "id": "y0112",
+   "kind": "fact",
+   "title": "Die Milchstraße und die Andromedagalaxie rasen mit über 400.000 km/h aufeinander zu",
+   "text": "In rund vier Milliarden Jahren sollen beide Galaxien zu einer einzigen, größeren Galaxie verschmelzen. Weil der Raum zwischen den Sternen riesig ist, werden dabei laut Modellen kaum einzelne Sterne direkt kollidieren.",
+   "topics": [
+    "space",
+    "science"
+   ],
+   "wiki": "Andromedagalaxie"
+  },
+  {
+   "id": "y0113",
+   "kind": "know",
+   "title": "Der Weltraum beginnt offiziell erst bei 100 Kilometern Höhe",
+   "text": "Diese sogenannte Kármán-Linie gilt international als Grenze zwischen Erdatmosphäre und Weltraum, auch wenn sie physikalisch keine scharfe Kante ist. Manche US-Behörden setzen die Grenze traditionell etwas niedriger an, bei rund 80 Kilometern.",
+   "topics": [
+    "space",
+    "geography"
+   ],
+   "wiki": "Kármán-Linie"
+  },
+  {
+   "id": "y0114",
+   "kind": "know",
+   "title": "Das längste offiziell anerkannte deutsche Wort hatte 63 Buchstaben",
+   "text": "'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' stand von 1999 bis 2013 als Name eines echten mecklenburg-vorpommerschen Gesetzes im Amtsblatt. Nach seiner Abschaffung verschwand das Wort auch aus offiziellen Wörterbüchern.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz"
+  },
+  {
+   "id": "y0115",
+   "kind": "random",
+   "title": "Isländisch hat sich in 1.000 Jahren kaum verändert",
+   "text": "Isländerinnen und Isländer können mittelalterliche Sagas aus dem 13. Jahrhundert noch weitgehend im Original lesen, ohne eine spezielle Ausbildung. Grund ist die geografische Isolation der Insel, die fremde Spracheinflüsse lange fernhielt.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Isländische Sprache"
+  },
+  {
+   "id": "y0116",
+   "kind": "fact",
+   "title": "Es gibt eine Sprache, die fast ausschließlich aus Pfeifen besteht",
+   "text": "Auf der Kanareninsel La Gomera verständigen sich manche Menschen mit Silbo Gomero, einer gepfiffenen Version des Spanischen, über weite Täler hinweg. Die Pfiffe tragen dabei über mehrere Kilometer, deutlich weiter als gerufene Worte.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Silbo Gomero"
+  },
+  {
+   "id": "y0117",
+   "kind": "know",
+   "title": "Das Alphabet mit den meisten Buchstaben der Welt hat über 70 Zeichen",
+   "text": "Die kambodschanische Khmer-Schrift zählt in ihrer vollen Form 74 Buchstaben, darunter viele, die im modernen Gebrauch kaum noch vorkommen. Zum Vergleich hat das lateinische Alphabet in seiner Grundform nur 26 Buchstaben.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Khmer-Schrift"
+  },
+  {
+   "id": "y0118",
+   "kind": "random",
+   "title": "Auf Papua-Neuguinea werden mehr als 800 Sprachen gesprochen",
+   "text": "Auf einer Landfläche kaum größer als Schweden und Österreich zusammen verteilen sich damit rund zehn Prozent aller Sprachen der Welt. Viele davon werden nur noch von wenigen hundert Menschen gesprochen und gelten als akut gefährdet.",
+   "topics": [
+    "language",
+    "geography"
+   ],
+   "wiki": "Sprachen Papua-Neuguineas"
+  },
+  {
+   "id": "y0119",
+   "kind": "fact",
+   "title": "Das Wort 'OK' ist vermutlich der am weitesten verbreitete Ausdruck der Welt",
+   "text": "Linguisten vermuten seinen Ursprung in einem scherzhaften Zeitungs-Kürzel aus dem Boston der 1830er-Jahre für 'oll korrect', eine bewusst falsch geschriebene Version von 'all correct'. Heute wird es praktisch in jeder Sprache der Welt verstanden.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Okay"
+  },
+  {
+   "id": "y0120",
+   "kind": "know",
+   "title": "Koreanisch nutzt eine Schrift, die absichtlich an einem einzigen Tag entworfen wurde",
+   "text": "König Sejong der Große ließ das Hangeul-Alphabet im 15. Jahrhundert gezielt so gestalten, dass es sich leichter lernen lässt als die zuvor genutzten chinesischen Schriftzeichen. Die Form vieler Buchstaben orientiert sich dabei an der Stellung von Zunge und Lippen beim jeweiligen Laut.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Hangeul"
+  },
+  {
+   "id": "y0121",
+   "kind": "random",
+   "title": "In manchen Sprachen gibt es kein eigenes Wort für 'links' und 'rechts'",
+   "text": "Die Aborigines-Sprache Guugu Yimithirr in Australien beschreibt Richtungen stattdessen ausschließlich über Himmelsrichtungen wie Norden und Süden, selbst bei alltäglichen Handlungen. Ihre Sprecher entwickeln dadurch einen bemerkenswert präzisen inneren Kompass.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Guugu Yimithirr"
+  },
+  {
+   "id": "y0122",
+   "kind": "fact",
+   "title": "Das kürzeste vollständige Gedicht der Weltliteratur hat nur ein Wort",
+   "text": "Aram Saroyans 1965 veröffentlichtes Gedicht besteht lediglich aus dem Wort 'lighght' – einer bewussten Doppelschreibung des englischen Worts für Licht. Es löste damals eine öffentliche Debatte darüber aus, was ein Gedicht überhaupt sein darf.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "y0123",
+   "kind": "know",
+   "title": "Deutsch hat mehr als doppelt so viele Wörter wie Englisch für 'Liebe'-Verwandtes",
+   "text": "Zwischen 'mögen', 'gernhaben', 'lieben' und dutzenden Abstufungen dazwischen kennt die deutsche Sprache feine Nuancen, für die andere Sprachen oft nur ein einziges Wort haben. Umgekehrt hat Deutsch aber wiederum kein eigenes Wort für das englische 'privacy'.",
+   "topics": [
+    "language"
+   ]
+  },
+  {
+   "id": "y0124",
+   "kind": "random",
+   "title": "Es gibt eine Sprache, in der Wörter für Zahlen über vier praktisch fehlen",
+   "text": "Einige indigene Sprachen im Amazonasgebiet, etwa Pirahã, verzichten fast vollständig auf feste Zahlwörter und benutzen stattdessen vage Begriffe für 'wenig' und 'viel'. Sprecherinnen und Sprecher können trotzdem Mengen zuverlässig vergleichen, nur eben ohne exakte Zahlen zu benennen.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Pirahã (Sprache)"
+  },
+  {
+   "id": "y0125",
+   "kind": "fact",
+   "title": "Das Wort 'Roboter' stammt aus einem tschechischen Theaterstück",
+   "text": "Der Schriftsteller Karel Čapek prägte den Begriff 1920 für sein Stück 'R.U.R.', abgeleitet vom tschechischen Wort 'robota' für Zwangsarbeit. Damit lieferte ein Bühnenautor der Technikwelt eines ihrer heute wichtigsten Wörter.",
+   "topics": [
+    "language",
+    "tech"
+   ],
+   "wiki": "Robot (Wort)"
+  },
+  {
+   "id": "y0126",
+   "kind": "know",
+   "title": "Isländisch hat sich in über tausend Jahren kaum verändert",
+   "text": "Weil die Sprache lange sehr isoliert blieb, können Isländerinnen und Isländer mittelalterliche Sagas noch weitgehend im Original lesen. Neue Begriffe werden bis heute bevorzugt aus alten isländischen Wortstämmen gebildet statt aus Fremdwörtern übernommen.",
+   "topics": [
+    "language",
+    "history"
+   ],
+   "wiki": "Isländische Sprache"
+  },
+  {
+   "id": "y0127",
+   "kind": "random",
+   "title": "Manche Gebärdensprachen haben eigene regionale Dialekte wie gesprochene Sprachen",
+   "text": "Die Deutsche Gebärdensprache unterscheidet sich zum Beispiel deutlich von der österreichischen oder der amerikanischen, obwohl die gesprochenen Sprachen in den Ländern teils sehr ähnlich sind. Gebärdensprachen entwickeln sich also weitgehend unabhängig von der jeweils gesprochenen Landessprache.",
+   "topics": [
+    "language"
+   ],
+   "wiki": "Gebärdensprache"
+  },
+  {
+   "id": "y0128",
+   "kind": "fact",
+   "title": "Emojis wurden erstmals 1999 in Japan für Mobiltelefone entworfen",
+   "text": "Der Designer Shigetaka Kurita entwickelte 176 winzige Piktogramme mit nur 12 mal 12 Pixeln für einen japanischen Mobilfunkanbieter. Heute verwaltet ein internationales Konsortium namens Unicode über 3.700 offizielle Emojis in fast allen Sprachen der Welt.",
+   "topics": [
+    "language",
+    "tech"
+   ],
+   "wiki": "Emoji"
+  },
+  {
+   "id": "y0129",
+   "kind": "know",
+   "title": "Weiße Schokolade enthält offiziell gar keinen Kakao",
+   "text": "Sie besteht aus Kakaobutter, Zucker und Milchpulver, aber ohne die dunkle Kakaomasse, die normaler Schokolade ihre Farbe und ihren typischen Geschmack gibt. Rechtlich gilt sie in vielen Ländern trotzdem als echte Schokolade, weil der Kakaobutter-Anteil dafür ausreicht.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Weiße Schokolade"
+  },
+  {
+   "id": "y0130",
+   "kind": "fact",
+   "title": "Karotten waren ursprünglich nicht orange",
+   "text": "Die wilden Vorformen der Möhre waren meist violett oder gelblich-weiß. Erst niederländische Züchter im 17. Jahrhundert sollen gezielt orange Sorten gefördert haben, teils aus Verbundenheit zum Herrscherhaus Oranien.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Karotte"
+  },
+  {
+   "id": "y0131",
+   "kind": "random",
+   "title": "Erdnüsse sind botanisch keine Nüsse",
+   "text": "Sie gehören zur Familie der Hülsenfrüchtler und wachsen, anders als echte Nüsse, unterirdisch am Wurzelwerk der Pflanze. Nach der Blüte drückt die Pflanze ihre Fruchtstiele sogar aktiv in den Boden, damit die Schoten dort reifen können.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Erdnuss"
+  },
+  {
+   "id": "y0132",
+   "kind": "know",
+   "title": "Schokolade wurde ursprünglich als bitteres Getränk getrunken, nicht gegessen",
+   "text": "Die Maya und Azteken bereiteten aus Kakaobohnen ein würziges, ungesüßtes Getränk zu, das sie teils mit Chili mischten. Erst europäische Händler fügten im 16. Jahrhundert Zucker hinzu und machten daraus die süße Version, die heute bekannt ist.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Kakao"
+  },
+  {
+   "id": "y0133",
+   "kind": "fact",
+   "title": "Ein einziger Kaffeebaum liefert im Jahr nur genug Bohnen für etwa ein halbes Kilo gerösteten Kaffee",
+   "text": "Für eine einzige Tasse braucht es rund 50 Kaffeekirschen, die von Hand gepflückt werden müssen, weil sie nicht alle gleichzeitig reifen. Weltweit hängt der Lebensunterhalt von schätzungsweise 25 Millionen Kleinbauern-Familien am Kaffeeanbau.",
+   "topics": [
+    "food",
+    "geography"
+   ],
+   "wiki": "Kaffee"
+  },
+  {
+   "id": "y0134",
+   "kind": "random",
+   "title": "Ananas verdaut sich buchstäblich selbst mit, wenn man sie isst",
+   "text": "Das Enzym Bromelain in der Frucht spaltet Proteine und wird deshalb in der Küche als natürlicher Fleischweichmacher genutzt. Auf der Zunge sorgt dasselbe Enzym dafür, dass sich Ananas nach zu viel Genuss leicht wund anfühlen kann.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Ananas"
+  },
+  {
+   "id": "y0135",
+   "kind": "know",
+   "title": "Der teuerste Gewürz der Welt ist Safran",
+   "text": "Für ein einziges Gramm müssen bis zu 150 Krokusblüten von Hand gepflückt und deren winzige rote Narben herausgezupft werden. Kilopreise können deshalb mehrere tausend Euro erreichen, was Safran teurer als so manches Edelmetall macht.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Safran"
+  },
+  {
+   "id": "y0136",
+   "kind": "fact",
+   "title": "Die Currywurst wurde offiziell aus einer Notlage nach dem Zweiten Weltkrieg heraus erfunden",
+   "text": "Herta Heuwer soll 1949 in Berlin von britischen Soldaten Worcestersauce und Currypulver bekommen und über gebratene Wurst gegossen haben. Sie ließ das Rezept später sogar patentieren, um es vor Nachahmern zu schützen.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Currywurst"
+  },
+  {
+   "id": "y0137",
+   "kind": "random",
+   "title": "Manche Käsesorten werden absichtlich mit lebenden Fliegenlarven gereift",
+   "text": "Beim sardischen Casu Marzu lässt man Käsefliegen gezielt Eier in den Laib legen, deren Larven den Käse dann besonders cremig zersetzen. Der Verkauf ist in mehreren Ländern inzwischen aus Hygienegründen verboten oder stark eingeschränkt.",
+   "topics": [
+    "food",
+    "weird"
+   ],
+   "wiki": "Casu Marzu"
+  },
+  {
+   "id": "y0138",
+   "kind": "know",
+   "title": "Reis ernährt weltweit mehr Menschen als jedes andere Getreide",
+   "text": "Für über die Hälfte der Weltbevölkerung ist Reis das Grundnahrungsmittel Nummer eins, besonders in Asien. Weltweit werden jährlich über 500 Millionen Tonnen Reis geerntet, angebaut auf Feldern von China bis Westafrika.",
+   "topics": [
+    "food",
+    "geography"
+   ]
+  },
+  {
+   "id": "y0139",
+   "kind": "fact",
+   "title": "Die älteste bekannte Restaurant-Speisekarte der Welt ist über 4.000 Jahre alt",
+   "text": "Keilschrifttafeln aus dem alten Mesopotamien belegen bereits Rezepte und Verpflegungslisten für Gasthäuser entlang der Handelsrouten. Historiker rekonstruierten daraus sogar einzelne Gerichte, etwa Eintöpfe mit Lauch und Knoblauch.",
+   "topics": [
+    "food",
+    "history"
+   ],
+   "wiki": "Mesopotamien"
+  },
+  {
+   "id": "y0140",
+   "kind": "random",
+   "title": "Es gibt Trauben, die wie fertiger Wackelpudding im Mund knallen",
+   "text": "Manche Zuchtsorten werden gezielt auf besonders dünne, knackige Schalen und intensive Aromen hin gezüchtet, ähnlich wie bei Wein-Trauben. Züchter experimentieren dabei inzwischen sogar mit Geschmacksrichtungen wie Wassermelone oder Cotton Candy.",
+   "topics": [
+    "food"
+   ]
+  },
+  {
+   "id": "y0141",
+   "kind": "know",
+   "title": "Wasabi, wie er meist in Restaurants serviert wird, enthält oft gar keinen echten Wasabi",
+   "text": "Weil die echte Wasabi-Pflanze schwer anzubauen und teuer ist, besteht die grüne Paste außerhalb Japans meist aus gefärbtem Meerrettich mit Senfpulver. Echter Wasabi schmeckt milder und verflüchtigt sich schneller auf der Zunge.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Wasabi"
+  },
+  {
+   "id": "y0142",
+   "kind": "fact",
+   "title": "Der Big Mac dient Ökonomen als weltweiter Preisvergleichs-Index",
+   "text": "Der sogenannte Big-Mac-Index vergleicht seit 1986 den Preis des Burgers in verschiedenen Ländern, um grob abzuschätzen, ob eine Währung über- oder unterbewertet ist. Erfunden wurde der Index vom Wirtschaftsmagazin The Economist, halb ernst gemeint und halb als Lehrbeispiel.",
+   "topics": [
+    "food"
+   ],
+   "wiki": "Big-Mac-Index"
+  },
+  {
+   "id": "y0143",
+   "kind": "random",
+   "title": "Manche Chilisorten sind so scharf, dass man sie nur mit Schutzausrüstung anfassen sollte",
+   "text": "Die Carolina Reaper erreicht auf der Scoville-Skala Werte von über zwei Millionen Einheiten, während ein handelsüblicher Jalapeño meist unter 8.000 liegt. Züchter tragen beim Ernten besonders scharfer Sorten oft Handschuhe, um Hautreizungen zu vermeiden.",
+   "topics": [
+    "food",
+    "science"
+   ],
+   "wiki": "Carolina Reaper"
+  },
+  {
+   "id": "y0144",
+   "kind": "know",
+   "title": "Krähen stellen gezielt eigene Werkzeuge her",
+   "text": "Neukaledonienkrähen biegen Zweige und Blätter gezielt in Form, um damit Insektenlarven aus Baumritzen zu angeln. Manche Populationen geben diese Technik sogar über mehrere Generationen an ihre Jungen weiter.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Neukaledonienkrähe"
+  },
+  {
+   "id": "y0145",
+   "kind": "fact",
+   "title": "Giraffen schlafen im Schnitt nur etwa zwei Stunden pro Tag",
+   "text": "Oft reichen ihnen sogar mehrere kurze Nickerchen von wenigen Minuten, häufig im Stehen. Als Fluchttiere in der Savanne können sie sich einen tiefen, langen Schlaf kaum leisten, weil Raubtiere jederzeit auftauchen können.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Giraffe"
+  },
+  {
+   "id": "y0146",
+   "kind": "random",
+   "title": "Ein Nilpferd kann trotz seines Gewichts schneller rennen als ein Mensch",
+   "text": "Auf kurzen Strecken erreichen die bis zu 1.500 Kilogramm schweren Tiere Geschwindigkeiten von etwa 30 km/h an Land. Damit gehören Nilpferde zu den gefährlichsten Großtieren Afrikas, weil sie oft unterschätzt werden.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Flusspferd"
+  },
+  {
+   "id": "y0147",
+   "kind": "know",
+   "title": "Oktopusse können durch eine Öffnung schlüpfen, die kaum größer ist als ihr Auge",
+   "text": "Weil ihr Körper fast vollständig aus weichem Gewebe ohne Skelett besteht, begrenzt allein der harte Schnabel, wie eng ein Spalt sein darf. In Aquarien sind sie deshalb berüchtigt dafür, aus scheinbar sicher verschlossenen Becken zu entkommen.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Kraken"
+  },
+  {
+   "id": "y0148",
+   "kind": "fact",
+   "title": "Ein Blauwal-Herz wiegt so viel wie ein Kleinwagen",
+   "text": "Mit bis zu 180 Kilogramm ist es das größte bekannte Herz im Tierreich und schlägt dabei nur etwa acht bis zehn Mal pro Minute. Forscher konnten den Herzschlag eines frei schwimmenden Blauwals erst 2019 erstmals direkt messen.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Blauwal"
+  },
+  {
+   "id": "y0149",
+   "kind": "random",
+   "title": "Krähen erkennen einzelne menschliche Gesichter wieder und merken sie sich jahrelang",
+   "text": "In Experimenten reagierten Krähen noch Jahre später aggressiv auf Personen, die sie zuvor mit einer unangenehmen Erfahrung verbunden hatten. Sie geben diese Erkenntnis sogar an andere Krähen weiter, die die Person nie selbst getroffen haben.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Krähen"
+  },
+  {
+   "id": "y0150",
+   "kind": "know",
+   "title": "Manche Papageien verstehen tatsächlich, was sie sagen",
+   "text": "Der Graupapagei Alex lernte im Rahmen eines jahrzehntelangen Forschungsprojekts über hundert Wörter und konnte Farben, Formen und Mengen korrekt benennen. Forschende werten das als Hinweis auf ein echtes Verständnis von Begriffen und nicht nur reines Nachplappern.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Grauer Papagei"
+  },
+  {
+   "id": "y0151",
+   "kind": "fact",
+   "title": "Der Schlag eines Fangschreckenkrebses erhitzt Wasser kurzzeitig extrem",
+   "text": "Sein Scherenschlag ist so schnell, dass im Wasser winzige Kavitationsblasen entstehen, die beim Kollabieren kurzzeitig mehrere tausend Grad heiß werden. Die dabei freigesetzte Energie reicht aus, um Schneckenhäuser und sogar Aquariumglas zu beschädigen.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Fangschreckenkrebse"
+  },
+  {
+   "id": "y0152",
+   "kind": "random",
+   "title": "Ein Flamingo ist nur durch seine Nahrung pink",
+   "text": "Frisch geschlüpfte Flamingos sind grau, ihre charakteristische Farbe entsteht erst durch Pigmente aus Algen und Krebstieren in ihrer Nahrung. In Zoos ohne die passende Diät verblassen die Vögel deshalb sichtbar und werden gezielt gefüttert, um ihre Farbe zu erhalten.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Flamingos"
+  },
+  {
+   "id": "y0153",
+   "kind": "know",
+   "title": "Der Mantis-Krebs schlägt so schnell zu, dass Wasser um seine Scheren herum verdampft",
+   "text": "Seine Fangschläge sind so kraftvoll, dass durch die entstehende Druckwelle winzige, extrem heiße Blasen im Wasser kollabieren, ein Effekt namens Kavitation. Manche Aquarianer berichten, dass die Tiere damit sogar dickes Aquariumglas beschädigen können.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Fangschreckenkrebse"
+  },
+  {
+   "id": "y0154",
+   "kind": "fact",
+   "title": "Ein Elefant kann Erschütterungen im Boden mit den Füßen ertasten",
+   "text": "Über spezielle Nervenzellen in den Fußsohlen nehmen Elefanten Vibrationen wahr, die von rufenden Artgenossen kilometerweit entfernt ausgehen. Damit können sie sich untereinander verständigen, ohne dass Menschen etwas davon hören.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Elefanten"
+  },
+  {
+   "id": "y0155",
+   "kind": "random",
+   "title": "Pinguine legen bei der Partnerwahl manchmal Kieselsteine als Geschenk vor",
+   "text": "Bei mehreren Pinguinarten gilt das Überreichen eines besonders schönen Steins als eine Art Antrag beim Nestbau. Manche Männchen stehlen dafür sogar heimlich Steine aus fremden Nestern, um ihr eigenes Geschenk aufzuwerten.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Pinguine"
+  },
+  {
+   "id": "y0156",
+   "kind": "know",
+   "title": "Der Wanderfalke ist das schnellste Tier der Welt im Sturzflug",
+   "text": "Beim Beutestoß, dem sogenannten Stoßflug, erreicht er Geschwindigkeiten von über 320 km/h, schneller als jedes andere bekannte Lebewesen. Damit übertrifft er sogar viele Verkehrsflugzeuge während des Landeanflugs.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Wanderfalke"
+  },
+  {
+   "id": "y0157",
+   "kind": "fact",
+   "title": "Manche Ameisenarten halten regelrecht Landwirtschaft mit Pilzen",
+   "text": "Blattschneiderameisen tragen frisch geschnittene Blätter nicht zum Essen ins Nest, sondern als Dünger für selbst kultivierte Pilzgärten, von denen sie sich dann ernähren. Diese Form der Landwirtschaft entwickelten die Ameisen vermutlich schon Millionen Jahre vor dem Menschen.",
+   "topics": [
+    "animals",
+    "food"
+   ],
+   "wiki": "Blattschneiderameisen"
+  },
+  {
+   "id": "y0158",
+   "kind": "random",
+   "title": "Ein Faultier braucht bis zu einem Monat, um sein Essen zu verdauen",
+   "text": "Sein extrem langsamer Stoffwechsel passt zur kargen, schwer verdaulichen Blätterdiät hoch oben im Regenwald-Kronendach. Wegen dieser Langsamkeit steigt ein Faultier im Schnitt nur einmal pro Woche zum Boden hinab, um seine Notdurft zu verrichten.",
+   "topics": [
+    "animals"
+   ],
+   "wiki": "Faultiere"
+  },
+  {
+   "id": "y0159",
+   "kind": "know",
+   "title": "Bienen können einfache Mathematik lernen",
+   "text": "In Experimenten ordneten trainierte Honigbienen Symbolen erfolgreich das Konzept 'Addition' und 'Subtraktion' um jeweils Eins zu, obwohl ihr Gehirn nur etwa eine Million Nervenzellen besitzt. Das zeigt, dass komplexes Zahlenverständnis offenbar kein riesiges Gehirn voraussetzt.",
+   "topics": [
+    "animals",
+    "science"
+   ],
+   "wiki": "Honigbienen"
+  },
+  {
+   "id": "y0160",
+   "kind": "fact",
+   "title": "Chile ist eines der am meisten in die Länge gezogenen Länder der Welt",
+   "text": "Von Nord nach Süd erstreckt es sich über mehr als 4.300 Kilometer, während es im Durchschnitt nur rund 180 Kilometer breit ist. Dadurch reichen die Klimazonen des Landes von der trockensten Wüste der Welt bis zu Gletschern nahe der Antarktis.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Chile"
+  },
+  {
+   "id": "y0161",
+   "kind": "know",
+   "title": "Der Nil und der Amazonas streiten sich bis heute um den Titel längster Fluss der Welt",
+   "text": "Je nachdem, welche Quellzuflüsse man mitzählt, kommt der Nil auf etwa 6.650 Kilometer und der Amazonas auf ähnliche oder sogar leicht größere Werte. Neuere Vermessungen mit Satellitendaten haben die Debatte bislang nicht endgültig geklärt.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Nil"
+  },
+  {
+   "id": "y0162",
+   "kind": "random",
+   "title": "Es gibt eine Wüste, in der es regelmäßig schneit",
+   "text": "In Teilen der Sahara, etwa im algerischen Ain Sefra, fiel in den vergangenen Jahren mehrfach Schnee, der teils mehrere Stunden liegen blieb. Nachts können die Temperaturen in Wüsten wegen fehlender Wolkendecke stark unter den Gefrierpunkt fallen.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Sahara"
+  },
+  {
+   "id": "y0163",
+   "kind": "fact",
+   "title": "Nil und Amazonas streiten um den Titel des längsten Flusses der Welt",
+   "text": "Je nachdem, wo genau Quelle und Mündung eines Flusses angesetzt werden, gilt mal der Nil, mal der Amazonas als der längere. Neuere Vermessungen des Amazonas-Quellgebiets sorgen bis heute für hitzige Debatten unter Geografinnen und Geografen.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Nil"
+  },
+  {
+   "id": "y0164",
+   "kind": "know",
+   "title": "Der tiefste Punkt an Land liegt unter dem Meeresspiegel",
+   "text": "Das Tote Meer zwischen Israel und Jordanien liegt auf rund 430 Metern unter dem Meeresspiegel und sinkt durch Wasserentnahme jedes Jahr weiter ab. Wegen des extrem hohen Salzgehalts kann dort niemand untergehen, selbst ohne schwimmen zu können.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Totes Meer"
+  },
+  {
+   "id": "y0165",
+   "kind": "random",
+   "title": "Es gibt eine Stadt, die auf zwei Kontinenten gleichzeitig liegt",
+   "text": "Istanbul erstreckt sich über den Bosporus hinweg, sodass ein Teil der Stadt in Europa und der andere in Asien liegt. Mehrere Brücken und ein Unterwassertunnel verbinden die beiden Stadthälften täglich für Millionen Pendler.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Istanbul"
+  },
+  {
+   "id": "y0166",
+   "kind": "fact",
+   "title": "Chile ist über 4.300 Kilometer lang, aber im Schnitt nur rund 180 Kilometer breit",
+   "text": "Das Land erstreckt sich fast über die gesamte Westküste Südamerikas und umfasst dadurch extrem unterschiedliche Klimazonen, von der trockensten Wüste der Welt bis zu Gletschern in Patagonien. Ein Auto bräuchte für die reine Nord-Süd-Strecke mehrere Tage Fahrzeit.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Chile"
+  },
+  {
+   "id": "y0167",
+   "kind": "know",
+   "title": "Der Amazonas-Regenwald produziert schätzungsweise ein Fünftel des weltweiten Sauerstoffs",
+   "text": "Wegen seiner enormen Fläche und Photosyntheseleistung trägt der Regenwald erheblich zum globalen Sauerstoffkreislauf bei, wenn auch der oft zitierte Beiname 'Lunge der Erde' wissenschaftlich umstritten ist, weil der Wald selbst auch viel Sauerstoff verbraucht. Trotzdem gilt er als einer der wichtigsten CO2-Speicher des Planeten.",
+   "topics": [
+    "geography",
+    "science",
+    "nature"
+   ],
+   "wiki": "Amazonas-Regenwald"
+  },
+  {
+   "id": "y0168",
+   "kind": "random",
+   "title": "Es gibt einen Grenzpunkt, an dem sich drei Länder in einem einzigen Fluss treffen",
+   "text": "Am Dreiländereck bei Basel berühren sich die Grenzen von Deutschland, Frankreich und der Schweiz nahe dem Rhein fast punktgenau. Ein kleiner Landschaftspark markiert die Stelle, an der man theoretisch mit einem Schritt das Land wechseln kann.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Dreiländereck (Basel)"
+  },
+  {
+   "id": "y0169",
+   "kind": "fact",
+   "title": "Der Mount Everest wächst jedes Jahr ein Stückchen weiter in die Höhe",
+   "text": "Durch die anhaltende Kollision der indischen mit der eurasischen Kontinentalplatte steigt der höchste Berg der Welt um etwa vier Millimeter pro Jahr. Gleichzeitig verschiebt sich der gesamte Himalaya jedes Jahr auch ein Stück in Richtung Nordosten.",
+   "topics": [
+    "geography",
+    "science"
+   ],
+   "wiki": "Mount Everest"
+  },
+  {
+   "id": "y0170",
+   "kind": "know",
+   "title": "Die kleinste international anerkannte Republik der Welt hat weniger Einwohner als ein Dorf",
+   "text": "Nauru im Pazifik zählt nur rund 10.000 Einwohner auf gerade einmal 21 Quadratkilometern Fläche. Früher florierte der Inselstaat durch reiche Phosphatvorkommen, die inzwischen jedoch weitgehend abgebaut sind.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Nauru"
+  },
+  {
+   "id": "y0171",
+   "kind": "random",
+   "title": "Es gibt einen See, dessen Wasser rosa gefärbt ist",
+   "text": "Der Lake Hillier vor der Küste Australiens schimmert durch bestimmte Mikroorganismen und einen hohen Salzgehalt dauerhaft pink, unabhängig vom Wetter. Selbst in einer Flasche abgefüllt behält das Wasser seine ungewöhnliche Farbe.",
+   "topics": [
+    "geography",
+    "nature"
+   ],
+   "wiki": "Lake Hillier"
+  },
+  {
+   "id": "y0172",
+   "kind": "fact",
+   "title": "Grönland ist die größte Insel der Welt, aber politisch Teil Dänemarks",
+   "text": "Mit über zwei Millionen Quadratkilometern ist Grönland flächenmäßig riesig, hat aber nur rund 56.000 Einwohner. Etwa 80 Prozent der Landfläche sind ganzjährig von einem Eispanzer bedeckt.",
+   "topics": [
+    "geography"
+   ],
+   "wiki": "Grönland"
+  },
+  {
+   "id": "y0173",
+   "kind": "know",
+   "title": "Der Ätna gehört zu den aktivsten Vulkanen der Welt und ist trotzdem dicht besiedelt",
+   "text": "Am Fuß des sizilianischen Vulkans leben mehrere hunderttausend Menschen, weil die vulkanische Asche den Boden außergewöhnlich fruchtbar macht. Regelmäßige kleinere Ausbrüche gehören für die Bevölkerung fast zum Alltag.",
+   "topics": [
+    "geography",
+    "history"
+   ],
+   "wiki": "Ätna"
+  },
+  {
+   "id": "y0174",
+   "kind": "science",
+   "title": "Das menschliche Herz schlägt im Laufe eines Lebens über drei Milliarden Mal",
+   "text": "Bei einem Ruhepuls von etwa 70 Schlägen pro Minute kommen über achtzig Jahre gerechnet mehr als drei Milliarden Herzschläge zusammen. Dabei pumpt es genug Blut, um damit rechnerisch mehrere olympische Schwimmbecken zu füllen.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Herz"
+  },
+  {
+   "id": "y0175",
+   "kind": "know",
+   "title": "Fingerabdrücke sind schon vor der Geburt vollständig ausgebildet",
+   "text": "Bereits im sechsten Schwangerschaftsmonat haben sich die feinen Rillenmuster an den Fingerkuppen eines Fötus vollständig festgelegt. Sie verändern sich danach das ganze Leben lang nicht mehr, außer durch Narben oder Verletzungen.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Fingerabdruck"
+  },
+  {
+   "id": "y0176",
+   "kind": "random",
+   "title": "Der menschliche Körper erneuert sein Skelett etwa alle zehn Jahre komplett",
+   "text": "Spezialisierte Zellen bauen ständig altes Knochengewebe ab, während andere neues aufbauen, sodass sich die Zusammensetzung des Skeletts über etwa ein Jahrzehnt vollständig austauscht. Mit zunehmendem Alter verlangsamt sich dieser Umbau allerdings spürbar.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Knochen"
+  },
+  {
+   "id": "y0177",
+   "kind": "fact",
+   "title": "Die Netzhaut im Auge verarbeitet Informationen schneller als jeder heutige Computerchip vergleichbarer Größe",
+   "text": "Schon in der Netzhaut selbst werden Kontraste und Bewegungen vorverarbeitet, bevor das Signal überhaupt das Gehirn erreicht. Forscher versuchen bis heute, diese extrem effiziente Bildverarbeitung in Kamerachips nachzubauen.",
+   "topics": [
+    "body",
+    "science",
+    "tech"
+   ],
+   "wiki": "Netzhaut"
+  },
+  {
+   "id": "y0178",
+   "kind": "know",
+   "title": "Ein Niesen kann Geschwindigkeiten von über 150 km/h erreichen",
+   "text": "Die Luft, die beim Niesen aus Nase und Mund schießt, kann kurzzeitig ähnliche Geschwindigkeiten wie ein starker Sturm erreichen. Tröpfchen werden dabei mehrere Meter weit durch die Luft geschleudert, weshalb sich Erkältungen so leicht verbreiten.",
+   "topics": [
+    "body"
+   ]
+  },
+  {
+   "id": "y0179",
+   "kind": "random",
+   "title": "Menschen können mit geschlossenen Augen kaum lange auf einem Bein stehen",
+   "text": "Das Gleichgewichtssystem im Innenohr braucht zur Orientierung zusätzlich visuelle Informationen von den Augen. Fällt diese Information weg, schwankt selbst ein gesunder Erwachsener nach wenigen Sekunden deutlich stärker.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Gleichgewichtssinn"
+  },
+  {
+   "id": "y0180",
+   "kind": "fact",
+   "title": "Der stärkste Muskel des Körpers im Verhältnis zu seiner Größe sitzt im Kiefer",
+   "text": "Der Kaumuskel kann beim Zubeißen kurzzeitig Kräfte von mehreren hundert Newton aufbringen, bezogen auf sein Gewicht mehr als jeder andere Muskel. Damit lässt sich theoretisch eine Beißkraft erzeugen, die deutlich über dem liegt, was zum Kauen von Essen nötig wäre.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Musculus masseter"
+  },
+  {
+   "id": "y0181",
+   "kind": "know",
+   "title": "Der menschliche Darm ist bei vollständiger Entfaltung länger als ein Bus",
+   "text": "Zusammen mit all seinen Falten und Zotten misst die innere Oberfläche des Dünndarms schätzungsweise 30 bis 40 Quadratmeter, entfaltet man ihn theoretisch flach. Der Darm selbst ist dabei rund sieben bis acht Meter lang.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Darm"
+  },
+  {
+   "id": "y0182",
+   "kind": "random",
+   "title": "Der Körper produziert täglich über einen Liter Speichel",
+   "text": "Speichel enthält Enzyme, die schon im Mund mit der Verdauung von Kohlenhydraten beginnen, lange bevor Essen den Magen erreicht. Er schützt außerdem den Zahnschmelz und hilft, Wunden im Mund schneller heilen zu lassen.",
+   "topics": [
+    "body",
+    "science"
+   ]
+  },
+  {
+   "id": "y0183",
+   "kind": "fact",
+   "title": "Ein durchschnittlicher Wimpernschlag dauert nur etwa 100 bis 150 Millisekunden",
+   "text": "Trotz dieser kurzen Zeit blinzeln Menschen im Schnitt 15 bis 20 Mal pro Minute, was sich über einen Tag zu mehreren Stunden 'geschlossener Augen' summiert. Der Reflex hält die Augenoberfläche feucht und schützt sie vor Staub.",
+   "topics": [
+    "body"
+   ],
+   "wiki": "Lidschlag"
+  },
+  {
+   "id": "y0184",
+   "kind": "know",
+   "title": "Muskelkater entsteht durch winzige Risse im Muskelgewebe, nicht durch Milchsäure",
+   "text": "Lange hielt sich der Mythos, angesammelte Milchsäure verursache den Schmerz nach ungewohnter Belastung. Heute weiß man, dass mikroskopisch kleine Risse in den Muskelfasern und die folgende Entzündungsreaktion die eigentliche Ursache sind.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Muskelkater"
+  },
+  {
+   "id": "y0185",
+   "kind": "random",
+   "title": "Beim Gähnen wird das Gehirn messbar besser mit Sauerstoff versorgt",
+   "text": "Der tiefe Atemzug beim Gähnen erhöht kurzfristig den Sauerstoffgehalt im Blut und kühlt zugleich das Gehirn leicht ab. Warum Gähnen zwischen Menschen so ansteckend wirkt, ist bis heute nicht abschließend geklärt.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Gähnen"
+  },
+  {
+   "id": "y0186",
+   "kind": "fact",
+   "title": "Zähne sind der einzige Körperteil, der sich nach einer Verletzung nicht von selbst heilt",
+   "text": "Anders als Knochen oder Haut kann sich der harte Zahnschmelz nicht regenerieren, sobald er einmal beschädigt ist. Zahnmedizinische Füllungen sind deshalb ein rein künstlicher Ersatz für Gewebe, das der Körper selbst nicht nachbilden kann.",
+   "topics": [
+    "body",
+    "science"
+   ],
+   "wiki": "Zahnschmelz"
+  },
+  {
+   "id": "y0187",
+   "kind": "know",
+   "title": "Ein einzelner Mammutbaum kann über 2.000 Jahre alt werden",
+   "text": "Der älteste bekannte Riesenmammutbaum in Kalifornien wird auf etwa 3.200 Jahre geschätzt und war damit schon ausgewachsen, als in Ägypten die letzten Pharaonen regierten. Die dicke, faserige Rinde schützt ihn dabei erstaunlich gut vor Waldbränden.",
+   "topics": [
+    "nature"
+   ],
+   "wiki": "Riesenmammutbaum"
+  },
+  {
+   "id": "y0188",
+   "kind": "fact",
+   "title": "Bäume in einem Wald tauschen über ihre Wurzeln Nährstoffe miteinander aus",
+   "text": "Über ein feines Netz aus Pilzfäden, das sogenannte Mykorrhiza-Netzwerk, können Bäume Zucker und Warnsignale vor Schädlingen an Nachbarbäume weitergeben. Manche Forstforscher bezeichnen dieses Netzwerk deshalb scherzhaft als 'Wood Wide Web'.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Mykorrhiza"
+  },
+  {
+   "id": "y0189",
+   "kind": "random",
+   "title": "Manche Wüstenpflanzen überleben, indem sie fast nie Wasser verbrauchen",
+   "text": "Die Welwitschia in der Namib-Wüste kann über 1.000 Jahre alt werden und deckt einen Großteil ihres Wasserbedarfs allein über Nebeltröpfchen, die sich auf ihren zwei riesigen Blättern sammeln. Ihr gesamtes Leben lang wächst sie mit nur diesen zwei Blättern.",
+   "topics": [
+    "nature"
+   ],
+   "wiki": "Welwitschia"
+  },
+  {
+   "id": "y0190",
+   "kind": "know",
+   "title": "Ein einziger großer Baum verdunstet an einem heißen Sommertag mehrere hundert Liter Wasser",
+   "text": "Über die Blätter transpiriert ein ausgewachsener Baum je nach Art und Wetter täglich 100 bis über 400 Liter Wasser, das er zuvor über die Wurzeln aufgenommen hat. Dieser Effekt kühlt die Umgebungsluft messbar ab, weshalb Städte gezielt mehr Bäume pflanzen.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Transpiration (Pflanze)"
+  },
+  {
+   "id": "y0191",
+   "kind": "random",
+   "title": "Es gibt eine Pflanze, die messbar auf Berührung reagiert und sich zusammenfaltet",
+   "text": "Die Mimose klappt ihre gefiederten Blätter innerhalb weniger Sekunden nach einer Berührung zusammen, ausgelöst durch einen schnellen Wasserdruckabfall in speziellen Gelenkzellen. Manche Forscher vermuten dahinter einen Schutzmechanismus gegen Fressfeinde.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Mimosa pudica"
+  },
+  {
+   "id": "y0192",
+   "kind": "fact",
+   "title": "Regenwälder bedecken kaum Landfläche, tragen aber die halbe Artenvielfalt der Erde",
+   "text": "Auf einem einzigen Hektar tropischen Regenwalds können mehr Baumarten wachsen als in ganz Europa und Nordamerika zusammen. Trotz ihrer geringen Fläche gelten sie deshalb als die artenreichsten Ökosysteme der Erde.",
+   "topics": [
+    "nature",
+    "geography",
+    "science"
+   ],
+   "wiki": "Regenwald"
+  },
+  {
+   "id": "y0193",
+   "kind": "know",
+   "title": "Manche Samen können jahrzehntelang im Boden überdauern, bevor sie keimen",
+   "text": "Nach Waldbränden oder Erdarbeiten keimen mitunter Pflanzen, deren Samen seit Jahrzehnten im Boden ruhten und erst durch Hitze oder Licht aktiviert wurden. Der Rekord für erfolgreich gekeimte, jahrtausendealte Samen liegt bei einer Dattelpalme aus einem 2.000 Jahre alten Fund in Israel.",
+   "topics": [
+    "nature",
+    "science",
+    "history"
+   ],
+   "wiki": "Samenruhe"
+  },
+  {
+   "id": "y0194",
+   "kind": "random",
+   "title": "Es gibt eine Blume, die nach verwesendem Fleisch riecht, um Fliegen anzulocken",
+   "text": "Die Titanwurz blüht nur alle paar Jahre für kurze Zeit und verströmt dabei einen intensiven Aasgeruch, um Aasfliegen als Bestäuber anzuziehen. Ihr Blütenstand gehört mit bis zu drei Metern Höhe zu den größten der Pflanzenwelt.",
+   "topics": [
+    "nature",
+    "weird"
+   ],
+   "wiki": "Titanwurz"
+  },
+  {
+   "id": "y0195",
+   "kind": "fact",
+   "title": "Ein Gletscher bewegt sich, auch wenn er komplett aus Eis besteht",
+   "text": "Unter dem enormen Gewicht des aufliegenden Eises verformt sich Gletschereis langsam wie eine sehr zähe Flüssigkeit und fließt talwärts, oft nur wenige Zentimeter bis Meter pro Tag. Manche besonders schnelle Gletscher in Grönland legen dagegen mehrere Meter am Tag zurück.",
+   "topics": [
+    "nature",
+    "science",
+    "geography"
+   ],
+   "wiki": "Gletscher"
+  },
+  {
+   "id": "y0196",
+   "kind": "know",
+   "title": "Manche Bambusarten wachsen fast einen Meter am Tag",
+   "text": "Unter idealen Bedingungen aus Wärme und Feuchtigkeit kann sich ein Bambushalm um bis zu 90 Zentimeter pro Tag strecken, das schnellste bekannte Pflanzenwachstum überhaupt. Bei manchen Arten wird der Zuwachs sogar innerhalb weniger Stunden mit bloßem Auge sichtbar.",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "wiki": "Bambus"
+  },
+  {
+   "id": "y0197",
+   "kind": "random",
+   "title": "Manche Pilznetzwerke im Boden zählen zu den größten Lebewesen der Erde",
+   "text": "Ein einzelner Hallimasch-Pilz im US-Bundesstaat Oregon erstreckt sich unterirdisch über eine Fläche von rund neun Quadratkilometern und wird auf mehrere tausend Jahre Alter geschätzt. Oberirdisch sieht man von diesem Riesenorganismus meist nur einzelne kleine Fruchtkörper.",
+   "topics": [
+    "nature",
+    "weird",
+    "science"
+   ],
+   "wiki": "Hallimasch"
+  },
+  {
+   "id": "y0198",
+   "kind": "random",
+   "title": "In Norwegen steht eine über zehn Meter hohe Elch-Statue mitten im Nirgendwo",
+   "text": "'Storelgen' bei Atna wurde 2015 als Rastplatz-Attraktion für die lange Fernstraße zwischen Oslo und Trondheim aufgestellt und ist mit poliertem Edelstahl verkleidet. Mit rund 10,3 Metern Höhe gilt sie als eine der größten Elch-Skulpturen der Welt.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "The Big Elk"
+  },
+  {
+   "id": "y0199",
+   "kind": "random",
+   "title": "Es gibt einen Wettbewerb, bei dem Menschen um die Wette ihr Gesicht verziehen",
+   "text": "Beim traditionellen 'Gurning' im englischen Egremont treten Teilnehmer seit Jahrhunderten mit den bizarrsten Grimassen gegeneinander an, oft durch einen Pferdekragen gerahmt. Manche Teilnehmer nehmen sogar ihre Zähne heraus, um noch extremere Verformungen zu erreichen.",
+   "topics": [
+    "weird",
+    "history"
+   ],
+   "wiki": "Gurning"
+  },
+  {
+   "id": "y0200",
+   "kind": "know",
+   "title": "In Finnland gibt es eine offizielle Weltmeisterschaft im Handy-Weitwurf",
+   "text": "Beim 'Mobile Phone Throwing' werfen Teilnehmer ausgediente Mobiltelefone möglichst weit, ursprünglich als ironischer Protest gegen den technikgetriebenen Alltag. Es gibt sogar eine Kategorie für die kreativste Wurftechnik.",
+   "topics": [
+    "weird",
+    "sports"
+   ]
+  },
+  {
+   "id": "y0201",
+   "kind": "random",
+   "title": "Manche Seen wechseln je nach Jahreszeit komplett ihre Farbe",
+   "text": "Der Hillier-See in Australien bleibt zwar dauerhaft pink, doch andere Salzseen wie manche in der Krim wandeln sich zwischen Rosa, Rot und Türkis, je nach Wassertemperatur und Algenkonzentration. Ursache sind mikroskopisch kleine Organismen, die auf Salzgehalt und Licht reagieren.",
+   "topics": [
+    "weird",
+    "nature"
+   ]
+  },
+  {
+   "id": "y0202",
+   "kind": "know",
+   "title": "Ein japanischer Bahnhof blieb jahrelang nur für eine einzige Schülerin geöffnet",
+   "text": "Die Bahngesellschaft plante die kaum genutzte Station Kyū-Shirataki eigentlich zu schließen, verschob dies aber, bis die letzte tägliche Fahrgästin ihren Schulabschluss gemacht hatte. Erst nach ihrem letzten Schultag im Jahr 2016 wurde der Halt offiziell stillgelegt.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "Kyū-Shirataki"
+  },
+  {
+   "id": "y0203",
+   "kind": "random",
+   "title": "In Japan gibt es Cafés, in denen man neben Kaffee auch Eulen streicheln kann",
+   "text": "In sogenannten Eulen-Cafés sitzen die Vögel auf Stangen im Raum, während Gäste bei ihrem Getränk zusehen und die Tiere unter Anleitung berühren dürfen. Tierschutzorganisationen kritisieren solche Cafés zunehmend wegen des Stresses für die nachtaktiven Tiere.",
+   "topics": [
+    "weird",
+    "animals"
+   ]
+  },
+  {
+   "id": "y0204",
+   "kind": "know",
+   "title": "Manche Höhlen leuchten von selbst durch biolumineszente Würmer",
+   "text": "In den Waitomo-Höhlen in Neuseeland erzeugen die Larven einer heimischen Mückenart bläuliches Licht, um Beute anzulocken – zusammen sehen sie an der Höhlendecke wie ein Sternenhimmel aus. Besucher fahren in stillen Booten unter dieser lebendigen Lichtdecke hindurch.",
+   "topics": [
+    "weird",
+    "animals",
+    "nature"
+   ],
+   "wiki": "Waitomo-Höhlen"
+  },
+  {
+   "id": "y0205",
+   "kind": "random",
+   "title": "Es gibt eine Insel, die offiziell niemandem gehört",
+   "text": "Bir Tawil zwischen Ägypten und Sudan ist eines der letzten Gebiete der Welt, das kein Land beansprucht, weil beide Staaten lieber ein benachbartes, ressourcenreicheres Gebiet für sich reklamieren. Vereinzelte Abenteurer haben dort bereits scherzhaft eigene Mikronationen ausgerufen.",
+   "topics": [
+    "weird",
+    "geography"
+   ],
+   "wiki": "Bir Tawil"
+  },
+  {
+   "id": "y0206",
+   "kind": "know",
+   "title": "In manchen Ländern ist es üblich, Brautpaare mit Reis, aber traditionell auch mit Fisch zu bewerfen",
+   "text": "In Teilen Skandinaviens warfen Hochzeitsgäste früher getrocknete Fischreste statt Reis, als Symbol für Fruchtbarkeit und einen vollen Vorratsspeicher. Der heute verbreitete Reisregen setzte sich erst im 20. Jahrhundert international durch.",
+   "topics": [
+    "weird",
+    "history"
+   ]
+  },
+  {
+   "id": "y0207",
+   "kind": "random",
+   "title": "Manche Wüsten singen tatsächlich, wenn Wind über sie streicht",
+   "text": "An bestimmten Dünen in der Sahara oder in Chile erzeugt rutschender Sand unter besonderen Bedingungen einen tiefen, brummenden Ton, der kilometerweit zu hören sein kann. Forscher erklären den Effekt mit synchron schwingenden Sandkörnern in den obersten Dünenschichten.",
+   "topics": [
+    "weird",
+    "nature",
+    "science"
+   ],
+   "wiki": "Singender Sand"
+  },
+  {
+   "id": "y0209",
+   "kind": "know",
+   "title": "Die erste Computermaus bestand aus Holz",
+   "text": "Douglas Engelbart baute 1964 den Prototyp aus einem einfachen Holzgehäuse mit zwei Metallrädern darunter, verbunden über ein einzelnes Kabel. Den Namen 'Maus' bekam sie, weil das Kabel wie ein Schwanz aus dem Gehäuse ragte.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Computermaus"
+  },
+  {
+   "id": "y0210",
+   "kind": "fact",
+   "title": "Die erste SMS der Geschichte wurde 1992 verschickt und lautete schlicht 'Merry Christmas'",
+   "text": "Der britische Ingenieur Neil Papworth tippte die Nachricht an einem Computer, weil Mobiltelefone damals noch keine Tastatur für Text hatten. Der Empfänger konnte zu diesem Zeitpunkt selbst noch keine SMS zurückschreiben.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Short Message Service"
+  },
+  {
+   "id": "y0211",
+   "kind": "know",
+   "title": "Ein Smartphone übertrifft den Bordcomputer der Mondlandung um ein Vielfaches",
+   "text": "Der Apollo Guidance Computer arbeitete mit einer Taktfrequenz von etwa 2 Megahertz und wenigen Kilobyte Speicher. Ein aktuelles Smartphone übertrifft das um mehrere Größenordnungen, obwohl es meist nur in der Hosentasche steckt.",
+   "topics": [
+    "tech",
+    "space",
+    "history"
+   ],
+   "wiki": "Apollo Guidance Computer"
+  },
+  {
+   "id": "y0212",
+   "kind": "random",
+   "title": "Die erste registrierte Domain im Internet ist noch heute aktiv",
+   "text": "Symbolics.com wurde 1985 von einem inzwischen aufgelösten Computerhersteller registriert und existiert bis heute, allerdings längst in anderer Hand. Domains mit .com folgten damals einem noch ganz neuen Adressierungssystem.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Domain Name System"
+  },
+  {
+   "id": "y0213",
+   "kind": "know",
+   "title": "Glasfaserkabel übertragen Daten fast mit Lichtgeschwindigkeit über tausende Kilometer",
+   "text": "Innerhalb der Glasfaser bewegt sich das Licht zwar etwas langsamer als im Vakuum, erreicht aber immer noch über 200.000 Kilometer pro Sekunde. Unterseekabel verbinden auf diese Weise ganze Kontinente miteinander und tragen den Großteil des weltweiten Internetverkehrs.",
+   "topics": [
+    "tech",
+    "science"
+   ],
+   "wiki": "Lichtwellenleiter"
+  },
+  {
+   "id": "y0214",
+   "kind": "fact",
+   "title": "Der erste funktionierende Computerbildschirm zeigte nur grüne Schrift auf schwarzem Grund",
+   "text": "Frühe Monitore nutzten Phosphor-Beschichtungen, die beim Beschuss mit Elektronen grün statt weiß leuchteten, weil das für das Auge am angenehmsten war. Farbmonitore für den breiten Massenmarkt setzten sich erst deutlich später durch.",
+   "topics": [
+    "tech",
+    "history"
+   ],
+   "wiki": "Monochrommonitor"
+  },
+  {
+   "id": "y0215",
+   "kind": "random",
+   "title": "Ein einzelnes Google-Suchergebnis verbraucht kaum mehr Energie als eine LED-Lampe für wenige Sekunden",
+   "text": "Trotz gewaltiger Rechenzentren im Hintergrund liegt der Energieverbrauch einer typischen Suchanfrage im Bereich weniger Wattsekunden, deutlich weniger als etwa das Kochen eines Wasserkessels. Der weltweite Energiebedarf von Rechenzentren insgesamt ist trotzdem enorm, weil Milliarden Anfragen täglich zusammenkommen.",
+   "topics": [
+    "tech"
+   ]
+  },
+  {
+   "id": "y0216",
+   "kind": "know",
+   "title": "USB-Sticks verdrängten Disketten innerhalb weniger Jahre fast vollständig",
+   "text": "Während eine klassische 3,5-Zoll-Diskette gerade einmal 1,44 Megabyte fasste, boten frühe USB-Sticks ab den 2000er-Jahren schon ein Vielfaches davon bei deutlich kleinerer Bauform. Manche Computerhersteller bauten schon wenige Jahre später gar keine Diskettenlaufwerke mehr ein.",
+   "topics": [
+    "tech",
+    "history"
+   ]
+  },
+  {
+   "id": "y0217",
+   "kind": "fact",
+   "title": "Ein Blitz ist etwa fünfmal so heiß wie die Oberfläche der Sonne",
+   "text": "Die Temperatur in einem Blitzkanal kann kurzzeitig auf über 27.000 Grad Celsius steigen. Diese extreme Hitze lässt die umgebende Luft explosionsartig ausdehnen, was den Donner erzeugt.",
+   "topics": [
+    "science",
+    "weird"
+   ],
+   "wiki": "Blitz"
+  },
+  {
+   "id": "y0218",
+   "kind": "science",
+   "title": "Wasser kann gleichzeitig kochen und gefrieren",
+   "text": "Am sogenannten Tripelpunkt herrschen Druck und Temperatur so exakt austariert, dass festes, flüssiges und gasförmiges Wasser gleichzeitig nebeneinander bestehen können. Für reines Wasser liegt dieser Punkt bei etwa 0,01 Grad Celsius und sehr niedrigem Druck.",
+   "topics": [
+    "science"
+   ],
+   "wiki": "Tripelpunkt"
+  },
+  {
+   "id": "y0219",
+   "kind": "know",
+   "title": "Der menschliche Körper enthält genug Kohlenstoff für tausende Bleistiftminen",
+   "text": "Rund 18 Prozent der Körpermasse eines Menschen bestehen aus Kohlenstoff, dem Grundbaustein aller organischen Verbindungen. Chemisch betrachtet besteht ein Mensch damit aus denselben Elementen wie viele alltägliche Materialien, nur völlig anders angeordnet.",
+   "topics": [
+    "science",
+    "body"
+   ]
+  },
+  {
+   "id": "y0220",
+   "kind": "random",
+   "title": "Reines Gold ist so weich, dass man es mit den Zähnen eindrücken kann",
+   "text": "Auf der Mohs-Härteskala erreicht Gold nur einen Wert von etwa 2,5 bis 3, ähnlich wie ein Fingernagel. Deshalb wird Schmuckgold fast immer mit härteren Metallen wie Kupfer oder Silber legiert, bevor es verarbeitet wird.",
+   "topics": [
+    "science",
+    "weird"
+   ],
+   "wiki": "Gold"
+  },
+  {
+   "id": "y0221",
+   "kind": "fact",
+   "title": "Die Cheops-Pyramide war über 3.800 Jahre lang das höchste Bauwerk der Menschheit",
+   "text": "Mit ursprünglich rund 146 Metern Höhe hielt sie diesen Rekord von ihrer Fertigstellung um 2560 vor Christus bis zum Bau der Kathedrale von Lincoln im 14. Jahrhundert. Kein anderes Bauwerk der Geschichte konnte einen Höhenrekord annähernd so lange verteidigen.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Cheops-Pyramide"
+  },
+  {
+   "id": "y0222",
+   "kind": "history",
+   "title": "Der Zweite Weltkrieg endete in Europa und Asien an unterschiedlichen Tagen",
+   "text": "Während die Kapitulation in Europa am 8. Mai 1945 unterzeichnet wurde, kämpfte Japan noch bis zur offiziellen Kapitulation am 2. September desselben Jahres weiter. Zwischen beiden Daten liegen damit fast vier weitere Kriegsmonate im Pazifik.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Zweiter Weltkrieg"
+  },
+  {
+   "id": "y0223",
+   "kind": "know",
+   "title": "Das Kolosseum in Rom konnte innerhalb weniger Minuten komplett geflutet werden",
+   "text": "Über ein ausgeklügeltes System aus Kanälen ließen die Römer bei besonderen Anlässen Wasser in die Arena strömen, um dort nachgestellte Seeschlachten aufzuführen. Diese sogenannten Naumachien zählten zu den aufwendigsten Unterhaltungsformen der Antike.",
+   "topics": [
+    "history"
+   ],
+   "wiki": "Kolosseum"
   }
  ]
 }
