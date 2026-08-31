@@ -1,5 +1,6 @@
 package com.gravijet.daydrop
 
+import com.gravijet.daydrop.data.local.ContentRepository
 import com.gravijet.daydrop.data.model.DropType
 import com.gravijet.daydrop.data.model.Slot
 import com.gravijet.daydrop.data.remote.HistoryEvent
@@ -9,12 +10,31 @@ import com.gravijet.daydrop.data.remote.WikiArticle
 import com.gravijet.daydrop.domain.CARDS_PER_DAY
 import com.gravijet.daydrop.domain.DropGenerator
 import kotlinx.coroutines.runBlocking
+import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.buildJsonObject
+import kotlinx.serialization.json.jsonObject
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull
 import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
 import org.junit.Test
+import java.io.File
 import java.time.LocalDate
+
+/** Same shipped content as [testContent], minus one key in days.json. */
+private fun contentWithDayRemoved(missingKey: String): ContentRepository {
+    val json = Json { ignoreUnknownKeys = true }
+    return ContentRepository { path ->
+        val raw = File("src/main/assets/$path").readText()
+        if (path != "content/days.json") return@ContentRepository raw
+        val days = json.parseToJsonElement(raw).jsonObject["days"]!!.jsonObject
+        buildJsonObject {
+            put("days", buildJsonObject {
+                days.forEach { (key, value) -> if (key != missingKey) put(key, value) }
+            })
+        }.toString()
+    }
+}
 
 /** Wikipedia stand-in so the tests never touch the network. */
 private class FakeWiki(
@@ -174,15 +194,18 @@ class DropGeneratorTest {
 
     @Test
     fun `wikipedia fills in a day the calendar does not cover`() = runBlocking {
-        val uncovered = (1..28)
-            .map { LocalDate.of(2026, 6, it) }
-            .first { "%02d-%02d".format(it.monthValue, it.dayOfMonth) !in content.days }
+        // The curated calendar is now complete (366 of 366 days), so no real
+        // date is naturally uncovered - punch a hole in a copy of the content
+        // for just this test instead, to keep exercising the fallback path.
+        val missing = "06-15"
+        val gappedContent = contentWithDayRemoved(missing)
+        val uncovered = LocalDate.of(2026, 6, 15)
 
-        val offline = generator().buildOffline(uncovered, emptySet(), emptySet())
+        val offline = DropGenerator(gappedContent, NoRemote).buildOffline(uncovered, emptySet(), emptySet())
         assertTrue(offline.none { it.type == DropType.TODAY_IS })
 
         val remote = FakeWiki(holidays = listOf("Tag der Testabdeckung in Absurdistan"))
-        val enriched = generator(remote).enrich(uncovered, offline, emptySet())
+        val enriched = DropGenerator(gappedContent, remote).enrich(uncovered, offline, emptySet())
         val today = enriched.first { it.type == DropType.TODAY_IS }
         assertEquals("Tag der Testabdeckung in Absurdistan", today.title)
     }
