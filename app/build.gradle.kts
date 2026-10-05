@@ -18,16 +18,16 @@ android {
         vectorDrawables.useSupportLibrary = true
     }
 
-    // The release key lives in the repo so that every build - local or CI -
-    // produces an APK that installs over the previous one. CI may override it
-    // by exporting DAYDROP_KEYSTORE / DAYDROP_KEYSTORE_PASSWORD /
-    // DAYDROP_KEY_ALIAS / DAYDROP_KEY_PASSWORD.
-    signingConfigs {
-        create("release") {
-            storeFile = file(System.getenv("DAYDROP_KEYSTORE") ?: "daydrop-release.jks")
-            storePassword = System.getenv("DAYDROP_KEYSTORE_PASSWORD") ?: "daydrop"
-            keyAlias = System.getenv("DAYDROP_KEY_ALIAS") ?: "daydrop"
-            keyPassword = System.getenv("DAYDROP_KEY_PASSWORD") ?: "daydrop"
+    val releaseKeystore = System.getenv("DAYDROP_KEYSTORE")
+    val hasReleaseKeystore = !releaseKeystore.isNullOrBlank()
+    if (hasReleaseKeystore) {
+        signingConfigs {
+            create("release") {
+                storeFile = file(releaseKeystore!!)
+                storePassword = requireNotNull(System.getenv("DAYDROP_KEYSTORE_PASSWORD"))
+                keyAlias = requireNotNull(System.getenv("DAYDROP_KEY_ALIAS"))
+                keyPassword = requireNotNull(System.getenv("DAYDROP_KEY_PASSWORD"))
+            }
         }
     }
 
@@ -36,7 +36,7 @@ android {
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
-            signingConfig = signingConfigs.getByName("release")
+            if (hasReleaseKeystore) signingConfig = signingConfigs.getByName("release")
         }
         debug {
             applicationIdSuffix = ".debug"
