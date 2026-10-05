@@ -68,8 +68,27 @@ jobs:
         if: steps.plan.outputs.publish == 'true'
         run: ./gradlew testDebugUnitTest
 
+      - name: Configure release signing
+        if: steps.plan.outputs.publish == 'true'
+        env:
+          KEYSTORE_BASE64: ${{ secrets.DAYDROP_KEYSTORE_BASE64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.DAYDROP_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.DAYDROP_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.DAYDROP_KEY_PASSWORD }}
+        run: |
+          test -n "$KEYSTORE_BASE64" && test -n "$KEYSTORE_PASSWORD" && test -n "$KEY_ALIAS" && test -n "$KEY_PASSWORD" || {
+            echo "Configure the DAYDROP signing secrets before publishing."
+            exit 1
+          }
+          printf '%s' "$KEYSTORE_BASE64" | base64 --decode > "$RUNNER_TEMP/daydrop-release.jks"
+
       - name: Build signed release APK
         if: steps.plan.outputs.publish == 'true'
+        env:
+          DAYDROP_KEYSTORE: ${{ runner.temp }}/daydrop-release.jks
+          DAYDROP_KEYSTORE_PASSWORD: ${{ secrets.DAYDROP_KEYSTORE_PASSWORD }}
+          DAYDROP_KEY_ALIAS: ${{ secrets.DAYDROP_KEY_ALIAS }}
+          DAYDROP_KEY_PASSWORD: ${{ secrets.DAYDROP_KEY_PASSWORD }}
         run: ./gradlew assembleRelease
 
       - name: Publish the release
